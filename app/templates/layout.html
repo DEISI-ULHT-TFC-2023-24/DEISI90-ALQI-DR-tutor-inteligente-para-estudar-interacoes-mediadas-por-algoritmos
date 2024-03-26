@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+{% load static %}
+
+<html lang="" style="background:grey">
+<head>
+    <meta charset="UTF-8">
+    <title>Edu-News</title>
+    {% load static %}
+    <link rel="stylesheet" href={% static 'css/styles.css' %}>
+
+    {% load static %}
+    <link rel="stylesheet" href={% static 'css/dropdown.css' %}>
+
+</head>
+
+<!-- >
+
+< -->
+<body>
+<nav class="navbar" style="">
+    <div class="navbar-brand">
+        <a href="/" class="navbar-item" style="float: left">Edu-News</a>
+        <div>
+            <div class="dropdown">
+                <button class="dropbtn" onclick="myFunction()">Notícias
+                    <i> &#8595;</i>
+                </button>
+                <div class="dropdown-content" id="myDropdown">
+                    <a class="" style=" position: static"
+                       href={% url 'index' %}><strong>Últimas</strong></a>
+                    <a class="" style=" position: static"
+                       href={% url 'index' %}><strong>País</strong></a>
+                    <a class="" style=" position: static"
+                       href={% url 'index' %}><strong>Mundo</strong></a>
+                </div>
+            </div>
+
+
+            <script>
+                /* When the user clicks on the button,
+                toggle between hiding and showing the dropdown content */
+                function myFunction() {
+                    document.getElementById("myDropdown").classList.toggle("show");
+                }
+
+                // Close the dropdown if the user clicks outside of it
+                window.onclick = function (e) {
+                    if (!e.target.matches('.dropbtn')) {
+                        const myDropdown = document.getElementById("myDropdown");
+                        if (myDropdown.classList.contains('show')) {
+                            myDropdown.classList.remove('show');
+                        }
+                    }
+                }
+            </script>
+
+
+            <a class="navbar-item" style="left:180%" href={% url 'index' %}><strong>Educacao</strong></a>
+
+            <a class="navbar-item" style="left:180%" href={% url 'index' %}><strong>Licenciatura</strong></a>
+
+
+
+
+
+        </div>
+
+    </div>
+</nav>
+
+<section class="section" style="background: white">
+    <div class="container">
+        {% block content %}
+        {% endblock %}
+    </div>
+</section>
+
+
+</body>
+</html>
