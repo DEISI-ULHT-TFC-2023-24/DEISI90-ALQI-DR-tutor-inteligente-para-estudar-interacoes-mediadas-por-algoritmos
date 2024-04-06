@@ -1,4 +1,5 @@
 from django.db import models
+from django.db.models import SET_DEFAULT
 
 
 # Create your models here.
@@ -13,7 +14,7 @@ class Source(models.Model):
 
 class Content(models.Model):
     content_id = models.AutoField(primary_key=True)
-    content_source_id = models.IntegerField()
+    content_source_id = models.TextField()
     content_headline = models.TextField(max_length=300)
     content_source = models.TextField(max_length=50)
     content_url = models.TextField(max_length=400)
@@ -37,7 +38,7 @@ class Category(models.Model):
 
 class Thread(models.Model):
     thread_id = models.AutoField(primary_key=True)
-    content_id = models.IntegerField()
+    content_id = models.TextField()
     thread_response = models.TextField(max_length=300)
 
     def __str__(self):

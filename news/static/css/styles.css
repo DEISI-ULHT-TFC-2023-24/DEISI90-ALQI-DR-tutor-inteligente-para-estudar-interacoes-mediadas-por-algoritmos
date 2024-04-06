@@ -1796,9 +1796,13 @@ fieldset[disabled] .button {
   justify-content: center; /* Add this to center the container */
 }
 
+#flex_container1 {
+    flex-direction: row;
+}
+
 .container {
-  width: 200px; /* You can adjust this width as needed */
-  height: 200px; /* You can adjust this height as needed */
+  width: auto; /* You can adjust this width as needed */
+  height: auto; /* You can adjust this height as needed */
   background-color: #f0f0f0;
   border-radius: 10px;
   overflow: hidden;
