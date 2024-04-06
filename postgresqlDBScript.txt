@@ -1,0 +1,45 @@
+drop table news_content ;
+drop table news_source ;
+drop table news_category ;
+drop table news_thread;
+
+-- Create news_source table
+CREATE TABLE news_source (
+    source_id SERIAL PRIMARY KEY,
+    source_url TEXT,
+    source_trust_rating FLOAT,
+    source_name TEXT 
+);
+-- Create news_category table
+CREATE TABLE news_category (
+    category_id SERIAL PRIMARY KEY,
+    category_label TEXT ,
+    category_code TEXT 
+);
+
+-- Create news_content table
+CREATE TABLE news_content (
+    content_id SERIAL PRIMARY KEY,
+    content_source_id INT ,
+    content_headline TEXT,
+    content_source TEXT ,
+    content_url TEXT ,
+    content_category INT ,
+    content_text TEXT ,
+    content_image TEXT,
+    content_date DATE,
+    FOREIGN KEY (content_source_id) REFERENCES news_source(source_id),
+    FOREIGN KEY (content_category) REFERENCES news_category(category_id)
+);
+
+
+
+-- Create news_thread table
+CREATE TABLE news_thread (
+    thread_id SERIAL PRIMARY KEY,
+    content_id INT,
+    thread_response text,
+    foreign key (content_id) references news_content(content_id)
+);
+
+
