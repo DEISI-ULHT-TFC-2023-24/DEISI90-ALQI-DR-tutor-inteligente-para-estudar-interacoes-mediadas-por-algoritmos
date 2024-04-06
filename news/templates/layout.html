@@ -1,14 +1,16 @@
 <!DOCTYPE html>
 {% load static %}
 
-<html lang="" style="width: 100%; height: 100%;background-color: #070607">
+<html lang="" style="width: 100%; height: 100%;background-color: #070607;padding-top: 0.5%">
 <head>
     <meta charset="UTF-8">
     <title>Edu-News</title>
     <style>
         body {
             color: black;
+            font-family: "STIX Two Text", sans-serif;;
         }
+
 
         .container {
             overflow-wrap: break-word;
@@ -61,22 +63,23 @@
 
 < -->
 <body style="">
-<nav class="navbar">
-    <div class="flex-container">
-        <a href="/" class="navbar-item" style="float: left;font-size: 150%;color: #dddddd">Edu-News</a>
+<nav class="navbar" style="padding-top: 0.3%">
+    <div class="flex-container" style="padding-left: 15%;padding-right: 15%">
+        <a href="/" class="navbar-item" style="float: left;font-size: 150%;color: #dddddd; border-radius: 10px">Edu-News</a>
         <div class="dropdown">
-            <button class="dropbtn" onclick="myFunction()">Notícias
-                <i> &#8595;</i>
+            <button class="dropbtn" style="border-radius: 10px" onclick="myFunction()">Notícias
             </button>
             <div class="dropdown-content" id="myDropdown">
-                <a class=""  style=" position: static"
+                <a class=""  style="position: static; border-radius: 10px"
                    href={% url 'index' %}><strong>Últimas</strong></a>
-                <a class=""  style=" position: static"
+                <a class=""  style="position: static; border-radius: 10px"
                    href={% url 'index' %}><strong>País</strong></a>
-                <a class="" style=" position: static"
+                <a class="" style="position: static; border-radius: 10px"
                    href={% url 'index' %}><strong>Mundo</strong></a>
             </div>
         </div>
+
+
 
 
         <script>
@@ -98,15 +101,15 @@
         </script>
 
 
-        <a class="navbar-item" style="left:180%" href={% url 'index' %}><strong>Educacao</strong></a>
+        <a class="navbar-item" style="left:180%; border-radius: 10px" href={% url 'index' %}><strong>Educacao</strong></a>
 
-        <a class="navbar-item" style="left:180%" href={% url 'index' %}><strong>Licenciatura</strong></a>
+        <a class="navbar-item" style="left:180%; border-radius: 10px" href={% url 'index' %}><strong>Licenciatura</strong></a>
 
 
     </div>
 </nav>
 <hr>
-<section class="section" style="padding-left: 25%;padding-right: 25%">
+<section class="section" style="padding-left: 25%;padding-right: 25%;padding-top: 2%">
     <div class="container2">
         {% block content %}
         {% endblock %}

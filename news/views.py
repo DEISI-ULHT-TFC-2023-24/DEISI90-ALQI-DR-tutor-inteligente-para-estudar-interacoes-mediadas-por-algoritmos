@@ -9,3 +9,4 @@ def index(request):
         "obj": obj
     }
     return render(request, "index.html", context)
+

@@ -6,7 +6,6 @@
 
 .navbar a {
   float: right;
-  font-size: 16px;
   color: #e7e8e9;
   text-align: center;
   padding: 14px 16px;
@@ -20,13 +19,13 @@
 
 .dropdown .dropbtn {
   cursor: pointer;
-  font-size: 16px;
   border: none;
   outline: none;
   color: #e7e8e9;
   padding: 14px 16px;
   background-color: inherit;
   margin: 0;
+  font-size: 110%;
 
 }
 
