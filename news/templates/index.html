@@ -9,25 +9,15 @@
 
 
 {% block content %}
-    <h1 class="text-center">Edu_News</h1>
-
-    <div class="container2">
+    <div class="container2" style="width: 100%">
         {% for x in obj %}
             <div class="container">
                 <h2>
-                    Headline: {{ x.content_headline }}
+                    {{ x.content_headline }}
                 </h2>
                 <div style="margin: 10px">
-                    Category: {{ x.content_category}} <br>
-
+                    {{ x.content_text }}
                 </div>
-                <div style="margin: 10px">
-                    Source: {{ x.content_source }} <br>
-                </div>
-                <div style="margin: 10px">
-                    Publication Date: {{ x.content_date }}
-                </div>
-
             </div>
             <div style="height: 20px"></div>
         {% endfor %}
