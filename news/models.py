@@ -6,7 +6,7 @@ from django.db.models import SET_DEFAULT
 class Source(models.Model):
     source_id = models.AutoField(primary_key=True)
     source_trust_rating = models.IntegerField(default=0)
-    source_name = models.TextField(max_length=50)
+    source_name = models.TextField()
 
     def __str__(self):
         return self.source_name
@@ -15,13 +15,13 @@ class Source(models.Model):
 class Content(models.Model):
     content_id = models.AutoField(primary_key=True)
     content_source_id = models.TextField()
-    content_headline = models.TextField(max_length=300)
-    content_source = models.TextField(max_length=50)
-    content_url = models.TextField(max_length=400)
-    content_category = models.TextField(max_length=50)
-    content_text = models.TextField(max_length=500)
-    content_image = models.TextField(max_length=500)
-    content_date = models.DateField(auto_now_add=True)
+    content_headline = models.TextField()
+    content_source = models.TextField()
+    content_url = models.TextField()
+    content_category = models.TextField()
+    content_text = models.TextField()
+    content_image = models.TextField()
+    content_date = models.TextField()
 
     def __str__(self):
         return self.content_headline
@@ -29,8 +29,8 @@ class Content(models.Model):
 
 class Category(models.Model):
     category_id = models.AutoField(primary_key=True)
-    category_label = models.TextField(max_length=50)
-    category_code = models.TextField(max_length=10, unique=True)
+    category_label = models.TextField()
+    category_code = models.TextField()
 
     def __str__(self):
         return self.category_label

@@ -5,6 +5,42 @@
 <head>
     <meta charset="UTF-8">
     <title>Edu-News</title>
+    <style>
+.container {
+    overflow-wrap: break-word;
+  padding: 20px;
+  background-color: #3abb67;
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+  transition: background-color 0.5s ease;
+  margin: 10px auto; /* Center horizontally with auto margin */
+  text-align: center; /* Center text horizontally */
+}
+
+.container:hover {
+  background-color: #6fcf97; /* Change the color here */
+}
+
+.container:hover .overlay {
+  animation: overlay-slide 0.5s ease forwards;
+}
+
+.container:hover img {
+  filter: grayscale(100%);
+  transition: filter 0.5s ease;
+}
+
+
+@keyframes overlay-slide {
+  from {
+    transform: translateY(100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+</style>
     {% load static %}
     <link rel="stylesheet" href={% static 'css/styles.css' %}>
 
