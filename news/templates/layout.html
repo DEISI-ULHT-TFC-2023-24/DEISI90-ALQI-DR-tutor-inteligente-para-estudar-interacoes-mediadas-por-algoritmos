@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 {% load static %}
 
-<html lang="" style="width: 100%; height: 100%">
+<html lang="" style="width: 100%; height: 100%;background-color: grey">
 <head>
     <meta charset="UTF-8">
     <title>Edu-News</title>
@@ -9,17 +9,19 @@
 .container {
     overflow-wrap: break-word;
   padding: 20px;
-  background-color: #3abb67;
+  background-color: #150903;
   border-radius: 10px;
   overflow: hidden;
   position: relative;
   transition: background-color 0.5s ease;
   margin: 10px auto; /* Center horizontally with auto margin */
   text-align: center; /* Center text horizontally */
+    color: white;
 }
 
 .container:hover {
-  background-color: #6fcf97; /* Change the color here */
+  background-color: #181804; /* Change the color here */
+    width: ;
 }
 
 .container:hover .overlay {
@@ -104,7 +106,7 @@
     </div>
 </nav>
 
-<section class="section" style="background: white;padding-left: 25%;padding-right: 25%">
+<section class="section" style="padding-left: 25%;padding-right: 25%">
     <div class="container2", style="">
         {% block content %}
         {% endblock %}

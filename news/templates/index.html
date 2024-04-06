@@ -15,21 +15,21 @@
         {% for x in obj %}
             <div class="container">
                 <h2>
-                    {{ x.content_headline }}
+                    Headline: {{ x.content_headline }}
                 </h2>
-                <div >
-                    {{ x.content_category}} <br>
+                <div style="margin: 10px">
+                    Category: {{ x.content_category}} <br>
 
                 </div>
-                <div>
-                    {{ x.content_source }} <br>
+                <div style="margin: 10px">
+                    Source: {{ x.content_source }} <br>
                 </div>
-                <div>
-                    {{ x.content_date }}
+                <div style="margin: 10px">
+                    Publication Date: {{ x.content_date }}
                 </div>
 
             </div>
-            <div style="background-color: white; height: 20px"></div>
+            <div style="height: 20px"></div>
         {% endfor %}
     </div>
 
