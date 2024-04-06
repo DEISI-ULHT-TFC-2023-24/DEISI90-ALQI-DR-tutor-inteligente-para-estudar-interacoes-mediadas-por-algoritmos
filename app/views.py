@@ -1,10 +1,10 @@
 from django.shortcuts import render
-from .models import News
+from .models import News1
 
 
 # Create your views here.
 def index(request):
-    obj = News.objects.all()
+    obj = News1.objects.all()
     context = {
         "obj": obj
     }
