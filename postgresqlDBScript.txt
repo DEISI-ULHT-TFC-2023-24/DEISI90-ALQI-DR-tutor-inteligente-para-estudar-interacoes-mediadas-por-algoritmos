@@ -12,8 +12,8 @@ CREATE TABLE news_source (
 );
 -- Create news_category table
 CREATE TABLE news_category (
-    category_id SERIAL PRIMARY KEY,
-    category_label TEXT ,
+	category_label SERIAL PRIMARY KEY ,
+    category_id TEXT,
     category_code TEXT 
 );
 
@@ -21,15 +21,15 @@ CREATE TABLE news_category (
 CREATE TABLE news_content (
     content_id SERIAL PRIMARY KEY,
     content_source_id INT ,
-    content_headline TEXT,
+    content_headline text UNIQUE,
     content_source TEXT ,
     content_url TEXT ,
-    content_category INT ,
+    content_category TEXT ,
     content_text TEXT ,
     content_image TEXT,
-    content_date DATE,
+    content_date TEXT,
     FOREIGN KEY (content_source_id) REFERENCES news_source(source_id),
-    FOREIGN KEY (content_category) REFERENCES news_category(category_id)
+    FOREIGN KEY (content_category) REFERENCES news_category(category_label)
 );
 
 
@@ -43,3 +43,4 @@ CREATE TABLE news_thread (
 );
 
 
+select * from news_source

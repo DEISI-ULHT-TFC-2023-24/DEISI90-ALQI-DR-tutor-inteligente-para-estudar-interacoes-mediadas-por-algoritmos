@@ -40,8 +40,6 @@
         }
 
 
-
-
         @keyframes overlay-slide {
             from {
                 transform: translateY(100%);
@@ -57,6 +55,8 @@
     {% load static %}
     <link rel="stylesheet" href={% static 'css/dropdown.css' %}>
 
+    <script src="{% static 'scripts/trigger.js' %}"></script>
+
 </head>
 
 <!-- >
@@ -65,21 +65,20 @@
 <body style="">
 <nav class="navbar" style="padding-top: 0.3%">
     <div class="flex-container" style="padding-left: 15%;padding-right: 15%">
-        <a href="/" class="navbar-item" style="float: left;font-size: 150%;color: #dddddd; border-radius: 10px">Edu-News</a>
+        <a href="/" class="navbar-item"
+           style="float: left;font-size: 150%;color: #dddddd; border-radius: 10px">Edu-News</a>
         <div class="dropdown">
             <button class="dropbtn" style="border-radius: 10px" onclick="myFunction()">Notícias
             </button>
             <div class="dropdown-content" id="myDropdown">
-                <a class=""  style="position: static; border-radius: 10px"
+                <a class="" style="position: static; border-radius: 10px"
                    href={% url 'index' %}><strong>Últimas</strong></a>
-                <a class=""  style="position: static; border-radius: 10px"
+                <a class="" style="position: static; border-radius: 10px"
                    href={% url 'index' %}><strong>País</strong></a>
                 <a class="" style="position: static; border-radius: 10px"
                    href={% url 'index' %}><strong>Mundo</strong></a>
             </div>
         </div>
-
-
 
 
         <script>
@@ -101,9 +100,11 @@
         </script>
 
 
-        <a class="navbar-item" style="left:180%; border-radius: 10px" href={% url 'index' %}><strong>Educacao</strong></a>
+        <a class="navbar-item" style="left:180%; border-radius: 10px"
+           href={% url 'index' %}><strong>Educacao</strong></a>
 
-        <a class="navbar-item" style="left:180%; border-radius: 10px" href={% url 'index' %}><strong>Licenciatura</strong></a>
+        <a class="navbar-item" style="left:180%; border-radius: 10px"
+           href={% url 'index' %}><strong>Licenciatura</strong></a>
 
 
     </div>
