@@ -848,5 +848,107 @@
         ],
         "published": "2024-04-06 14:59:48",
         "category": "videos"
+    },
+    {
+        "headline": "Naufrágio em Tróia. Resgatados corpos de criança de 13 anos e do pai de 45",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/naufragio-em-troia-resgatados-corpos-de-crianca-de-13-anos-e-do-pai-de-45_v1562582",
+        "content": [
+            {
+                "type": "text",
+                "data": "Foram resgatados os corpos da criança de 13 anos e do pai de 45 que estavam desaparecidos depois de a embarcação em que seguiam ter naufragado ao largo de Tróia, em Grândola. Outras três pessoas seguiam na embarcação. Uma foi resgatada com vida e duas permanecem desaparecidas, dois jovens de 21 e 23 anos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/5a/5a40fc43eb079f0f66ceddf5007919d8_N.jpg?"
+            }
+        ],
+        "published": "2024-04-07 18:12:46",
+        "category": "videos"
+    },
+    {
+        "headline": "Paulo Raimundo pede união em torno dos valores de Abril",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/paulo-raimundo-pede-uniao-em-torno-dos-valores-de-abril_v1562591",
+        "content": [
+            {
+                "type": "text",
+                "data": "O secretário-geral do PCP, Paulo Raimundo, participou numa sessão sobre o 25 de Abril, agora que se assinalam 50 anos da revolução na Academia Almadense."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/99/99d88653be55fc39d08756e34e6873a7?w=350&amp;q=50&amp;rect=0,47,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-07 19:28:46",
+        "category": "videos"
+    },
+    {
+        "headline": "Lisboa volta a ser palco de manifestação em defesa dos palestinianos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/lisboa-volta-a-ser-palco-de-manifestacao-em-defesa-dos-palestinianos_v1562589",
+        "content": [
+            {
+                "type": "text",
+                "data": "Solidariedade com a Palestina. A organização diz que &quot;o Estado de Israel continua a atuar com arrogância e impunidade&quot;. A coordenadora do BE quer que o Estado português reconheça rapidamente o Estado da Palestina."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/84/842136f52d13f14b135e1baab9cced76?w=350&amp;q=50&amp;rect=0,111,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-07 19:26:45",
+        "category": "videos"
+    },
+    {
+        "headline": "Dia do Combatente. Uma palavra especial do PR e ministro da Defesa para os antigos combatentes",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/dia-do-combatente-uma-palavra-especial-do-pr-e-ministro-da-defesa-para-os-antigos-combatentes_v1562601",
+        "content": [
+            {
+                "type": "text",
+                "data": "O presidente da República defende um estatuto condigno para os militares, sem os quais &quot;não há Forças Armadas fortes&quot;. Mensagem de Marcelo Rebelo de Sousa no Dia do Combatente. O novo ministro da Defesa, Nuno Melo, avisou que ainda há deveres a cumprir com os antigos combatentes. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/74/7483df92618e4df97e6d265c9ad6a0d0_N.jpg?"
+            }
+        ],
+        "published": "2024-04-07 21:16:45",
+        "category": "videos"
+    },
+    {
+        "headline": "Naufrágio ao largo de Tróia fez quatro vítimas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/naufragio-ao-largo-de-troia-fez-quatro-vitimas_v1562600",
+        "content": [
+            {
+                "type": "text",
+                "data": "Duas são pai e filho, de 45 e 13 anos, e os corpos já foram recuperados. Dois outros jovens que estavam no barco estão ainda desaparecidos. Um golpe de mar terá virado a embarcação pelas 7 da manhã. O proprietário escapou com vida e deu o alerta. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/53/53d7216b3f483c2fffdc0a9055af4edd_N.jpg?"
+            }
+        ],
+        "published": "2024-04-07 21:09:45",
+        "category": "videos"
+    },
+    {
+        "headline": "Israel retira forças militares do Sul de Gaza",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/israel-retira-forcas-militares-do-sul-de-gaza_v1562604",
+        "content": [
+            {
+                "type": "text",
+                "data": "Quando passam seis meses sobre o inicio do conflito com os palestinianos, Israel anunciou a retirada da maioria das tropas do sul de Gaza. Uma decisão que acontece numa altura em que se espera no Egipto nova ronda de negociações para tentar um cessar-fogo e libertação dos reféns israelitas. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/60/60cd66e2683997d36321f0026f02dd8c_N.jpg?"
+            }
+        ],
+        "published": "2024-04-07 21:30:45",
+        "category": "videos"
     }
 ]

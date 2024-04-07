@@ -848,5 +848,107 @@
         ],
         "published": "2024-04-05 15:50:35",
         "category": "pais"
+    },
+    {
+        "headline": "Naufrágio em Tróia. Resgatados corpos de criança de 13 anos e do pai de 45",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/naufragio-em-troia-resgatados-corpos-de-crianca-de-13-anos-e-do-pai-de-45_v1562582",
+        "content": [
+            {
+                "type": "text",
+                "data": "Foram resgatados os corpos da criança de 13 anos e do pai de 45 que estavam desaparecidos depois de a embarcação em que seguiam ter naufragado ao largo de Tróia, em Grândola. Outras três pessoas seguiam na embarcação. Uma foi resgatada com vida e duas permanecem desaparecidas, dois jovens de 21 e 23 anos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/5a/5a40fc43eb079f0f66ceddf5007919d8_N.jpg?"
+            }
+        ],
+        "published": "2024-04-07 18:12:46",
+        "category": "pais"
+    },
+    {
+        "headline": "Secretário-geral da JSD João Pedro Louro anuncia candidatura à liderança desta estrutura",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/secretario-geral-da-jsd-joao-pedro-louro-anuncia-candidatura-a-lideranca-desta-estrutura_n1562592",
+        "content": [
+            {
+                "type": "text",
+                "data": "O atual secretário-geral da JSD, João Pedro Louro, anunciou hoje que é candidato à presidência desta estrutura da juventude do PSD, no Congresso marcado para junho."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-07 19:46:20",
+        "category": "pais"
+    },
+    {
+        "headline": "Lisboa volta a ser palco de manifestação em defesa dos palestinianos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/lisboa-volta-a-ser-palco-de-manifestacao-em-defesa-dos-palestinianos_v1562589",
+        "content": [
+            {
+                "type": "text",
+                "data": "Solidariedade com a Palestina. A organização diz que &quot;o Estado de Israel continua a atuar com arrogância e impunidade&quot;. A coordenadora do BE quer que o Estado português reconheça rapidamente o Estado da Palestina."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/84/842136f52d13f14b135e1baab9cced76?w=350&amp;q=50&amp;rect=0,111,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-07 19:26:45",
+        "category": "pais"
+    },
+    {
+        "headline": "PCP afirma-se oposição sem hesitações e avisa que Governo não terá a vida facilitada",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/pcp-afirma-se-oposicao-sem-hesitacoes-e-avisa-que-governo-nao-tera-a-vida-facilitada_n1562596",
+        "content": [
+            {
+                "type": "text",
+                "data": "O secretário-geral dos comunistas afirmou hoje que o PCP é &quot;a oposição ao Governo&quot; que não tem quaisquer dúvidas, hesitações nem ilusões e avisou que o executivo chefiado por Luís Montenegro não terá a vida facilitada."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-07 20:53:38",
+        "category": "pais"
+    },
+    {
+        "headline": "Mais de mil pessoas na marcha `Abril pela Palestina` com muitas críticas a Israel",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/mais-de-mil-pessoas-na-marcha-abril-pela-palestina-com-muitas-criticas-a-israel_n1562595",
+        "content": [
+            {
+                "type": "text",
+                "data": "Mais de mil pessoas juntaram-se hoje, em Lisboa, à marcha `Abril pela Palestina`, na qual se ouviram críticas ao governo de Israel e apelos para parar &quot;um novo genocídio&quot;."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-07 20:52:55",
+        "category": "pais"
+    },
+    {
+        "headline": "Naufrágio ao largo de Tróia fez quatro vítimas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/naufragio-ao-largo-de-troia-fez-quatro-vitimas_v1562600",
+        "content": [
+            {
+                "type": "text",
+                "data": "Duas são pai e filho, de 45 e 13 anos, e os corpos já foram recuperados. Dois outros jovens que estavam no barco estão ainda desaparecidos. Um golpe de mar terá virado a embarcação pelas 7 da manhã. O proprietário escapou com vida e deu o alerta. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/53/53d7216b3f483c2fffdc0a9055af4edd_N.jpg?"
+            }
+        ],
+        "published": "2024-04-07 21:09:45",
+        "category": "pais"
     }
 ]

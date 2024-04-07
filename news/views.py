@@ -1,7 +1,7 @@
 import os
 from time import sleep
 
-from django.shortcuts import render
+from django.shortcuts import render, get_object_or_404
 
 import news
 from .models import Category, Source, Thread, Content
@@ -14,13 +14,21 @@ import data_scrapping.RTP
 
 # Create your views here.
 def index(request):
-    obj = Content.objects.all()
+    category = request.GET.get('category', 'ultimas')
+    obj = Content.objects.filter(content_category=category).order_by('-content_date')
+    context = {
+        "obj": obj,
+    }
+    return render(request, "index.html", context)
+
+
+def news_detail(request, news_id):
+    obj = Content.objects.filter(pk=news_id)
     context = {
         "obj": obj
     }
-    execute_python_script(request)
 
-    return render(request, "index.html", context)
+    return render(request, "content.html", context)
 
 
 @csrf_exempt
@@ -38,7 +46,6 @@ def execute_python_script(request):
 
         for x in list_possibilities:
             ij.import_json_data_NM("data_scrapping/Noticias_ao_Minuto/{cat}.json".format(cat=x))
-
 
         return JsonResponse({'message': 'Python script executed successfully'}, status=200)
     except Exception as e:

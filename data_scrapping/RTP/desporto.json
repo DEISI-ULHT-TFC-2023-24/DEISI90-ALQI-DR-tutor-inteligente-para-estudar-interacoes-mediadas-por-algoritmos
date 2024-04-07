@@ -865,5 +865,226 @@
         ],
         "published": "2024-04-07 16:04:29",
         "category": "desporto"
+    },
+    {
+        "headline": "Marítimo empata em Torres Vedras e fica mais longe do trio da frente",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/maritimo-empata-em-torres-vedras-e-fica-mais-longe-do-trio-da-frente_d1562586",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Marítimo atrasou-se na luta pela subida ao escalão máximo depois do nulo na visita ao Torreense, em partida da 28.ª jornada da II Liga portuguesa de futebol."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/9f/9f4d404144a0872c184546e61d0ac96b?w=350&amp;q=50&amp;rect=0,73,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-07 18:49:56",
+        "category": "desporto"
+    },
+    {
+        "headline": "Feyenoord atropela Ajax e acentua crise da equipa de Amesterdão",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/feyenoord-atropela-ajax-e-acentua-crise-da-equipa-de-amesterdao_d1562583",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Feyenoord atropelou em casa o Ajax por expressivos 6-0, em jogo da 29.ª jornada da Liga neerlandesa de futebol, acentuando a temporada ‘desastrosa’ do emblema de Amesterdão."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d7/d715c9a4a1a22c38d03c37aa03b7d5b2?w=350&amp;q=50&amp;rect=0,54,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-07 18:31:01",
+        "category": "desporto"
+    },
+    {
+        "headline": "Hurkacz derrota Martínez e conquista primeiro título em terra batida",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/hurkacz-derrota-martinez-e-conquista-primeiro-titulo-em-terra-batida_d1562580",
+        "content": [
+            {
+                "type": "text",
+                "data": "O polaco Hubert Hurkacz, 10.º jogador mundial, conquistou domingo o primeiro título da carreira em terra batida, ao impor-se na final do Estoril Open ao espanhol Pedro Martínez, em dois sets."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/85/85136f7d20ce2b1d2d1898a685acd80e?w=350&amp;q=50&amp;rect=0,0,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-07 18:11:58",
+        "category": "desporto"
+    },
+    {
+        "headline": "Gil Vicente rescinde com treinador Vítor Campelos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/gil-vicente-rescinde-com-treinador-vitor-campelos_d1562578",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Gil Vicente, da I Liga portuguesa de futebol, acertou hoje a rescisão de contrato com o treinador Vítor Campelos, disse à Lusa fonte do clube barcelense."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b4/b45cb785c768e80506f20b4d2e5afcc6?w=350&amp;q=50&amp;rect=0,72,1234,677&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-07 18:01:13",
+        "category": "desporto"
+    },
+    {
+        "headline": "Van der Poel volta a vencer Paris-Roubaix e soma sexto Monumento da carreira",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/van-der-poel-volta-a-vencer-paris-roubaix-e-soma-sexto-monumento-da-carreira_d1562577",
+        "content": [
+            {
+                "type": "text",
+                "data": "O ciclista neerlandês Mathieu van der Poel (Alpecin-Deceuninck) voltou domingo a conquistar a clássica Paris-Roubaix, somando o sexto Monumento da carreira, com um ataque a cerca de 60 quilómetros da meta.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/f6/f618a2f8e0d32fdb7b4a5be65735e740?w=350&amp;q=50&amp;rect=0,30,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-07 17:33:59",
+        "category": "desporto"
+    },
+    {
+        "headline": "Santa Clara perde com o Paços e desperdiça chance de cimentar a liderança",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/santa-clara-perde-com-o-pacos-e-desperdica-chance-de-cimentar-a-lideranca_d1562576",
+        "content": [
+            {
+                "type": "text",
+                "data": "O líder Santa Clara perdeu domingo em casa contra o Paços de Ferreira, por 1-0, em encontro da 28.ª jornada da II Liga portuguesa de futebol, averbando o segundo desaire seguido no seu reduto."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/f6/f61d005b5b9370148633660eb8bb872f?w=350&amp;q=50&amp;rect=0,67,1254,688&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-07 17:28:05",
+        "category": "desporto"
+    },
+    {
+        "headline": "Moreirense FC - Estrela Amadora",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/moreirense-fc-estrela-amadora_e1562575",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Moreirense, recebe o Estrela da Amadora, no Estádio Comendador Joaquim de Almeida Freitas, em Moreira de Cónegos, em jogo da jornada 28 de I Liga de futebol, com arbitragem de Ricardo Baixinho.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/87/879002a3b4153bcbbce2de86ac4dcda3?w=350&amp;q=50&amp;rect=0,70,1371,752&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-07 17:22:59",
+        "category": "desporto"
+    },
+    {
+        "headline": "Portimonense dá a volta em Chaves e vence com golo nos descontos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/portimonense-da-a-volta-em-chaves-e-vence-com-golo-nos-descontos_e1562570",
+        "content": [
+            {
+                "type": "text",
+                "data": "Um golo de Igor Formiga, aos 90+1 minutos, deu domingo ao Portimonense a vitória por 3-2 no terreno do Desportivo de Chaves, último classificado, em jogo da 28.ª jornada da I Liga portuguesa de futebol.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/21/214f45687a70d2da5ee773af4cecf4a9?w=350&amp;q=50&amp;rect=0,33,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-07 16:04:29",
+        "category": "desporto"
+    },
+    {
+        "headline": "Liverpool empata e é apanhado na liderança em jogo com golaço de Bruno Fernandes",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/liverpool-empata-e-e-apanhado-na-lideranca-em-jogo-com-golaco-de-bruno-fernandes_d1562587",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Liverpool empatou (2-2) domingo no campo do Manchester United e passou a partilhar a liderança da Liga inglesa de futebol com o Arsenal, com o campeão Manchester City colado no terceiro lugar, na 32.º jornada."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/68/6826bd148ada45279aa5820ac57737e6?w=350&amp;q=50&amp;rect=0,12,1379,756&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-07 19:24:11",
+        "category": "desporto"
+    },
+    {
+        "headline": "Seleção feminina de andebol apura-se para o Europeu apesar de derrota com checas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/selecao-feminina-de-andebol-apura-se-para-o-europeu-apesar-de-derrota-com-checas_d1562593",
+        "content": [
+            {
+                "type": "text",
+                "data": "A seleção portuguesa feminina de andebol apurou-se hoje pela segunda vez para um Europeu, apesar de derrota na visita à República Checa, por 25-22, na sexta e última jornada do Grupo 3 de apuramento\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_desporto.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-07 19:47:04",
+        "category": "desporto"
+    },
+    {
+        "headline": "FC Porto - Vitória SC",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/fc-porto-vitoria-sc_e1562590",
+        "content": [
+            {
+                "type": "text",
+                "data": "O FC Porto procura reforçar o terceiro lugar da I Liga portuguesa de futebol e aproximar-se da vice-liderança, no reencontro com o Vitória de Guimarães, agora para a 28.ª jornada do campeonato.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/c5/c5d41738d31bb58282aa9cdd935b34df?w=350&amp;q=50&amp;rect=0,62,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-07 19:28:52",
+        "category": "desporto"
+    },
+    {
+        "headline": "Estrela da Amadora recupera de desvantagem de dois golos e empata com Moreirense",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/moreirense-fc-estrela-amadora_e1562575",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Moreirense e o Estrela da Amadora empataram 2-2, na 28.ª jornada da I Liga portuguesa de futebol, numa partida em que os ‘tricolores’ recuperaram depois de uma desvantagem de dois golos.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b0/b0e3cf5208e14e30b38695a89727e2f2?w=350&amp;q=50&amp;rect=0,44,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-07 17:22:59",
+        "category": "desporto"
+    },
+    {
+        "headline": "Benfica e Marselha fazem comunicado conjunto a pedir a presença de adeptos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/benfica/benfica-e-marselha-fazem-comunicado-conjunto-a-pedir-a-presenca-de-adeptos_d1562599",
+        "content": [
+            {
+                "type": "text",
+                "data": "Benfica e Marselha, rivais nos quartos de final da Liga Europa de futebol, apelaram às autoridades policiais de Portugal e França, num comunicado conjunto, que garantam a presença de adeptos de ambos os clubes nos dois jogos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/f8/f84eb60cf6344a51eaa25c1f41d57088?w=350&amp;q=50&amp;rect=0,0,1242,681&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-07 21:16:09",
+        "category": "desporto"
     }
 ]

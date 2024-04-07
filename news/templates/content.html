@@ -11,17 +11,24 @@
 {% block content %}
     <div class="container2" style="width: 100%">
         {% for x in obj %}
-            <a style="text-decoration: none" href="{% url 'news_detail' x.pk %}">
-            <div class="container">
-                <h2>
-                    {{ x.content_headline }}
-                </h2>
-                <div style="margin: 10px">
-                    {{ x.content_text }}
+            <a style="text-decoration: none" href="{{ x.content_url }}">
+            <div class="flex-container" style="flex-direction: column">
+                <div class="container" style="flex-grow: 1">
+                    <h2>
+                        {{ x.content_headline }}
+                    </h2>
+                    <img src="{{ x.content_image }}" alt="Image">
+                    <div style="margin: 10px">
+                        {{ x.content_text }}
+                    </div>
+                </div>
+                <div style="height: 20px"></div>
+                <div class="container" style="flex-grow: 8">
+                    <h2>News Release Date</h2>
+                    {{ x.content_date }}
                 </div>
             </div>
-            <div style="height: 20px"></div>
-            </a>>
+            </a>
         {% endfor %}
     </div>
 

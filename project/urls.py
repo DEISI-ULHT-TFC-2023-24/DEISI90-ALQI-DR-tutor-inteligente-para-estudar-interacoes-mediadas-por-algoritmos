@@ -16,9 +16,12 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from news.views import index
+from news.views import index, news_detail, execute_python_script
+import news
 
 urlpatterns = [
     path("admin/", admin.site.urls),
-    path("", index, name="index")
+    path("", index, name="index"),
+    path("refresh_news/", execute_python_script, name="refresh_news"),
+    path("/<int:news_id>/", news_detail, name="news_detail"),
 ]

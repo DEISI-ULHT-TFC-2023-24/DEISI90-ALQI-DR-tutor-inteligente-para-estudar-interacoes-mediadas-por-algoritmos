@@ -848,5 +848,39 @@
         ],
         "published": "2024-04-04 11:40:06",
         "category": "economia"
+    },
+    {
+        "headline": "Removida última embarcação encalhada na praia Grande de Ferragudo no Algarve",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/removida-ultima-embarcacao-encalhada-na-praia-grande-de-ferragudo-no-algarve_n1562594",
+        "content": [
+            {
+                "type": "text",
+                "data": "A última embarcação encalhada na praia Grande de Ferragudo, no Algarve, foi hoje removida, depois de, na passada terça-feira, terem sido retirados três veleiros de menor dimensão, disse à Lusa o presidente da Câmara de Lagoa."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-07 20:00:30",
+        "category": "economia"
+    },
+    {
+        "headline": "Aventureiro britânico completa na Tunísia ligação sul-norte de África a correr",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/aventureiro-britanico-completa-na-tunisia-ligacao-sul-norte-de-africa-a-correr_n1562597",
+        "content": [
+            {
+                "type": "text",
+                "data": "Russ Cook, de 27 anos, completou hoje, ao chegar à Tunísia, a ligação do sul ao norte de África, num total de mais de 16.000 quilómetros, tornando-se na primeira pessoa a atravessar o continente africano a correr."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-07 20:54:03",
+        "category": "economia"
     }
 ]
