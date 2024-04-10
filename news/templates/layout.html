@@ -3,7 +3,7 @@
 
 <html lang="" style="width: 100%; height: 100%;background-color: #070607;padding-top: 0.5%">
 <head>
-   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
 
     <meta charset="UTF-8">
@@ -71,44 +71,73 @@
         <a href="/" class="navbar-item"
            style="float: left;font-size: 150%;color: #dddddd; border-radius: 10px">Edu-News</a>
         <div class="dropdown">
-            <button class="dropbtn" style="border-radius: 10px" onclick="myFunction()">Notícias
+            <button class="dropbtn" style="border-radius: 10px;margin-left: 60px;margin-right: 60px"
+                    onclick="myFunction()">Notícias
             </button>
             <div class="dropdown-content" id="myDropdown">
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=ultimas"><strong>Últimas</strong></a>
+                   href="{% url 'index' %}?category=ultimas&date=content_date"><strong>Últimas</strong></a>
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=pais"><strong>País</strong></a>
+                   href="{% url 'index' %}?category=mundo&date=content_date"><strong>Mundo</strong></a>
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=mundo"><strong>Mundo</strong></a>
+                   href="{% url 'index' %}?category=auto&date=content_date"><strong>Auto</strong></a>
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=auto"><strong>Auto</strong></a>
+                   href="{% url 'index' %}?category=casa&date=content_date"><strong>Casa</strong></a>
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=auto_minuto"><strong>Auto Minuto</strong></a>
+                   href="{% url 'index' %}?category=cultura&date=content_date"><strong>Cultura</strong></a>
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=casa"><strong>Casa</strong></a>
+                   href="{% url 'index' %}?category=desporto&date=content_date"><strong>Desporto</strong></a>
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=cultura"><strong>Cultura</strong></a>
+                   href="{% url 'index' %}?category=economia&date=content_date"><strong>Economia</strong></a>
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=desporto"><strong>Desporto</strong></a>
+                   href="{% url 'index' %}?category=fama&date=content_date"><strong>Fama</strong></a>
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=economia"><strong>Economia</strong></a>
+                   href="{% url 'index' %}?category=lifestyle&date=content_date"><strong>Lifestyle</strong></a>
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=fama"><strong>Fama</strong></a>
+                   href="{% url 'index' %}?category=pais&date=content_date"><strong>País</strong></a>
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=lifestyle"><strong>Lifestyle</strong></a>
+                   href="{% url 'index' %}?category=tech&date=content_date"><strong>Tech</strong></a>
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=pais"><strong>País</strong></a>
+                   href="{% url 'index' %}?category=politica&date=content_date"><strong>Politica</strong></a>
+            </div>
+        </div>
+
+
+        <div class="dropdown">
+            <button class="dropbtn" style="border-radius: 10px;margin-left: 60px;margin-right: 60px"
+                    onclick="myFunction2()">Notícias
+            </button>
+            <div class="dropdown-content" id="myDropdown2">
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=tech"><strong>Tech</strong></a>
+                   href="{% url 'index' %}?category=ultimas&date=-content_date"><strong>Últimas</strong></a>
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=tudo"><strong>Tudo</strong></a>
+                   href="{% url 'index' %}?category=mundo&date=-content_date"><strong>Mundo</strong></a>
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=politica"><strong>Politica</strong></a>
+                   href="{% url 'index' %}?category=auto&date=-content_date"><strong>Auto</strong></a>
+                <a class="" style="position: static; border-radius: 10px"
+                   href="{% url 'index' %}?category=casa&date=-content_date"><strong>Casa</strong></a>
+                <a class="" style="position: static; border-radius: 10px"
+                   href="{% url 'index' %}?category=cultura&date=-content_date"><strong>Cultura</strong></a>
+                <a class="" style="position: static; border-radius: 10px"
+                   href="{% url 'index' %}?category=desporto&date=-content_date"><strong>Desporto</strong></a>
+                <a class="" style="position: static; border-radius: 10px"
+                   href="{% url 'index' %}?category=economia&date=-content_date"><strong>Economia</strong></a>
+                <a class="" style="position: static; border-radius: 10px"
+                   href="{% url 'index' %}?category=fama&date=-content_date"><strong>Fama</strong></a>
+                <a class="" style="position: static; border-radius: 10px"
+                   href="{% url 'index' %}?category=lifestyle&date=-content_date"><strong>Lifestyle</strong></a>
+                <a class="" style="position: static; border-radius: 10px"
+                   href="{% url 'index' %}?category=pais&date=-content_date"><strong>País</strong></a>
+                <a class="" style="position: static; border-radius: 10px"
+                   href="{% url 'index' %}?category=tech&date=-content_date"><strong>Tech</strong></a>
+                <a class="" style="position: static; border-radius: 10px"
+                   href="{% url 'index' %}?category=politica&date=-content_date"><strong>Politica</strong></a>
             </div>
         </div>
 
 
         <script>
+
             /* When the user clicks on the button,
             toggle between hiding and showing the dropdown content */
             function myFunction() {
@@ -124,19 +153,30 @@
                     }
                 }
             }
+
+            function myFunction2() {
+                document.getElementById("myDropdown2").classList.toggle("show");
+            }
+
+            // Close the dropdown if the user clicks outside of it
+            window.onclick = function (e) {
+                if (!e.target.matches('.dropbtn')) {
+                    const myDropdown = document.getElementById("myDropdown2");
+                    if (myDropdown.classList.contains('show')) {
+                        myDropdown.classList.remove('show');
+                    }
+                }
+            }
         </script>
 
-       <button id="refreshButton">Refresh News</button>
-
+        <button id="refreshButton">Refresh News</button>
 
 
         <script>
-    document.getElementById("refreshButton").addEventListener("click", function() {
-        window.location.href = "{% url 'refresh_news' %}";
-    });
-</script>
-
-
+            document.getElementById("refreshButton").addEventListener("click", function () {
+                window.location.href = "{% url 'refresh_news' %}";
+            });
+        </script>
 
 
     </div>

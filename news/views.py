@@ -15,7 +15,8 @@ import data_scrapping.RTP
 # Create your views here.
 def index(request):
     category = request.GET.get('category', 'ultimas')
-    obj = Content.objects.filter(content_category=category).order_by('-content_date')
+    date = request.GET.get('date', 'content_date')
+    obj = Content.objects.filter(content_category=category).order_by(date)
     context = {
         "obj": obj,
     }
