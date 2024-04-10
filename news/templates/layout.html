@@ -72,13 +72,13 @@
            style="float: left;font-size: 150%;color: #dddddd; border-radius: 10px">Edu-News</a>
 
         <div class="dropdown">
-        <button class="dropbtn" style="border-radius: 10px;margin-left: 60px;margin-right: 60px" onclick="filterContent(selectedCategory,selectedDate)">Pesquisar Noticias
+        <button class="dropbtn" style="border-radius: 10px;margin-left: 60px;margin-right: 60px" onclick="filterContent()">Pesquisar Noticias
         </button>
         </div>
 
         <div class="dropdown">
             <button class="dropbtn" style="border-radius: 10px;margin-left: 60px;margin-right: 60px"
-                    onclick="myFunction()">Notícias
+                    onclick="myFunction()">Categorias
             </button>
             <div class="dropdown-content" id="myDropdown">
                 <a class="" style="position: static; border-radius: 10px"
@@ -101,13 +101,17 @@
                    onclick="changeButtonTextCategory(this,'Tech','tech')"><strong>Tech</strong></a>
                 <a class="" style="position: static; border-radius: 10px"
                    onclick="changeButtonTextCategory(this,'Politica','politica')"><strong>Politica</strong></a>
+                <a class="" style="position: static; border-radius: 10px"
+                   onclick="changeButtonTextCategory(this,'Ultimas','ultimas')"><strong>Ultimas</strong></a>
+                <a class="" style="position: static; border-radius: 10px"
+                   onclick="changeButtonTextCategory(this,'Mundo','mundo')"><strong>Mundo</strong></a>
 
             </div>
         </div>
 
         <div class="dropdown">
             <button class="dropbtn" style="border-radius: 10px;margin-left: 60px;margin-right: 60px"
-                    onclick="myFunction2()">Data da Noticia
+                    onclick="myFunction2()">Data das Noticias
             </button>
             <div class="dropdown-content" id="myDropdown2">
                 <a class="" style="position: static; border-radius: 10px"
@@ -163,14 +167,14 @@
                 }
             }
 
-            function filterContent(category, date) {
+            function filterContent() {
                 if (selectedCategory === '') {
                     selectedCategory = 'ultimas'
                 }
                 if (selectedDate === '') {
                     selectedDate = '-content_date'
                 }
-                window.location.href = "{% url 'index' %}?category=" + selectedCategory + "&date=" + date;
+                window.location.href = "{% url 'index' %}?category=" + selectedCategory + "&date=" + selectedDate;
             }
 
 

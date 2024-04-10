@@ -1800,5 +1800,396 @@
         ],
         "published": "2024-04-10 14:19:47",
         "category": "videos"
+    },
+    {
+        "headline": "Iniciativa Liberal considera Programa do Governo \"insuficiente\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/iniciativa-liberal-considera-programa-do-governo-insuficiente_v1563280",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Iniciativa Liberal considera que as medidas que constam no Programa do Governo são &quot;insuficientes&quot; e ficam &quot;aquém das necessidades&quot;, mas afasta um voto a favor da moção de rejeição que vai ser apresentada pelo PCP. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/4f/4fab4684549805c0cb517e8ca55c0cf7_N.jpg?"
+            }
+        ],
+        "published": "2024-04-10 16:33:45",
+        "category": "videos"
+    },
+    {
+        "headline": "Adeptos do Marselha ausentes do Estádio da Luz",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/adeptos-do-marselha-ausentes-do-estadio-da-luz_v1563258",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os adeptos do Benfica e do Marselha estão impedidos de acompanhar as equipas nos jogos fora dos quartos de final da Liga Europa. A proibição começou a pedido da polícia francesa para o jogo em Marselha. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/7e/7e13ddbba62d4ed81b300c5f5d911ab4_N.jpg?"
+            }
+        ],
+        "published": "2024-04-10 15:18:47",
+        "category": "videos"
+    },
+    {
+        "headline": "Espanha quer reconhecer Estado da Palestina até julho",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/espanha-quer-reconhecer-estado-da-palestina-ate-julho_v1563256",
+        "content": [
+            {
+                "type": "text",
+                "data": "Espanha vai reconhecer o Estado da Palestina. Mesmo que não haja consenso na UE, Pedro Sánchez já assumiu que o vai fazer ainda este semestre de forma unilateral. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/e2/e20ddcc0f86102dbd90280917ffec9a3?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 15:15:51",
+        "category": "videos"
+    },
+    {
+        "headline": "Benfica na máxima força para defrontar o Marselha",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/benfica-na-maxima-forca-para-defrontar-o-marselha_v1563255",
+        "content": [
+            {
+                "type": "text",
+                "data": "É amanhã que o Benfica entra em campo na Liga Europa. O adversário é o Marselha, na primeira mão dos quartos de final. Para o duelo frente aos franceses, Roger Schmidt tem o plantel na máxima força. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/ed/ed43a2ae7ec436f10bdce689cb7432c3_N.jpg?"
+            }
+        ],
+        "published": "2024-04-10 15:15:46",
+        "category": "videos"
+    },
+    {
+        "headline": "Biden defende cessar-fogo de seis a oito semanas na Faixa de Gaza",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/biden-defende-cessar-fogo-de-seis-a-oito-semanas-na-faixa-de-gaza_v1563251",
+        "content": [
+            {
+                "type": "text",
+                "data": "Joe Biden discorda da forma como o primeiro-ministro israelita tem conduzido a guerra na Faixa de Gaza. O presidente norte-americano diz que era importante um cessar-fogo durante seis a oito semanas. Tempo que seria aproveitado para enviar ajuda humanitária para o terreno."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/6a/6a4fe91a2b9f055eca2f2d9e1bb16dcc_N.jpg?"
+            }
+        ],
+        "published": "2024-04-10 15:11:47",
+        "category": "videos"
+    },
+    {
+        "headline": "Operação Tarântula. Apreendidas 57 mil doses de haxixe",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/operacao-tarantula-apreendidas-57-mil-doses-de-haxixe_v1563248",
+        "content": [
+            {
+                "type": "text",
+                "data": "Uma operação da GNR de combate ao tráfico de droga levou à detenção de 30 pessoas que atuavam nos distritos de Aveiro, Porto e Braga."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/07/077506d1f0e34b088bb88af932f3a4d8?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 15:09:47",
+        "category": "videos"
+    },
+    {
+        "headline": "Programa do Governo entregue na Assembleia da República",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/programa-do-governo-entregue-na-assembleia-da-republica_v1563246",
+        "content": [
+            {
+                "type": "text",
+                "data": "O programa do Governo foi hoje entregue na Assembleia da República, depois de ter sido aprovado em Conselho de Ministros. Nele constam grande parte das bandeiras eleitorais da AD, mas o executivo garante que foram introduzidas 60 medidas de programas de outros partidos. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/0c/0cd07b79390b0afa7571357e1bc4cb51_N.jpg?"
+            }
+        ],
+        "published": "2024-04-10 15:06:46",
+        "category": "videos"
+    },
+    {
+        "headline": "Lula da Silva ausente das celebrações dos 50 anos do 25 de Abril",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/lula-da-silva-ausente-das-celebracoes-dos-50-anos-do-25-de-abril_v1563242",
+        "content": [
+            {
+                "type": "text",
+                "data": "A RTP apurou que Lula da Silva não vai estar presente nas comemorações dos 50 anos do 25 Abril. O presidente brasileiro falou ontem ao telefone com Luís Montenegro, para felicitar o novo primeiro-ministro Português e desejar boa sorte. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/53/539235db32d00d5432b6521925863fa7_N.jpg?"
+            }
+        ],
+        "published": "2024-04-10 15:01:51",
+        "category": "videos"
+    },
+    {
+        "headline": "IL quer cheque-creche para apoiar famílias",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/il-quer-cheque-creche-para-apoiar-familias_v1563241",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Iniciativa Liberal vai apresentar hoje no parlamento uma medida para criar um cheque-creche para maior apoio às famílias. Rui Rocha esteve esta manhã em Algés, onde visitou uma creche. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/ec/ece3b67a5d8e9e9f2e7a16cbeb0ea829_N.jpg?"
+            }
+        ],
+        "published": "2024-04-10 15:01:46",
+        "category": "videos"
+    },
+    {
+        "headline": "PCP marcou presença no protesto dos trabalhadores da EDP",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/pcp-marcou-presenca-no-protesto-dos-trabalhadores-da-edp_v1563238",
+        "content": [
+            {
+                "type": "text",
+                "data": "Também Paulo Raimundo, marcou presença na manifestação dos trabalhares da EDP. O secretário-geral do PCP, classifica de &quot;afronta&quot; uma empresa com lucros de mais de mil milhões de euros, propor 3% de aumento salarial aos trabalhadores. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/58/5874484ec2b8c5456b3d79cced83f036_N.jpg?"
+            }
+        ],
+        "published": "2024-04-10 14:59:48",
+        "category": "videos"
+    },
+    {
+        "headline": "Trabalhadores da EDP em protesto",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/trabalhadores-da-edp-em-protesto_v1563235",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os trabalhadores da EDP marcaram para esta quarta-feira uma jornada de luta por melhores salários. Um protesto que acontece no dia em que os acionistas da elétrica estão reunidos em assembleia geral. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/61/61c9a5207e6b763f5d9d53da8a53c9aa?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 14:57:52",
+        "category": "videos"
+    },
+    {
+        "headline": "BE solidário com trabalhadores da EDP",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/be-solidario-com-trabalhadores-da-edp_v1563234",
+        "content": [
+            {
+                "type": "text",
+                "data": "Mariana Mortágua juntou-se ao final da manhã ao protesto, em solidariedade com os trabalhadores s da EDP.  A coordenadora do Bloco de Esquerda lembra que há uma crise laboral na empresa e que há um responsável por isso, o atual secretário-de Estado do Trabalho. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/c3/c3a76471df1bf35931c6f2b0b3db03d6_N.jpg?"
+            }
+        ],
+        "published": "2024-04-10 14:57:47",
+        "category": "videos"
+    },
+    {
+        "headline": "CIP pronta para trabalhar com novo Governo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/cip-pronta-para-trabalhar-com-novo-governo_v1563233",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Confederação Empresarial de Portugal está disponível para assinar um acordo com o governo, que preveja um crescimento dos salários a par de um crescimento económico."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/c6/c67c4b37b899b48ed24a1bd368333f93?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 14:54:47",
+        "category": "videos"
+    },
+    {
+        "headline": "Condecoração secreta a Spínola contestada por várias personalidades",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/condecoracao-secreta-a-spinola-contestada-por-varias-personalidades_v1563230",
+        "content": [
+            {
+                "type": "text",
+                "data": "Marcelo Rebelo de Sousa condecorou no ano passado António de Spínola, o primeiro presidente da República após os 25 de Abril, e os restantes elementos da Junta de Salvação Nacional. A homenagem não mereceu anúncio público e há quem fale em &quot;aparente secretismo&quot;.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/6c/6c0ffd568b13e0b6b2da7f0d4d7df5e9?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 14:51:53",
+        "category": "videos"
+    },
+    {
+        "headline": "Naufrágio em Tróia. Buscas alargadas até Pinheiro da Cruz",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/naufragio-em-troia-buscas-alargadas-ate-pinheiro-da-cruz_v1563229",
+        "content": [
+            {
+                "type": "text",
+                "data": "Continuam as buscas para encontrar os desaparecidos do naufrágio, em Tróia. As operações foram retomadas às sete e meia da manhã. E foram alargadas mais para sul. Decorrem agora num raio de 12 quilómetros, da Praia Atlântica até ao Pinheiro da Cruz. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/c7/c72ca6f1dc6ac44a13283f8af513e7e2_N.jpg?"
+            }
+        ],
+        "published": "2024-04-10 14:51:47",
+        "category": "videos"
+    },
+    {
+        "headline": "Enfermeiros marcam greve de cinco dias",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/enfermeiros-marcam-greve-de-cinco-dias_v1563227",
+        "content": [
+            {
+                "type": "text",
+                "data": "Cinco sindicatos de enfermeiros convocaram uma greve de cinco dias para o final de abril e início de maio. Segundo o pré-aviso de greve, a paralisação acontece a 26, 29 e 30 de abril e a 2 e 3 de maio nas unidades públicas, privadas e sociais do continente e ilhas, de forma alternada."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ad/adf5404cbc671d8d3ec1fd503a49e03e?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 14:49:48",
+        "category": "videos"
+    },
+    {
+        "headline": "Abusos na Igreja. Ministério Público está a investigar oito denúncias",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/abusos-na-igreja-ministerio-publico-esta-a-investigar-oito-denuncias_v1563226",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Ministério Público está a investigar oito denúncias de abusos sexuais na Igreja. Até ao momento, foram encaminhadas mais de 50 queixas, por organizações e particulares."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/90/901156480564f668a9e1aadde8f470cd?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 14:48:47",
+        "category": "videos"
+    },
+    {
+        "headline": "Proibida exportação de vacinas contra pneumonia, varicela e hepatites A e B",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/proibida-exportacao-de-vacinas-contra-pneumonia-varicela-e-hepatites-a-e-b_v1563223",
+        "content": [
+            {
+                "type": "text",
+                "data": "A medida determinada pelo Infarmed entrou em vigor na terça-feira e tem por objetivo assegurar a normalização do abastecimento de medicamentos considerados críticos. Estas vacinas entram assim na lista de 113 fármacos com suspensão temporária de exportação.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/af/afa2dd4be0cf6a029a9558aee5dd8a2a?w=350&amp;q=50&amp;rect=0,87,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 14:45:53",
+        "category": "videos"
+    },
+    {
+        "headline": "Acompanhamento de doentes. ERS alerta unidades hospitalares",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/acompanhamento-de-doentes-ers-alerta-unidades-hospitalares_v1563222",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Entidade Reguladora da Saúde alertou as unidades hospitalares para a necessidade de garantir o direito ao acompanhamento dos utentes, sobretudo das pessoas mais vulneráveis. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/0f/0f6b9a62d129df3b37fad5e2fbdfd4be?w=350&amp;q=50&amp;rect=0,505,4898,2685&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 14:45:47",
+        "category": "videos"
+    },
+    {
+        "headline": "ADSE com novas tabelas em cirurgias e internamentos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/adse-com-novas-tabelas-em-cirurgias-e-internamentos_v1563221",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os beneficiários da ADSE vão pagar mais 36 a 68 euros pelos partos a partir do dia 1 de maio. Ou seja: 232 euros por um parto normal, e 345 por cesariana. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/06/06cd4ec1a7498b8e726ae0ab6e146b47?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 14:42:48",
+        "category": "videos"
+    },
+    {
+        "headline": "Inflação aumentou em março",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/inflacao-aumentou-em-marco_v1563220",
+        "content": [
+            {
+                "type": "text",
+                "data": "A inflação acelerou para 2,3% em março, em relação ao ano anterior. É uma subida de 0,2 pontos percentuais face ao mês anterior. Os dados finais divulgados pelo Instituto Nacional de Estatística mostram que esta aceleração da taxa é impulsionada pelos preços dos produtos energéticos, que estão quase 5% mais caros do que há um ano."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/6d/6d97801270a43f0829befaf8bbe0cb8f_N.jpg?"
+            }
+        ],
+        "published": "2024-04-10 14:40:47",
+        "category": "videos"
+    },
+    {
+        "headline": "Francisco Assis diz que Portugal falhou na formação cívica",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/francisco-assis-diz-que-portugal-falhou-na-formacao-civica_v1563218",
+        "content": [
+            {
+                "type": "text",
+                "data": "O quadro histórico do PS esteve com Rui Moreira na Aula da Democracia. Juntos, com alunos do secundário do Porto, pediram tolerância, mesmo perante o livro &quot;Identidade e Família&quot; que Assis vê como um retrocesso nacional. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/8f/8fb7a2de6803d16ea320a3e062f8bfb8_N.jpg?"
+            }
+        ],
+        "published": "2024-04-10 14:36:52",
+        "category": "videos"
+    },
+    {
+        "headline": "Buscas em Cascais. Autarquia está a colaborar com as autotidades",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/buscas-em-cascais-autarquia-esta-a-colaborar-com-as-autotidades_v1563216",
+        "content": [
+            {
+                "type": "text",
+                "data": "A PJ está a fazer buscas na Câmara de Cascais. Em causa estão negócios para a aquisição de máscaras, na altura em que Miguel Pinto Luz era vice-presidente da autarquia. Carlos Carreiras confirma que as buscas decorreram em vários edifícios da autarquia."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/22/221a4794897328badf9cd152b480ea96_N.jpg?"
+            }
+        ],
+        "published": "2024-04-10 14:31:47",
+        "category": "videos"
     }
 ]

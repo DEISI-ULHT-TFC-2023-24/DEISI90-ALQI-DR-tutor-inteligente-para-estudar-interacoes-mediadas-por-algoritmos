@@ -1715,5 +1715,56 @@
         ],
         "published": "2024-04-09 15:48:44",
         "category": "mundo"
+    },
+    {
+        "headline": "Provedor de Justiça moçambicano pede melhoria nos transportes face a naufrágio",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/provedor-de-justica-mocambicano-pede-melhoria-nos-transportes-face-a-naufragio_n1563260",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Provedor de Justiça de Moçambique, Isaque Chande, apelou hoje ao Governo para melhorar as condições de transporte no país, por via marítima, face ao naufrágio em Nampula, no domingo, que provocou 98 mortos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 16:36:59",
+        "category": "mundo"
+    },
+    {
+        "headline": "Espanha quer reconhecer Estado da Palestina até julho",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/espanha-quer-reconhecer-estado-da-palestina-ate-julho_v1563256",
+        "content": [
+            {
+                "type": "text",
+                "data": "Espanha vai reconhecer o Estado da Palestina. Mesmo que não haja consenso na UE, Pedro Sánchez já assumiu que o vai fazer ainda este semestre de forma unilateral. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/e2/e20ddcc0f86102dbd90280917ffec9a3?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 15:15:51",
+        "category": "mundo"
+    },
+    {
+        "headline": "Biden defende cessar-fogo de seis a oito semanas na Faixa de Gaza",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/biden-defende-cessar-fogo-de-seis-a-oito-semanas-na-faixa-de-gaza_v1563251",
+        "content": [
+            {
+                "type": "text",
+                "data": "Joe Biden discorda da forma como o primeiro-ministro israelita tem conduzido a guerra na Faixa de Gaza. O presidente norte-americano diz que era importante um cessar-fogo durante seis a oito semanas. Tempo que seria aproveitado para enviar ajuda humanitária para o terreno."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/6a/6a4fe91a2b9f055eca2f2d9e1bb16dcc_N.jpg?"
+            }
+        ],
+        "published": "2024-04-10 15:11:47",
+        "category": "mundo"
     }
 ]

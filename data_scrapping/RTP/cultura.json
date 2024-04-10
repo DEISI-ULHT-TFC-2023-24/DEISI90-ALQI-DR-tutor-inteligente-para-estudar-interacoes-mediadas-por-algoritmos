@@ -1222,5 +1222,56 @@
         ],
         "published": "2024-04-10 14:13:02",
         "category": "cultura"
+    },
+    {
+        "headline": "Escultura com 11 metros de altura em Carregal do Sal assinala os 50 anos de liberdade",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/50-anos-25-de-abril/escultura-com-11-metros-de-altura-em-carregal-do-sal-assinala-os-50-anos-de-liberdade_n1563274",
+        "content": [
+            {
+                "type": "text",
+                "data": "Uma escultura com cerca de 11 metros de altura e oito de largura, de Fernando Crespo, será inaugurada em 25 de abril em Carregal do Sal, um investimento do município de cerca de 200 mil euros."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 16:32:41",
+        "category": "cultura"
+    },
+    {
+        "headline": "Acompanhamento de doentes. ERS alerta unidades hospitalares",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/acompanhamento-de-doentes-ers-alerta-unidades-hospitalares_v1563222",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Entidade Reguladora da Saúde alertou as unidades hospitalares para a necessidade de garantir o direito ao acompanhamento dos utentes, sobretudo das pessoas mais vulneráveis. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/0f/0f6b9a62d129df3b37fad5e2fbdfd4be?w=350&amp;q=50&amp;rect=0,505,4898,2685&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 14:45:47",
+        "category": "cultura"
+    },
+    {
+        "headline": "ADSE com novas tabelas em cirurgias e internamentos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/adse-com-novas-tabelas-em-cirurgias-e-internamentos_v1563221",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os beneficiários da ADSE vão pagar mais 36 a 68 euros pelos partos a partir do dia 1 de maio. Ou seja: 232 euros por um parto normal, e 345 por cesariana. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/06/06cd4ec1a7498b8e726ae0ab6e146b47?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 14:42:48",
+        "category": "cultura"
     }
 ]

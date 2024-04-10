@@ -1732,5 +1732,56 @@
         ],
         "published": "2024-04-10 13:55:44",
         "category": "audios"
+    },
+    {
+        "headline": "Condecoração de Spínola é \"uma afronta\", insurge-se Fernando Rosas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/condecoracao-de-spinola-e-uma-afronta-insurge-se-fernando-rosas_a1563264",
+        "content": [
+            {
+                "type": "text",
+                "data": "O historiador e fundador do Bloco de Esquerda Fernando Rosas qualifica a condecoração com o Grande Colar da Ordem da Liberdade atribuída pelo Presidente da República no ano passado a António Spínola, como um &quot;insulto e uma provocação&quot;.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 16:08:33",
+        "category": "audios"
+    },
+    {
+        "headline": "A escola \"falhou na transmissão dos valores da democracia\", diz Assis",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/a-escola-falhou-na-transmissao-dos-valores-da-democracia-diz-assis_a1563263",
+        "content": [
+            {
+                "type": "text",
+                "data": "O deputado socialista Francisco Assis disse hoje que a escola pública falhou no campo da formação cívica porque há muita juventude permeável aos discursos extremistas, numa “aula sobre a democracia”, onde o independente Rui Moreira apelou à tolerância.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ca/ca8ca0a6ef553daf5804c69163478ed9?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 15:48:55",
+        "category": "audios"
+    },
+    {
+        "headline": "Assis considera Chega \"uma ameaça grave à democracia portuguesa\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/assis-considera-chega-uma-ameaca-grave-a-democracia-portuguesa_a1563199",
+        "content": [
+            {
+                "type": "text",
+                "data": "O deputado socialista Francisco Assis não tem dúvidas e expressa que “tudo o que seja uma aproximação ao Chega parece profundamente negativo”. Uma reação às palavras de Pedro Passos Coelho, que, há dois dias, sugeriu a possibilidade de um entendimento entre o PSD e o partido de André Ventura.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d3/d3ea78b15f39bb48d044ff43f57921e2?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 13:55:44",
+        "category": "audios"
     }
 ]

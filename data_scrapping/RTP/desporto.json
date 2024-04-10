@@ -1902,5 +1902,56 @@
         ],
         "published": "2024-04-08 20:01:56",
         "category": "desporto"
+    },
+    {
+        "headline": "Adeptos do Marselha ausentes do Estádio da Luz",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/adeptos-do-marselha-ausentes-do-estadio-da-luz_v1563258",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os adeptos do Benfica e do Marselha estão impedidos de acompanhar as equipas nos jogos fora dos quartos de final da Liga Europa. A proibição começou a pedido da polícia francesa para o jogo em Marselha. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/7e/7e13ddbba62d4ed81b300c5f5d911ab4_N.jpg?"
+            }
+        ],
+        "published": "2024-04-10 15:18:47",
+        "category": "desporto"
+    },
+    {
+        "headline": "Benfica na máxima força para defrontar o Marselha",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/benfica-na-maxima-forca-para-defrontar-o-marselha_v1563255",
+        "content": [
+            {
+                "type": "text",
+                "data": "É amanhã que o Benfica entra em campo na Liga Europa. O adversário é o Marselha, na primeira mão dos quartos de final. Para o duelo frente aos franceses, Roger Schmidt tem o plantel na máxima força. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/ed/ed43a2ae7ec436f10bdce689cb7432c3_N.jpg?"
+            }
+        ],
+        "published": "2024-04-10 15:15:46",
+        "category": "desporto"
+    },
+    {
+        "headline": "Roger Schmidt promete um Benfica à procura da vitória",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/benfica/roger-schmidt-promete-um-benfica-a-procura-da-vitoria_d1563219",
+        "content": [
+            {
+                "type": "text",
+                "data": "Roger Schmidt fez esta quarta-feira a antevisão ao jogo com o Marselha, da 1.ª mão dos quartos de final, marcado para quinta-feira, às 20h00, no Estádio da Luz. O treinador promete uma equipa concentrada à procura da vitória.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/e6/e6c87ef14500f35210df9c872885c808?w=350&amp;q=50&amp;rect=0,73,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 14:39:13",
+        "category": "desporto"
     }
 ]
