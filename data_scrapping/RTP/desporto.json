@@ -1086,5 +1086,821 @@
         ],
         "published": "2024-04-07 21:16:09",
         "category": "desporto"
+    },
+    {
+        "headline": "Francisco Cabral eliminado em pares do challenger de Madrid",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/francisco-cabral-eliminado-em-pares-do-challenger-de-madrid_d1563191",
+        "content": [
+            {
+                "type": "text",
+                "data": "O tenista português Francisco Cabral, ao lado do cazaque Aleksandr Nedovyesov, foi eliminado na primeira ronda de pares do challenger de Madrid, ao perder com os checos Petr Nouza e Patrik Rikl."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/93/9323bb58a045aad17b0ad6bd951d3e67?w=350&amp;q=50&amp;rect=0,0,859,471&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 13:00:01",
+        "category": "desporto"
+    },
+    {
+        "headline": "Paris2024. Ouro no atletismo vale prémio monetário",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/atletismo/paris2024-ouro-no-atletismo-vale-premio-monetario_d1563183",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os medalhados de ouro nas provas de atletismo dos Jogos Olímpicos Paris2024 vão receber 50.000 dólares, anunciou a World Athletics, que será a primeira federação internacional a dar esse prémio monetário.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/5b/5b7241f9dd7485b47c1539a37507507d?w=350&amp;q=50&amp;rect=0,0,779,427&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 11:57:23",
+        "category": "desporto"
+    },
+    {
+        "headline": "Alejandro Domínguez vai deixar hóquei em patins do Sporting",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/sporting/alejandro-dominguez-vai-deixar-hoquei-em-patins-do-sporting_d1563179",
+        "content": [
+            {
+                "type": "text",
+                "data": "O treinador argentino Alejandro Domínguez vai deixar o Sporting no final da época, informou o clube lisboeta, acrescentando existir um acordo entre as partes para uma saída amigável."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/00/002b740f2364d375d7a773936d2573b4?w=350&amp;q=50&amp;rect=0,53,900,493&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 11:44:53",
+        "category": "desporto"
+    },
+    {
+        "headline": "Queta faz \"duplo-duplo\" na final da G League da NBA",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/queta-faz-duplo-duplo-na-final-da-g-league-da-nba_d1563177",
+        "content": [
+            {
+                "type": "text",
+                "data": "O português Neemias Queta conseguiu um &quot;duplo-duplo&quot; na vitória dos Maine Celtics sobre os Oklahoma City Blues, por 106-86, no primeiro jogo da final da G League da NBA."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/12/1258ed368f65993c095f127c37145fce?w=350&amp;q=50&amp;rect=0,0,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 11:25:01",
+        "category": "desporto"
+    },
+    {
+        "headline": "LE. \"Águias\" com registo positivo nos \"quartos\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/benfica/le-aguias-com-registo-positivo-nos-quartos_d1563170",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Benfica caiu na primeira e na última vez que disputou os quartos de final da Liga Europa em futebol, mas, pelo meio, conseguiu três apuramentos e, por isso, tem um balanço positivo nesta fase de prova."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/bb/bba6dab580eeb1b7b210e3de503eb3ef?w=350&amp;q=50&amp;rect=0,106,1280,702&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 10:51:53",
+        "category": "desporto"
+    },
+    {
+        "headline": "Benfica em busca do 30.º jogo sem perder em casa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/benfica/benfica-em-busca-do-30o-jogo-sem-perder-em-casa_d1563165",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Benfica procura esta quinta-feira somar face aos franceses do Marselha o 30.º jogo sem perder em outros tantos jogos disputados em casa na Liga Europa em futebol, em embate da primeira mão dos quartos de final."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/e0/e0f23a375359767af8fa125c05fb1ce1?w=350&amp;q=50&amp;rect=0,148,1269,696&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 10:36:08",
+        "category": "desporto"
+    },
+    {
+        "headline": "Benfica nunca deixou uma equipa francesa vencer na Luz",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/benfica/benfica-nunca-deixou-uma-equipa-francesa-vencer-na-luz_d1563163",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Benfica tem um registo de invencibilidade nos confrontos caseiros com equipas francesas nas taças europeias de futebol, em vésperas do 18.º encontro, com o Marselha, para a primeira mão dos quartos de final da Liga Europa 2023/24."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/5f/5fd885d5ebb453660f4e08f0ba9d5fa8?w=350&amp;q=50&amp;rect=0,99,1280,702&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 10:23:03",
+        "category": "desporto"
+    },
+    {
+        "headline": "Corinthians de António Oliveira goleia na Taça sul-americana",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/corinthians-de-antonio-oliveira-goleia-na-taca-sul-americana_d1563159",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Corinthians, orientado pelo treinador português António Oliveira, goleou na receção aos paraguaios do Nacional Assunção por 4-0, em encontro da segunda do Grupo F da Taça sul-americana em futebol, que os brasileiros passaram a liderar."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/2a/2a44c59e8c5e470d48cc7234f0642b25?w=350&amp;q=50&amp;rect=9,0,1229,674&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 10:03:15",
+        "category": "desporto"
+    },
+    {
+        "headline": "Espinho recebe elite do circuito mundial de voleibol de praia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/espinho-recebe-elite-do-circuito-mundial-de-voleibol-de-praia_d1563156",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Beach Pro Tour Elite16 de Espinho vai decorrer entre 22 e 26 de maio, revelou a Federação Portuguesa de Voleibol (FPV), após a assinatura do protocolo com a Câmara Municipal de Espinho (CME).\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b0/b0d4b2873f494651faac7abf5b197826?w=350&amp;q=50&amp;rect=0,14,920,504&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 09:57:32",
+        "category": "desporto"
+    },
+    {
+        "headline": "Silvestre quer impor-se na seleção de futsal",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/selecao-nacional/silvestre-quer-impor-se-na-selecao-de-futsal_d1563155",
+        "content": [
+            {
+                "type": "text",
+                "data": "O ala Silvestre manifestou a intenção de se apresentar ao “melhor nível” nos particulares de Portugal diante da Eslovénia, para “complicar as contas” do selecionador Jorge Braz na convocatória para o Mundial2024 de futsal."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/04/04290e6779ff60ae292267fb8a843d97?w=350&amp;q=50&amp;rect=0,0,900,493&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 09:51:15",
+        "category": "desporto"
+    },
+    {
+        "headline": "Rubiales responde em tribunal a 29 de abril",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/rubiales-responde-em-tribunal-a-29-de-abril_d1563154",
+        "content": [
+            {
+                "type": "text",
+                "data": "O ex-presidente da Real Federação Espanhola de Futebol (RFEF) Luis Rubiales, indiciado de vários crimes no âmbito de um alegado esquema de corrupção, responde perante a justiça espanhola em 29 de abril, anunciou um tribunal de Madrid."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/15/15a96c0f317d9f154a9799d446ea6e87?w=350&amp;q=50&amp;rect=0,0,920,504&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 09:45:13",
+        "category": "desporto"
+    },
+    {
+        "headline": "Euro2025. Portugal vence Malta por 2-0 e lidera o grupo B3",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/euro2025-portugal-vence-malta-por-2-0-e-lidera-o-grupo-b3_v1563135",
+        "content": [
+            {
+                "type": "text",
+                "data": "A seleção feminina de futebol venceu Malta por 2-0. Com duas vitórias, Portugal lidera o Grupo da Liga das Nações, o que permite o acesso ao play-off de qualificação para o Euro de 2025 na Suíça."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/39/39f57fb8b61803f924682baf1ecc47ec_N.jpg?"
+            }
+        ],
+        "published": "2024-04-10 07:56:46",
+        "category": "desporto"
+    },
+    {
+        "headline": "Liga dos Campeões. Autoridades em alerta após ameaças do Estado Islâmico",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/liga-dos-campeoes-autoridades-em-alerta-apos-ameacas-do-estado-islamico_v1563132",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os jogos desta semana da Liga dos Campeões têm reforço de segurança. Em causa estão ameaças de atentados, por parte do autoproclamado Estado Islâmico, contra estádios de futebol."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d3/d3497f45b2519394e01abf90a4ae1649?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 07:54:46",
+        "category": "desporto"
+    },
+    {
+        "headline": "Liga dos Campeões: Bayern empata em Londres",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/liga-dos-campeoes/liga-dos-campeoes-bayern-empata-em-londres_d1563106",
+        "content": [
+            {
+                "type": "text",
+                "data": "Arsenal e Bayern de Munique empataram a duas bolas na primeira mão dos quartos de final da Liga dos Campeões, um jogo muito disputado em que ambas as equipas estiveram na dianteira. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/1f/1ff4cb2326343cc4a6f9a56a9fdf73b7?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 23:57:02",
+        "category": "desporto"
+    },
+    {
+        "headline": "Empate a três num emocionante Real Madrid - Manchester City na Liga dos Campeões",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/liga-dos-campeoes/empate-a-tres-num-emocionante-real-madrid-manchester-city-na-liga-dos-campeoes_d1563105",
+        "content": [
+            {
+                "type": "text",
+                "data": "Um golo magistral do futebolista Bernardo Silva ajudou o Manchester City a empatar a três bolas em casa do Real Madrid no arranque dos quartos de final da Liga dos Campeões."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/76/76bb0decdfb9b6c5f28aad5ae7cc4a9b?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 23:39:42",
+        "category": "desporto"
+    },
+    {
+        "headline": "Benfica e Marselha sem adeptos nos jogos fora no seu duelo da Liga Europa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/benfica/benfica-e-marselha-sem-adeptos-nos-jogos-fora-no-seu-duelo-da-liga-europa_d1563102",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os adeptos do Benfica e do Marselha vão ser impedidos de acompanhar as suas equipas nos jogos fora dos quartos de final da Liga Europa, respeitando a vontade das autoridades lusas e francesas.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/db/dbabb31fb493dd486d3079a23921385c?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 23:11:33",
+        "category": "desporto"
+    },
+    {
+        "headline": "Benfica-Marselha. Águias anulam bilhetes dos adeptos franceses",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/benfica-marselha-aguias-anulam-bilhetes-dos-adeptos-franceses_v1563095",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Benfica anulou os bilhetes já comprados pelos adeptos do Marselha para o jogo desta quinta-feira no Estádio da Luz.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/9a/9a9ee8611824938f5d2de70b93031112_N.jpg?"
+            }
+        ],
+        "published": "2024-04-09 22:30:49",
+        "category": "desporto"
+    },
+    {
+        "headline": "Pepa já não é treinador do Al-Ahli",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/pepa-ja-nao-e-treinador-do-al-ahli_v1563092",
+        "content": [
+            {
+                "type": "text",
+                "data": "O técnico português não resistiu a duas derrotas consecutivas no Campeonato, apesar de ter conseguido retirar a equipa do Catar da zona de despromoção. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/9e/9e12c4bad3e104c0a3f6a1d754ee701c_N.jpg?"
+            }
+        ],
+        "published": "2024-04-09 22:28:46",
+        "category": "desporto"
+    },
+    {
+        "headline": "Zicky Té dispensado do estágio da seleção de futsal devido a sobrecarga física",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futsal/zicky-te-dispensado-do-estagio-da-selecao-de-futsal-devido-a-sobrecarga-fisica_d1563072",
+        "content": [
+            {
+                "type": "text",
+                "data": "O pivô da seleção portuguesa de futsal Zicky Té foi hoje dispensado do estágio com vista aos dois jogos de preparação com a Eslovénia, por apresentar sinais de sobrecarga física, revelou a Federação Portuguesa de Futebol."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/73/73209db2db52abf614104c7bf5803146?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 21:31:11",
+        "category": "desporto"
+    },
+    {
+        "headline": "Portugal ganha em Malta na corrida para o Europeu feminino de 2025",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/selecao-nacional/portugal-ganha-em-malta-na-corrida-para-o-europeu-feminino-de-2025_d1563066",
+        "content": [
+            {
+                "type": "text",
+                "data": "A seleção portuguesa feminina de futebol somou o segundo triunfo em dois jogos no Grupo B3 de qualificação para o Campeonato da Europa de 2025 ao vencer Malta por 2-0 em encontro disputado em Ta’Qali.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/71/71316f3b08c66505767e87abde4ad04c?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 21:22:24",
+        "category": "desporto"
+    },
+    {
+        "headline": "18h30 09 Abr.. Edição de Fernando Eurico",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-desporto/18h30-09-abr-edicao-de-fernando-eurico_a1_1563054",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 19:59:02",
+        "category": "desporto"
+    },
+    {
+        "headline": "Diogo Jota regressa aos treinos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/diogo-jota-regressa-aos-treinos_d1563046",
+        "content": [
+            {
+                "type": "text",
+                "data": "O futebolista internacional português Diogo Jota regressou aos treinos do Liverpool, quase dois meses depois de ter sofrido uma lesão no joelho esquerdo, anunciou hoje o atual segundo classificado da Liga inglesa."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/e9/e96d9be7227082eaaf38dc3d892f68db?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 19:14:23",
+        "category": "desporto"
+    },
+    {
+        "headline": "Seleção feminina sub-19 fecha qualificação para o Europeu com triunfo sobre a Suíça",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/selecao-nacional/selecao-feminina-sub-19-fecha-qualificacao-para-o-europeu-com-triunfo-sobre-a-suica_d1563039",
+        "content": [
+            {
+                "type": "text",
+                "data": "Portugal venceu hoje a Suíça, por 1-0, na terceira e última jornada do Grupo A3 da Ronda de Elite de qualificação para o Campeonato da Europa feminino de sub-19, assegurando o segundo lugar e consequente manutenção na Liga A. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/3b/3bec4917060008113603edd428eb537b?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 18:56:57",
+        "category": "desporto"
+    },
+    {
+        "headline": "Liga italiana pede inquérito aos insultos racistas e antissemitas no Roma-Lazio",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/liga-italiana-pede-inquerito-aos-insultos-racistas-e-antissemitas-no-roma-lazio_d1563017",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Liga italiana (Serie A) solicitou à federação nacional (FIGC) a abertura de um inquérito aos insultos racistas que ocorreram no dérbi entre Roma e Lazio, no sábado, e que visaram os futebolistas Romelu Lukaku e Mattéo Guendouzi."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/4e/4e8acea65c0539c4cb4d37ffdf8c0829?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 16:52:29",
+        "category": "desporto"
+    },
+    {
+        "headline": "Carlos Alcaraz desiste de Monte Carlo devido a lesão",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/tenis/carlos-alcaraz-desiste-de-monte-carlo-devido-a-lesao_d1563011",
+        "content": [
+            {
+                "type": "text",
+                "data": "O tenista espanhol Carlos Alcaraz, número três mundial, anunciou a desistência do torneio de Monte Carlo, primeiro Masters 1000 da temporada de terra batida, devido a lesão."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/4b/4bf3f68716d34f3d97bdcbc6b86bff4b?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 16:36:45",
+        "category": "desporto"
+    },
+    {
+        "headline": "Delmino Pereira na Comissão de Honra da candidatura de Cândido Barbosa à FPC",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/delmino-pereira-na-comissao-de-honra-da-candidatura-de-candido-barbosa-a-fpc_d1563007",
+        "content": [
+            {
+                "type": "text",
+                "data": "O atual presidente da Federação Portuguesa de Ciclismo, Delmino Pereira, integra a Comissão de Honra da candidatura de Cândido Barbosa ao organismo, que inclui nomes sonantes como Marco Chagas, Joaquim Gomes ou Tiago Ferreira, foi hoje revelado.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_desporto.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 16:27:27",
+        "category": "desporto"
+    },
+    {
+        "headline": "Cândido Barbosa candidato à presidência da Federação Portuguesa de Ciclismo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/candido-barbosa-candidato-a-presidencia-da-federacao-portuguesa-de-ciclismo_d1563006",
+        "content": [
+            {
+                "type": "text",
+                "data": "Cândido Barbosa iniciou hoje “uma nova etapa” na sua vida, formalizando uma candidatura à presidência da Federação Portuguesa de Ciclismo baseada no “amor incondicional” à modalidade e que tem como objetivo “unir para conquistar”.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/23/23261140cbfefa1449aad987a8ea129b?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 16:24:25",
+        "category": "desporto"
+    },
+    {
+        "headline": "Pepa surpreendido com despedimento do Al Ahli",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/pepa-surpreendido-com-despedimento-do-al-ahli_d1563004",
+        "content": [
+            {
+                "type": "text",
+                "data": "O treinador português Pepa mostrou-se hoje surpreendido com a saída do comando técnico do Al Ahli, do Qatar, que foi divulgada na segunda-feira, salientando que as razões “são difíceis de aceitar”."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/5d/5dcdad056baec53e0d57dfddb4864e30?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 16:18:56",
+        "category": "desporto"
+    },
+    {
+        "headline": "França reforça segurança no PSG - Barcelona para a Liga dos Campeões",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/franca-reforca-seguranca-no-psg-barcelona-para-a-liga-dos-campeoes_d1563002",
+        "content": [
+            {
+                "type": "text",
+                "data": "O governo francês anunciou hoje um “reforço considerável” da segurança na capital do país para o jogo Paris Saint-Germain-FC Barcelona, da Liga dos Campeões, que foi um dos alvos de ameaças do Estado Islâmico.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/e7/e7a31e4818192cfac7724972f74569cd?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 16:12:16",
+        "category": "desporto"
+    },
+    {
+        "headline": "Tenista Gonçalo Oliveira passa a competir pela Venezuela",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/tenista-goncalo-oliveira-passa-a-competir-pela-venezuela_d1563001",
+        "content": [
+            {
+                "type": "text",
+                "data": "O tenista Gonçalo Oliveira, atual número três português, revelou hoje que vai passar a competir pela Venezuela, deixando críticas à falta de apoios que teve em Portugal nos últimos anos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/8d/8d8f14de595c2fbc2a16bac3d43e1063?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 16:04:14",
+        "category": "desporto"
+    },
+    {
+        "headline": "Estado Islâmico ameaça com atentados durante a Liga dos Campeões",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/estado-islamico-ameaca-com-atentados-durante-a-liga-dos-campeoes_v1562974",
+        "content": [
+            {
+                "type": "text",
+                "data": "O autoproclamado Estado Islâmico ameaça executar atentados nos jogos desta semana da Liga dos Campeões. As autoridades equacionam aumentar as medidas de segurança para as quatro  partidas que se realizam até quarta-feira.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/bd/bd68f1b8e99ff1cdd4284f6bc4335393?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 14:56:51",
+        "category": "desporto"
+    },
+    {
+        "headline": "Benfica desmente interesse em Mourinho",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/benfica-desmente-interesse-em-mourinho_v1562973",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Benfica desmente, em comunicado, qualquer interesse na contratação de José Mourinho para a próxima época. O Clube esclarece que são totalmente falsos os comentários e as informações que apontam para a contratação de um novo treinador. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/65/65c5e76f02849b2bcdc74740c04183d6_N.jpg?"
+            }
+        ],
+        "published": "2024-04-09 14:56:45",
+        "category": "desporto"
+    },
+    {
+        "headline": "Jonas Vingegaard foi operado com sucesso à clavícula",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/jonas-vingegaard-foi-operado-com-sucesso-a-clavicula_d1562944",
+        "content": [
+            {
+                "type": "text",
+                "data": "O ciclista dinamarquês Jonas Vingegaard foi operado com sucesso à clavícula, após a queda na Volta ao País Basco, anunciou a Visma-Lease a Bike, sem adiantar o tempo de recuperação."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/49/49088e285bb5160920d62ad262d59057?w=350&amp;q=50&amp;rect=0,0,1186,650&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 14:07:24",
+        "category": "desporto"
+    },
+    {
+        "headline": "Euro2024. Tolerância zero para aglomerados e protestos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/euro2024-tolerancia-zero-para-aglomerados-e-protestos_d1562931",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os árbitros vão ser mais rigorosos com os protestos e com aglomerados de jogadores no Euro2024 de futebol, que se vai disputar na Alemanha, revelou o diretor de arbitragem da UEFA."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/a0/a002f625cd7ae1e55f1db9864e490a25?w=350&amp;q=50&amp;rect=0,46,1024,561&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 12:44:01",
+        "category": "desporto"
+    },
+    {
+        "headline": "Franceses não eliminam o Benfica há mais de 26 anos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/benfica/franceses-nao-eliminam-o-benfica-ha-mais-de-26-anos_d1562927",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Benfica tem um balanço muito favorável face a clubes franceses nas taças europeias de futebol, com nove apuramentos em 11 eliminatórias, sendo que não &quot;tomba&quot; perante gauleses há mais de 26 anos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/39/39a5489315870c8e9a0097e529587adf?w=350&amp;q=50&amp;rect=0,48,1280,702&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 12:19:36",
+        "category": "desporto"
+    },
+    {
+        "headline": "Vata e o improvável pé direito de Kardec",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/benfica/vata-e-o-improvavel-pe-direito-de-kardec_d1562925",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Benfica já defrontou por duas vezes os franceses do Marselha nas taças europeias de futebol e logrou o apuramento em ambas, sempre com golos tardios, através da inesquecível &quot;mão&quot; de Vata e do pé direito de Kardec."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/9c/9c8c681791a7438a6799fba13c217f72?w=350&amp;q=50&amp;rect=0,0,1024,561&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 11:57:46",
+        "category": "desporto"
+    },
+    {
+        "headline": "\"Mão de Vata\" frente ao Marselha foi há 34 anos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/benfica/mao-de-vata-frente-ao-marselha-foi-ha-34-anos_d1562923",
+        "content": [
+            {
+                "type": "text",
+                "data": "O antigo futebolista angolano Vata, célebre pelo golo marcado com o braço ao Marselha no Estádio da Luz, revelou ter tido uma noite sem dormir em abril de 1990, com o telefone de casa sempre a tocar.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/57/573254b611a32e7c416f4c669006580b?w=350&amp;q=50&amp;rect=0,18,1320,724&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 11:37:56",
+        "category": "desporto"
+    },
+    {
+        "headline": "Michael Oliver arbitra o Benfica-Marselha",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/benfica/michael-oliver-arbitra-o-benfica-marselha_d1562915",
+        "content": [
+            {
+                "type": "text",
+                "data": "O juiz de campo Michael Oliver irá arbitrar o jogo Benfica-Marselha da 1.ª mão dos quartos de final da Liga Europa, de futebol.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ad/adf2da856e3ad8c382090152a97d6ea8?w=350&amp;q=50&amp;rect=0,10,840,461&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 11:14:28",
+        "category": "desporto"
+    },
+    {
+        "headline": "Benfica tenta recuperar confiança frente ao Marselha",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/benfica/benfica-tenta-recuperar-confianca-frente-ao-marselha_d1562905",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Benfica, na ressaca de dois dérbis com o Sporting com resultados negativos, inicia na quinta-feira a corrida às meias-finais da Liga Europa em futebol, a prova que lhe resta, no reencontro com o Marselha."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/07/0772c8f47b4fdf5a841cd029f9129202?w=350&amp;q=50&amp;rect=0,52,1280,702&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 10:40:27",
+        "category": "desporto"
+    },
+    {
+        "headline": "Estado Islâmico ameaça atacar jogos da \"Champions\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/estado-islamico-ameaca-atacar-jogos-da-champions_d1562893",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Estado Islâmico (EI) ameaçou executar ataques terroristas durante os jogos da primeira mão dos quartos de final da Liga dos Campeões, com jogos em Londres, Paris e Madrid, confirmou um organismo especializado em rastrear grupos terroristas.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/a8/a85fd493387cac70aa6b7173a5586a25?w=350&amp;q=50&amp;rect=0,0,850,466&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 09:43:09",
+        "category": "desporto"
+    },
+    {
+        "headline": "CAF quer a reabilitação do Estádio de São Tomé",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/caf-quer-a-reabilitacao-do-estadio-de-sao-tome_d1562889",
+        "content": [
+            {
+                "type": "text",
+                "data": "O presidente da Confederação Africana de Futebol (CAF) pediu a reabilitação do Estádio Nacional 12 de julho, em São Tomé, interditado desde 2021, para que a seleção do arquipélago volte a receber jogos internacionais."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/42/42a6287cbf13a427d0d56188b2b230da?w=350&amp;q=50&amp;rect=0,0,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 09:35:12",
+        "category": "desporto"
+    },
+    {
+        "headline": "Neemias Queta assina contrato standard com Celtics",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/neemias-queta-assina-contrato-standard-com-celtics_d1562850",
+        "content": [
+            {
+                "type": "text",
+                "data": "O basquetebolista internacional português Neemias Queta assinou um contrato standard com os Boston Celtics e poderá, assim, participar nos play-offs da NBA, anunciou o clube do Massachusetts."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/a9/a9402e4cf0a2e782716639d8455556f0?w=350&amp;q=50&amp;rect=0,0,920,504&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 04:55:49",
+        "category": "desporto"
+    },
+    {
+        "headline": "Inter a caminho do título",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/inter-a-caminho-do-titulo_d1562842",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Inter segue imparável rumo ao seu 20.º título italiano e hoje venceu em casa da Udinese, por 2-1, na 31.ª jornada da Serie A, na qual só uma equipa, o Sassuolo, derrotou os ‘nerazzurri’."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/96/966eef05f26761f47f3534bb1e8f4951?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-08 23:52:24",
+        "category": "desporto"
+    },
+    {
+        "headline": "FC Porto B vence em Viseu",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/fc-porto-b-vence-em-viseu_d1562834",
+        "content": [
+            {
+                "type": "text",
+                "data": "Um &#039;bis&#039; de Wndel Silva permitiu hoje ao FC Porto B vencer o Académico de Viseu 2-0, no Fontelo, no encerramento da 28.ª jornada II Liga, com o avançado portista a desperdiçar ainda uma grande penalidade.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b2/b2bcdd0ed5b3abc2a498633ce9dd53b7?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-08 22:17:35",
+        "category": "desporto"
+    },
+    {
+        "headline": "Sérgio Conceição: \"Vão ter que levar connosco até ao final\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/sergio-conceicao-vao-ter-que-levar-connosco-ate-ao-final_v1562827",
+        "content": [
+            {
+                "type": "text",
+                "data": "Álvaro Pacheco elogiou a exibição que o Vitória fez no Dragão. Já Sérgio Conceição admitiu que o Porto devia ter feito mais, mas voltou a invocar a arbitragem."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/fe/fe874b7e90280f5c42ddcf52604ae89f_N.jpg?"
+            }
+        ],
+        "published": "2024-04-08 22:01:48",
+        "category": "desporto"
+    },
+    {
+        "headline": "Casa Pia - Estoril Praia sem golos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/casa-pia-estoril-praia-sem-golos_e1562772",
+        "content": [
+            {
+                "type": "text",
+                "data": "A 28.ª jornada da I Liga terminou com um empate a zero entre Casa Pia e Estoril, em Rio Maior, resultado que permite aos &#039;canarinhos&#039; distanciarem-se ligeiramente da zona de descida.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/75/7527441ac0d0d9fb5041244a8a6979fb?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-08 20:54:42",
+        "category": "desporto"
+    },
+    {
+        "headline": "Tiago Sousa fala em “objetivo alcançado” e em “dar o melhor” pela seleção de futsal",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/tiago-sousa-fala-em-objetivo-alcancado-e-em-dar-o-melhor-pela-selecao-de-futsal_d1562783",
+        "content": [
+            {
+                "type": "text",
+                "data": "O fixo Tiago Sousa disse hoje que a chamada à seleção portuguesa de futsal foi um “objetivo alcançado”, pelo que tenciona “dar o melhor” de si para uma eventual estreia nos dois particulares contra a Eslovénia."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/af/aff5aa4add18acd04f465ac739f8af4f?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-08 20:06:15",
+        "category": "desporto"
+    },
+    {
+        "headline": "Euro 2024: Selecionador português agradado com discussão sobre tamanho da convocatória",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/selecao-nacional/euro-2024-selecionador-portugues-agradado-com-discussao-sobre-tamanho-da-convocatoria_d1562782",
+        "content": [
+            {
+                "type": "text",
+                "data": "O selecionador da equipa portuguesa masculina de futebol, o espanhol Roberto Martínez, disse hoje que os técnicos têm tido “uma boa conversa” num evento da UEFA quanto ao tamanho da convocatória para o Euro2024.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/df/dfcf75c0a0875768b84f3aaee9136c09?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-08 20:01:56",
+        "category": "desporto"
     }
 ]

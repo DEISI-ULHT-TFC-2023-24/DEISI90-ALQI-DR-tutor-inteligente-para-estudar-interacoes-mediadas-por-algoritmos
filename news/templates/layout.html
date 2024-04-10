@@ -3,7 +3,9 @@
 
 <html lang="" style="width: 100%; height: 100%;background-color: #070607;padding-top: 0.5%">
 <head>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+
     <meta charset="UTF-8">
     <title>Edu-News</title>
     <style>
@@ -124,25 +126,15 @@
             }
         </script>
 
-        <button id="refresh_news">Refresh News</button>
+       <button id="refreshButton">Refresh News</button>
+
+
 
         <script>
-            $(document).ready(function() {
-                $('#refresh_news').click(function() {
-                    $.ajax({
-                        url: '{% url 'refresh_news' %}',
-                        type: 'GET',
-                        success: function(response) {
-                            alert(response);
-                        },
-                        error: function(xhr, status, error) {
-                            console.error(error);
-                        }
-                    });
-                });
-            });
-        </script>
-
+    document.getElementById("refreshButton").addEventListener("click", function() {
+        window.location.href = "{% url 'refresh_news' %}";
+    });
+</script>
 
 
 

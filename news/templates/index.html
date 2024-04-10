@@ -10,7 +10,9 @@
 
 {% block content %}
     <div class="container2" style="width: 100%">
+    {% if obj|length > 0%}
         {% for x in obj %}
+
             <a style="text-decoration: none" href="{% url 'news_detail' x.pk %}">
             <div class="container">
                 <h2>
@@ -23,6 +25,7 @@
             <div style="height: 20px"></div>
             </a>>
         {% endfor %}
+    {% endif %}
     </div>
 
     <!-- Optional JavaScript; choose one of the two! -->

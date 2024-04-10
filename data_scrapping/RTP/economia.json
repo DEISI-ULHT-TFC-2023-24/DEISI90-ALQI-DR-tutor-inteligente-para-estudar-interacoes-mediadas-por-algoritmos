@@ -882,5 +882,923 @@
         ],
         "published": "2024-04-07 20:54:03",
         "category": "economia"
+    },
+    {
+        "headline": "INE confirma aceleração da subida dos preços para 2,3% em março",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/ine-confirma-aceleracao-da-subida-dos-precos-para-23-em-marco_n1563184",
+        "content": [
+            {
+                "type": "text",
+                "data": "A taxa de inflação homóloga fixou-se nos 2,3% em março, 0,2 pontos percentuais acima da registada em fevereiro, confirmou hoje o Instituto Nacional de Estatística.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ed/ed7ff3494a6a16e98e3c2aa44163603c?w=350&amp;q=50&amp;rect=0,0,859,471&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 12:11:27",
+        "category": "economia"
+    },
+    {
+        "headline": "Milei com popularidade em alta apesar de medidas autoritárias",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/milei-com-popularidade-em-alta-apesar-de-medidas-autoritarias_a1563180",
+        "content": [
+            {
+                "type": "text",
+                "data": "Quatro meses depois de chegar ao poder, o presidente argentino, Javier Milei, consegue manter a popularidade em alta, apesar dos despedimentos na função pública e do encerramento de empresas."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/79/7999d13290dfc15e9d51569f4cd04551?w=350&amp;q=50&amp;rect=0,45,4331,2374&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 11:49:50",
+        "category": "economia"
+    },
+    {
+        "headline": "Trabalhadores da EDP em protesto criticam distribuição de lucros",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/trabalhadores-da-edp-em-protesto-criticam-distribuicao-de-lucros_a1563171",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os trabalhadores da EDP realizam esta quarta-feira, dia de assembleia geral de acionistas, uma manifestação que se associa à greve ao trabalho suplementar, que começou em dezembro do ano passado, bem como à paralisação de 24 horas dos últimos três dias.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/60/6097edbc5d431562e1fbbc327e31f75b?w=350&amp;q=50&amp;rect=0,228,6000,3289&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 11:33:15",
+        "category": "economia"
+    },
+    {
+        "headline": "Luz Saúde pede admissão em bolsa e avança com aumento de capital de 100 ME",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/luz-saude-pede-admissao-em-bolsa-e-avanca-com-aumento-de-capital-de-100-me_n1563148",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Luz Saúde, que opera uma rede de unidades de saúde, anunciou a intenção de pedir admissão à Euronext Lisboa e prevê realizar um aumento de capital de 100 milhões de euros, segundo um comunicado do seu acionista, Fidelidade."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 09:35:20",
+        "category": "economia"
+    },
+    {
+        "headline": "Visabeira ganha contratos para levar eletricidade a 200 mil famílias moçambicanas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/visabeira-ganha-contratos-para-levar-eletricidade-a-200-mil-familias-mocambicanas_n1563136",
+        "content": [
+            {
+                "type": "text",
+                "data": "O grupo português Visabeira foi escolhido para três empreitadas para levar eletricidade a mais de 200 mil famílias em zonas rurais de Moçambique, um investimento público de 24,5 milhões de dólares (22,6 milhões de euros)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 09:07:11",
+        "category": "economia"
+    },
+    {
+        "headline": "Fitch baixa perspetiva sobre China para negativa devido a \"riscos crescentes\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/fitch-baixa-perspetiva-sobre-china-para-negativa-devido-a-riscos-crescentes_n1563134",
+        "content": [
+            {
+                "type": "text",
+                "data": "A agência de `rating` Fitch baixou hoje a perspetiva para a economia chinesa para negativa, face aos &quot;riscos crescentes&quot; para as finanças públicas devido à transição para um modelo de crescimento menos dependente do imobiliário."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 07:57:49",
+        "category": "economia"
+    },
+    {
+        "headline": "Demitiu-se a presidente da SATA",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/demitiu-se-a-presidente-da-sata_v1563093",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Governo Regional dos Açores anunciou que Teresa Gonçalves deixa o cargo por motivos pessoais. A gestora vai continuar até ao final deste mês a assumir todas as decisões sobre o grupo que inclui a SATA Air Açores e a Azores Airlines."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/78/782b699a01ceacd2b2e2aee87890f401?w=350&amp;q=50&amp;rect=0,11,1560,855&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 22:29:48",
+        "category": "economia"
+    },
+    {
+        "headline": "Certificados de aforro. Baixos rendimentos ganham com declaração no IRS",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/certificados-de-aforro-baixos-rendimentos-ganham-com-declaracao-no-irs_v1563088",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os trabalhadores e pensionistas com baixos rendimentos podem ter vantagem em declarar as poupanças em certificados de aforro e em depósitos a prazo. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/cc/cc452e63df60e2505eb5a10b9378b847_N.jpg?"
+            }
+        ],
+        "published": "2024-04-09 22:13:46",
+        "category": "economia"
+    },
+    {
+        "headline": "Morreu Carlos Moreno, juiz conselheiro jubilado do Tribunal de Contas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/morreu-carlos-moreno-juiz-conselheiro-jubilado-do-tribunal-de-contas_n1563056",
+        "content": [
+            {
+                "type": "text",
+                "data": "O juiz conselheiro Carlos Moreno, jubilado do Tribunal de Contas (TdC), faleceu, anunciou esta terça-feira a instituição, em comunicado colocado no seu sítio na internet. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 21:48:20",
+        "category": "economia"
+    },
+    {
+        "headline": "Iniciativa Liberal quer revogar o pacote Mais Habitação",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/iniciativa-liberal-quer-revogar-o-pacote-mais-habitacao_v1563067",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Iniciativa Liberal quer revogar o pacote Mais Habitação de António Costa. Rui Rocha pretende acabar com o que entende serem agressões à propriedade privada, como o alojamento compulsivo."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/5c/5c19dff61d0f705870c038fd1e17e367?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 21:22:46",
+        "category": "economia"
+    },
+    {
+        "headline": "Exportações subiram 2,3% em fevereiro",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/exportacoes-subiram-23-em-fevereiro_v1563065",
+        "content": [
+            {
+                "type": "text",
+                "data": "As exportações subiram 2,3% em fevereiro. Segundo o Instituto Nacional de Estatística, este aumento deve-se à venda de produtos alimentares e bebidas, que registaram uma subida nas exportações de quase 15 por cento. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/2f/2f3c98f074b6a0c826aebdad49e071f5_N.jpg?"
+            }
+        ],
+        "published": "2024-04-09 21:19:46",
+        "category": "economia"
+    },
+    {
+        "headline": "CFP mantém previsão de 1,6% de crescimento da economia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/cfp-mantem-previsao-de-16-de-crescimento-da-economia_v1563064",
+        "content": [
+            {
+                "type": "text",
+                "data": "É um cartão amarelo do Conselho de Finanças Públicas. O organismo avisou que os excedentes orçamentais estão em causa se o novo Governo der resposta às reivindicações dos vários setores da administração pública."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/df/df681e41e00e3ac3a259ce43347ca32b_N.jpg?"
+            }
+        ],
+        "published": "2024-04-09 21:18:47",
+        "category": "economia"
+    },
+    {
+        "headline": "CFP recomenda prudência e cálculo preciso das medidas para descongelamento de carreiras",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/cfp-recomenda-prudencia-e-calculo-preciso-das-medidas-para-descongelamento-de-carreiras_a1563050",
+        "content": [
+            {
+                "type": "text",
+                "data": "A presidente do Conselho das Finanças Públicas avisa que as medidas de recuperação do tempo congelado das carreiras especiais e novos subsídios precisam de ser quantificadas e recomenda prudência sobre os aumentos de despesa permanente.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/35/35a96f205b64cc7a1478d88058e1e9e7?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 19:54:25",
+        "category": "economia"
+    },
+    {
+        "headline": "Brasil. Licença para mina de potassa na Amazónia considerada \"ilegal\" por autoridades federais",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/brasil-licenca-para-mina-de-potassa-na-amazonia-considerada-ilegal-por-autoridades-federais_n1563044",
+        "content": [
+            {
+                "type": "text",
+                "data": "As autoridades do Estado do Amazonas tinham dado luz verde segunda-feira à construção da maior mina de fertilizantes da América Latina, um projeto da firma Brazil Potash Corp, sediada no Canadá. Horas depois, a licença foi indeferida pela procuradoria federal."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/a1/a13155e739b12664a86ef094a6c3f044?w=350&amp;q=50&amp;rect=0,89,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 19:08:18",
+        "category": "economia"
+    },
+    {
+        "headline": "PSI sobe 0,17 por cento com apenas quatro cotadas em alta",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/psi-sobe-017-por-cento-com-apenas-quatro-cotadas-em-alta_n1563034",
+        "content": [
+            {
+                "type": "text",
+                "data": "A bolsa de Lisboa encerrou esta terça-feira em alta, com o índice PSI a avançar 0,17% para 6.275,83 pontos, apesar de só quatro cotadas terem ficado em terreno positivo.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 18:40:47",
+        "category": "economia"
+    },
+    {
+        "headline": "Presidente da SATA demitiu-se por \"razões pessoais e de contexto\", afirma Bolieiro",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/presidente-da-sata-demitiu-se-por-razoes-pessoais-e-de-contexto-afirma-bolieiro_n1563032",
+        "content": [
+            {
+                "type": "text",
+                "data": "O presidente do Governo dos Açores afirmou esta terça-feira que Teresa Gonçalves apresentou a demissão da presidência da SATA por &quot;razões pessoais e de contexto&quot; e garantiu que não vão existir procedimentos suspensos devido às mudanças na administração. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 18:39:50",
+        "category": "economia"
+    },
+    {
+        "headline": "Fome imposta por Telavive é mortal para as crianças, defende Human Rights Watch",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/fome-imposta-por-telavive-e-mortal-para-as-criancas-defende-human-rights-watch_n1563019",
+        "content": [
+            {
+                "type": "text",
+                "data": "As crianças em Gaza têm morrido de complicações relacionadas com a falta de alimentação &quot;desde que o Governo israelita começou a usar a fome como arma de guerra, constituindo um crime de guerra&quot;, defendeu esta terça-feira uma organização internacional.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/bd/bd4af3905d22ac6528f35cc63a54b266?w=350&amp;q=50&amp;rect=20,0,1459,800&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 18:29:42",
+        "category": "economia"
+    },
+    {
+        "headline": "Tribunal de Contas acusa Governo de ter ignorado recomendações sobre abandono escolar",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/tribunal-de-contas-acusa-governo-de-ter-ignorado-recomendacoes-sobre-abandono-escolar_n1563016",
+        "content": [
+            {
+                "type": "text",
+                "data": "Falhas no controlo das matrículas dos alunos ou situações de risco de abandono escolar não detetadas são alguns dos problemas apontados pelos auditores do Tribunal de Contas (TdC), que acusam o anterior Governo de não ter seguido as suas recomendações.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 18:24:11",
+        "category": "economia"
+    },
+    {
+        "headline": "Sonae Sierra investe 700 milhões em oito projetos de promoção imobiliária",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/sonae-sierra-investe-700-milhoes-em-oito-projetos-de-promocao-imobiliaria_n1563014",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Sonae Sierra tem em curso um investimento de 700 milhões de euros em oito projetos de promoção imobiliária, que, a par do &quot;investment management&quot;, é uma nova área de aposta da empresa anteriormente focada no negócio dos centros comerciais.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 18:15:21",
+        "category": "economia"
+    },
+    {
+        "headline": "MP recorre da decisão que negou contrato de trabalho a 27 estafetas da Glovo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/mp-recorre-da-decisao-que-negou-contrato-de-trabalho-a-27-estafetas-da-glovo_n1563013",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Ministério Público vai recorrer da decisão que negou o direito a contrato de trabalho a 27 estafetas da plataforma Glovo, anunciou esta terça-feira a Procuradoria-Geral da República (PGR).\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 18:11:22",
+        "category": "economia"
+    },
+    {
+        "headline": "Conselho das Finanças Públicas antevê desaceleração económica em 2024",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/conselho-das-financas-publicas-anteve-desaceleracao-economica-em-2024_a1563020",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Conselho das Finanças Públicas prevê a desaceleração da atividade económica para 1,6 por cento em 2024, com recuperação para 1,9 por cento em 2025 e 2,1 por cento em 2026.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/9c/9c9975f47959e549f78226e0efa92028?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 17:35:14",
+        "category": "economia"
+    },
+    {
+        "headline": "Conselho de Finanças Públicas prevê descida da taxa de inflação para cerca de 2%",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/conselho-de-financas-publicas-preve-descida-da-taxa-de-inflacao-para-cerca-de-2_n1563008",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Conselho de Finanças Públicas anunciou esta terça-feira que prevê uma tendência de descida da taxa de inflação para valores em torno dos dois por cento e um crescimento de 2,0 por cento da economia portuguesa no médio prazo.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/2e/2ed769e6fb9a06fbf934710e11795e28?w=350&amp;q=50&amp;rect=0,119,2000,1096&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 16:31:32",
+        "category": "economia"
+    },
+    {
+        "headline": "Aenergy recorre a arbitragem internacional em disputa com Angola sobre turbinas elétricas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/aenergy-recorre-a-arbitragem-internacional-em-disputa-com-angola-sobre-turbinas-eletricas_n1562981",
+        "content": [
+            {
+                "type": "text",
+                "data": "O empresário português Ricardo Machado, fundador da Aenergy, que há anos está envolvido numa disputa legal com Angola, recorreu à arbitragem das instâncias internacionais, o primeiro caso no âmbito do acordo bilateral de proteção de investimento Portugal-Angola."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 15:47:41",
+        "category": "economia"
+    },
+    {
+        "headline": "Sonae Sierra e PGIM lançam `joint venture` na hotelaria e compram primeiro hotel no Porto",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/sonae-sierra-e-pgim-lancam-joint-venture-na-hotelaria-e-compram-primeiro-hotel-no-porto_n1562957",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Sonae Sierra anunciou hoje uma `joint venture` com a PGIM Real Estate para investimento na área da hotelaria que já comprou um primeiro hotel no Porto e prevê adquirir mais quatro em dois anos no Porto, Lisboa e Algarve."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 14:28:47",
+        "category": "economia"
+    },
+    {
+        "headline": "Teresa Gonçalves demite-se da presidência da SATA",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/teresa-goncalves-demite-se-da-presidencia-da-sata_n1562950",
+        "content": [
+            {
+                "type": "text",
+                "data": "A presidente da companhia aérea açoriana SATA, Teresa Gonçalves, demitiu-se do cargo por &quot;motivos pessoais&quot;, anunciou hoje o Governo Regional. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 14:26:55",
+        "category": "economia"
+    },
+    {
+        "headline": "Decisão europeia sobre clima fez \"grande fenda\" mas falta derrubar o muro",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/decisao-europeia-sobre-clima-fez-grande-fenda-mas-falta-derrubar-o-muro_n1562936",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os jovens portugueses cuja queixa contra 32 países por inação no combate às alterações climáticas foi hoje rejeitado em tribunal consideraram que abriram &quot;uma grande fenda&quot;, mas ainda é preciso derrubar &quot;o muro&quot;."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 14:18:53",
+        "category": "economia"
+    },
+    {
+        "headline": "BE/Açores propõe anulação da privatização da SATA Internacional para defender interesse público",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/beacores-propoe-anulacao-da-privatizacao-da-sata-internacional-para-defender-interesse-publico_n1562933",
+        "content": [
+            {
+                "type": "text",
+                "data": "O BE/Açores entregou hoje na Assembleia Legislativa Regional uma proposta que recomenda ao Governo Regional (PSD/CDS-PP/PPM) que anule o processo de privatização da SATA Internacional, com o objetivo de &quot;defender o interesse público&quot;, anunciou o partido."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 14:11:06",
+        "category": "economia"
+    },
+    {
+        "headline": "Exportações e importações aumentam 2,3% e 1,5% em fevereiro",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/exportacoes-e-importacoes-aumentam-23-e-15-em-fevereiro_n1562928",
+        "content": [
+            {
+                "type": "text",
+                "data": "As exportações e as importações de bens aumentaram em termos nominais 2,3% e 1,5% em fevereiro face ao mesmo mês de 2023, contra um aumento de 0,5% e um recuo de 4,1% em janeiro, foi hoje anunciado. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/81/81394c785040fe8f93e256e05a79ad87?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 14:10:21",
+        "category": "economia"
+    },
+    {
+        "headline": "Famílias na zona euro investiram menos e pouparam mais no 4.º trimestre de 2023",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/familias-na-zona-euro-investiram-menos-e-pouparam-mais-no-4o-trimestre-de-2023_n1562919",
+        "content": [
+            {
+                "type": "text",
+                "data": "A taxa de investimento das famílias na zona euro abrandou, no quarto trimestre de 2023, para 9,7% face à de 10,1% homóloga e a de poupança subiu de 13,3% para 14,6%, divulga hoje o Eurostat."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 12:15:22",
+        "category": "economia"
+    },
+    {
+        "headline": "Preço do ouro atinge novo máximo de mais de 2.358 dólares por onça troy",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/preco-do-ouro-atinge-novo-maximo-de-mais-de-2358-dolares-por-onca-troy_n1562912",
+        "content": [
+            {
+                "type": "text",
+                "data": "O preço do ouro, um ativo de refúgio, atingiu hoje um novo máximo de mais de 2.358 dólares por onça troy, graças a compras de bancos centrais, às tensões geopolíticas e à incerteza sobre a política monetária.     "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 12:15:00",
+        "category": "economia"
+    },
+    {
+        "headline": "Forças militares da SADC iniciaram retirada de Cabo Delgado",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/forcas-militares-da-sadc-iniciaram-retirada-de-cabo-delgado_n1562920",
+        "content": [
+            {
+                "type": "text",
+                "data": "O contingente militar do Botsuana começou a retirar-se na sexta-feira de Cabo Delgado, norte de Moçambique, marcando o início da saída da Missão da Comunidade de Desenvolvimento da África Austral (SAMIM) que combatia o terrorismo, foi hoje anunciado. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 12:12:48",
+        "category": "economia"
+    },
+    {
+        "headline": "Balança de pagamentos da zona euro com excedente de 72,3 mil ME no 4.º trimestre de 2023",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/balanca-de-pagamentos-da-zona-euro-com-excedente-de-723-mil-me-no-4o-trimestre-de-2023_n1562910",
+        "content": [
+            {
+                "type": "text",
+                "data": "A balança de pagamentos da zona euro registou, no último trimestre de 2023, um excedente de 72,3 mil milhões de euros, face ao défice homólogo de 6,4 mil milhões, segundo dados hoje divulgados pelo Eurostat."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 12:08:47",
+        "category": "economia"
+    },
+    {
+        "headline": "Turquia restringe exportações para Israel",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/turquia-restringe-exportacoes-para-israel_n1562886",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Turquia restringiu exportações para Israel respeitantes a uma série de mercadorias, incluindo produtos de aço, ferro e alumínio, anunciou hoje o Ministério do Comércio turco."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 09:29:36",
+        "category": "economia"
+    },
+    {
+        "headline": "BCI e Millennium BIM entre os bancos sistémicos em Moçambique",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/bci-e-millennium-bim-entre-os-bancos-sistemicos-em-mocambique_n1562870",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os bancos moçambicanos BCI e Millennium BIM, participados por bancos portugueses, mantêm-se entre as três instituições domésticas de importância sistémica em Moçambique, juntamente com o Standard Bank, segundo o banco central."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 08:30:11",
+        "category": "economia"
+    },
+    {
+        "headline": "Impedir acesso de jornalistas a Gaza permite \"florescimento da desinformação\", afirmou Guterres",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/impedir-acesso-de-jornalistas-a-gaza-permite-florescimento-da-desinformacao-afirmou-guterres_n1562845",
+        "content": [
+            {
+                "type": "text",
+                "data": "O secretário-geral das Nações Unidas, António Guterres, defendeu esta segunda-feira que Gaza vive uma guerra de informação que &quot;aumentou o trauma da guerra&quot; e alertou que negar a entrada de jornalistas internacionais no enclave permite &quot;o florescimento da desinformação&quot;.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/4e/4e55a47adb069867362c42594e350613?w=350&amp;q=50&amp;rect=20,0,1459,800&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 00:45:30",
+        "category": "economia"
+    },
+    {
+        "headline": "Imprensa estrangeira quer ter acesso independente à Faixa de Gaza",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/imprensa-estrangeira-quer-ter-acesso-independente-a-faixa-de-gaza_n1562841",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Associação da Imprensa Estrangeira (AIE) em Israel, que representa os jornalistas que cobrem o país e os territórios palestinianos ocupados, solicitou esta segunda-feira ao governo israelita um acesso independente à Faixa de Gaza. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-08 23:51:28",
+        "category": "economia"
+    },
+    {
+        "headline": "Pedro Nuno diz que seria um erro deixar para o OE solução para grupos da função pública",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/pedro-nuno-diz-que-seria-um-erro-deixar-para-o-oe-solucao-para-grupos-da-funcao-publica_n1562837",
+        "content": [
+            {
+                "type": "text",
+                "data": "O líder do PS considerou esta segunda-feira que &quot;seria um erro&quot; adiar e deixar para o Orçamento do Estado para 2025 a solução para grupos profissionais da administração pública, apontando um &quot;dose de arrogância&quot; na resposta do primeiro-ministro à sua carta.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-08 22:53:33",
+        "category": "economia"
+    },
+    {
+        "headline": "Mais de 1,2 milhões de euros já entregaram a declaração do IRS",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/mais-de-12-milhoes-de-euros-ja-entregaram-a-declaracao-do-irs_n1562819",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Portal das Finanças registou a submissão de mais de 1,2 milhões de declarações anuais do IRS, ao fim de primeira semana do prazo de três meses de que os contribuintes dispõem para cumprir esta obrigação declarativa.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-08 22:18:39",
+        "category": "economia"
+    },
+    {
+        "headline": "Milhares de pessoas no Central Park de Nova Iorque para \"experiência única\" de eclipse",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/milhares-de-pessoas-no-central-park-de-nova-iorque-para-experiencia-unica-de-eclipse_n1562815",
+        "content": [
+            {
+                "type": "text",
+                "data": "Foi em festa que milhares de pessoas rumaram ao Central Park, em Nova Iorque, para testemunhar o raro eclipse solar total esta segunda-feira visível na América do Norte, que para muitos é uma &quot;experiência única na vida&quot;.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-08 22:16:54",
+        "category": "economia"
+    },
+    {
+        "headline": "Hidrogénio verde em Sines. Projeto da Engie/Shell foi cancelado em outubro",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/hidrogenio-verde-em-sines-projeto-da-engieshell-foi-cancelado-em-outubro_v1562806",
+        "content": [
+            {
+                "type": "text",
+                "data": "Foi cancelado um dos projetos de produção de hidrogénio verde em Sines. O consórcio que juntava as empresas Engie, Shell, Vopak e Anthony Veder desistiu da ideia em outubro do ano passado, por a produção não ser economicamente viável e por falta de regulação clara. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/7a/7a1a86a8251005d648070bf5c9b0d671_N.jpg?"
+            }
+        ],
+        "published": "2024-04-08 21:33:47",
+        "category": "economia"
+    },
+    {
+        "headline": "EDP baixa preços da luz e do gás natural em junho",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/edp-baixa-precos-da-luz-e-do-gas-natural-em-junho_v1562805",
+        "content": [
+            {
+                "type": "text",
+                "data": "A EDP vai baixar em junho o preço da luz e do gás natural. No caso da eletricidade, a fatura mensal vai ter uma descida média de 7 por cento e no gás a descida média será de 14 por cento. A EDP alegou que o corte nos preços se deve à melhoria das condições dos mercados de energia. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/c0/c0bafada474988390dfacd8c430882a6_N.jpg?"
+            }
+        ],
+        "published": "2024-04-08 21:32:46",
+        "category": "economia"
+    },
+    {
+        "headline": "Comissão de inquérito. PCP quer ouvir responsáveis pela venda da ANA",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/comissao-de-inquerito-pcp-quer-ouvir-responsaveis-pela-venda-da-ana_v1562802",
+        "content": [
+            {
+                "type": "text",
+                "data": "O PCP quer ouvir Passos Coelho sobre a privatização da ANA. O Partido Comunista propôs uma comissão parlamentar de inquérito à venda da empresa, com o deputado António Filipe a dizer que foi um dos negócios &quot;mais ruinosos de que há memória&quot; para o Estado.  "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/68/6831a61bb9768f3f9379c91f6d68c7ff_N.jpg?"
+            }
+        ],
+        "published": "2024-04-08 21:28:46",
+        "category": "economia"
+    },
+    {
+        "headline": "Apoio às rendas. Novos contratos fazem inquilinos perder benefícios",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/apoio-as-rendas-novos-contratos-fazem-inquilinos-perder-beneficios_v1562795",
+        "content": [
+            {
+                "type": "text",
+                "data": "Algumas famílias estão a perder o apoio à renda por terem de celebrar novos contratos. Isto porque a medida só abrange os contratos que foram celebrados até março do ano passado. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/f6/f65f415c17ab5ad7bbd8b4c9aeba3405_N.jpg?"
+            }
+        ],
+        "published": "2024-04-08 21:18:46",
+        "category": "economia"
+    },
+    {
+        "headline": "Governo moçambicano reúne-se terça-feira para analisar naufrágio com cem mortos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/governo-mocambicano-reune-se-terca-feira-para-analisar-naufragio-com-cem-mortos_n1562791",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Governo moçambicano reúne-se terça-feira para discutir medidas para &quot;minimizar o impacto&quot; do acidente com o barco de pesca que naufragou domingo em Nampula, com 130 pessoas a bordo, das quais cerca de cem morreram.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-08 20:55:37",
+        "category": "economia"
+    },
+    {
+        "headline": "Eurodeputados aprovam mais 5,8 mil ME no orçamento da UE em 2024 para apoio a Kiev",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/eurodeputados-aprovam-mais-58-mil-me-no-orcamento-da-ue-em-2024-para-apoio-a-kiev_n1562789",
+        "content": [
+            {
+                "type": "text",
+                "data": "A comissão dos Orçamentos do Parlamento Europeu deu esta segunda-feira &quot;luz verde&quot; a mais 5,8 mil milhões de euros no orçamento da União Europeia (UE) para 2024, principalmente para apoiar a Ucrânia este ano, com 4,8 mil milhões.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-08 20:51:50",
+        "category": "economia"
+    },
+    {
+        "headline": "Sindicato pede que seja travada \"imediatamente\" privatização da Azores Airlines",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/sindicato-pede-que-seja-travada-imediatamente-privatizacao-da-azores-airlines_n1562764",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Sindicato dos Trabalhadores da Aviação e Aeroportos (Sitava) pediu esta segunda-feira ao Governo Regional dos Açores para que &quot;pare imediatamente&quot; a privatização da Azores Airlines, depois de o júri do concurso ter manifestado reservas sobre o único concorrente.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-08 19:54:41",
+        "category": "economia"
+    },
+    {
+        "headline": "ASAE apreende 2.510 litros de óleo alimentar vendido como azeite no Alentejo e Algarve",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/asae-apreende-2510-litros-de-oleo-alimentar-vendido-como-azeite-no-alentejo-e-algarve_n1562745",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Autoridade de Segurança Alimentar e Económica (ASAE) apreendeu 2.510 litros de óleo alimentar a ser comercializado como azeite, nos distritos de Portalegre e Beja e no concelho de Silves (Faro), num valor de 28.900 euros.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-08 19:50:53",
+        "category": "economia"
+    },
+    {
+        "headline": "Banco Mundial prevê Angola a crescer 2,8% com produção petrolífera a cair 2,5%",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/banco-mundial-preve-angola-a-crescer-28-com-producao-petrolifera-a-cair-25_n1562703",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Banco Mundial prevê que a economia de Angola acelere para 2,8% este ano, depois de ter crescido 0,8% em 2023, impulsionada pelo setor não petrolífero, que compensa a quebra de 2,5% da produção."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-08 15:26:59",
+        "category": "economia"
+    },
+    {
+        "headline": "Banco Mundial vê África a acelerar para 3,4% mas alerta para vários riscos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/banco-mundial-ve-africa-a-acelerar-para-34-mas-alerta-para-varios-riscos_n1562704",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Banco Mundial prevê que as economias da África subsaariana recuperem para 3,4% este ano e 3,8% em 2025, impulsionadas pelo consumo privado, num contexto de falta de liquidez e recuperação &quot;muito frágil&quot; da região.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-08 15:26:39",
+        "category": "economia"
+    },
+    {
+        "headline": "Empresários moçambicanos pedem medidas para que desastre de Nampula não se repita",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/empresarios-mocambicanos-pedem-medidas-para-que-desastre-de-nampula-nao-se-repita_n1563200",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Confederação das Associações Económicas de Moçambique (CTA) pediu hoje medidas que evitem que se repita o &quot;desastre&quot; de domingo, em Nampula, em que morreram 98 pessoas que seguiam num barco de pesca que naufragou."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 14:16:18",
+        "category": "economia"
+    },
+    {
+        "headline": "Mais de 80 empresários e Presidente de Moçambique em Portugal para atrair empresários",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/mais-de-80-empresarios-e-presidente-de-mocambique-em-portugal-para-atrair-empresarios_n1563196",
+        "content": [
+            {
+                "type": "text",
+                "data": "Mais de 80 empresários moçambicanos participam este mês numa missão empresarial ao Porto e Lisboa tentando inverter a queda nas relações económicas dos últimos anos entre ambos os países, contando com a presença do Presidente de Moçambique, Filipe Nyusi."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 14:14:50",
+        "category": "economia"
+    },
+    {
+        "headline": "Mediobanca compra em bolsa 13,28% da Greenvolt",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/mediobanca-compra-em-bolsa-1328-da-greenvolt_n1563190",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Mediobanca passou a deter, na segunda-feira, 13,28% da Greenvolt, seguindo o mandato aplicado pela GVK Omega, a sociedade do fundo KKR, que tinha acordado a compra em bolsa de até 19,9% da energética."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 14:12:44",
+        "category": "economia"
+    },
+    {
+        "headline": "CMVM alerta para contactos fraudulentos com uso indevido do seu nome e imagem",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/cmvm-alerta-para-contactos-fraudulentos-com-uso-indevido-do-seu-nome-e-imagem_n1563187",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Comissão do Mercado de Valores Mobiliários (CMVM) alertou hoje sobre contactos fraudulentos, a partir da aplicação Whatsapp e chamadas telefónicas, com uso indevido do seu nome e imagem, a solicitar o pagamento de montantes indevidos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/df/df6bb1e3f56f080c441976a1da62f15b?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 14:10:19",
+        "category": "economia"
+    },
+    {
+        "headline": "Rendas das casas sobem 6,9% em março",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/rendas-das-casas-sobem-69-em-marco_n1563186",
+        "content": [
+            {
+                "type": "text",
+                "data": "As rendas das casas por metro quadrado aumentaram 6,9% em março face ao mesmo mês de 2023, acelerando face à subida de 6,5% do mês anterior e com todas as regiões a apresentarem crescimentos homólogos, divulgou hoje o INE."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 14:06:24",
+        "category": "economia"
     }
 ]

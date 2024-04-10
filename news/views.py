@@ -33,7 +33,12 @@ def news_detail(request, news_id):
 
 @csrf_exempt
 def execute_python_script(request):
-    # Run your Python script here
+    category = request.GET.get('category', 'ultimas')
+    obj = Content.objects.filter(content_category=category).order_by('-content_date')
+    context = {
+        "obj": obj,
+    }
+        # Run your Python script here
     try:
         subprocess.run(["python", "data_scrapping/RTP/RTP_RSS_To_json.py"])
         sleep(6)
@@ -47,7 +52,7 @@ def execute_python_script(request):
         for x in list_possibilities:
             ij.import_json_data_NM("data_scrapping/Noticias_ao_Minuto/{cat}.json".format(cat=x))
 
-        return JsonResponse({'message': 'Python script executed successfully'}, status=200)
+        return render(request, "index.html", context)
     except Exception as e:
         return JsonResponse({'error': str(e)}, status=500)
 

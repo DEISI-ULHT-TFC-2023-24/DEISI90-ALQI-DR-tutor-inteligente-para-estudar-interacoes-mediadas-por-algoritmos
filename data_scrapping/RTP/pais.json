@@ -950,5 +950,872 @@
         ],
         "published": "2024-04-07 21:09:45",
         "category": "pais"
+    },
+    {
+        "headline": "PJ faz buscas na Câmara de Cascais relacionadas com fábrica de máscaras cirúrgicas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/pj-faz-buscas-na-camara-de-cascais-relacionadas-com-fabrica-de-mascaras-cirurgicas_n1563192",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Polícia Judiciária está, esta quarta-feira, a realizar buscas na Câmara Municipal de Cascais. A investigação está relacionada com uma fábrica de máscaras cirúrgicas criada no concelho no âmbito da pandemia de covid-19.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/0e/0e1dc64eb2429a2199ba446987979a93?w=350&amp;q=50&amp;rect=0,13,1000,548&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 13:17:09",
+        "category": "pais"
+    },
+    {
+        "headline": "PSP detém quatro pessoas envolvidas em agressões à porta de discoteca de Leiria",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/psp-detem-quatro-pessoas-envolvidas-em-agressoes-a-porta-de-discoteca-de-leiria_n1563182",
+        "content": [
+            {
+                "type": "text",
+                "data": "A PSP de Leiria deteve hoje quatro pessoas e apreendeu duas armas de fogo no âmbito de uma investigação aos alegados autores de agressões a três homens, junto a uma discoteca, na passagem de ano."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 11:52:24",
+        "category": "pais"
+    },
+    {
+        "headline": "Trinta detidos em operação de combate ao tráfico de droga em Aveiro, Porto e Braga",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/trinta-detidos-em-operacao-de-combate-ao-trafico-de-droga-em-aveiro-porto-e-braga_n1563174",
+        "content": [
+            {
+                "type": "text",
+                "data": "A GNR de Aveiro deteve 30 pessoas no âmbito de uma megaoperação de combate ao tráfico de estupefacientes, tendo apreendido milhares de doses de droga e quase 160 mil euros em dinheiro, informou hoje aquela força de segurança."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 11:51:56",
+        "category": "pais"
+    },
+    {
+        "headline": "Juíza tomou posse como secretária de Estado sem precisar de autorização do Conselho",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/juiza-tomou-posse-como-secretaria-de-estado-sem-precisar-de-autorizacao-do-conselho_n1563172",
+        "content": [
+            {
+                "type": "text",
+                "data": "A juíza desembargadora Maria Clara Figueiredo tomou posse como secretária de Estado Adjunta e da Justiça sem precisar de autorização do Conselho Superior da Magistratura (CSM), apesar das reservas no setor relativamente às `portas giratórias` entre justiça e política."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 11:51:33",
+        "category": "pais"
+    },
+    {
+        "headline": "Buscas por pescador desparecido em Caminha retomadas com apoio de patrulha em Espanha",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/buscas-por-pescador-desparecido-em-caminha-retomadas-com-apoio-de-patrulha-em-espanha_n1563160",
+        "content": [
+            {
+                "type": "text",
+                "data": "As buscas pelo pescador lúdico de 70 anos desaparecido em Caminha foram retomadas hoje, pelas 07:30, e envolvem cerca de 20 operacionais, incluindo uma patrulha na margem espanhola da foz do rio Minho, revelou o capitão do porto."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 10:40:37",
+        "category": "pais"
+    },
+    {
+        "headline": "Retornados, do chão do aeroporto para um hotel de cinco estrelas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/50-anos-25-de-abril/retornados-do-chao-do-aeroporto-para-um-hotel-de-cinco-estrelas_n1563158",
+        "content": [
+            {
+                "type": "text",
+                "data": "Milhares de retornados das ex-colónias portuguesas foram alojados em unidades hoteleiras que tiveram de adaptar instalações e funcionários para acolher um número muito maior do que o habitual de hóspedes que traziam sono, fome e traumas na bagagem."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 10:06:26",
+        "category": "pais"
+    },
+    {
+        "headline": "Parlamento Europeu vota reforma da política de migração e asilo da União",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/parlamento-europeu-vota-reforma-da-politica-de-migracao-e-asilo-da-uniao_a1563149",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os eurodeputados devem dar esta quarta-feira luz verde às novas medidas relativas à política de emigração dentro do espaço europeu. O pacto de migração e asilo da União Europeia prevê o combate à imigração ilegal.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d1/d11079e6906b708532e438dff610f8bb?w=350&amp;q=50&amp;rect=0,517,5033,2759&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 09:45:46",
+        "category": "pais"
+    },
+    {
+        "headline": "Enfermeiros em greve cinco dias no final de abril e início de maio",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/enfermeiros-em-greve-cinco-dias-no-final-de-abril-e-inicio-de-maio_n1563146",
+        "content": [
+            {
+                "type": "text",
+                "data": "Diversas estruturas sindicais dos enfermeiros convocaram uma greve de cinco dias para o final de abril e início de maio, no continente e ilhas, pela revisão salarial e da carreira e contratação de mais profissionais."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 09:24:10",
+        "category": "pais"
+    },
+    {
+        "headline": "PSP e GNR têm à guarda mais de um milhão de bens",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/psp-e-gnr-tem-a-guarda-mais-de-um-milhao-de-bens_a1563140",
+        "content": [
+            {
+                "type": "text",
+                "data": "Veículos, peças de roupa e calçado. Estes são alguns dos muitos milhares artigos aprendidos pela Polícia de Segurança Pública e Guarda Nacional Republicana e que permanecem com as forças de segurança. Mais de um milhão de bens retidos, a degradar-se, alguns deles com quase 30 anos.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d6/d68d9b3461fccdebee3bba46f2097013?w=350&amp;q=50&amp;rect=0,7,1024,561&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 09:03:05",
+        "category": "pais"
+    },
+    {
+        "headline": "Comer mais sardinha pode salvar até 750 mil vidas em 2050",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/comer-mais-sardinha-pode-salvar-ate-750-mil-vidas-em-2050_n1563120",
+        "content": [
+            {
+                "type": "text",
+                "data": "Peixes forrageiros, como arenque, sardinha e anchova, “são uma alternativa promissora à carne vermelha” e o aumento do seu consumo pode resultar em benefícios importantes para a saúde, evitando entre 500 mil e 750 mil mortes em 2050.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/bf/bfbb01c211c8025ad8043002ab096054?w=350&amp;q=50&amp;rect=0,0,859,471&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 04:42:29",
+        "category": "pais"
+    },
+    {
+        "headline": "Alexandra Leitão concorre a líder do grupo parlamentar do PS",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/alexandra-leitao-concorre-a-lider-do-grupo-parlamentar-do-ps_n1563119",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os deputados do PS elegem a liderança do seu grupo parlamentar, com Alexandra Leitão a apresentar-se a votos para a presidência de uma bancada composta por 78 deputados, a maior da oposição."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/31/31a63ed32204f1eb4d6f98b01a140186?w=350&amp;q=50&amp;rect=0,0,859,471&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 04:33:06",
+        "category": "pais"
+    },
+    {
+        "headline": "Programa de governo vai ser entregue no Parlamento esta quarta-feira",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/programa-de-governo-vai-ser-entregue-no-parlamento-esta-quarta-feira_v1563109",
+        "content": [
+            {
+                "type": "text",
+                "data": "O programa do XXIV Governo Constitucional vai ser entregue na Assembleia da República ao final da manhã desta quarta-feira, depois de aprovado em Conselho de Ministros.  "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/c4/c408a864e59b78617e3f4d7d2a384523_N.jpg?"
+            }
+        ],
+        "published": "2024-04-10 01:19:48",
+        "category": "pais"
+    },
+    {
+        "headline": "Foro la Toja. Democracias ibéricas em debate",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/foro-la-toja-democracias-ibericas-em-debate_v1563099",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os 50 anos de democracia em Portugal e Espanha foram debatidos na Gulbenkian esta terça-feira. António Costa defendeu que é preciso desvalorizar a ascensão do populismo e esperar o regresso à normalidade. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/16/163cad5e030ecaaadf4486395cf7389c_N.jpg?"
+            }
+        ],
+        "published": "2024-04-09 22:34:57",
+        "category": "pais"
+    },
+    {
+        "headline": "Faz 50 anos que uma bomba explodiu no navio Niassa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/faz-50-anos-que-uma-bomba-explodiu-no-navio-niassa_v1563091",
+        "content": [
+            {
+                "type": "text",
+                "data": "Faz hoje 50 anos que uma bomba explodiu no Niassa, um navio que se preparava para partir com tropas para a Guiné. Não houve vítimas, mas o navio sofreu danos. Faltavam duas semanas para a Revolução e o Telejornal noticiou o atentado, embora sem mostrar imagens dos danos.&lt;br /&gt;"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/16/16dcec36a632288e1b412db1b04ce3a4_N.jpg?"
+            }
+        ],
+        "published": "2024-04-09 22:27:49",
+        "category": "pais"
+    },
+    {
+        "headline": "Juntas Médicas passam a ter acesso direto a informação clínica dos utentes",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/juntas-medicas-passam-a-ter-acesso-direto-a-informacao-clinica-dos-utentes_v1563090",
+        "content": [
+            {
+                "type": "text",
+                "data": "As Juntas Médicas vão passar a ter acesso direto à informação clínica do utente. A partir de segunda-feira, deixa de ser necessário ir ao médico de família para pedir o relatório que se apresentava na Junta de Verificação de Baixa. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/a8/a8463766d9b5525e1a47746db322f8e6_N.jpg?"
+            }
+        ],
+        "published": "2024-04-09 22:26:46",
+        "category": "pais"
+    },
+    {
+        "headline": "Joe Berardo. CGD coloca bens arrestados à venda em leilão",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/joe-berardo-cgd-coloca-bens-arrestados-a-venda-em-leilao_v1563087",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Caixa Geral de Depósitos está a vender bens de Joe Berardo em leilão. Os bens foram arrestados em processos judiciais por dívidas ao banco estatal, incluindo o recheio da sua casa em Lisboa e ações da empresa vinícola Bacalhôa. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/2a/2a2d888d0db3ce187657a64bf2ffd4bc_N.jpg?"
+            }
+        ],
+        "published": "2024-04-09 22:06:47",
+        "category": "pais"
+    },
+    {
+        "headline": "MP arquivou maioria dos inquéritos a denúncias de abusos na igreja",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/mp-arquivou-maioria-dos-inqueritos-a-denuncias-de-abusos-na-igreja_n1563069",
+        "content": [
+            {
+                "type": "text",
+                "data": "A maioria dos inquéritos abertos pelo Ministério Público (MP) a denúncias de abusos de menores na igreja católica acabou arquivada, quase sempre por prescrição dos factos ou falta de indícios de crime, segundo dados da Procuradoria-Geral da República (PGR).\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 22:06:29",
+        "category": "pais"
+    },
+    {
+        "headline": "Falta de condições. Segurança Social encerra 43 lares de idosos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/falta-de-condicoes-seguranca-social-encerra-43-lares-de-idosos_v1563086",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Segurança Social encerrou 43 lares de idosos licenciados. Foram feitas desde dezembro mais de 200 fiscalizações e identificados ainda 94 lares ilegais. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/63/630cd97d02fa2d25207b11c9308cc346_N.jpg?"
+            }
+        ],
+        "published": "2024-04-09 22:03:51",
+        "category": "pais"
+    },
+    {
+        "headline": "Escolas sem computadores. Agrupamento de Faro soma avarias",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/escolas-sem-computadores-agrupamento-de-faro-soma-avarias_v1563085",
+        "content": [
+            {
+                "type": "text",
+                "data": "Um agrupamento de escolas em Faro tem 200 computadores que não podem ser utilizados. A situação é vivida também noutras escolas do país, o que agrava a situação dos alunos com dificuldades financeiras."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/56/564aecad612f97f043655c15503de5a1?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 22:03:46",
+        "category": "pais"
+    },
+    {
+        "headline": "Abandono escolar. Socialistas ignoraram recomendações do Tribunal de Contas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/abandono-escolar-socialistas-ignoraram-recomendacoes-do-tribunal-de-contas_v1563084",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Tribunal de Contas acusou o anterior Governo de ter ignorado as recomendações para diminuir o abandono escolar. Depois de analisarem em 2020 os dados do abandono escolar precoce, os auditores do Tribunal de Contas fizeram seis recomendações ao Ministério da Educação para atenuar as falhas. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/1b/1b47b5635c5505bb9276af49990decad?w=350&amp;q=50&amp;rect=0,28,680,373&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 22:00:46",
+        "category": "pais"
+    },
+    {
+        "headline": "Chega anuncia comissão de inquérito ao caso das gémeas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/chega-anuncia-comissao-de-inquerito-ao-caso-das-gemeas_v1563071",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Chega vai avançar como uma comissão inquérito ao caso das gémeas mesmo que não haja acordo no parlamento. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/c8/c8d7dd96139c9c23214a4d9ababef140_N.jpg?"
+            }
+        ],
+        "published": "2024-04-09 21:28:52",
+        "category": "pais"
+    },
+    {
+        "headline": "PGR investiga oito denúncias de abusos na Igreja católica",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/pgr-investiga-oito-denuncias-de-abusos-na-igreja-catolica_v1563068",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Ministério Público está a investigar oito denúncias de abuso sexual na Igreja portuguesa. Em resposta a um pedido de esclarecimentos da RTP, a Procuradoria revelou que recebeu 20 denúncias do grupo VITA.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/e2/e2962e56f7cbe4d7f790636154f5313b?w=350&amp;q=50&amp;rect=0,39,1248,684&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 21:24:46",
+        "category": "pais"
+    },
+    {
+        "headline": "Suspeitas de encobrimento de abusos de bispo José Ornelas ainda em investigação",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/suspeitas-de-encobrimento-de-abusos-de-bispo-jose-ornelas-ainda-em-investigacao_n1563048",
+        "content": [
+            {
+                "type": "text",
+                "data": "O inquérito do Ministério Público a suspeitas de encobrimento do bispo José Ornelas de abusos sexuais na igreja Católica continua em investigação, de acordo com a informação esta terça-feira disponibilizada pela Procuradoria-Geral da República (PGR).\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/70/7030e35f18517026853b050ce9cef69f?w=350&amp;q=50&amp;rect=20,0,1459,800&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 20:03:10",
+        "category": "pais"
+    },
+    {
+        "headline": "Crescimento do Chega deveu-se a falta de \"tração\" do PS e do PSD, analisa António Costa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/crescimento-do-chega-deveu-se-a-falta-de-tracao-do-ps-e-do-psd-analisa-antonio-costa_a1563022",
+        "content": [
+            {
+                "type": "text",
+                "data": "O ex-primeiro-ministro António Costa afirmou que as eleições legislativas realizaram-se em circunstâncias &quot;estranhas&quot;, tendo como consequência uma falta de tração dos partidos centrais, PSD e PS, e considerou o resultado do Chega como um fenómeno passageiro."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/04/041dbe6c7888bd5e192822a742f040f4?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 18:22:20",
+        "category": "pais"
+    },
+    {
+        "headline": "Cartas entre PSD e PS são \"coreografia\", todos estão a pensar em eleições antecipadas, afirma Pacheco Pereira",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/cartas-entre-psd-e-ps-sao-coreografia-todos-estao-a-pensar-em-eleicoes-antecipadas-afirma-pacheco-pereira_a1563023",
+        "content": [
+            {
+                "type": "text",
+                "data": "A troca de cartas entre os líderes do PSD e do PS não passa de coreografia política, ajuíza o histórico social-democrata Pacheco Pereira, em entrevista com a Antena1 na qual considera que nem Luís Montenegro nem Pedro Nuno Santos ganham o que quer seja com um acordo. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/63/6328c7e49352207924c654b452231419?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 18:07:32",
+        "category": "pais"
+    },
+    {
+        "headline": "PJ detém suspeito de matar criança de 7 anos em Setúbal",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/pj-detem-suspeito-de-matar-crianca-de-7-anos-em-setubal_n1563003",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Polícia Judiciária (PJ) deteve o homem suspeito de matar um menino de 7 anos com uma arma de fogo em 18 de fevereiro, na Bela Vista, em Setúbal, num &quot;contexto de conflitos familiares&quot;, foi esta terça-feira anunciado.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 18:00:56",
+        "category": "pais"
+    },
+    {
+        "headline": "Presidente da companhia aérea açoriana SATA demite-se",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/presidente-da-companhia-aerea-acoriana-sata-demite-se_a1562997",
+        "content": [
+            {
+                "type": "text",
+                "data": "Demitiu-se a presidente a companhia aérea açoriana SATA. O anúncio partiu esta terça-feira do Governo Regional dos Açores. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/78/782b699a01ceacd2b2e2aee87890f401?w=350&amp;q=50&amp;rect=0,11,1560,855&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 16:03:51",
+        "category": "pais"
+    },
+    {
+        "headline": "MP arquiva processo relativo à morte de 12 utentes no Lar do Nordeste",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/mp-arquiva-processo-relativo-a-morte-de-12-utentes-no-lar-do-nordeste_n1562988",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Ministério Público (MP) arquivou o inquérito de investigação à morte por covid-19 de 12 utentes no Lar do Nordeste, nos Açores, em março de 2020, por não se terem recolhido indícios da prática de crime."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 15:48:24",
+        "category": "pais"
+    },
+    {
+        "headline": "Quarenta arguidos falam ao tribunal da Guarda sobre alegada fraude com subsídios",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/quarenta-arguidos-falam-ao-tribunal-da-guarda-sobre-alegada-fraude-com-subsidios_n1562972",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Tribunal da Guarda está hoje a ouvir os primeiros arguidos dos 40 que decidiram prestar declarações no julgamento por alegada fraude na obtenção subsídios, a decorrer no NERGA -- Associação Empresarial, no Parque Industrial da cidade."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 15:46:00",
+        "category": "pais"
+    },
+    {
+        "headline": "Protestos com redução de horário na distribuição de metadona por falta de financiamento",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/protestos-com-reducao-de-horario-na-distribuicao-de-metadona-por-falta-de-financiamento_a1562984",
+        "content": [
+            {
+                "type": "text",
+                "data": "O horário das carrinhas de metadona, em Lisboa, está a ser reduzido para metade por falta de verbas. Esta situação pode afetar cerca de 1.300 utentes que são acompanhados diariamente.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/c4/c4e157a12786145727db6b41e648b640?w=350&amp;q=50&amp;rect=0,26,4032,2211&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 15:42:45",
+        "category": "pais"
+    },
+    {
+        "headline": "Há 50 Anos teve lugar a última ação armada contra a ditadura",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/ha-50-anos-teve-lugar-a-ultima-acao-armada-contra-a-ditadura_v1562987",
+        "content": [
+            {
+                "type": "text",
+                "data": "Há 50 Anos, era notícia no Telejornal uma explosão no navio que se preparava para partir com tropas para a Guiné."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/4a/4a13b6b93eb362b1454470d8a679d068_N.jpg?"
+            }
+        ],
+        "published": "2024-04-09 15:21:46",
+        "category": "pais"
+    },
+    {
+        "headline": "Vidreiro cria motos do estilo \"street fighter\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/vidreiro-cria-motos-do-estilo-street-fighter_v1562983",
+        "content": [
+            {
+                "type": "text",
+                "data": "Um vidreiro de profissão dedica-se à construção de motos no estilo &quot;street fighter&quot;, uma categoria de competição. As criações não são para venda. Destinam-se à participação em eventos em Portugal e noutros países."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/87/87817c4c40da6b15be420952afee1fda?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 15:14:45",
+        "category": "pais"
+    },
+    {
+        "headline": "Bombeiros de Vouzela lançam campanha para pagar seguros das viaturas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/bombeiros-de-vouzela-lancam-campanha-para-pagar-seguros-das-viaturas_v1562982",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os Bombeiros de Vouzela têm que recorrer a campanhas solidárias para ajudar a pagar os milhares de euros, por ano, em seguros das viaturas. O Comandante da Corporação lamenta que os bombeiros tenham de pagar para socorrer, em vez de receber. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/05/0584b1f916ea07259bfd081808851e3d_N.jpg?"
+            }
+        ],
+        "published": "2024-04-09 15:09:45",
+        "category": "pais"
+    },
+    {
+        "headline": "Ex-combatentes vão realizar ações de rua nos próximos dias",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/ex-combatentes-vao-realizar-acoes-de-rua-nos-proximos-dias_v1562967",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Movimento Pró-Dignidade ao Estatuto do Combatente vai organizar um conjunto de concentrações nos próximos dias. Os ex-combatentes alertam para o que falta fazer, apesar de 50 anos de promessas de regalias.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/6f/6fe67d26b0eb6a68c73a3bb3347884cf?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 14:41:45",
+        "category": "pais"
+    },
+    {
+        "headline": "Termómetros vão subir nos próximos dias",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/termometros-vao-subir-nos-proximos-dias_v1562966",
+        "content": [
+            {
+                "type": "text",
+                "data": "A situação de temperaturas máximas acima da média mantém-se, neste mês de abril, em Portugal. Os termómetros vão subir já a partir de quarta-feira.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/26/2642bb53f2525963e61d804624ea4fc6?w=350&amp;q=50&amp;rect=0,0,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 14:39:52",
+        "category": "pais"
+    },
+    {
+        "headline": "Utilização do colete salva-vidas não é obrigatória",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/utilizacao-do-colete-salva-vidas-nao-e-obrigatoria_v1562963",
+        "content": [
+            {
+                "type": "text",
+                "data": "A utilização do colete salva-vidas não é obrigatória, exceto no momento de pesca. O uso deste equipamento fica ao critério aos responsáveis de cada embarcação, que apenas são obrigados a levar a bordo coletes suficientes para toda a tripulação."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/e6/e6bd9a3a5491f3850c617f6ce9366f75?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 14:36:45",
+        "category": "pais"
+    },
+    {
+        "headline": "Juntas médicas. Médicos com acesso a informação clínica",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/juntas-medicas-medicos-com-acesso-a-informacao-clinica_v1562961",
+        "content": [
+            {
+                "type": "text",
+                "data": "As juntas médicas vão passar a ter acesso direto à informação clínica do utente, a partir de segunda-feira. Deixa de ser necessário ir ao médico de família para pedir o relatório que se apresentava na Junta de Verificação de Baixa. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/8c/8c4ba4a3287354c58f2d08be055492ca_N.jpg?"
+            }
+        ],
+        "published": "2024-04-09 14:35:46",
+        "category": "pais"
+    },
+    {
+        "headline": "Buscas no concelho de Caminha para encontrar pescador desaparecido",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/buscas-no-concelho-de-caminha-para-encontrar-pescador-desaparecido_v1562960",
+        "content": [
+            {
+                "type": "text",
+                "data": "Decorrem buscas no concelho de Caminha para encontrar um pescador que está desaparecido desde segunda-feira. As operações realizam-se entre a praia de Moledo e a Capela de Santo Isidoro.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/e1/e1664fb363744ad7c7bdfc1817225e63?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 14:31:45",
+        "category": "pais"
+    },
+    {
+        "headline": "Português de 29 anos detido por suspeitas de tentar matar militar belga em Beja",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/portugues-de-29-anos-detido-por-suspeitas-de-tentar-matar-militar-belga-em-beja_n1562947",
+        "content": [
+            {
+                "type": "text",
+                "data": "Um homem português, de 29 anos, foi detido pela Polícia Judiciária (PJ) por suspeitas de ter tentado matar com uma arma branca um militar belga, de 27, na madrugada de sábado, em Beja, revelou hoje fonte policial."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 14:26:26",
+        "category": "pais"
+    },
+    {
+        "headline": "Tróia. Retomadas buscas para encontrar dois desaparecidos em naufrágio",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/troia-retomadas-buscas-para-encontrar-dois-desaparecidos-em-naufragio_v1562958",
+        "content": [
+            {
+                "type": "text",
+                "data": "Foram retomadas, esta terça-feira de manhã, as buscas para encontrar os dois desaparecidos na sequência do naufrágio ao largo de Tróia.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/31/3147e5de91e4de4f26891c2ec0fabe3c?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 14:24:46",
+        "category": "pais"
+    },
+    {
+        "headline": "Regulador avisa unidades de saúde que devem cumprir direito acompanhamento utentes",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/regulador-avisa-unidades-de-saude-que-devem-cumprir-direito-acompanhamento-utentes_n1562937",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Entidade Reguladora da Saúde alertou hoje as unidades de saúde para a necessidade de garantir o direito ao acompanhamento dos utentes, sobretudo as pessoas com deficiência, dependentes, com doença incurável em avançado estado ou em fim de vida. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 14:20:50",
+        "category": "pais"
+    },
+    {
+        "headline": "Entidade Reguladora da Saúde alerta sobre o não cumprimento da lei no acompanhamento em estado de deficiência",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/entidade-reguladora-da-saude-alerta-sobre-o-nao-cumprimento-da-lei-no-acompanhamento-em-estado-de-deficiencia_a1562945",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Entidade Reguladora da Saúde emitiu um alerta sobre o direito ao acompanhamento das pessoas com deficiência ou em estado de dependência, nas instituições de Saúde."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/7b/7b75b344e1bbfe6de647a12780e4a5ba?w=350&amp;q=50&amp;rect=25,0,1169,641&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 14:19:09",
+        "category": "pais"
+    },
+    {
+        "headline": "Costa assegura não ter novidades sobre a Operação Influencer",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/costa-assegura-nao-ter-novidades-sobre-a-operacao-influencer_v1562946",
+        "content": [
+            {
+                "type": "text",
+                "data": "António Costa diz que ainda não tem novidades sobre a Operação Influencer. Uma semana depois de ter requerido ao Supremo Tribunal de Justiça para ser ouvido com a maior celeridade, o ex-primeiro-ministro continua sem ser notificado.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/0e/0eed71c128f50440d363ed4207afeb91?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 14:11:45",
+        "category": "pais"
+    },
+    {
+        "headline": "Governo português garante que ambição climática mantém-se",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/governo-portugues-garante-que-ambicao-climatica-mantem-se_n1562930",
+        "content": [
+            {
+                "type": "text",
+                "data": "A nova ministra do Ambiente e Clima veio esta terça-feira garantir que a decisão do Tribunal Europeu dos Direitos do Homem, desfavorável para os jovens que apresentaram uma ação contra 32 países europeus, &quot;não diminui a ambição e a  responsabilidade&quot; do país &quot;para com a ação climática&quot;.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/3e/3e3474313f60b3a08884090f41ad171f?w=350&amp;q=50&amp;rect=0,2,3821,2095&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 12:53:49",
+        "category": "pais"
+    },
+    {
+        "headline": "Segurança Social fecha sete lares em quatro meses por perigo para a vida de idosos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/seguranca-social-fecha-sete-lares-em-quatro-meses-por-perigo-para-a-vida-de-idosos_n1562918",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Instituto da Segurança Social (ISS) encerrou de forma urgente sete lares de idosos nos últimos quatro meses, por constatar que havia &quot;perigo iminente para a vida dos utentes&quot;, revelou o organismo."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 12:11:47",
+        "category": "pais"
+    },
+    {
+        "headline": "Retomadas as buscas por vítimas do naufrágio ao largo de Tróia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/retomadas-as-buscas-por-vitimas-do-naufragio-ao-largo-de-troia_a1562904",
+        "content": [
+            {
+                "type": "text",
+                "data": "Foram retomadas esta terça-feira de manhã as buscas por duas pessoas que continuam desaparecidas, vítimas do naufrágio de domingo ao largo de Tróia.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/e8/e8cc6e7aa85bedc69cfa309a8d84ed53?w=350&amp;q=50&amp;rect=0,11,1599,877&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 10:52:44",
+        "category": "pais"
+    },
+    {
+        "headline": "Retomadas buscas para encontrar desaparecidos do naufrágio em Tróia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/retomadas-buscas-para-encontrar-desaparecidos-do-naufragio-em-troia_v1562897",
+        "content": [
+            {
+                "type": "text",
+                "data": "Foram retomadas as buscas, pelo terceiro dia consecutivo, para encontrar os dois desaparecidos do naufrágio ao largo de Tróia. As operações recomeçaram às 7h30. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/da/da601b417baa692cd19fca7548d9beec?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 10:22:47",
+        "category": "pais"
+    },
+    {
+        "headline": "Imigração. \"É preciso mudar mentalidades e acabar com a discriminação\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/imigracao-e-preciso-mudar-mentalidades-e-acabar-com-a-discriminacao_a1562891",
+        "content": [
+            {
+                "type": "text",
+                "data": "Um desafio enorme e vários problemas ligados ao trabalho dos imigrantes em Portugal. Estas são duas das preocupações lançadas pelo sociólogo Jorge Caleiras, um dos oradores da conferência sobre esta matéria que se vai realizar esta terça-feira, em Lisboa.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/94/94e0b576061deb02214548c1edc9abd3?w=350&amp;q=50&amp;rect=0,81,1379,756&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 09:48:40",
+        "category": "pais"
+    },
+    {
+        "headline": "Não aos exames digitais, defende maior agrupamento de escolas de Bragança",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/nao-aos-exames-digitais-defende-maior-agrupamento-de-escolas-de-braganca_a1562887",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Ministério da Educação vai ainda esta semana tomar uma decisão relativamente à realização das provas em formato digital nas escolas. Mas no maior agrupamento de escolas de Bragança não há quaisquer dúvidas: todos querem voltar ao papel e ninguém quer provas digitais."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/3d/3d8952a3b9b8d5440944ea5095936e93?w=350&amp;q=50&amp;rect=0,12,7360,4035&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 09:36:27",
+        "category": "pais"
+    },
+    {
+        "headline": "Bombeiros de Vouzela apelam à solidariedade para poderem trabalhar",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/bombeiros-de-vouzela-apelam-a-solidariedade-para-poderem-trabalhar_a1562883",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os bombeiros de Vouzela, no distrito de Viseu, afirmam estar em dificuldades financeiras e têm de obter verbas através de campanhas solidárias para ajudar a pagar as faturas que chegam ao destacamento.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d2/d25663594477f727172fb19b82764864?w=350&amp;q=50&amp;rect=0,231,1255,688&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-09 09:11:38",
+        "category": "pais"
+    },
+    {
+        "headline": "Suspeitas de corrupção. Câmara de Cascais alvo de buscas relacionadas com fábrica de máscaras",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/suspeitas-de-corrupcao-camara-de-cascais-alvo-de-buscas-relacionadas-com-fabrica-de-mascaras_n1563192",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Polícia Judiciária pôs em marcha, esta quarta-feira, diligências de busca na Câmara Municipal de Cascais. A investigação estará relacionada com uma fábrica de máscaras cirúrgicas criada no concelho, no âmbito da pandemia da covid-19.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/0e/0e1dc64eb2429a2199ba446987979a93?w=350&amp;q=50&amp;rect=0,13,1000,548&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-10 13:17:09",
+        "category": "pais"
     }
 ]
