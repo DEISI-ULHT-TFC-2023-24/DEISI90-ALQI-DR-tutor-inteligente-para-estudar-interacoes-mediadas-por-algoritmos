@@ -70,103 +70,110 @@
     <div class="flex-container" style="padding-left: 15%;padding-right: 15%">
         <a href="/" class="navbar-item"
            style="float: left;font-size: 150%;color: #dddddd; border-radius: 10px">Edu-News</a>
+
+        <div class="dropdown">
+        <button class="dropbtn" style="border-radius: 10px;margin-left: 60px;margin-right: 60px" onclick="filterContent(selectedCategory,selectedDate)">Pesquisar Noticias
+        </button>
+        </div>
+
         <div class="dropdown">
             <button class="dropbtn" style="border-radius: 10px;margin-left: 60px;margin-right: 60px"
                     onclick="myFunction()">Notícias
             </button>
             <div class="dropdown-content" id="myDropdown">
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=ultimas&date=content_date"><strong>Últimas</strong></a>
+                   onclick="changeButtonTextCategory(this,'Auto','auto')"><strong>Auto</strong></a>
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=mundo&date=content_date"><strong>Mundo</strong></a>
+                   onclick="changeButtonTextCategory(this,'Casa','casa')"><strong>Casa</strong></a>
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=auto&date=content_date"><strong>Auto</strong></a>
+                   onclick="changeButtonTextCategory(this,'Cultura','cultura')"><strong>Cultura</strong></a>
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=casa&date=content_date"><strong>Casa</strong></a>
+                   onclick="changeButtonTextCategory(this,'Desporto','desporto')"><strong>Desporto</strong></a>
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=cultura&date=content_date"><strong>Cultura</strong></a>
+                   onclick="changeButtonTextCategory(this,'Economia','economia')"><strong>Economia</strong></a>
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=desporto&date=content_date"><strong>Desporto</strong></a>
+                   onclick="changeButtonTextCategory(this,'Fama','fama')"><strong>Fama</strong></a>
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=economia&date=content_date"><strong>Economia</strong></a>
+                   onclick="changeButtonTextCategory(this,'Lifestyle','lifestyle')"><strong>Lifestyle</strong></a>
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=fama&date=content_date"><strong>Fama</strong></a>
+                   onclick="changeButtonTextCategory(this,'País','pais')"><strong>País</strong></a>
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=lifestyle&date=content_date"><strong>Lifestyle</strong></a>
+                   onclick="changeButtonTextCategory(this,'Tech','tech')"><strong>Tech</strong></a>
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=pais&date=content_date"><strong>País</strong></a>
-                <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=tech&date=content_date"><strong>Tech</strong></a>
-                <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=politica&date=content_date"><strong>Politica</strong></a>
+                   onclick="changeButtonTextCategory(this,'Politica','politica')"><strong>Politica</strong></a>
+
             </div>
         </div>
 
-
         <div class="dropdown">
             <button class="dropbtn" style="border-radius: 10px;margin-left: 60px;margin-right: 60px"
-                    onclick="myFunction2()">Notícias
+                    onclick="myFunction2()">Data da Noticia
             </button>
             <div class="dropdown-content" id="myDropdown2">
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=ultimas&date=-content_date"><strong>Últimas</strong></a>
+                   onclick="changeButtonTextDate(this,'Mais-Antigas','content_date')"><strong>Mais-Antigas</strong></a>
                 <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=mundo&date=-content_date"><strong>Mundo</strong></a>
-                <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=auto&date=-content_date"><strong>Auto</strong></a>
-                <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=casa&date=-content_date"><strong>Casa</strong></a>
-                <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=cultura&date=-content_date"><strong>Cultura</strong></a>
-                <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=desporto&date=-content_date"><strong>Desporto</strong></a>
-                <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=economia&date=-content_date"><strong>Economia</strong></a>
-                <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=fama&date=-content_date"><strong>Fama</strong></a>
-                <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=lifestyle&date=-content_date"><strong>Lifestyle</strong></a>
-                <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=pais&date=-content_date"><strong>País</strong></a>
-                <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=tech&date=-content_date"><strong>Tech</strong></a>
-                <a class="" style="position: static; border-radius: 10px"
-                   href="{% url 'index' %}?category=politica&date=-content_date"><strong>Politica</strong></a>
+                   onclick="changeButtonTextDate(this,'Mais Recentes', '-content_date')"><strong>Mais Recentes</strong></a>
+
+
             </div>
         </div>
 
 
         <script>
+            var selectedCategory = '';
+            var selectedDate = '';
 
-            /* When the user clicks on the button,
-            toggle between hiding and showing the dropdown content */
             function myFunction() {
                 document.getElementById("myDropdown").classList.toggle("show");
             }
 
-            // Close the dropdown if the user clicks outside of it
-            window.onclick = function (e) {
-                if (!e.target.matches('.dropbtn')) {
-                    const myDropdown = document.getElementById("myDropdown");
-                    if (myDropdown.classList.contains('show')) {
-                        myDropdown.classList.remove('show');
-                    }
-                }
+            function changeButtonTextCategory(button, title, category) {
+                selectedCategory = category;
+                // Set the button's innerHTML to the title of the clicked item
+                button.closest('.dropdown').querySelector('.dropbtn').innerHTML = title;
+
+                // Close the dropdown after clicking an item
+                document.getElementById("myDropdown").classList.remove("show");
             }
 
             function myFunction2() {
                 document.getElementById("myDropdown2").classList.toggle("show");
             }
 
+            function changeButtonTextDate(button, title, date) {
+                selectedDate = date;
+                // Set the button's innerHTML to the title of the clicked item
+                button.closest('.dropdown').querySelector('.dropbtn').innerHTML = title;
+
+                // Close the dropdown after clicking an item
+                document.getElementById("myDropdown2").classList.remove("show");
+            }
+
             // Close the dropdown if the user clicks outside of it
             window.onclick = function (e) {
                 if (!e.target.matches('.dropbtn')) {
-                    const myDropdown = document.getElementById("myDropdown2");
-                    if (myDropdown.classList.contains('show')) {
-                        myDropdown.classList.remove('show');
+                    const dropdowns = document.getElementsByClassName("dropdown-content");
+                    for (let i = 0; i < dropdowns.length; i++) {
+                        const openDropdown = dropdowns[i];
+                        if (openDropdown.classList.contains('show')) {
+                            openDropdown.classList.remove('show');
+                        }
                     }
                 }
             }
+
+            function filterContent(category, date) {
+                if (selectedCategory === '') {
+                    selectedCategory = 'ultimas'
+                }
+                if (selectedDate === '') {
+                    selectedDate = '-content_date'
+                }
+                window.location.href = "{% url 'index' %}?category=" + selectedCategory + "&date=" + date;
+            }
+
+
         </script>
 
         <button id="refreshButton">Refresh News</button>

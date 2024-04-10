@@ -16,6 +16,9 @@ import data_scrapping.RTP
 def index(request):
     category = request.GET.get('category', 'ultimas')
     date = request.GET.get('date', 'content_date')
+    if (date == ''):
+        date = '-content_date'
+
     obj = Content.objects.filter(content_category=category).order_by(date)
     context = {
         "obj": obj,
