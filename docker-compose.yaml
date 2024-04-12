@@ -1,0 +1,36 @@
+version: '3'
+services:
+  db:
+    image: postgres:latest
+    container_name: projetotfc_postgresql
+    restart: always
+    volumes:
+      - data:/var/lib/postgresql/data
+    environment:
+      POSTGRES_DB: test1
+      POSTGRES_USER: pigas
+      POSTGRES_PASSWORD: 1235
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "pigas", "-d", "test1"]
+      timeout: 20s
+      retries: 10
+
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: project_name_backend
+    command: sh -c "python3 manage.py migrate --noinput && python3 manage.py collectstatic --noinput && python manage.py runserver 0.0.0.0:8000"
+    restart: always
+    volumes:
+      - .:/app
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    depends_on:
+      - db
+volumes:
+  data:

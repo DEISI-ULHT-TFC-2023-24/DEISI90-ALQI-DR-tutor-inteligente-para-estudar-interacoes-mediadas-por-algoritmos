@@ -50,6 +50,7 @@ MIDDLEWARE = [
     "django.contrib.messages.middleware.MessageMiddleware",
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
 ]
+#pipreqs /home/user/Documents/GitHub/projetoTFC
 
 ROOT_URLCONF = "project.urls"
 
