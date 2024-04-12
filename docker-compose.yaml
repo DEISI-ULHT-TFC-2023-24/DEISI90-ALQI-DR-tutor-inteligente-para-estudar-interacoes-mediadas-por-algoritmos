@@ -1,8 +1,9 @@
 version: '3'
+
 services:
   db:
-    image: postgres:latest
-    container_name: projetotfc_postgresql
+    image: postgres:13
+    container_name: project_name_postgresql
     restart: always
     volumes:
       - data:/var/lib/postgresql/data
@@ -32,5 +33,6 @@ services:
       - .env
     depends_on:
       - db
+
 volumes:
   data:

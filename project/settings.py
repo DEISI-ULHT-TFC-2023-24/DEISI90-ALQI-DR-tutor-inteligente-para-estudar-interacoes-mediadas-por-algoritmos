@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-bmrce(!fet7mb1&^m)^-yibencs_1l=85px^kdyr3_fvcgu8+)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['0.0.0.0', 'localhost', '127.0.0.1']
 
 
 # Application definition
@@ -82,6 +82,8 @@ DATABASES = {
         'NAME': 'test1',
         'USER': 'pigas',
         'PASSWORD': '1235',
+        'HOST': 'db',  # This should match the service name in docker-compose.yaml
+        'PORT': '5432',
     }
 }
 
@@ -121,6 +123,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/5.0/howto/static-files/
 
 STATIC_URL = "static/"
+STATIC_ROOT = "news/static"
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
