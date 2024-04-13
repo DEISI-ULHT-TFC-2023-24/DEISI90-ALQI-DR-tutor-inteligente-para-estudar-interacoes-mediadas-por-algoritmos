@@ -8,13 +8,13 @@ CREATE TABLE news_source (
     source_id SERIAL PRIMARY KEY,
     source_url TEXT,
     source_trust_rating FLOAT,
-    source_name TEXT 
+    source_name TEXT
 );
 -- Create news_category table
 CREATE TABLE news_category (
-	category_label SERIAL PRIMARY KEY ,
+    category_label TEXT PRIMARY KEY ,
     category_id TEXT,
-    category_code TEXT 
+    category_code TEXT
 );
 
 -- Create news_content table
@@ -41,6 +41,30 @@ CREATE TABLE news_thread (
     thread_response text,
     foreign key (content_id) references news_content(content_id)
 );
+INSERT INTO news_category (category_label, category_id, category_code)
+VALUES
+    ('ultimas', 'Ult', '001'),
+    ('politica', 'PL', '002'),
+    ('fama', 'Fm', '003'),
+    ('mundo', 'MN', '004'),
+    ('tech', 'Tech', '005'),
+    ('lifestyle', 'Life', '006'),
+    ('casa', 'Casa', '007'),
+    ('auto', 'Auto', '008'),
+    ('pais', 'Pais', '008'),
+    ('casaMinuto', 'CasaM', '009'),
+    ('desporto', 'Des', '010'),
+    ('economia', 'Eco', '011'),
+    ('cultura', 'Cul', '012'),
+    ('autoMinuto', 'AutoM', '013'),
+    ('videos', 'Vid', '014'),
+    ('audios', 'Aud', '015');
 
 
-select * from news_source
+
+   INSERT INTO news_source (source_url, source_trust_rating, source_name)
+VALUES
+    ('https://www.rtp.pt/', 8, 'RTP'),
+    ('https://www.noticiasaominuto.com/', 6, 'Noticias ao Minuto');
+
+
