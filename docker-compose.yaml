@@ -3,7 +3,7 @@ version: '3'
 services:
   db:
     image: postgres:13
-    container_name: project_name_postgresql
+    container_name: projetotfc_postgresql
     restart: always
     volumes:
       - data:/var/lib/postgresql/data
@@ -22,7 +22,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: project_name_backend
+    container_name: projetotfc_backend
     command: sh -c "python3 manage.py migrate --noinput && python3 manage.py collectstatic --noinput && python manage.py runserver 0.0.0.0:8000"
     restart: always
     volumes:
