@@ -37,3 +37,9 @@ https://youtu.be/KBxVKNbWeVo
 
       Fazer docker-compose build --up (build para compilar e up para começar as 2 imagens)
   <img src="https://github.com/rodrigoamaro22004525/projetoTFC/assets/79323898/6ee65e72-8055-4939-bea8-236b153c5c94">
+
+  #### No fim é só entrar num browser
+      Em Linux pode pôr o link 0.0.0.0:8000 (como na imagem)
+      Em Windows normalmente não funciona o 0.0.0.0:8000, logo poderá usar o localhost:8000 ou 127.0.0.1:8000
+  <img src="https://github.com/rodrigoamaro22004525/projetoTFC/assets/79323898/10ed26d5-70f5-4b29-b3ce-b8595bc01210">
+
