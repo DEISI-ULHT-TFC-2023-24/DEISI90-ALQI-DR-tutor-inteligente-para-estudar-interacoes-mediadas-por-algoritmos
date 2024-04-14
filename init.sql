@@ -103,6 +103,8 @@ WHERE NOT EXISTS (
     FROM news_category nc
     WHERE nc.category_label = data.category_label
 );
+
+
 -- Insert data into news_source table if not exists
 INSERT INTO news_source (source_url, source_trust_rating, source_name)
 SELECT *
