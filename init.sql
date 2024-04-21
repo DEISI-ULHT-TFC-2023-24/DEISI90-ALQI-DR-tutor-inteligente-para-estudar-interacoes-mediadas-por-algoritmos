@@ -1,4 +1,3 @@
--- Check if news_source table exists
 DO $$ BEGIN
     IF NOT EXISTS (
         SELECT 1
@@ -90,13 +89,11 @@ FROM (VALUES
     ('casa', 'Casa', '007'),
     ('auto', 'Auto', '008'),
     ('pais', 'Pais', '008'),
-    ('casaMinuto', 'CasaM', '009'),
-    ('desporto', 'Des', '010'),
-    ('economia', 'Eco', '011'),
-    ('cultura', 'Cul', '012'),
-    ('autoMinuto', 'AutoM', '013'),
-    ('videos', 'Vid', '014'),
-    ('audios', 'Aud', '015')
+    ('desporto', 'Des', '009'),
+    ('economia', 'Eco', '010'),
+    ('cultura', 'Cul', '011'),
+    ('videos', 'Vid', '012'),
+    ('audios', 'Aud', '013')
 ) AS data (category_label, category_id, category_code)
 WHERE NOT EXISTS (
     SELECT 1
@@ -110,7 +107,8 @@ INSERT INTO news_source (source_url, source_trust_rating, source_name)
 SELECT *
 FROM (VALUES
     ('https://www.rtp.pt/', 8, 'RTP'),
-    ('https://www.noticiasaominuto.com/', 6, 'Noticias ao Minuto')
+    ('https://www.noticiasaominuto.com/', 6, 'Noticias ao Minuto'),
+    ('https://eco.sapo.pt/', 8, 'Sapo')
 ) AS data (source_url, source_trust_rating, source_name)
 WHERE NOT EXISTS (
     SELECT 1
@@ -119,4 +117,4 @@ WHERE NOT EXISTS (
 );
 
 
-
+select * from

@@ -1,29 +1,54 @@
-import os
+import subprocess
 from time import sleep
 
-from django.shortcuts import render, get_object_or_404
-
-import news
-from .models import Category, Source, Thread, Content
 from django.http import JsonResponse
+from django.shortcuts import render, redirect
+from django.urls import reverse
 from django.views.decorators.csrf import csrf_exempt
-import subprocess
+
 from news.static.dbController import importJson as ij
-import data_scrapping.RTP
+from .models import Category, Source, Content
 
 
-# Create your views here.
 def index(request):
-    category = request.GET.get('category', 'ultimas')
-    date = request.GET.get('date', 'content_date')
-    if (date == ''):
-        date = '-content_date'
+    query = request.GET.get('q')
+    category = request.GET.get('category')
+    date = request.GET.get('date')
+    source = request.GET.get('source')
 
-    obj = Content.objects.filter(content_category=category).order_by(date)
+    obj = Content.objects.all()
+
+    if query:
+        obj = obj.filter(content_headline__icontains=query)
+
+    if category:
+        obj = obj.filter(content_category=category)
+
+    if date:
+        obj = obj.order_by(date)
+    else:
+        obj = obj.order_by('-content_date')
+
+    if source:
+        obj = obj.filter(content_source=source)
+
     context = {
-        "obj": obj,
+        'obj': obj,
+        'query': query,
+        'category': category,
+        'date': date,
+        'source': source,
+        'categories': Category.objects.all(),
+        'sources': Source.objects.all(),
     }
+
     return render(request, "index.html", context)
+
+
+
+
+
+
 
 
 def news_detail(request, news_id):
@@ -35,6 +60,13 @@ def news_detail(request, news_id):
     return render(request, "content.html", context)
 
 
+def generate_category_and_date_link(category, date_type, query=None):
+    url = reverse('index') + f'?category={category}&date={date_type}'
+    if query:
+        url += f'&q={query}'
+    return url
+
+
 @csrf_exempt
 def execute_python_script(request):
     category = request.GET.get('category', 'ultimas')
@@ -42,22 +74,23 @@ def execute_python_script(request):
     context = {
         "obj": obj,
     }
-        # Run your Python script here
     try:
         subprocess.run(["python", "data_scrapping/RTP/RTP_RSS_To_json.py"])
         sleep(6)
-        list_possibilities = ["ultimas", "pais", "mundo", "desporto", "economia", "cultura", "videos", "audios"]
+        list_possibilities = ["ultimas", "pais", "mundo", "desporto", "economia", "cultura", "videos", "audios",
+                              "politica"]
         for x in list_possibilities:
             ij.import_json_data_RTP("data_scrapping/RTP/{cat}.json".format(cat=x))
 
+        subprocess.run(["python", "data_scrapping/Noticias_ao_Minuto/NM_RSS_to_json.py"])
         list_possibilities = ["ultimas", "politica", "pais", "fama", "mundo", "tech", "lifestyle", "casa", "auto",
-                              "casaMinuto", "autoMinuto", "desporto", "economia", "cultura", "tudo"]
+                              "casaMinuto", "autoMinuto", "desporto", "economia", "cultura"]
 
         for x in list_possibilities:
             ij.import_json_data_NM("data_scrapping/Noticias_ao_Minuto/{cat}.json".format(cat=x))
 
-        return render(request, "index.html", context)
+        subprocess.run(["python", "data_scrapping/sapoApi/sapo_api_to_json.py"])
+        ij.import_json_data_sapo("data_scrapping/sapoApi/ultimas.json")
+        return redirect('/')
     except Exception as e:
         return JsonResponse({'error': str(e)}, status=500)
-
-

@@ -1,17 +1,41 @@
 <!DOCTYPE html>
 {% load static %}
+{% load macros %}
+{% load custom_filters %}
 
-<html lang="" style="width: 100%; height: 100%;background-color: #070607;padding-top: 0.5%">
+
+<html lang="" style="width: 100%; height: 100%;background-color: #2f2f2f">
 <head>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-
+    <script src="../static/scripts/filtros.js"></script>
+    {% macro title %}
+        {% block content %}
+        {% endblock %}
+    {% endmacro %}
 
     <meta charset="UTF-8">
     <title>Edu-News</title>
     <style>
+        button {
+            background-color: transparent;
+        }
+
         body {
             color: black;
             font-family: "STIX Two Text", sans-serif;;
+        }
+
+        li {
+            margin-bottom: 2%;
+        }
+
+        li > a {
+            text-decoration: none;
+            color: white;
+        }
+
+        li > a:hover {
+            color: #5c5c8e;
         }
 
 
@@ -23,14 +47,14 @@
             overflow: hidden;
             position: relative;
             transition: background-color 0.5s ease;
-            margin: 10px auto; /* Center horizontally with auto margin */
-            text-align: center; /* Center text horizontally */
+            margin: 10px auto;
+            text-align: center;
             color: white;
             flex-direction: column;
         }
 
         .container:hover {
-            background-color: #817776; /* Change the color here */
+            background-color: #817776;
         }
 
         .container:hover .overlay {
@@ -62,141 +86,76 @@
 
 </head>
 
-<!-- >
-
-< -->
-<body style="">
-<nav class="navbar" style="padding-top: 0.3%">
-    <div class="flex-container" style="padding-left: 15%;padding-right: 15%">
+<body style="color: white; background-color: #171717; margin: 0; height: 100px">
+<nav class="navbar" style="padding-bottom: 30px">
+    <div class="flex-container" style="padding-left: 10%;padding-right: 15%; margin-top: 15px">
         <a href="/" class="navbar-item"
-           style="float: left;font-size: 150%;color: #dddddd; border-radius: 10px">Edu-News</a>
+           style="float: left;font-size: 150%;color: #dddddd;">Edu-News</a>
 
-        <div class="dropdown">
-        <button class="dropbtn" style="border-radius: 10px;margin-left: 60px;margin-right: 60px" onclick="filterContent()">Pesquisar Noticias
-        </button>
-        </div>
-
-        <div class="dropdown">
-            <button class="dropbtn" style="border-radius: 10px;margin-left: 60px;margin-right: 60px"
-                    onclick="myFunction()">Categorias
-            </button>
-            <div class="dropdown-content" id="myDropdown">
-                <a class="" style="position: static; border-radius: 10px"
-                   onclick="changeButtonTextCategory(this,'Auto','auto')"><strong>Auto</strong></a>
-                <a class="" style="position: static; border-radius: 10px"
-                   onclick="changeButtonTextCategory(this,'Casa','casa')"><strong>Casa</strong></a>
-                <a class="" style="position: static; border-radius: 10px"
-                   onclick="changeButtonTextCategory(this,'Cultura','cultura')"><strong>Cultura</strong></a>
-                <a class="" style="position: static; border-radius: 10px"
-                   onclick="changeButtonTextCategory(this,'Desporto','desporto')"><strong>Desporto</strong></a>
-                <a class="" style="position: static; border-radius: 10px"
-                   onclick="changeButtonTextCategory(this,'Economia','economia')"><strong>Economia</strong></a>
-                <a class="" style="position: static; border-radius: 10px"
-                   onclick="changeButtonTextCategory(this,'Fama','fama')"><strong>Fama</strong></a>
-                <a class="" style="position: static; border-radius: 10px"
-                   onclick="changeButtonTextCategory(this,'Lifestyle','lifestyle')"><strong>Lifestyle</strong></a>
-                <a class="" style="position: static; border-radius: 10px"
-                   onclick="changeButtonTextCategory(this,'País','pais')"><strong>País</strong></a>
-                <a class="" style="position: static; border-radius: 10px"
-                   onclick="changeButtonTextCategory(this,'Tech','tech')"><strong>Tech</strong></a>
-                <a class="" style="position: static; border-radius: 10px"
-                   onclick="changeButtonTextCategory(this,'Politica','politica')"><strong>Politica</strong></a>
-                <a class="" style="position: static; border-radius: 10px"
-                   onclick="changeButtonTextCategory(this,'Ultimas','ultimas')"><strong>Ultimas</strong></a>
-                <a class="" style="position: static; border-radius: 10px"
-                   onclick="changeButtonTextCategory(this,'Mundo','mundo')"><strong>Mundo</strong></a>
-
+        <div class="dropdown" style="margin-top: 10px">
+            <div class="search-container" style="">
+                <label for="searchInput" style=""></label>
+                <input type="text" id="searchInput" placeholder="Pesquisa de Notícias..." style="width: 400px; padding: 2%">
+                <button type="button" onclick="searchNews()">Pesquisar</button>
             </div>
         </div>
-
-        <div class="dropdown">
-            <button class="dropbtn" style="border-radius: 10px;margin-left: 60px;margin-right: 60px"
-                    onclick="myFunction2()">Data das Noticias
-            </button>
-            <div class="dropdown-content" id="myDropdown2">
-                <a class="" style="position: static; border-radius: 10px"
-                   onclick="changeButtonTextDate(this,'Mais-Antigas','content_date')"><strong>Mais-Antigas</strong></a>
-                <a class="" style="position: static; border-radius: 10px"
-                   onclick="changeButtonTextDate(this,'Mais Recentes', '-content_date')"><strong>Mais Recentes</strong></a>
-
-
-            </div>
-        </div>
-
-
-        <script>
-            var selectedCategory = '';
-            var selectedDate = '';
-
-            function myFunction() {
-                document.getElementById("myDropdown").classList.toggle("show");
-            }
-
-            function changeButtonTextCategory(button, title, category) {
-                selectedCategory = category;
-                // Set the button's innerHTML to the title of the clicked item
-                button.closest('.dropdown').querySelector('.dropbtn').innerHTML = title;
-
-                // Close the dropdown after clicking an item
-                document.getElementById("myDropdown").classList.remove("show");
-            }
-
-            function myFunction2() {
-                document.getElementById("myDropdown2").classList.toggle("show");
-            }
-
-            function changeButtonTextDate(button, title, date) {
-                selectedDate = date;
-                // Set the button's innerHTML to the title of the clicked item
-                button.closest('.dropdown').querySelector('.dropbtn').innerHTML = title;
-
-                // Close the dropdown after clicking an item
-                document.getElementById("myDropdown2").classList.remove("show");
-            }
-
-            // Close the dropdown if the user clicks outside of it
-            window.onclick = function (e) {
-                if (!e.target.matches('.dropbtn')) {
-                    const dropdowns = document.getElementsByClassName("dropdown-content");
-                    for (let i = 0; i < dropdowns.length; i++) {
-                        const openDropdown = dropdowns[i];
-                        if (openDropdown.classList.contains('show')) {
-                            openDropdown.classList.remove('show');
-                        }
-                    }
-                }
-            }
-
-            function filterContent() {
-                if (selectedCategory === '') {
-                    selectedCategory = 'ultimas'
-                }
-                if (selectedDate === '') {
-                    selectedDate = '-content_date'
-                }
-                window.location.href = "{% url 'index' %}?category=" + selectedCategory + "&date=" + selectedDate;
-            }
-
-
-        </script>
 
         <button id="refreshButton">Refresh News</button>
-
-
         <script>
             document.getElementById("refreshButton").addEventListener("click", function () {
                 window.location.href = "{% url 'refresh_news' %}";
             });
+
+            function searchNews() {
+                const searchQuery = document.getElementById('searchInput').value;
+                window.location.href = "{% url 'index' %}?q=" + encodeURIComponent(searchQuery);
+            }
         </script>
 
 
     </div>
 </nav>
 <hr>
-<section class="section" style="padding-left: 25%;padding-right: 25%;padding-top: 2%">
-    <div class="container2">
-        {% block content %}
-        {% endblock %}
+
+
+
+<section class="section" style="background-color: #2f2f2f">
+    <div class="container2" style="width: 100%;">
+        {% if request.get_full_path|slice:":2" == "/?" or request.get_full_path|slice:"1:2"|is_not_digit %}
+            <div class="filters-container" style="float: left; width: 25%;">
+                <h2 style="color: white; margin-left: 40%; padding-bottom: 3%;">Filtros</h2>
+                <div class="filter-block" style="margin-left: 5%">
+                    <button id="categorias-toggle" onclick="toogle_categorias()" style="color: #e7e8e9; margin-left: 15px; background-color: transparent; font-size: 1.5em">Categorias</button>
+                    <ul class="categorias-list" style="display: none; margin-left: 5%">
+                        {% for category in categories %}
+                        <li style="color: #e7e8e9"><a href="{% url 'index' %}?category={{ category }}{% if query %}&q={{ query }}{% endif %}">{{ category }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="filter-block" style="margin-left: 5%">
+                    <button id="data-toggle" onclick="toogle_data()" style="color: #e7e8e9; margin-left: 15px; margin-top: 15px; background-color: transparent; font-size: 1.5em">Ordem de Data</button>
+                    <ul class="data-list" style="display: none; margin-left: 5%">
+                        <li style="color: white"><a href="{% url 'index' %}?date=content_date{% if query %}&q={{ query }}{% endif %}">Mais Antigas</a></li>
+                        <li style="color: white"><a href="{% url 'index' %}?date=-content_date{% if query %}&q={{ query }}{% endif %}">Mais Recentes</a></li>
+                    </ul>
+                </div>
+                <div class="filter-block" style="margin-left: 5%">
+                    <button id="fonte-toggle" onclick="toogle_fonte()" style="color: #e7e8e9; margin-left: 15px; margin-top: 15px; background-color: transparent; font-size: 1.5em">Fonte</button>
+                    <ul class="fonte-list" style="display: none; margin-left: 5%">
+                        {% for source in sources %}
+                        <li style="color: #e7e8e9"><a href="{% url 'index' %}?source={{ source }}{% if query %}&q={{ query }}{% endif %}">{{ source }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+            <div class="main-content" style="float: left; width: 50%;">
+                {% usemacro title %}
+            </div>
+        {% else %}
+            <div class="container2" style="padding-left: 25%; padding-right: 25%;">
+                {% usemacro title %}
+            </div>
+        {% endif %}
     </div>
 </section>
 

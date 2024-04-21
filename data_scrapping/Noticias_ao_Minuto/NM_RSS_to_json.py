@@ -90,17 +90,15 @@ def get_news_data(x):
             continue
         encoded_content_element = item.find('content:encoded')
         if encoded_content_element:
-            # Parse HTML content to extract text without HTML tags
             clean_content = BeautifulSoup(encoded_content_element.text, 'html.parser').get_text()
         else:
-            clean_content = None  # or an empty string ''
+            clean_content = None
 
         content = item.text.strip()
         list_content = content.split('\n')
         list_content = [line.lstrip() for line in list_content]
 
         image_url = item.find('enclosure')['url'] if item.find('enclosure') else None
-        #https://www.noticiasaominuto.com
         findLink = [line for line in list_content if line.startswith('https://www.noticiasaominuto.com')]
         findLink2 = findLink[0]
 
@@ -131,12 +129,12 @@ def get_news_data(x):
 
 if __name__ == "__main__":
     list_possibilities = ["ultimas", "politica", "pais", "fama", "mundo", "tech", "lifestyle", "casa", "auto",
-                          "casaMinuto", "autoMinuto", "desporto", "economia", "cultura", "tudo", "all"]
+                          "casaMinuto", "autoMinuto", "desporto", "economia", "cultura"]
 
 
     def fetch_and_append(category):
         data = get_news_data(category)
-        append_to_json(data[0], f"/data_scrapping/Noticias_ao_Minuto/{category}.json")
+        append_to_json(data[0], f"data_scrapping/Noticias_ao_Minuto/{category}.json")
 
 
     threads = []

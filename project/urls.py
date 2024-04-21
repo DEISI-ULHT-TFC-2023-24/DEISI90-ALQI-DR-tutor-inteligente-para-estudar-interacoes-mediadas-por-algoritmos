@@ -23,5 +23,5 @@ urlpatterns = [
     path("admin/", admin.site.urls),
     path("", index, name="index"),
     path("refresh_news/", execute_python_script, name="refresh_news"),
-    path("/<int:news_id>/", news_detail, name="news_detail"),
+    path("<int:news_id>/", news_detail, name="news_detail"),
 ]

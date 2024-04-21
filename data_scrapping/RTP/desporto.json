@@ -1953,5 +1953,2521 @@
         ],
         "published": "2024-04-10 14:39:13",
         "category": "desporto"
+    },
+    {
+        "headline": "12h30 Edição de José Pedro Pinto",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-desporto/12h30-edicao-de-jose-pedro-pinto_a1_1564759",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 14:14:02",
+        "category": "desporto"
+    },
+    {
+        "headline": "Reduzido para metade castigo aplicado ao FC Porto",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/fc-porto/reduzido-para-metade-castigo-aplicado-ao-fc-porto_d1564757",
+        "content": [
+            {
+                "type": "text",
+                "data": "O castigo aplicado ao FC Porto por falta de vigilância e fiscalização no jogo com o Arouca, para a I Liga portuguesa de futebol, em 28 de dezembro de 2022, foi reduzido para metade, após recurso dos &quot;dragões&quot;."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/a5/a5f9bc876f3b16666568b884296ee347?w=350&amp;q=50&amp;rect=0,58,972,533&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 14:05:19",
+        "category": "desporto"
+    },
+    {
+        "headline": "Vitória deve assumir o jogo com o FC Porto",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/taca-de-portugal/vitoria-deve-assumir-o-jogo-com-o-fc-porto_d1564750",
+        "content": [
+            {
+                "type": "text",
+                "data": "O treinador Álvaro Pacheco afirmou que o Vitória de Guimarães tem de sair da &quot;zona de conforto&quot; e ter iniciativa ante o FC Porto, quarta-feira, na segunda mão da meia--final da Taça de Portugal de futebol."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d4/d4d84b9c13c128d8858b3212d2a5906b?w=350&amp;q=50&amp;rect=0,107,900,493&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 13:49:52",
+        "category": "desporto"
+    },
+    {
+        "headline": "FC Porto finaliza compra dos terrenos da academia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/fc-porto-finaliza-compra-dos-terrenos-da-academia_d1564744",
+        "content": [
+            {
+                "type": "text",
+                "data": "O FC Porto formalizou a aquisição de 14 hectares de terreno no concelho da Maia, distrito do Porto, para a construção da sua academia de futebol, depois de apresentar uma proposta de 3,4 milhões de euros."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/29/2978922d2db843ea7111b361f9f0ac53?w=350&amp;q=50&amp;rect=0,0,2048,1123&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 13:03:18",
+        "category": "desporto"
+    },
+    {
+        "headline": "Tocha Olímpica já foi acesa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/tocha-olimpica-ja-foi-acesa_v1564738",
+        "content": [
+            {
+                "type": "text",
+                "data": "A chama olímpica foi acesa esta terça-feira na antiga cidade de Olímpia e começou agora um longo périplo até à chegada a Paris para os Jogos Olímpicos de 2024, que começam daqui a 101 dias."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/40/40c1d5c726fda0927cea8b49872b7f70?w=350&amp;q=50&amp;rect=0,0,972,533&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 12:49:10",
+        "category": "desporto"
+    },
+    {
+        "headline": "Frederico Morais está fora do circuito mundial de surf",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/surf/frederico-morais-esta-fora-do-circuito-mundial-de-surf_d1564742",
+        "content": [
+            {
+                "type": "text",
+                "data": "O português Frederico Morais ficou afastado das últimas cinco etapas do circuito mundial de surf, ao perder na terceira ronda da etapa de Margaret River, frente ao sul-africano Jordy Smith."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b2/b26b07d3b558fbf105313f996f0a7a59?w=350&amp;q=50&amp;rect=0,4,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 12:35:04",
+        "category": "desporto"
+    },
+    {
+        "headline": "Queta marca oito pontos na derrota dos Maine Celtics",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/queta-marca-oito-pontos-na-derrota-dos-maine-celtics_d1564736",
+        "content": [
+            {
+                "type": "text",
+                "data": "O poste português Neemias Queta marcou oito pontos na derrota dos Maine Celtics frente aos Oklahoma City Blues, por 117-100, no terceiro e último jogo da final da G League da NBA."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/90/903421372f978169fe30b5e0b9fd62a7?w=350&amp;q=50&amp;rect=0,0,1600,877&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 12:16:15",
+        "category": "desporto"
+    },
+    {
+        "headline": "Felix Zwayer é o árbitro do Marselha-Benfica",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/benfica/felix-zwayer-e-o-arbitro-do-marselha-benfica_d1564733",
+        "content": [
+            {
+                "type": "text",
+                "data": "O alemão Félix Zwayer é o árbitro do jogo de quinta-feira entre Marselha e Benfica (20h00 em Lisboa), da segunda mão dos quartos de final da Liga Europa de futebol, informou a UEFA."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/50/502cdcd06b605afdb813ac4bc5786f5d?w=350&amp;q=50&amp;rect=0,0,1024,561&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 12:08:11",
+        "category": "desporto"
+    },
+    {
+        "headline": "Sporting procura consolidar liderança da I Liga",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/sporting-procura-consolidar-lideranca-da-i-liga_d1564729",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Sporting procura esta terça-feira consolidar a liderança da I Liga portuguesa de futebol, na visita ao terreno do Famalicão, em jogo em atraso da 20.ª jornada, inicialmente previsto para 3 de fevereiro."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ae/ae99d08664fa1c3742b159375e1c4667?w=350&amp;q=50&amp;rect=0,142,1200,658&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 11:22:15",
+        "category": "desporto"
+    },
+    {
+        "headline": "\"Champions\". FC Barcelona e Atlético de Madrid defendem",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/champions-fc-barcelona-e-atletico-de-madrid-defendem_d1564728",
+        "content": [
+            {
+                "type": "text",
+                "data": "O FC Barcelona e Atlético de Madrid defendem vantagens mínimas frente a Paris Saint-Germain e Borussia Dortmund, respetivamente, na segunda mão dos &quot;quartos&quot; da Liga dos Campeões em futebol, enquanto Manchester City-Real Madrid e Bayern Munique-Arsenal estão empatados.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d7/d7daa52fcf030f4c2dabd72379f0e092?w=350&amp;q=50&amp;rect=0,53,1024,561&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 11:01:12",
+        "category": "desporto"
+    },
+    {
+        "headline": "Taça de Portugal. FC Porto e Vitória correm para a final",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/taca-de-portugal-fc-porto-e-vitoria-correm-para-a-final_d1564727",
+        "content": [
+            {
+                "type": "text",
+                "data": "FC Porto e Vitória de Guimarães discutem, quarta-feira, no Estádio do Dragão, a presença na final da Taça de Portugal de futebol, a disputar com o Sporting, após o triunfo azul e branco na primeira mão (1-0)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/2f/2faa4757d4cc6762264a35a73516bd2b?w=350&amp;q=50&amp;rect=0,251,2048,1123&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 10:51:00",
+        "category": "desporto"
+    },
+    {
+        "headline": "Marcos Antunes apura Angola na Taça das Nações Africanas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/marcos-antunes-apura-angola-na-taca-das-nacoes-africanas_d1564725",
+        "content": [
+            {
+                "type": "text",
+                "data": "A seleção angolana de futsal apurou-se para as meias-finais da Taça das Nações Africanas, ao vencer o Gana por expressivos 11-3, em jogo da terceira jornada do Grupo A, em Rabat, Marrocos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/2d/2d7d3fe3ab1221adf22b29af71468615?w=350&amp;q=50&amp;rect=0,0,900,493&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 10:38:03",
+        "category": "desporto"
+    },
+    {
+        "headline": "Zubizarreta tem o perfil de diretor desportivo desejado por Villas-Boas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/fc-porto/zubizarreta-tem-o-perfil-de-diretor-desportivo-desejado-por-villas-boas_d1564724",
+        "content": [
+            {
+                "type": "text",
+                "data": "O ex-futebolista internacional espanhol Andoni Zubizarreta obedece ao perfil de diretor desportivo desejado por André Villas-Boas, revelou o candidato à presidência do FC Porto nas eleições dos órgãos sociais, em 27 de abril."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d6/d6a6a5d77fadddd971c68e517e637e5e?w=350&amp;q=50&amp;rect=0,0,1149,630&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 10:25:51",
+        "category": "desporto"
+    },
+    {
+        "headline": "Atalanta cede empate na receção ao Verona",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/atalanta-cede-empate-na-rececao-ao-verona_d1564722",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Atalanta desperdiçou uma vantagem de dois golos na receção ao Verona (2-2), para a 32.ª jornada da Liga italiana de futebol, e somou o segundo jogo seguido sem vencer na competição."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/4d/4d44a9cc073e839faf9f3bfa64267d0e?w=350&amp;q=50&amp;rect=0,0,960,526&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 10:13:50",
+        "category": "desporto"
+    },
+    {
+        "headline": "Roma confirma trauma torácico de Evan Ndicka",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/roma-confirma-trauma-toracico-de-evan-ndicka_d1564720",
+        "content": [
+            {
+                "type": "text",
+                "data": "O futebolista costa-marfinense Evan Ndicka não sofreu um ataque cardíaco, mas sim um trauma torácico no jogo de domingo entre Udinese e Roma, da Liga italiana, no qual desfaleceu, esclareceu o emblema romano."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/15/15819ecf76d9170bede73e0fa767c045?w=350&amp;q=50&amp;rect=0,0,900,493&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 10:07:27",
+        "category": "desporto"
+    },
+    {
+        "headline": "Jaime Faria brilha no challenger de Oeiras",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/jaime-faria-brilha-no-challenger-de-oeiras_d1564719",
+        "content": [
+            {
+                "type": "text",
+                "data": "O português Jaime Faria conquistou a maior vitória da carreira, ao derrotar na ronda inaugural do Oeiras Open 125 o brasileiro Thiago Monteiro, segundo cabeça de série do challenger português, a decorrer no Complexo de Ténis do Jamor."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b2/b2ecd07cd50349fd2c7c1a7c7845c9bf?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 09:59:48",
+        "category": "desporto"
+    },
+    {
+        "headline": "Matilde Jorge estreia-se no circuito WTA com vitória",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/matilde-jorge-estreia-se-no-circuito-wta-com-vitoria_d1564717",
+        "content": [
+            {
+                "type": "text",
+                "data": "A portuguesa Matilde Jorge estreou-se no circuito WTA com uma vitória frente à compatriota Ana Filipa Santos na ronda inaugural do Oeiras Ladies Open, que está a decorrer no Complexo de Ténis do Jamor."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/36/366d57d6a231e7c5994a1befe899a245?w=350&amp;q=50&amp;rect=0,32,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 09:51:41",
+        "category": "desporto"
+    },
+    {
+        "headline": "Francisco Cabral apura-se no torneio de pares em Bucareste",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/francisco-cabral-apura-se-no-torneio-de-pares-em-bucareste_d1564712",
+        "content": [
+            {
+                "type": "text",
+                "data": "O tenista português Francisco Cabral, ao lado do cazaque Aleksandr Nedovyesov, apurou-se para os quartos de final de pares do torneio de Bucareste, ao vencer os sérvios Nicola Cacic e Miomir Kecmanovic."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/80/8066c9184f4d981171bd24b0e3adf8ae?w=350&amp;q=50&amp;rect=0,0,920,504&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 09:41:38",
+        "category": "desporto"
+    },
+    {
+        "headline": "Tiago Apolónia e Fu Yu perdem em Macau",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/tiago-apolonia-e-fu-yu-perdem-em-macau_d1564709",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os portugueses Tiago Apolónia e Fu Yu perderam os primeiros encontros da fase de grupos da Taça do Mundo de ténis de mesa de Macau, que pode ajudar a decidir a qualificação para os Jogos Olímpicos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/1b/1bd006f150c05f3b5590753ef2eb8673?w=350&amp;q=50&amp;rect=0,0,920,504&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 09:35:08",
+        "category": "desporto"
+    },
+    {
+        "headline": "Francesa Manaudou irá levar a tocha olímpica",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/francesa-manaudou-ira-levar-a-tocha-olimpica_d1564707",
+        "content": [
+            {
+                "type": "text",
+                "data": "A antiga nadadora Laure Manaudou será a primeira francesa a transportar a tocha olímpica para os Jogos Paris2024, que será acesa esta terça-feira em Atenas, anunciou o Comité Olímpico Grego.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/08/08f2fcf688e0a515ba926025dc8f5422?w=350&amp;q=50&amp;rect=0,0,972,533&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 09:28:08",
+        "category": "desporto"
+    },
+    {
+        "headline": "André Almeida volta a ser decisivo e dá vitória ao Valência frente ao Osasuna",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/andre-almeida-volta-a-ser-decisivo-e-da-vitoria-ao-valencia-frente-ao-osasuna_d1564666",
+        "content": [
+            {
+                "type": "text",
+                "data": "O futebolista português André Almeida foi hoje decisivo na vitória do Valência em casa do Osasuna, ao marcar o único golo da partida que deu os três pontos à equipa valenciana, no fecho da 31.ª jornada da Liga espanhola."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/67/67c9dbb143178022ebff746e5dfebed7?w=350&amp;q=50&amp;rect=0,44,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 00:08:56",
+        "category": "desporto"
+    },
+    {
+        "headline": "Chelsea goleia o Everton com festival de Cole Palmer",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/chelsea-goleia-o-everton-com-festival-de-cole-palmer_d1564665",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Chelsea obteve a maior vitória da temporada ao ‘destruir’ o Everton (6-0), no fecho da 33.ª jornada da Liga inglesa de futebol, com Palmer a assinar um poker e a subir a melhor marcador da prova."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/69/69c141fd9a81502c826b9b2150bbd6a8?w=350&amp;q=50&amp;rect=0,0,1253,687&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 00:05:44",
+        "category": "desporto"
+    },
+    {
+        "headline": "Entrevista RTP. André Villas-Boas afirma que sócios do FC Porto \"querem clube na modernidade\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/1a-liga/entrevista-rtp-andre-villas-boas-afirma-que-socios-do-fc-porto-querem-clube-na-modernidade_d1564656",
+        "content": [
+            {
+                "type": "text",
+                "data": "Em entrevista à RTP, André Villas-Boas falou sobre a força da candidatura à presidência do FC Porto, depois de 42 anos de Jorge Nuno Pinto da Costa. O antigo treinador acusa a candidatura do opositor de dizer &quot;várias barbaridades&quot;, fala em Andoni Zubizarreta para a direção desportiva dos azuis e brancos e afirmou que os sócios estão fartos e querem ver o FC Porto &quot;na modernidade&quot;."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/67/67b9e1addaa218a6ef789e1599eaa1b4?w=350&amp;q=50&amp;rect=0,276,3024,1658&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-15 22:56:44",
+        "category": "desporto"
+    },
+    {
+        "headline": "FC Porto nega ter incumprido fair-play financeiro da UEFA",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/fc-porto-nega-ter-incumprido-fair-play-financeiro-da-uefa_v1564649",
+        "content": [
+            {
+                "type": "text",
+                "data": "O FC Porto nega ter incumprido as regras do fair-play financeiro entre outubro de 2023 e janeiro de 2024. Num curto comunicado, os dragões desmentem a notícia desta segunda-feira. O clube sublinha que &quot;as novas orientações de sustentabilidade financeira da UEFA foram integralmente cumpridas&quot; e que o Porto &quot;já recebeu a licença para participar nas provas europeias da próxima temporada&quot;."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/ff/ffa2f9ec1029e4a26adaa6453020fd26_N.jpg?"
+            }
+        ],
+        "published": "2024-04-15 22:13:47",
+        "category": "desporto"
+    },
+    {
+        "headline": "Guarda-redes Diogo Costa desfalca FC Porto com rotura muscular",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/fc-porto/guarda-redes-diogo-costa-desfalca-fc-porto-com-rotura-muscular_d1564648",
+        "content": [
+            {
+                "type": "text",
+                "data": "O guarda-redes internacional português Diogo Costa sofreu uma rotura do músculo pectíneo esquerdo e desfalcará o FC Porto, revelaram hoje os vice-campeões nacionais, sem apontar um prazo para essa ausência."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/f6/f6dfe8d5e750f5f5fef9bcd8ceda2601?w=350&amp;q=50&amp;rect=0,29,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-15 22:10:38",
+        "category": "desporto"
+    },
+    {
+        "headline": "Rui Pedroto escolhido por Villas-Boas para dirigir projetos sociais do FC Porto",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/fc-porto/rui-pedroto-escolhido-por-villas-boas-para-dirigir-projetos-sociais-do-fc-porto_d1564623",
+        "content": [
+            {
+                "type": "text",
+                "data": "Rui Pedroto, presidente da comissão executiva da Fundação Manuel António da Mota e filho de José Maria Pedroto, foi hoje apresentado pela lista de André Villas-Boas como candidato a ‘vice’ da área dos projetos sociais do FC Porto."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/66/6631b8588ae1d42ea11427696caf303e?w=350&amp;q=50&amp;rect=0,147,1231,675&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-15 21:03:02",
+        "category": "desporto"
+    },
+    {
+        "headline": "Etíope Sisay Lemma e queniana Hellen Obiri vencem maratona de Boston",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/etiope-sisay-lemma-e-queniana-hellen-obiri-vencem-maratona-de-boston_d1564607",
+        "content": [
+            {
+                "type": "text",
+                "data": "O etíope Sisay Lemma, que destronou o bicampeão em título, e a queniana Hellen Obiri, que repetiu o êxito de 2023, venceram hoje a 128.ª edição da maratona de Boston, a mais antiga do mundo."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ef/efe346d05b9770c2befc48fa4b5ea69f?w=350&amp;q=50&amp;rect=0,86,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-15 19:57:03",
+        "category": "desporto"
+    },
+    {
+        "headline": "18h30 15 Abril. Edição de Fernando Eurico",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-desporto/18h30-15-abril-edicao-de-fernando-eurico_a1_1564605",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-15 19:54:02",
+        "category": "desporto"
+    },
+    {
+        "headline": "Desportivo de Chaves vence Vizela e entrega lanterna-vermelha da I Liga",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/desportivo-de-chaves-vence-vizela-e-entrega-lanterna-vermelha-da-i-liga_e1564601",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Desportivo de Chaves abandonou o último lugar da I Liga portuguesa de futebol, por troca com o Vizela, equipa que visitou e venceu hoje por 1-0, no jogo de aflitos que encerrou a 29.ª jornada.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/35/35b58b9f10639f4a2da9bcb75bc6c069?w=350&amp;q=50&amp;rect=0,96,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-15 19:43:32",
+        "category": "desporto"
+    },
+    {
+        "headline": "Nadal regressa e garante \"continuar a competir até sentir que não vale mais a pena\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/nadal-regressa-e-garante-continuar-a-competir-ate-sentir-que-nao-vale-mais-a-pena_d1564569",
+        "content": [
+            {
+                "type": "text",
+                "data": "O tenista espanhol Rafael Nadal vai regressar à competição no torneio de Barcelona, que venceu em 12 ocasiões, e deixou hoje claro que irá &quot;continuar a competir até sentir que não vale mais a pena&quot;. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/bf/bf7b7b8dfeb768549e20a132af21ba6b?w=350&amp;q=50&amp;rect=0,31,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-15 17:35:41",
+        "category": "desporto"
+    },
+    {
+        "headline": "Bayer festeja a conquista do primeiro título de campeão da Alemanha",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/bayer-festeja-a-conquista-do-primeiro-titulo-de-campeao-da-alemanha_v1564541",
+        "content": [
+            {
+                "type": "text",
+                "data": "O treinador Xabi Alonso não escapou ao já habitual banho de cerveja na conferência de imprensa. Em Leverkusen, os adeptos celebraram noite dentro a conquista do primeiro título de campeão da Alemanha.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/af/af50b79ef303783a2334aa461c5829fe_N.jpg?"
+            }
+        ],
+        "published": "2024-04-15 15:14:47",
+        "category": "desporto"
+    },
+    {
+        "headline": "André Villas-Boas dá hoje uma entrevista à RTP",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/andre-villas-boas-da-hoje-uma-entrevista-a-rtp_v1564540",
+        "content": [
+            {
+                "type": "text",
+                "data": "O candidato à presidência do Futebol Clube do Porto responde às perguntas do jornalista Hugo Gilberto, às 20h30, no Telejornal, e em simultâneo na RTP3."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/98/98c156f31431373abcab6c60683af634_N.jpg?"
+            }
+        ],
+        "published": "2024-04-15 15:11:46",
+        "category": "desporto"
+    },
+    {
+        "headline": "Rúben Amorim espera um jogo complicado em Famalicão",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/sporting/ruben-amorim-espera-um-jogo-complicado-em-famalicao_v1564516",
+        "content": [
+            {
+                "type": "text",
+                "data": "Rúben Amorim fez esta segunda-feira a antevisão ao jogo com o Famalicão, partida em atraso da 20.ª jornada da Liga Betclic que está agendada para amanhã, às 20h15. O treinador convicto ou por estratégia considera o jogo complicado."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ec/ec2ffb51d9dbe2802f564c0e969ee29d?w=350&amp;q=50&amp;rect=0,0,859,471&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-15 14:36:40",
+        "category": "desporto"
+    },
+    {
+        "headline": "Surfista Frederico Morais avança em Margaret River",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/surfista-frederico-morais-avanca-em-margaret-river_d1564508",
+        "content": [
+            {
+                "type": "text",
+                "data": "O português Frederico Morais qualificou-se para a terceira ronda do Margaret River Pro, quinta etapa do circuito mundial de surf, ao bater o norte-americano Crosby Colapinto e o brasileiro Yago Dora."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/1b/1b092765a5c8bd4c82768ccaa6b28333?w=350&amp;q=50&amp;rect=0,46,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-15 12:51:55",
+        "category": "desporto"
+    },
+    {
+        "headline": "Tribunal confirma castigo ao treinador Miguel Afonso",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/tribunal-confirma-castigo-ao-treinador-miguel-afonso_d1564504",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Tribunal Central Administrativo (TCA) Sul confirmou o castigo por assédio sexual imposto ao treinador de futebol Miguel Afonso, após contestação da Federação Portuguesa de Futebol (FPF) à amnistia da Jornada Mundial da Juventude (JMJ)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/8b/8b599440be9dd70e157ee8c784fb8958?w=350&amp;q=50&amp;rect=0,0,960,526&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-15 12:43:20",
+        "category": "desporto"
+    },
+    {
+        "headline": "Mykolas Alekna bate recorde mundial do disco",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/mykolas-alekna-bate-recorde-mundial-do-disco_d1564488",
+        "content": [
+            {
+                "type": "text",
+                "data": "O jovem lituano Mykolas Alekna, de 21 anos, bateu o recorde do mundo no lançamento do disco, com um arremesso a 74,35 metros, em Ramona, nos Estados Unidos, batendo a mais antiga melhor marca do atletismo masculino."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/11/11c6da2b4439e2eddcbe16d880cf1582?w=350&amp;q=50&amp;rect=0,0,920,504&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-15 11:55:18",
+        "category": "desporto"
+    },
+    {
+        "headline": "João Geraldo derrotado no arranque da Taça Mundial",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/joao-geraldo-derrotado-no-arranque-da-taca-mundial_d1564483",
+        "content": [
+            {
+                "type": "text",
+                "data": "O português João Geraldo perdeu o primeiro encontro da fase de grupos da ITTF Taça Mundial de ténis de mesa, em Macau, que pode ajudar a decidir os cabeças-de-série para os Jogos Olímpicos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/00/00c10b4dadb4beb4beb6dd86887bb8c3?w=350&amp;q=50&amp;rect=0,0,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-15 11:46:24",
+        "category": "desporto"
+    },
+    {
+        "headline": "Paris2024. Portugal mantém ambição de quatro pódios",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/paris2024-portugal-mantem-ambicao-de-quatro-podios_d1564474",
+        "content": [
+            {
+                "type": "text",
+                "data": "O diretor desportivo do Comité Olímpico de Portugal (COP) assegurou que a Missão portuguesa está em linha com os objetivos propostos para Paris2024, que preveem a possibilidade de repetir as quatro medalhas de Tóquio2020."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/0d/0d21e97d4a133255a1142e2c96d3bfdd?w=350&amp;q=50&amp;rect=0,3,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-15 11:28:57",
+        "category": "desporto"
+    },
+    {
+        "headline": "Vizela e Chaves lutam pela sobrevivência",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/1a-liga/vizela-e-chaves-lutam-pela-sobrevivencia_d1564457",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Vizela recebe o Desportivo de Chaves, esta segunda-feira, no encerramento da 29.ª jornada da I Liga de futebol, num duelo entre os dois últimos do campeonato, que necessitam de pontos na luta para evitar a despromoção.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/29/29944a7a46f990f8c55ef3abe2e3973f?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-15 10:36:44",
+        "category": "desporto"
+    },
+    {
+        "headline": "Palmeiras inicia defesa do título com triunfo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/palmeiras-inicia-defesa-do-titulo-com-triunfo_d1564455",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Palmeiras, equipa do português Abel Ferreira, iniciou a defesa do título brasileiro de futebol com um triunfo em casa do Vitória da Bahia por 1-0, no jogo que encerrou a primeira jornada.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/0b/0b3ed9b6fca2090019f1a5751ee731c3?w=350&amp;q=50&amp;rect=0,0,1296,711&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-15 10:20:54",
+        "category": "desporto"
+    },
+    {
+        "headline": "Corinthians empata na estreia de António Oliveira",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/corinthians-empata-na-estreia-de-antonio-oliveira_d1564453",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Corinthians, orientado pelo treinador português António Oliveira, estreou-se no campeonato brasileiro com um empate a 0-0 frente ao Atlético Mineiro, na Neoquímica Arena, de São Paulo."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/bc/bcc0693cf4baea3b9422cbf7ce5a05f9?w=350&amp;q=50&amp;rect=0,0,920,504&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-15 10:16:06",
+        "category": "desporto"
+    },
+    {
+        "headline": "Steve Holcombe venceu Enduro de Valpaços",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/motores/steve-holcombe-venceu-enduro-de-valpacos_d1564452",
+        "content": [
+            {
+                "type": "text",
+                "data": "O piloto britânico Steve Holcombe (Honda) venceu o segundo de dois dias do Enduro de Valpaços, segunda ronda do Campeonato do Mundo da especialidade."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b2/b239474eedbf0d60842a73557368a482?w=350&amp;q=50&amp;rect=0,0,900,493&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-15 10:11:51",
+        "category": "desporto"
+    },
+    {
+        "headline": "Bernardo Pinheiro vence na European Le Mans Series",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/motores/bernardo-pinheiro-vence-na-european-le-mans-series_d1564451",
+        "content": [
+            {
+                "type": "text",
+                "data": "O português Bernardo Pinheiro (Team Virage) venceu as 4 Horas de Barcelona, prova de abertura das European Le Mans Series, na categoria LMP3."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/4f/4f1287bf2d2df046e545c65a6fd30346?w=350&amp;q=50&amp;rect=0,53,900,493&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-15 10:06:56",
+        "category": "desporto"
+    },
+    {
+        "headline": "Athletic Bilbau atrasa-se na corrida à \"Champions\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/athletic-bilbau-atrasa-se-na-corrida-a-champions_d1564449",
+        "content": [
+            {
+                "type": "text",
+                "data": "Um golo sofrido aos 90+5 minutos, quando atuava em superioridade numérica, custou ao Athletic Bilbau o empate 1-1 frente ao Villarreal, na 31.ª jornada da Liga espanhola de futebol, atrasando os bascos na corrida à &quot;Champions&quot;.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/2f/2f2457b58ac8978e801ff831393e1d8f?w=350&amp;q=50&amp;rect=0,0,920,504&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-15 10:01:52",
+        "category": "desporto"
+    },
+    {
+        "headline": "Inter empata e fica perto do título de campeão",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/inter-empata-e-fica-perto-do-titulo-de-campeao_d1564448",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Inter Milão ficou-se pelo empate 2-2 na receção ao Cagliari, na 32.ª jornada da liga italiana de futebol, mas poderá sagrar-se campeão já na próxima ronda, se vencer o dérbi da cidade com o AC Milan."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b2/b25168890b7e566814042e983226054f?w=350&amp;q=50&amp;rect=0,0,960,526&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-15 09:54:45",
+        "category": "desporto"
+    },
+    {
+        "headline": "Moto GP. Viñales vencer GP das Américas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/motores/moto-gp-vinales-vencer-gp-das-americas_d1564447",
+        "content": [
+            {
+                "type": "text",
+                "data": "O espanhol Maverick Viñales (Aprilia) fez história no Mundial de MotoGP, ao vencer o Grande Prémio das Américas e tornar-se no primeiro piloto a ganhar com três marcas diferentes (Suzuki, Yamaha e Aprilia)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/cd/cd4d2f2ab164ff286ca040dfb8caf871?w=350&amp;q=50&amp;rect=0,7,920,504&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-15 09:49:21",
+        "category": "desporto"
+    },
+    {
+        "headline": "Líder Santa Clara empata com Marítimo na II Liga",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/lider-santa-clara-empata-com-maritimo-na-ii-liga_d1564445",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Santa Clara empatou na Madeira 0-0 com o Marítimo, num jogo equilibrado, mas sem grandes oportunidades de golo, com a equipa dos Açores a manter a liderança da II Liga de futebol, com 60 pontos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/73/7346cc417875824da2c930c77885ec47?w=350&amp;q=50&amp;rect=65,0,899,493&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-15 09:42:31",
+        "category": "desporto"
+    },
+    {
+        "headline": "I Liga. Benfica vence Moreirense por 3-0 com golos de Tomás Araújo e Rollheister",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/i-liga-benfica-vence-moreirense-por-3-0-com-golos-de-tomas-araujo-e-rollheister_v1564431",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Benfica venceu o Moreirense por 3-0 e ficou a quatro pontos do líder Sporting."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/48/4869c9f9408a53c8f1ec8db427d949d2_N.jpg?"
+            }
+        ],
+        "published": "2024-04-15 08:02:46",
+        "category": "desporto"
+    },
+    {
+        "headline": "Golfe. Scottie Scheffler vence Masters de Augusta",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/golfe-scottie-scheffler-vence-masters-de-augusta_d1564413",
+        "content": [
+            {
+                "type": "text",
+                "data": "O norte-americano Scottie Scheffler conquistou, pela segunda vez, depois de 2022, o Masters de Augusta em golfe, ao concluir a prova com 277 pancadas (11 abaixo do Par do campo)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/5d/5d613128667da72cac207e46021bf6ce?w=350&amp;q=50&amp;rect=0,1,900,493&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-15 04:34:54",
+        "category": "desporto"
+    },
+    {
+        "headline": "Liga agrava penas para clubes com salários em atraso",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/liga-agrava-penas-para-clubes-com-salarios-em-atraso_d1565011",
+        "content": [
+            {
+                "type": "text",
+                "data": "As penas para os clubes com ordenados em atraso num dos quatro controlos financeiros promovidos pela Liga Portuguesa de Futebol Profissional (LPFP) podem praticamente duplicar, caso a medida seja aprovada na próxima Assembleia Geral (AG)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/5f/5fb715363f5cf01b986b5245a364ccd3?w=350&amp;q=50&amp;rect=0,14,960,526&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 13:01:50",
+        "category": "desporto"
+    },
+    {
+        "headline": "Los Angeles Lakers nos play-offs da NBA",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/los-angeles-lakers-nos-play-offs-da-nba_d1565005",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os Los Angeles Lakers conquistaram um lugar nos play-offs da NBA, marcando encontro com os campeões Denver Nuggets, ao vencerem fora os New Orleans Pelicans por 110-106, no primeiro embate do Play-in."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/60/6032c2a3d26b3f532ebf5f23ec01bd81?w=350&amp;q=50&amp;rect=0,0,920,504&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 12:20:39",
+        "category": "desporto"
+    },
+    {
+        "headline": "Benfica defende vantagem mínima em França",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/benfica/benfica-defende-vantagem-minima-em-franca_d1564991",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Benfica defende na quinta-feira no sul de França, face ao Marselha, a magra vantagem conseguida na Luz, rumo a uma quarta presença nas meias-finais da Liga Europa em futebol, uma década depois da última."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ab/abb07f05f2295bb9864750b1df5a446d?w=350&amp;q=50&amp;rect=0,0,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 11:17:49",
+        "category": "desporto"
+    },
+    {
+        "headline": "“Águias” procuram evitar 12.ª queda lusa nos “quartos”",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/benfica/aguias-procuram-evitar-12a-queda-lusa-nos-quartos_d1564988",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Benfica vai tenta evitar na quinta-feira face aos franceses do Marselha a 12.ª eliminação consecutiva de uma equipa portuguesa nos quartos de final das taças europeias de futebol.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ef/ef5c92b2a04dfbc5785bac8d5e5bed20?w=350&amp;q=50&amp;rect=0,92,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 11:04:14",
+        "category": "desporto"
+    },
+    {
+        "headline": "Benfica fez valer 22 de 29 triunfos tangenciais em casa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/benfica/benfica-fez-valer-22-de-29-triunfos-tangenciais-em-casa_d1564986",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Benfica seguiu em frente em 22 de 29 eliminatórias das taças europeias de futebol que iniciou com triunfos caseiros pela margem mínima, a última vez já esta época, frente aos gauleses do Toulouse."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/6e/6ef1be3b000940fab9979b132133f84c?w=350&amp;q=50&amp;rect=0,0,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 10:54:34",
+        "category": "desporto"
+    },
+    {
+        "headline": "“Encarnados” procuram 15.ª meia-final europeia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/benfica/encarnados-procuram-15a-meia-final-europeia_d1564982",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Benfica tem na quinta-feira a quinta possibilidade de selar a 15.ª presença nas meias-finais de uma prova europeia de futebol, partindo para a segunda mão dos &quot;quartos&quot; da Liga Europa em vantagem sobre os franceses do Marselha."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/6b/6ba10424e766a1739779aece90b5af98?w=350&amp;q=50&amp;rect=0,114,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 10:43:47",
+        "category": "desporto"
+    },
+    {
+        "headline": "Benfica com quatro triunfos e cinco empates em França",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/liga-europa/benfica-com-quatro-triunfos-e-cinco-empates-em-franca_d1564980",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Benfica soma quatro vitórias e cinco empates no reduto de clubes franceses, resultados que, sendo replicados na quinta-feira, face ao Marselha, valem o apuramento para as meias-finais da Liga Europa em futebol."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/f5/f5684fdf43d179b1e53f5bff061290ea?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 10:31:19",
+        "category": "desporto"
+    },
+    {
+        "headline": "FC Porto defende vantagem nas \"meias\" da Taça de Portugal",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/taca-de-portugal/fc-porto-defende-vantagem-nas-meias-da-taca-de-portugal_d1564977",
+        "content": [
+            {
+                "type": "text",
+                "data": "O FC Porto e o Vitória de Guimarães disputam esta quarta-feira a segunda mão das meias-finais da Taça de Portugal de futebol, com os &quot;dragões&quot; a defenderem em casa uma vantagem de 1-0.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/51/51c283e39f5418f7f0f1ca7216bb4737?w=350&amp;q=50&amp;rect=0,0,1024,561&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 10:20:19",
+        "category": "desporto"
+    },
+    {
+        "headline": "Guarda-redes Diogo Fernandes renova pelo FC Porto 2028",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/fc-porto/guarda-redes-diogo-fernandes-renova-pelo-fc-porto-2028_d1564975",
+        "content": [
+            {
+                "type": "text",
+                "data": "O jovem futebolista Diogo Fernandes prolongou a ligação com o FC Porto por quatro temporadas, até 2028, anunciou o emblema azul e branco."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/0a/0afcc877d365f50371c202c241a724a7?w=350&amp;q=50&amp;rect=0,17,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 10:00:14",
+        "category": "desporto"
+    },
+    {
+        "headline": "Werder Bremen suspende médio Naby Keita",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/werder-bremen-suspende-medio-naby-keita_d1564974",
+        "content": [
+            {
+                "type": "text",
+                "data": "O futebolista guineense Naby Keita foi suspenso pelo Werder Bremen até final da época, por se ter recusado a viajar com a equipa para Leverkusen no fim de semana passado, informou o clube 12.º classificado da Liga alemã."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d4/d4c9555327c1e556018bded8d493c4aa?w=350&amp;q=50&amp;rect=0,29,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 09:55:15",
+        "category": "desporto"
+    },
+    {
+        "headline": "Al Hilal de Jesus joga hoje na \"Champions\" asiática",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/al-hilal-de-jesus-joga-hoje-na-champions-asiatica_d1564973",
+        "content": [
+            {
+                "type": "text",
+                "data": "O jogo de terça-feira da primeira mão da Liga dos Campeões asiáticos de futebol, entre o Al Ain e o Al Hilal, de Jorge Jesus, foi adiado para esta quarta-feira, devido às fortes chuvas nos Emirados Árabes Unidos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/40/404b56dae2a99f57f1d196a06ac5b6ea?w=350&amp;q=50&amp;rect=0,37,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 09:50:11",
+        "category": "desporto"
+    },
+    {
+        "headline": "Portugal tenta apurar estafetas 4x400 para Roma e Paris",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/portugal-tenta-apurar-estafetas-4x400-para-roma-e-paris_d1564969",
+        "content": [
+            {
+                "type": "text",
+                "data": "Portugal vai apresentar-se em 4x400 metros mistos e femininos nas World Athletics Relays, nas Bahamas, à procura da qualificação para os Europeus de Roma2024 e para os Jogos Olímpicos Paris2024, anunciou a Federação Portuguesa de Atletismo (FPA)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/70/7091e02e26826b5e48050f0b9552522f?w=350&amp;q=50&amp;rect=0,17,1170,641&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 09:42:11",
+        "category": "desporto"
+    },
+    {
+        "headline": "Quatro equipas lusas querem erguer a \"Champions\" de hóquei",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/quatro-equipas-lusas-querem-erguer-a-champions-de-hoquei_d1564967",
+        "content": [
+            {
+                "type": "text",
+                "data": "FC Porto, Sporting, Óquei de Barcelos e Oliveirense manifestaram o desejo de vencer a Liga dos Campeões de hóquei em patins, numa final a quatro 100 por cento portuguesa, a disputar em maio, no Porto."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/39/39d6345c94fcbda826b1c39161b5b2c3?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 09:36:18",
+        "category": "desporto"
+    },
+    {
+        "headline": "Jonas Vingegaard teve alta após operação à clavícula",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/jonas-vingegaard-teve-alta-apos-operacao-a-clavicula_d1564965",
+        "content": [
+            {
+                "type": "text",
+                "data": "O ciclista dinamarquês Jonas Vingegaard, duplo vencedor da Volta a França, teve alta, depois de ter sido operado à clavícula, após a queda na Volta ao País Basco, anunciou a Visma-Lease a Bike."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/58/58ed54a41aab5a6c411fa372fa21bbbe?w=350&amp;q=50&amp;rect=0,0,972,533&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 09:28:47",
+        "category": "desporto"
+    },
+    {
+        "headline": "Jorge Simão substitui Ricardo Paiva no Boavista",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/1a-liga/jorge-simao-substitui-ricardo-paiva-no-boavista_d1564916",
+        "content": [
+            {
+                "type": "text",
+                "data": "Jorge Simão está de volta ao comando técnico do Boavista cinco anos depois para substituir Ricardo Paiva, após ter terminado a sua ligação ao Académico de Viseu, revelaram os &quot;axadrezados&quot;, da I Liga de futebol."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d1/d1085a3ff7b888d83d9e92a4121dc577?w=350&amp;q=50&amp;rect=0,17,1024,561&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 04:24:43",
+        "category": "desporto"
+    },
+    {
+        "headline": "Rúben Amorim longe de dar título como garantido",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/ruben-amorim-longe-de-dar-titulo-como-garantido_v1564927",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Sporting venceu o Famalicão por 1-0 e aumentou para 7 pontos a vantagem sobre o Benfica, segundo classificado."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/87/8712211362af1e8be732b54f4000e283_N.jpg?"
+            }
+        ],
+        "published": "2024-04-17 01:37:45",
+        "category": "desporto"
+    },
+    {
+        "headline": "PSG e Dortmund seguem para as meias da Champions",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/psg-e-dortmund-seguem-para-as-meias-da-champions_d1564914",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Paris Saint-Germain regressou esta terça-feira em força às meias-finais da Liga dos Campeões com uma goleada em Barcelona (4-1), assim como o Borussia Dortmund, mas na receção ao Atlético Madrid (4-2), num dia para esquecer para o futebol espanhol."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/0f/0f85a10329b4438a16a724f2c0b2eeb9?w=350&amp;q=50&amp;rect=0,141,1232,675&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 23:51:46",
+        "category": "desporto"
+    },
+    {
+        "headline": "Jogos Olímpicos 2024. Chama da tocha olímpica foi acesa na Grécia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/jogos-olimpicos-2024-chama-da-tocha-olimpica-foi-acesa-na-grecia_v1564895",
+        "content": [
+            {
+                "type": "text",
+                "data": "Foi hoje acesa a tocha olímpica para os Jogos Olímpicos de Paris. A França mantém a intenção de realizar a cerimónia de abertura dos Jogos Olímpicos com a concentração de milhares de pessoas junto ao rio Sena, apesar da ameaça de atentados"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/02/028cd92b84819ea4b09fae560fcc2ebb_N.jpg?"
+            }
+        ],
+        "published": "2024-04-16 21:57:46",
+        "category": "desporto"
+    },
+    {
+        "headline": "Neozelandês Simon Mannix assume comando técnico da seleção de râguebi",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/neozelandes-simon-mannix-assume-comando-tecnico-da-selecao-de-raguebi_d1564869",
+        "content": [
+            {
+                "type": "text",
+                "data": "O treinador neozelandês Simon Mannix vai ser apresentado na quarta-feira, em Lisboa, como novo selecionador de râguebi de Portugal, posição que assume com efeitos imediatos, adiantaram hoje à agência Lusa fontes ligadas ao processo.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/c1/c1b44dc2ef6dbfe6e6b63e4afa7b0db0?w=350&amp;q=50&amp;rect=0,84,1284,704&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 21:13:06",
+        "category": "desporto"
+    },
+    {
+        "headline": "Sporting vence Famalicão e amplia diferença na liderança do campeonato",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/sporting-vence-famalicao-e-amplia-diferenca-na-lideranca-do-campeonato_e1564836",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Sporting reforçou esta terça-feira a liderança da I Liga de futebol, ao vencer na visita ao Famalicão, por 1-0, em jogo em atraso da 20.ª jornada, ampliando para sete pontos a diferença para o segundo classificado Benfica.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/06/0638a8a526f19e3d9762a04aaf714983?w=350&amp;q=50&amp;rect=0,0,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 20:07:27",
+        "category": "desporto"
+    },
+    {
+        "headline": "Olímpico Rui Bragança com \"dever cumprido\" após carreira de 20 anos no taekwondo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/olimpico-rui-braganca-com-dever-cumprido-apos-carreira-de-20-anos-no-taekwondo_d1564858",
+        "content": [
+            {
+                "type": "text",
+                "data": "Rui Bragança anunciou hoje o fim da carreira no taekwondo, destacando o &quot;sentimento do dever cumprido&quot; na modalidade que representou duas vezes em Jogos Olímpicos e na qual conquistou o ouro europeu e prata mundial. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/95/950cf4128af57a4ecd3de2f2f3f72d88?w=350&amp;q=50&amp;rect=0,71,1193,654&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 19:56:40",
+        "category": "desporto"
+    },
+    {
+        "headline": "Nadal regressa à competição com triunfo na primeira ronda do torneio de Barcelona",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/nadal-regressa-a-competicao-com-triunfo-na-primeira-ronda-do-torneio-de-barcelona_d1564840",
+        "content": [
+            {
+                "type": "text",
+                "data": "O tenista espanhol Rafael Nadal triunfou na primeira ronda torneio de Barcelona, que já venceu por 12 vezes, impondo-se ao italiano Flavio Cobolli, em dois parciais, naquele que foi o regresso aos &#039;courts&#039; mais de três meses depois. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/08/08766bc96387033b54e5e37acdf314e5?w=350&amp;q=50&amp;rect=0,73,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 19:08:54",
+        "category": "desporto"
+    },
+    {
+        "headline": "Mundial de andebol de 2029 atrubuído a França e Alemanha",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/mundial-de-andebol-de-2029-atrubuido-a-franca-e-alemanha_d1564825",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Mundial de andebol de 2029 vai ser organizado por França e Alemanha e o de 2031 por Dinamarca, Islândia e Noruega, anunciou hoje a Federação Internacional de Andebol (IHF), reunida em Créteil, França."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/c9/c91d4cc2558a25a9e9101bd09c345d8e?w=350&amp;q=50&amp;rect=0,0,1232,675&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 17:57:58",
+        "category": "desporto"
+    },
+    {
+        "headline": "Nuno Borges derrota Wawrinka e está na segunda ronda em Bucareste",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/nuno-borges-derrota-wawrinka-e-esta-na-segunda-ronda-em-bucareste_d1564813",
+        "content": [
+            {
+                "type": "text",
+                "data": "O tenista português Nuno Borges, sétimo cabeça de série, qualificou-se hoje para a segunda ronda do torneio de Bucareste, depois de eliminar o suíço Stan Wawrinka, em três sets."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/97/97c2bf755165aedfb11dbad3f3ee9cc8?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 17:30:52",
+        "category": "desporto"
+    },
+    {
+        "headline": "Ficam hoje decididos os dois primeiros semifinalistas da Liga dos Campeões",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/ficam-hoje-decididos-os-dois-primeiros-semifinalistas-da-liga-dos-campeoes_v1564796",
+        "content": [
+            {
+                "type": "text",
+                "data": "Há vários portugueses em campo. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/a6/a6691d6c0b9d90722d9e495c08f8142b_N.jpg?"
+            }
+        ],
+        "published": "2024-04-16 15:19:48",
+        "category": "desporto"
+    },
+    {
+        "headline": "Sérgio Conceição não confirma o afastamento de quatro jogadores do plantel principal",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/sergio-conceicao-nao-confirma-o-afastamento-de-quatro-jogadores-do-plantel-principal_v1564786",
+        "content": [
+            {
+                "type": "text",
+                "data": "Sérgio Conceição não confirma o afastamento de quatro jogadores do plantel principal mas garante que para jogar no Porto é preciso mais do que apenas ter contrato com o clube."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/1b/1b7c971a5e8e2456743299c8cdac25d9_N.jpg?"
+            }
+        ],
+        "published": "2024-04-16 14:57:47",
+        "category": "desporto"
+    },
+    {
+        "headline": "Sérgio Conceição espera jogo intenso com o Vitória",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/fc-porto/sergio-conceicao-espera-jogo-intenso-com-o-vitoria_d1564775",
+        "content": [
+            {
+                "type": "text",
+                "data": "Sérgio Conceição fez esta terça-feira a conferência de imprensa de antevisão ao jogo da 2.ª mão das meias-finais da Taça de Portugal com o V. Guimarães, partida agendada para amanhã (20h15), no Estádio do Dragão. Os azuis e brancos venceram a 1.ª mão por 1-0 e espera um jogo competitivo.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/0e/0e8c4526fec34d6b9600419d7efb8f3c?w=350&amp;q=50&amp;rect=0,0,859,471&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-16 14:41:12",
+        "category": "desporto"
+    },
+    {
+        "headline": "Nuno Borges está nos \"quartos\" de pares em Bucareste",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/tenis/nuno-borges-esta-nos-quartos-de-pares-em-bucareste_d1565046",
+        "content": [
+            {
+                "type": "text",
+                "data": "O tenista português Nuno Borges, ao lado do norte-americano Reese Stalder, qualificou-se para os quartos de final do quadro de pares do torneio de Bucareste, ao vencer os romenos Marius Copil e Bogdan Pavel."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/83/8353ce296a9d69b79568cdc4b0e00b8c?w=350&amp;q=50&amp;rect=0,0,920,504&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 14:54:33",
+        "category": "desporto"
+    },
+    {
+        "headline": "Villas-Boas apresenta novo modelo de gestão desportiva",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/fc-porto/villas-boas-apresenta-novo-modelo-de-gestao-desportiva_d1565043",
+        "content": [
+            {
+                "type": "text",
+                "data": "A implementação de um novo paradigma de gestão desde a formação à equipa principal de futebol do FC Porto deverá estar concretizada até 2025, estima André Villas-Boas, candidato à presidência do clube, nas eleições de 27 de abril."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/62/6217e1a13a3bd6aa1a504e5a43083cdd?w=350&amp;q=50&amp;rect=0,10,840,461&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 14:47:44",
+        "category": "desporto"
+    },
+    {
+        "headline": "12h30 Edição Valter Madureira",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-desporto/12h30-edicao-valter-madureira_a1_1565022",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 14:02:02",
+        "category": "desporto"
+    },
+    {
+        "headline": "Pinto da Costa diz que a promessa foi cumprida",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/pinto-da-costa-diz-que-a-promessa-foi-cumprida_v1565055",
+        "content": [
+            {
+                "type": "text",
+                "data": "FC Porto garantiu a compra dos terrenos na Maia para a construção da Academia. O candidato à presidência esteve numa ação de campanha, em Arouca, onde voltou a atacar André Villas-Boas."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/19/1956ab8a76588d27ccd47b48bdcffc5f_N.jpg?"
+            }
+        ],
+        "published": "2024-04-17 15:06:45",
+        "category": "desporto"
+    },
+    {
+        "headline": "Listas concorrentes às eleições do FC Porto confirmadas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/fc-porto/listas-concorrentes-as-eleicoes-do-fc-porto-confirmadas_d1565366",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Mesa da Assembleia Geral do FC Porto autenticou esta quinta-feira os candidatos propostos pelas listas concorrentes às eleições dos órgãos sociais, em 27 de abril, respeitando os pressupostos estatutários dos vice-campeões nacionais de futebol."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/0e/0ef1d51efa7214ae71f12d149c872a3f?w=350&amp;q=50&amp;rect=0,46,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 14:49:06",
+        "category": "desporto"
+    },
+    {
+        "headline": "Claudio Giráldez renova contrato com o Celta",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/claudio-giraldez-renova-contrato-com-o-celta_d1565355",
+        "content": [
+            {
+                "type": "text",
+                "data": "O treinador Claudio Giráldez renovou o contrato com o Celta de Vigo e vai continuar ao comando da equipa da Liga espanhola de futebol por mais uma temporada, anunciou o clube galego."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/6c/6c43dc5ddf4a209d2dd34ee354d704f3?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 14:34:09",
+        "category": "desporto"
+    },
+    {
+        "headline": "Pimenta, Portela, Ribeiro e Messias certos em Paris",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/pimenta-portela-ribeiro-e-messias-certos-em-paris_d1565346",
+        "content": [
+            {
+                "type": "text",
+                "data": "Fernando Pimenta, bronze em K1 1.000 metros em Tóquio2020 e prata em K2 1.000 em Londres2012, João Ribeiro e Messias Baptista, atuais campeões mundiais em K2 500, e Teresa Portela são os canoístas portugueses selecionados para Paris2024.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/93/9305fa53c3a6c9c7755c6786c4aa035d?w=350&amp;q=50&amp;rect=0,172,1600,877&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 14:14:52",
+        "category": "desporto"
+    },
+    {
+        "headline": "Daniele De Rossi prolonga contrato com a Roma",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/daniele-de-rossi-prolonga-contrato-com-a-roma_d1565344",
+        "content": [
+            {
+                "type": "text",
+                "data": "O ex-futebolista Daniele De Rossi, que assumiu em janeiro o cargo de treinador da Roma, após o despedimento de José Mourinho, prolongou contrato com o emblema &quot;giallorosso&quot;, informou o clube."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/db/db56412d648579b5efa2664876f246b5?w=350&amp;q=50&amp;rect=0,0,920,504&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 14:05:41",
+        "category": "desporto"
+    },
+    {
+        "headline": "Rali de Portugal bate recorde de inscritos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/motores/rali-de-portugal-bate-recorde-de-inscritos_d1565339",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Rali de Portugal é a prova do Campeonato do Mundo (WRC) que conta até ao momento com o maior número de inscritos, 69 equipas de 22 nacionalidades, incluindo sete antigos vencedores, revelou a organização."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/01/0198438bd1382f42ca878b1f5f4c7019?w=350&amp;q=50&amp;rect=129,0,912,500&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 13:58:18",
+        "category": "desporto"
+    },
+    {
+        "headline": "12h30 18 Abril. Edição de Fernando Eurico",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-desporto/12h30-18-abril-edicao-de-fernando-eurico_a1_1565337",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 13:55:01",
+        "category": "desporto"
+    },
+    {
+        "headline": "Philadelphia 76ers disputam play-off da NBA",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/philadelphia-76ers-disputam-play-off-da-nba_d1565327",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os Philadelphia 76ers, liderados por Nicolas Batum e Joel Embiid, venceram os Miami Heat, por 105-104, e vão defrontar os New York Knicks na primeira ronda dos play-off da NBA."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/c7/c7d2d95b409e3eb8b69e20319145fd98?w=350&amp;q=50&amp;rect=0,89,1024,561&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 13:37:26",
+        "category": "desporto"
+    },
+    {
+        "headline": "Ramon Diaz critica mulher árbitro no videoárbitro",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/ramon-diaz-critica-mulher-arbitro-no-videoarbitro_d1565320",
+        "content": [
+            {
+                "type": "text",
+                "data": "O treinador do Vasco da Gama, clube da primeira divisão brasileira de futebol, o argentino Ramon Diaz, questionou a presença &quot;de uma mulher&quot; no comando do videoárbitro (VAR), declaração que está a gerar polémica no Brasil."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ee/eee34d1247935702fa7b19a675170cc7?w=350&amp;q=50&amp;rect=0,0,920,504&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 12:37:28",
+        "category": "desporto"
+    },
+    {
+        "headline": "Sporting defronta Vitória a pensar no título",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/sporting-defronta-vitoria-a-pensar-no-titulo_d1565309",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Sporting recebe no domingo o Vitória de Guimarães, o primeiro dos dois grandes obstáculos seguidos que terá de ultrapassar na caminhada em direção ao título português de futebol, em jogo da 30.ª jornada da I Liga."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/63/6311fd90edfc614b08cfd9525742db73?w=350&amp;q=50&amp;rect=0,0,1320,724&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 11:44:51",
+        "category": "desporto"
+    },
+    {
+        "headline": "Benfica em Marselha à procura da meia-final europeia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/benfica/benfica-em-marselha-a-procura-da-meia-final-europeia_d1565306",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Benfica tenta esta quinta-feira o apuramento para as meias-finais da Liga Europa em futebol, em jogo em que defronta fora o Marselha, com uma vantagem de 2-1 trazida do encontro da primeira mão, no Estádio da Luz.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/a0/a0a9106a14b2b4376daec9e3dfdeb298?w=350&amp;q=50&amp;rect=0,0,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 11:06:04",
+        "category": "desporto"
+    },
+    {
+        "headline": "Palmeiras derrotado em casa pelo Internacional",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/palmeiras-derrotado-em-casa-pelo-internacional_d1565304",
+        "content": [
+            {
+                "type": "text",
+                "data": "O campeão em título Palmeiras, orientado pelo treinador português Abel Ferreira, perdeu por 1-0 na receção ao Internacional, em encontro da segunda jornada do campeonato brasileiro de futebol."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/5d/5dd5fe68a3de8aea9e01f2ddb564d429?w=350&amp;q=50&amp;rect=0,0,1024,561&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 10:46:46",
+        "category": "desporto"
+    },
+    {
+        "headline": "Paris2024. Maria Martins aposta tudo na pista",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/ciclismo/paris2024-maria-martins-aposta-tudo-na-pista_d1565302",
+        "content": [
+            {
+                "type": "text",
+                "data": "A ciclista Maria Martins assumiu que abdicou de fazer estrada este ano para poder chegar aos Jogos Olímpicos Paris2024 com a consciência tranquila de que se preparou da melhor forma para as provas de pista."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/70/70817e952f750f33293b3daef2f01b16?w=350&amp;q=50&amp;rect=0,0,900,493&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 10:37:54",
+        "category": "desporto"
+    },
+    {
+        "headline": "Marcelo e Sara longe de Paris2024 na carabina a 50 metros",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/marcelo-e-sara-longe-de-paris2024-na-carabina-a-50-metros_d1565301",
+        "content": [
+            {
+                "type": "text",
+                "data": "Marcelo Cazassa e Sara Antunes falharam o apuramento na prova de tiro em carabina 50 metros para os Jogos Olímpicos Paris2024, após os seus modestos desempenhos no torneio que decorre no Rio de Janeiro."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d7/d7c13b598f552797a39febb5bf5c2d0c?w=350&amp;q=50&amp;rect=0,0,920,504&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 10:28:38",
+        "category": "desporto"
+    },
+    {
+        "headline": "Jorge Vieira analisa o momento de Pichardo e Dongmo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/atletismo/jorge-vieira-analisa-o-momento-de-pichardo-e-dongmo_d1565300",
+        "content": [
+            {
+                "type": "text",
+                "data": "O presidente da Federação Portuguesa de Atletismo (FPA), Jorge Vieira, mostrou-se confiante que Pedro Pichardo vai conseguir “ao pé-coxinho” mínimos para os Jogos Olímpicos Paris2024, mas está pessimista quanto à recuperação de Auriol Dongmo.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/c4/c44ecd288ca1a32e74c9cc4c8cddea72?w=350&amp;q=50&amp;rect=0,0,900,493&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 10:22:47",
+        "category": "desporto"
+    },
+    {
+        "headline": "Irmãs Jorge continuam a somar vitórias no Oeiras Open",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/irmas-jorge-continuam-a-somar-vitorias-no-oeiras-open_d1565298",
+        "content": [
+            {
+                "type": "text",
+                "data": "A tenista portuguesa Francisca Jorge, número um nacional, conquistou a primeira vitória num torneio WTA no Complexo de Ténis do Jamor, enquanto a irmã Matilde Jorge garantiu a passagem aos quartos de final do Ladies Oeiras Open.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/8a/8a9a2f61a68abd33bbabcaa76d2be168?w=350&amp;q=50&amp;rect=0,0,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 10:14:48",
+        "category": "desporto"
+    },
+    {
+        "headline": "Paris2024. COP quer segurança garantida na abertura",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/paris2024-cop-quer-seguranca-garantida-na-abertura_d1565295",
+        "content": [
+            {
+                "type": "text",
+                "data": "O secretário-geral do Comité Olímpico de Portugal (COP) disse que o organismo tem “uma posição muito clara” sobre a cerimónia de abertura dos Jogos Olímpicos Paris2024, pedindo que as autoridades francesas definam os termos de segurança."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/3a/3ab0853ca6afde4dee1b204fa73c2073?w=350&amp;q=50&amp;rect=28,0,708,388&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 10:05:41",
+        "category": "desporto"
+    },
+    {
+        "headline": "Jaime Faria nos \"quartos\" do Oeiras Open 125",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/jaime-faria-nos-quartos-do-oeiras-open-125_d1565292",
+        "content": [
+            {
+                "type": "text",
+                "data": "O português Jaime Faria carimbou a qualificação para os quartos de final do challenger Oeiras Open 125, ao derrotar o taiwanês Chun-Hsin Tseng, em dois &quot;sets&quot;, no Complexo de Ténis do Jamor."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/88/88580476da7e52e35b44c8319a871459?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 09:54:45",
+        "category": "desporto"
+    },
+    {
+        "headline": "Marcos Freitas segue em frente na Taça Mundial de Macau",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/marcos-freitas-segue-em-frente-na-taca-mundial-de-macau_d1565289",
+        "content": [
+            {
+                "type": "text",
+                "data": "O português Marcos Freitas conseguiu a qualificação para as eliminatórias da ITTF Taça Mundial de ténis de mesa de Macau, ao derrotar o nigeriano Quadri Aruna, no último encontro da fase de grupos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b5/b520de89514a501d633ff0f67b2aceb6?w=350&amp;q=50&amp;rect=0,0,1535,842&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 09:48:26",
+        "category": "desporto"
+    },
+    {
+        "headline": "Fernando Sá prolonga contrato com o FC Porto até 2026",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/fernando-sa-prolonga-contrato-com-o-fc-porto-ate-2026_d1565286",
+        "content": [
+            {
+                "type": "text",
+                "data": "O treinador da equipa de basquetebol do FC Porto, Fernando Sá, renovou contrato por mais duas épocas, até 2026, comunicaram os líderes do campeonato, em igualdade com o Benfica."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/9e/9e9256d2ccaf4269146cc87e60e11d55?w=350&amp;q=50&amp;rect=0,0,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 09:40:58",
+        "category": "desporto"
+    },
+    {
+        "headline": "\"Champions\". Manchester City eliminado pelo Real Madrid",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/champions-manchester-city-eliminado-pelo-real-madrid_d1565230",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Manchester City, detentor do título, foi eliminado nos &quot;quartos&quot; da Liga dos Campeões de futebol pelo Real Madrid, ao cair no desempate por grandes penalidades (4-3), após o 1-1 registado após prolongamento, no duelo na segunda mão."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d6/d64686dd90788e6bbebebce640f81463?w=350&amp;q=50&amp;rect=0,27,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 04:46:33",
+        "category": "desporto"
+    },
+    {
+        "headline": "Juventus terá de pagar a Cristiano Ronaldo 10 milhões de euros",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/juventus-tera-de-pagar-a-cristiano-ronaldo-10-milhoes-de-euros_d1565225",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Justiça italiana decidiu que a Juventus terá de pagar 9.774.166,66 de euros, mais juros, ao futebolista português Cristiano Ronaldo, equivalente à verba líquida que este deveria ter recebido de impostos e contribuições."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/a0/a01a906f430e572556233e5aa742c04c?w=350&amp;q=50&amp;rect=0,30,1184,649&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 22:58:17",
+        "category": "desporto"
+    },
+    {
+        "headline": "Bancadas do Vélodrome vão ter adeptos portugueses",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/bancadas-do-velodrome-vao-ter-adeptos-portugueses_v1565219",
+        "content": [
+            {
+                "type": "text",
+                "data": "Quase 4000 adeptos portugueses podem afinal estar nas bancadas para assistir ao Marselha Benfica. Numa cidade que ganhou fama de violenta, a RTP foi à procura de explicações para a ameaça de interdição feita junto da comunidade portuguesa para o jogo."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/c4/c462bb5c3dc46c58464a7352516b3eff_N.jpg?"
+            }
+        ],
+        "published": "2024-04-17 22:19:46",
+        "category": "desporto"
+    },
+    {
+        "headline": "Benfica procura em Marselha as meias da Liga Europa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/benfica-procura-em-marselha-as-meias-da-liga-europa_v1565210",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Benfica parte em vantagem, mas não assume o favoritismo no jogo de Marselha. Roger Schmidt quer foco, confiança e cautela."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/78/7883e122346f3a984b91ffb2db10a447_N.jpg?"
+            }
+        ],
+        "published": "2024-04-17 22:05:46",
+        "category": "desporto"
+    },
+    {
+        "headline": "Filipa Martins na final de paralelas assimétricas da Taça do Mundo de Doha",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/filipa-martins-na-final-de-paralelas-assimetricas-da-taca-do-mundo-de-doha_d1565195",
+        "content": [
+            {
+                "type": "text",
+                "data": "A ginasta olímpica Filipa Martins apurou-se esta quarta-feira para a final da prova de paralelas assimétricas da Taça do Mundo de Doha, a realizar na sexta-feira.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/16/1604dd9fdc8c51f7593b5f7a9c71a210?w=350&amp;q=50&amp;rect=0,61,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 21:24:19",
+        "category": "desporto"
+    },
+    {
+        "headline": "Rochele Nunes focada no ouro e com elogios para Telma Monteiro",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/judo/rochele-nunes-focada-no-ouro-e-com-elogios-para-telma-monteiro_d1565189",
+        "content": [
+            {
+                "type": "text",
+                "data": "A judoca portuguesa Rochele Nunes garantiu estar focada na medalha de ouro nos Jogos Olímpicos Paris2024, nos quais espera ver a &quot;incrível&quot; Telma Monteiro."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/5d/5d9cf9f3e887124745134e5ae953783f?w=350&amp;q=50&amp;rect=0,92,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 20:57:57",
+        "category": "desporto"
+    },
+    {
+        "headline": "Neres. \"Viemos para jogar bom futebol e sair com passagem para as meias\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/benfica/neres-viemos-para-jogar-bom-futebol-e-sair-com-passagem-para-as-meias_d1565185",
+        "content": [
+            {
+                "type": "text",
+                "data": "O brasileiro David Neres garantiu que o Benfica vai a Marselha para passar à &quot;próxima fase&quot; e jogar um &quot;bom futebol&quot;, na segunda mão dos quartos de final da Liga Europa de futebol. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/89/89b79a8bf9db07bbc3259ab422b26315?w=350&amp;q=50&amp;rect=0,59,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 20:49:49",
+        "category": "desporto"
+    },
+    {
+        "headline": "Novas ações da Sporting SAD resultantes dos VMOC admitidas em bolsa sexta-feira",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/sporting/novas-acoes-da-sporting-sad-resultantes-dos-vmoc-admitidas-em-bolsa-sexta-feira_d1565181",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os 135 milhões de títulos da SAD do Sporting resultantes das operações com Valores Mobiliários Obrigatoriamente Convertíveis (VMOC) readquiridos ao BCP e Novo Banco vão ser admitidos em bolsa na sexta-feira, anunciou hoje a entidade.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/32/326dd6329df5ef3ad5e84bef6dd5020e?w=350&amp;q=50&amp;rect=0,10,1464,803&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 20:36:11",
+        "category": "desporto"
+    },
+    {
+        "headline": "Al Hilal derrotado na Champions asiática e recorde de vitórias termina nas 34",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/al-hilal-derrotado-na-champions-asiatica-e-recorde-de-vitorias-termina-nas-34_d1565173",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Al Hilal, treinado por Jorge Jesus, foi esta tarde de quarta-feira derrotado por 4-2 na visita ao Al Ain, na primeira mão das meias-finais da Liga dos Campeões asiática de futebol, e terminou um recorde mundial de 34 vitórias seguidas.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/2c/2c370259e25b2884c8a0de3edaaf70dd?w=350&amp;q=50&amp;rect=12,0,1428,783&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 20:20:34",
+        "category": "desporto"
+    },
+    {
+        "headline": "FC Porto marca encontro com Sporting na final da Taça de Portugal",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/fc-porto-marca-encontro-com-sporting-na-final-da-taca-de-portugal_d1565163",
+        "content": [
+            {
+                "type": "text",
+                "data": "O FC Porto avançou esta quarta-feira para a final da Taça da Portugal em futebol, ao vencer o Vitória de Guimarães, por 3-1, na segunda mão das meias, indo defender frente ao Sporting o troféu conquistado nas duas últimas edições.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/85/852d4264968901362f1e7d895af51d5a?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 19:58:20",
+        "category": "desporto"
+    },
+    {
+        "headline": "Benfica SAD aumenta valor do empréstimo obrigacionista para 50 ME",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/benfica/benfica-sad-aumenta-valor-do-emprestimo-obrigacionista-para-50-me_d1565157",
+        "content": [
+            {
+                "type": "text",
+                "data": "A SAD do Benfica subiu o montante do empréstimo obrigacionista de 35 milhões de euros para 50 milhões de euros (ME), com taxa de juro bruta de 5,1% e maturidade de três anos, anunciou hoje a sociedade."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/60/608cc7c586f44468352208b832d6cfd7?w=350&amp;q=50&amp;rect=0,39,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 19:22:06",
+        "category": "desporto"
+    },
+    {
+        "headline": "Tenista Rafael Nadal afastado na segunda ronda do torneio de Barcelona",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/tenista-rafael-nadal-afastado-na-segunda-ronda-do-torneio-de-barcelona_d1565156",
+        "content": [
+            {
+                "type": "text",
+                "data": "O tenista espanhol Rafael Nadal foi hoje eliminado do torneio de Barcelona, que já venceu em 12 ocasiões, ao perder diante do australiano Alex De Minaur, em dois parciais. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/9c/9c93ac9d469c7c261a332e112648f114?w=350&amp;q=50&amp;rect=0,58,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 19:20:02",
+        "category": "desporto"
+    },
+    {
+        "headline": "Novo selecionador de râguebi pretende \"muito bom rendimento\" no Mundial2027",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/novo-selecionador-de-raguebi-pretende-muito-bom-rendimento-no-mundial2027_d1565068",
+        "content": [
+            {
+                "type": "text",
+                "data": "O novo selecionador de râguebi de Portugal, Simon Mannix, definiu hoje um &quot;muito bom rendimento&quot; como objetivo para a seleção portuguesa no Mundial da Austrália2027 e revelou-se &quot;entusiasmado&quot; com a oportunidade de trabalhar com os `lobos`."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/13/135a752f4b65478fdac53dd42da10601?w=350&amp;q=50&amp;rect=0,87,1284,704&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 17:19:10",
+        "category": "desporto"
+    },
+    {
+        "headline": "Treinador do Marselha confiante no apuramento para as meias",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/treinador-do-marselha-confiante-no-apuramento-para-as-meias_d1565103",
+        "content": [
+            {
+                "type": "text",
+                "data": "O treinador do Marselha garantiu hoje que a equipa tem &quot;trabalhado muito a estabilidade defensiva&quot; para o jogo com o Benfica, da segunda mão dos quartos da Liga Europa de futebol, e mostrou-se confiante no apuramento."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/0c/0cb42170e1378370afd3067c780299fc?w=350&amp;q=50&amp;rect=0,107,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 17:17:37",
+        "category": "desporto"
+    },
+    {
+        "headline": "Guarda-redes Diogo Fernandes renova pelo FC Porto até 2028",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/fc-porto/guarda-redes-diogo-fernandes-renova-pelo-fc-porto-ate-2028_d1564975",
+        "content": [
+            {
+                "type": "text",
+                "data": "O jovem futebolista Diogo Fernandes prolongou a ligação com o FC Porto por quatro temporadas, até 2028, anunciou o emblema azul e branco.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/0a/0afcc877d365f50371c202c241a724a7?w=350&amp;q=50&amp;rect=0,17,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-17 10:00:14",
+        "category": "desporto"
+    },
+    {
+        "headline": "Canoístas Norberto Mourão e Alex Santos selecionados para Paralímpicos Paris2024",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/canoistas-norberto-mourao-e-alex-santos-selecionados-para-paralimpicos-paris2024_d1565388",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os canoístas Norberto Mourão e Alex Santos vão ser os dois representantes portugueses na modalidade nos Jogos Paralímpicos Paris2024, anunciou hoje o Comité Paralímpico de Portugal (CPP)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/67/6755bfd56ce7599b52bdbbd3be2cc296?w=350&amp;q=50&amp;rect=0,28,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 16:51:41",
+        "category": "desporto"
+    },
+    {
+        "headline": "Portugal aumenta para 15 as vagas asseguradas nos Jogos Paralímpicos Paris2024",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/portugal-aumenta-para-15-as-vagas-asseguradas-nos-jogos-paralimpicos-paris2024_d1565667",
+        "content": [
+            {
+                "type": "text",
+                "data": "A atleta Beatriz Monteiro garantiu, via ranking, uma quota nominal no torneio de badminton dos Jogos Paralímpicos Paris2024, aumentando para 15 o número de vagas lusas asseguradas na competição, informou hoje o Comité Paralímpico de Portugal (CPP)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/18/18ed1e4e27127f829e2376ca3f884972?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-19 17:31:42",
+        "category": "desporto"
+    },
+    {
+        "headline": "Telma Monteiro promete \"dar o melhor possível\" para se qualificar",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/telma-monteiro-promete-dar-o-melhor-possivel-para-se-qualificar_d1565663",
+        "content": [
+            {
+                "type": "text",
+                "data": "A judoca Telma Monteiro prometeu esta sexta-feira fazer &quot;o melhor possível&quot; no regresso à competição, nos Europeus, e garantir a sua presença nos Jogos Olímpicos Paris2024, após cinco meses de ausência devido a uma lesão grave."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/25/256603b966019f9ebd06f4e5ab27165b?w=350&amp;q=50&amp;rect=0,135,1215,666&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-19 17:30:01",
+        "category": "desporto"
+    },
+    {
+        "headline": "Moreirense quer dar tudo pela vitória",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/moreirense-quer-dar-tudo-pela-vitoria_d1565632",
+        "content": [
+            {
+                "type": "text",
+                "data": "O treinador Rui Borges afirmou que o Moreirense quer regressar aos triunfos na I Liga portuguesa de futebol, embora alerte para as dificuldades de um Gil Vicente com novo treinador, Tozé Marreco, em desafio da 30.ª jornada."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/59/59379b4c7d1d1526b0f8d6719335e1a5?w=350&amp;q=50&amp;rect=0,0,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-19 14:45:29",
+        "category": "desporto"
+    },
+    {
+        "headline": "Nahuel Guzmán suspenso por 11 jogos no México",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/nahuel-guzman-suspenso-por-11-jogos-no-mexico_d1565613",
+        "content": [
+            {
+                "type": "text",
+                "data": "O guarda-redes Nahuel Guzmán, do Tigres, foi suspenso por 11 jogos por apontar um laser a Esteban Andrada, guarda-redes do Monterrey, no jogo de sábado entre as duas equipas, anunciou a Liga mexicana."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/31/313e1228a54985e73d59a994028bd780?w=350&amp;q=50&amp;rect=0,2,900,493&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-19 14:18:03",
+        "category": "desporto"
+    },
+    {
+        "headline": "Botafogo vence sob o comando de Artur Jorge",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/botafogo-vence-sob-o-comando-de-artur-jorge_d1565600",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Botafogo somou na quinta-feira o primeiro triunfo sob o comando do treinador português Artur Jorge, ao terceiro jogo, ao bater em casa o Atlético Goianiense por 1-0, na segunda jornada do campeonato brasileiro de futebol."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/e0/e00fc20809e6dea9a10e8f23452f0f5d?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-19 13:46:08",
+        "category": "desporto"
+    },
+    {
+        "headline": "Pimenta e Dongmo candidatos a serem Desportistas do Ano",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/pimenta-e-dongmo-candidatos-a-serem-desportistas-do-ano_d1565598",
+        "content": [
+            {
+                "type": "text",
+                "data": "O canoísta Fernando Pimenta e a lançadora do peso Auriol Dongmo, vencedores dos prémios Desportistas do Ano em 2022, voltam a integrar os finalistas da edição de 2023, anunciou a Confederação do Desporto de Portugal (CDP).\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/92/921bd6ec2790fe6ab9922a596a92a24b?w=350&amp;q=50&amp;rect=0,14,920,504&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-19 13:40:03",
+        "category": "desporto"
+    },
+    {
+        "headline": "Nagelsmann renova contrato com a seleção alemã",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/nagelsmann-renova-contrato-com-a-selecao-alema_d1565579",
+        "content": [
+            {
+                "type": "text",
+                "data": "O treinador alemão Julian Nagelsmann, que comanda a seleção germânica de futebol desde setembro de 2023, renovou contrato até ao Mundial de 2026, anunciou a federação alemã (DFB)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/7f/7f2002b431fa22c1abb9c2155dde1dc1?w=350&amp;q=50&amp;rect=0,0,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-19 12:20:10",
+        "category": "desporto"
+    },
+    {
+        "headline": "\"Novo\" Restelo dá saúde financeira ao Belenenses",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/novo-restelo-da-saude-financeira-ao-belenenses_d1565571",
+        "content": [
+            {
+                "type": "text",
+                "data": "A requalificação do complexo do Restelo, que marcou “o primeiro golo” com a inauguração de um supermercado e um miradouro, permite ao Belenenses alcançar o saneamento financeiro, afirmou o presidente Patrick Morais de Carvalho."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/9b/9b2e5325f0d125a31943056e7b6a2986?w=350&amp;q=50&amp;rect=0,2,960,526&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-19 11:30:22",
+        "category": "desporto"
+    },
+    {
+        "headline": "Números e Curiosidades – Jornada 30 da I Liga",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/numeros-e-curiosidades-jornada-30-da-i-liga_d1565566",
+        "content": [
+            {
+                "type": "text",
+                "data": "Nesta 30.ª jornada da I Liga de futebol acontece o 79.º clássico em Alvalade entre o Sporting e o Vitória SC, naquele que é o jogo mais histórico da jornada. O Vitória SC pode voltar a vencer em Alvalade, 14 anos depois. E o Sporting somar a 17.ª jornada consecutiva sem perder (1 volta completa).\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/65/65bdcf7b04a8c599dff9fc0ef9cf63d8?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-19 11:10:38",
+        "category": "desporto"
+    },
+    {
+        "headline": "Rio Ave e Arouca enfrentam-se na hora das decisões",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/rio-ave-e-arouca-enfrentam-se-na-hora-das-decisoes_d1565565",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Rio Ave recebe o Arouca, esta sexta-feira, no jogo de abertura da 30.ª jornada da I Liga portuguesa de futebol. O encontro tem início às 20h15, no Estádio do Rio Ave FC, com arbitragem de Bruno Vieira.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/44/444566877862d45b2fdd6df2702ca361?w=350&amp;q=50&amp;rect=0,0,1280,702&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-19 10:50:51",
+        "category": "desporto"
+    },
+    {
+        "headline": "FC Porto vence Colégio Efanor na luta pelo título de voleibol",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/fc-porto-vence-colegio-efanor-na-luta-pelo-titulo-de-voleibol_d1565563",
+        "content": [
+            {
+                "type": "text",
+                "data": "O FC Porto venceu o PV2014 Colégio Efanor, por 3-1, num emotivo primeiro jogo do play-off de apuramento do campeão da Liga portuguesa feminina de voleibol."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/73/73c6e620ea99950a55f0f735463dbe40?w=350&amp;q=50&amp;rect=0,0,920,504&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-19 10:37:12",
+        "category": "desporto"
+    },
+    {
+        "headline": "André Villas-Boas critica pressa no acordo com Ithaka",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/fc-porto/andre-villas-boas-critica-pressa-no-acordo-com-ithaka_d1565559",
+        "content": [
+            {
+                "type": "text",
+                "data": "A aceleração do contrato selado entre a FC Porto SAD e a sociedade espanhola Ithaka Infra III para a exploração comercial do Estádio do Dragão causou descontentamento a André Villas-Boas, candidato às próximas eleições do clube."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b1/b102eb296230a2d833493c611cce0559?w=350&amp;q=50&amp;rect=0,0,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-19 10:31:39",
+        "category": "desporto"
+    },
+    {
+        "headline": "Seleção de andebol feminina quer chegar ao topo Europeu",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/selecao-nacional/selecao-de-andebol-feminina-quer-chegar-ao-topo-europeu_d1565557",
+        "content": [
+            {
+                "type": "text",
+                "data": "A seleção portuguesa feminina de andebol vai ao Europeu deste ano empenhada em “encurtar distâncias” para as seleções mais fortes, esperando surpreender as mais cotadas França, Espanha e Polónia no Grupo C em Basileia, Suíça."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/5c/5cade0cc9f6eae428bd768448b8f910e?w=350&amp;q=50&amp;rect=0,108,1200,658&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-19 10:18:31",
+        "category": "desporto"
+    },
+    {
+        "headline": "Impacto financeiro do MotoGP atinge os 87 ME",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/impacto-financeiro-do-motogp-atinge-os-87-me_d1565555",
+        "content": [
+            {
+                "type": "text",
+                "data": "O impacto financeiro do Grande Prémio de Portugal de MotoGP, prova do campeonato do Mundo de motociclismo de velocidade, disputado em março, em Portimão, pode ter chegado aos 87 milhões de euros, estimou o Turismo do Algarve."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/f2/f26ccb9097431b9b6ae4db2cbddb1451?w=350&amp;q=50&amp;rect=0,0,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-19 10:08:43",
+        "category": "desporto"
+    },
+    {
+        "headline": "Gastão Elias perde no challenger Oeiras Open 125",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/gastao-elias-perde-no-challenger-oeiras-open-125_d1565551",
+        "content": [
+            {
+                "type": "text",
+                "data": "O tenista português Gastão Elias perdeu frente ao italiano Samuel Vincent Ruggeri na segunda ronda do challenger Oeiras Open 125."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/08/0860aae2dd9fd494f328662a2049982c?w=350&amp;q=50&amp;rect=0,0,899,493&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-19 09:57:41",
+        "category": "desporto"
+    },
+    {
+        "headline": "Francisca Jorge nos \"quartos\" do Oeiras Ladies Open",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/francisca-jorge-nos-quartos-do-oeiras-ladies-open_d1565550",
+        "content": [
+            {
+                "type": "text",
+                "data": "A portuguesa Francisca Jorge garantiu o apuramento para os quartos de final do Oeiras Ladies Open, batendo a favorita mexicana Renata Zarazua e seguindo as pisadas da irmã Matilde Jorge no Complexo de Ténis do Jamor.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/95/95167a681d4474544691fe56ea8be491?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-19 09:50:50",
+        "category": "desporto"
+    },
+    {
+        "headline": "Nuno Borges eliminado no torneio de Bucareste",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/nuno-borges-eliminado-no-torneio-de-bucareste_d1565547",
+        "content": [
+            {
+                "type": "text",
+                "data": "O tenista Nuno Borges, número um português, foi afastado na segunda ronda de singulares do torneio de Bucareste, ao perder com o francês Corentin Moutet, em três &quot;sets&quot;."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/50/5065e4b7385c4a2a096eedab3c29aacf?w=350&amp;q=50&amp;rect=0,0,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-19 09:43:21",
+        "category": "desporto"
+    },
+    {
+        "headline": "Guarda-redes do Marítimo Amir operado ao joelho esquerdo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/guarda-redes-do-maritimo-amir-operado-ao-joelho-esquerdo_d1565544",
+        "content": [
+            {
+                "type": "text",
+                "data": "O guarda-redes do Marítimo Amir foi submetido com sucesso a uma intervenção cirúrgica para debelar uma rotura no menisco interno do joelho esquerdo, confirmou fonte oficial do clube da II Liga de futebol."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/91/91117580c7b5c63b565272a0e0babe3d?w=350&amp;q=50&amp;rect=0,0,900,493&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-19 09:38:49",
+        "category": "desporto"
+    },
+    {
+        "headline": "Villas-Boas apresentou os últimos trunfos da candidatura à presidência do FC Porto",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/villas-boas-apresentou-os-ultimos-trunfos-da-candidatura-a-presidencia-do-fc-porto_v1565494",
+        "content": [
+            {
+                "type": "text",
+                "data": "André Villas-Boas apresentou os últimos trunfos da candidatura à presidência do Futebol Clube do Porto, antes das eleições marcadas para o dia 27 de abril."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/a0/a0b971c06c0132885bc2e3a25939ba29_N.jpg?"
+            }
+        ],
+        "published": "2024-04-19 01:52:46",
+        "category": "desporto"
+    },
+    {
+        "headline": "Treinador do Benfica considera que equipa criou oportunidades suficientes para vencer Marselha",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/treinador-do-benfica-considera-que-equipa-criou-oportunidades-suficientes-para-vencer-marselha_v1565493",
+        "content": [
+            {
+                "type": "text",
+                "data": "Apesar da derrota, o treinador do Benfica considera que a equipa criou oportunidades suficientes para vencer o encontro com o Marselha. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/12/12a997f09a71cec41ca41379a45f3d41_N.jpg?"
+            }
+        ],
+        "published": "2024-04-19 01:51:46",
+        "category": "desporto"
+    },
+    {
+        "headline": "Evanilson suspenso dois jogos por \"conduta violenta\" no jogo contra o Famalicão",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/fc-porto/evanilson-suspenso-dois-jogos-por-conduta-violenta-no-jogo-contra-o-famalicao_d1565480",
+        "content": [
+            {
+                "type": "text",
+                "data": "O avançado Evanilson, do FC Porto, foi suspenso por dois jogos, por &quot;conduta violenta&quot; no encontro com o Famalicão (2-2), revelou hoje o Conselho de Disciplina (CD) da Federação Portuguesa de Futebol (FPF)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/66/66c1e42210102c18c5459baf80c15130?w=350&amp;q=50&amp;rect=0,33,1235,677&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 22:59:59",
+        "category": "desporto"
+    },
+    {
+        "headline": "Lille de Paulo Fonseca sonhou com as meias mas acabou eliminado nos penáltis",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/lille-de-paulo-fonseca-sonhou-com-as-meias-mas-acabou-eliminado-nos-penaltis_d1565474",
+        "content": [
+            {
+                "type": "text",
+                "data": "O técnico português Paulo Fonseca esteve a poucos minutos de apurar o Lille para as meias-finais da Liga Conferência Europa de futebol, mas acabou por cair nas grandes penalidades perante o Aston Villa (4-3), em França."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/f6/f66e110c989ae26904a6b1861f326879?w=350&amp;q=50&amp;rect=0,29,1269,696&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 22:17:43",
+        "category": "desporto"
+    },
+    {
+        "headline": "FC Porto cede direitos do Estádio do Dragão à empresa Ithaka",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/fc-porto-cede-direitos-do-estadio-do-dragao-a-empresa-ithaka_v1565473",
+        "content": [
+            {
+                "type": "text",
+                "data": "O FC Porto informou a CMVM de um acordo com a empresa Ithaka sobre direitos comerciais do Estádio do Dragão. A Ithaka &quot;terá direito, durante os próximos 25 anos, a 30% dos direitos económicos de uma nova sociedade&quot; que vai fazer a exploração comercial do Estádio do Dragão."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/2c/2c9173c5f7666036faa2cfb7aeec4b95_N.jpg?"
+            }
+        ],
+        "published": "2024-04-18 22:15:44",
+        "category": "desporto"
+    },
+    {
+        "headline": "FC Porto SAD contratualiza exploração comercial do Dragão com Ithaka por 25 anos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/fc-porto/fc-porto-sad-contratualiza-exploracao-comercial-do-dragao-com-ithaka-por-25-anos_d1565449",
+        "content": [
+            {
+                "type": "text",
+                "data": "A SAD do FC Porto celebrou um contrato de investimento e parassocial com a Ithaka Infra III para elevar a utilização e rentabilidade económica do Estádio do Dragão, no Porto, anunciaram esta quinta-feira os vice-campeões nacionais de futebol."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/82/8256a588db942f31678781d3c90007e9?w=350&amp;q=50&amp;rect=0,1,1348,739&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 20:55:26",
+        "category": "desporto"
+    },
+    {
+        "headline": "Villas-Boas junta Zubizarreta e Jorge Costa na estrutura do futebol do FC Porto",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/fc-porto/villas-boas-junta-zubizarreta-e-jorge-costa-na-estrutura-do-futebol-do-fc-porto_d1565442",
+        "content": [
+            {
+                "type": "text",
+                "data": "Andoni Zubizarreta foi esta quinta-feira apontado como diretor desportivo pela candidatura de André Villas-Boas às eleições do FC Porto, em 27 de abril, enquanto Jorge Costa, antigo capitão `azul e branco`, vai assumir a direção do futebol profissional."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/19/1945e14c56df628d1ddef0e1bb38f92a?w=350&amp;q=50&amp;rect=0,147,1231,675&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 20:21:39",
+        "category": "desporto"
+    },
+    {
+        "headline": "18h30 Edição João Gomes Dias",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-desporto/18h30-edicao-joao-gomes-dias_a1_1565440",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 19:58:02",
+        "category": "desporto"
+    },
+    {
+        "headline": "Telma Monteiro regressa no \"dia mais bonito\" e com vontade de fazer história",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/telma-monteiro-regressa-no-dia-mais-bonito-e-com-vontade-de-fazer-historia_d1565434",
+        "content": [
+            {
+                "type": "text",
+                "data": "A judoca Telma Monteiro confirmou esta quinta-feira o seu regresso à competição nos Europeus, após cinco meses de ausência devido a uma lesão grave, e assinalou que não o podia fazer em melhor em dia, em pleno 25 de abril."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/bf/bf94c108767f83db53ba682783f2701c?w=350&amp;q=50&amp;rect=0,126,1215,666&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 19:26:29",
+        "category": "desporto"
+    },
+    {
+        "headline": "Benfica cai nos penáltis em Marselha",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/benfica-cai-nos-penaltis-em-marselha_e1565418",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Benfica foi eliminado nos quartos de final da Liga Europa em futebol, ao perder com os franceses do Marselha por 4-2, no desempate por penáltis, no Estádio Vélodrome.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ff/ff23128acd0ed64bbce202ab17e67d50?w=350&amp;q=50&amp;rect=0,45,1224,671&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 18:46:13",
+        "category": "desporto"
+    },
+    {
+        "headline": "Filipa Martins apurada para segunda final na Taça do Mundo do Qatar",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/filipa-martins-apurada-para-segunda-final-na-taca-do-mundo-do-qatar_d1565415",
+        "content": [
+            {
+                "type": "text",
+                "data": "A ginasta olímpica portuguesa Filipa Martins apurou-se para a final de trave da Taça do Mundo por aparelhos do Qatar, em Doha, um dia depois de ter assegurado o apuramento nas paralelas assimétricas."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/93/93c0c978020c02e595faa819135d5244?w=350&amp;q=50&amp;rect=0,121,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 18:39:05",
+        "category": "desporto"
+    },
+    {
+        "headline": "Jogos de repetição da Taça de Inglaterra vão terminar",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/jogos-de-repeticao-da-taca-de-inglaterra-vao-terminar_d1565403",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os jogos de repetição da Taça de Inglaterra vão terminar a partir da próxima temporada, anunciou hoje a Associação Inglesa (FA) de futebol.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d7/d761d0bdeb9a14e929c172bc8bf3b65b?w=350&amp;q=50&amp;rect=0,11,1461,801&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 17:52:50",
+        "category": "desporto"
+    },
+    {
+        "headline": "Daniel Sousa destaca segunda volta do Rio Ave e reforça a meta do sexto lugar",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/daniel-sousa-destaca-segunda-volta-do-rio-ave-e-reforca-a-meta-do-sexto-lugar_d1565391",
+        "content": [
+            {
+                "type": "text",
+                "data": "O treinador do Arouca, Daniel Sousa, destacou a boa campanha do Rio Ave na segunda volta da I Liga de futebol, antecipando dificuldades frente aos vila-condenses, e reforçou a intenção de alcançar o sexto lugar."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/1f/1f75af33c4d30676f247180e63781896?w=350&amp;q=50&amp;rect=0,73,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 17:05:19",
+        "category": "desporto"
+    },
+    {
+        "headline": "Treinador do Rio Ave vê duelo com o Arouca como uma \"oportunidade\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/treinador-do-rio-ave-ve-duelo-com-o-arouca-como-uma-oportunidade_d1565390",
+        "content": [
+            {
+                "type": "text",
+                "data": "O treinador do Rio Ave considerou que o jogo desta sexta-feira, frente ao Arouca, da 30.ª jornada da I Liga de futebol, é &quot;uma oportunidade&quot; para a sua equipa mostrar o potencial nos jogos em casa."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/15/1595a3df23f5fb94439b471aa01e611b?w=350&amp;q=50&amp;rect=0,54,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-18 17:02:53",
+        "category": "desporto"
+    },
+    {
+        "headline": "Filipa Martins termina no quarto lugar final de paralelas da Taça do Mundo de Doha",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/filipa-martins-termina-no-quarto-lugar-final-de-paralelas-da-taca-do-mundo-de-doha_d1565684",
+        "content": [
+            {
+                "type": "text",
+                "data": "A ginasta olímpica portuguesa Filipa Martins terminou na quarta posição a final de paralelas assimétricas da Taça do Mundo por aparelhos do Qatar, que decorre em Doha."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/01/0173d77951a93416bb9ffd79d1ce86dd?w=350&amp;q=50&amp;rect=0,63,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-19 18:53:10",
+        "category": "desporto"
     }
 ]

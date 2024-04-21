@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
+    "macros",
     "news",
 ]
 
@@ -82,7 +83,7 @@ DATABASES = {
         'NAME': 'test1',
         'USER': 'pigas',
         'PASSWORD': '1235',
-        'HOST': 'db',  # This should match the service name in docker-compose.yaml
+        'HOST': 'db',
         'PORT': '5432',
     }
 }
