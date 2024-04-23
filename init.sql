@@ -117,4 +117,3 @@ WHERE NOT EXISTS (
 );
 
 
-select * from
