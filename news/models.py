@@ -39,7 +39,8 @@ class Category(models.Model):
 
 class Thread(models.Model):
     thread_id = models.AutoField(primary_key=True)
-    content_id = models.TextField()
+    content_id = models.IntegerField()
+    content_title = models.TextField()
     thread_response = models.TextField(max_length=300)
 
     def __str__(self):

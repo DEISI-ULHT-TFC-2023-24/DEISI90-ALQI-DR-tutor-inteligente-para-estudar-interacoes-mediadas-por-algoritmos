@@ -69,6 +69,7 @@ DO $$ BEGIN
         CREATE TABLE news_thread (
             thread_id SERIAL PRIMARY KEY,
             content_id INT,
+            content_title TEXT,
             thread_response TEXT,
             FOREIGN KEY (content_id) REFERENCES news_content(content_id)
         );
