@@ -23,7 +23,7 @@ def insert_threaded_responses(content):
 
 
 def ai_api_response(text):
-    url = 'http://localhost:11434/api/generate'
+    url = 'http://host.docker.internal:11434/api/generate'
     data = {
         "model": "llama3",
         "prompt": f"Quero respostas com português de Portugal(nada de você, nem qualquer tipo de pronome, quero que seja tipo notícia). A partir de agora, vou dar apenas um texto de uma notícia e gostaria que fizesse um resumo, tipo thread de 300 palavras, quero que seja persuasivo e cativante. Aqui está o texto::\n{text}",
