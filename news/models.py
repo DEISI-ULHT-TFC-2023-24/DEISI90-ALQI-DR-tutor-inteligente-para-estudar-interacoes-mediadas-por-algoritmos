@@ -44,4 +44,4 @@ class Thread(models.Model):
     thread_response = models.TextField(max_length=300)
 
     def __str__(self):
-        return self.content_id
+        return self.content_title
