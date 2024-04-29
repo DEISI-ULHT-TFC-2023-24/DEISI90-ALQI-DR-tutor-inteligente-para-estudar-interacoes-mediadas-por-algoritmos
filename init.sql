@@ -83,18 +83,13 @@ SELECT *
 FROM (VALUES
     ('ultimas', 'Ult', '001'),
     ('politica', 'PL', '002'),
-    ('fama', 'Fm', '003'),
-    ('mundo', 'MN', '004'),
-    ('tech', 'Tech', '005'),
-    ('lifestyle', 'Life', '006'),
-    ('casa', 'Casa', '007'),
-    ('auto', 'Auto', '008'),
-    ('pais', 'Pais', '008'),
-    ('desporto', 'Des', '009'),
-    ('economia', 'Eco', '010'),
-    ('cultura', 'Cul', '011'),
-    ('videos', 'Vid', '012'),
-    ('audios', 'Aud', '013')
+    ('mundo', 'MN', '003'),
+    ('tech', 'Tech', '004'),
+    ('auto', 'Auto', '005'),
+    ('pais', 'Pais', '006'),
+    ('desporto', 'Des', '007'),
+    ('economia', 'Eco', '08'),
+    ('cultura', 'Cul', '09')
 ) AS data (category_label, category_id, category_code)
 WHERE NOT EXISTS (
     SELECT 1

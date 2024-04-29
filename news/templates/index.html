@@ -1,24 +1,54 @@
 {% extends 'layout.html' %}
+{% load static %}
 
 {% block content %}
     <div class="container2" style="width: 100%">
         {% if query %}
             <h3 style="color: white;">Search Results for "{{ query }}":</h3>
         {% endif %}
-        {% for x in obj|slice:":100" %}
-            <a style="text-decoration: none" href="{% url 'news_detail' x.pk %}">
-                <div class="container">
-                    <h2 style="color: #e3e3e3; font-weight: bold">{{ x.content_headline }}</h2>
-                    <div style="margin: 10px; color: #cdcdcd;">
-                        {{ x.content_text }}
+        {% for x in obj|slice:":20" %}
+            {% if x.content_text != "No content" %}
+                <a style="text-decoration: none" href="{% url 'news_detail' x.pk %}">
+                    <div class="container">
+                        <div style="float: left">
+                            {% if x.content_source == "RTP" %}
+                                <div style="display: flex; align-items: center;">
+                                    <img src="{% static 'images/rtp.png' %}" alt="RTP"
+                                         style="height: 71px; width: 120px;display: inline-block; vertical-align: center">
+                                </div>
+                            {% elif x.content_source == "NM" %}
+                                <div style="display: flex; align-items: center;">
+                                    <img src="{% static 'images/noticias_ao_minuto.jpg' %}" alt="NM"
+                                         style="height: 109px; width: 120px;display: inline-block; vertical-align: center">
+                                </div>
+                            {% else %}
+                                <div style="display: flex; align-items: center;">
+                                    <img src="{% static 'images/sapo_roubado.jpg' %}" alt="Sapo"
+                                         style="height: 60px; width: 60px; margin-right: 10px;">
+                                </div>
+
+                            {% endif %}
+                        </div>
+                        <h2 style="color: #e3e3e3; font-weight: bold">{{ x.content_headline }}</h2>
+                        <div style="margin: 10px; color: #cdcdcd;">
+                            {{ x.content_text }}
+                        </div>
+                        <div style="margin-top: 15px">
+                            <div style="float: right">
+                                <div>
+                                    Categoria: {{ x.content_category }}
+                                </div>
+                            </div>
+                            <div style="float: left">
+                                <div style="padding-top: 15px">
+                                    {{ x.content_date }}
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <h4 style="color: #cdcdcd;">{{ x.content_date }}</h4>
-                    <div style="float: right">
-                        Fonte: {{ x.content_source }}
-                    </div>
-                </div>
-                <div style="height: 20px"></div>
-            </a>
+                    <div style="height: 20px"></div>
+                </a>
+            {% endif %}
         {% empty %}
             <h2 style="color: white"> No results found.</h2>
         {% endfor %}

@@ -5,6 +5,7 @@
 
 
 <html lang="" style="width: 100%; height: 100%;background-color: #2f2f2f">
+
 <head>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="../static/scripts/filtros.js"></script>
@@ -12,6 +13,9 @@
         {% block content %}
         {% endblock %}
     {% endmacro %}
+
+    {% load static %}
+    <link rel="shortcut icon" type="image/png" href="{% static 'images/favicon.jpg' %}">
 
     <meta charset="UTF-8">
     <title>Edu-News</title>
@@ -22,7 +26,7 @@
 
         body {
             color: black;
-            font-family: "STIX Two Text", sans-serif;;
+            font-family: "Helvetica Neue", "Roboto", "Segoe UI", serif;
         }
 
         li {
@@ -42,7 +46,6 @@
         .container {
             overflow-wrap: break-word;
             padding: 20px;
-            background-color: #3d308a;
             border-radius: 10px;
             overflow: hidden;
             position: relative;
@@ -58,12 +61,11 @@
         }
 
         .container:hover .overlay {
-            animation: overlay-slide 0.5s ease forwards;
+            animation: overlay-slide 1s ease forwards;
         }
 
         .container:hover img {
-            filter: grayscale(100%);
-            transition: filter 0.5s ease;
+            transition: filter 1s ease;
         }
 
 
@@ -88,19 +90,32 @@
 
 <body style="color: white; background-color: #171717; margin: 0; height: 100px">
 <nav class="navbar" style="padding-bottom: 30px">
-    <div class="flex-container" style="padding-left: 10%;padding-right: 15%; margin-top: 15px">
+
+    <div class="dropdown" style="display: flex; align-items: center;height: 100px;margin-right: 2%; float: left">
         <a href="/" class="navbar-item"
-           style="float: left;font-size: 150%;color: #dddddd;">Edu-News</a>
+            style="float: left; font-size: 200%; color: #dddddd; text-decoration: none">
+            <img src="{% static 'images/edu-news-logo.jpg' %}" alt="Edu-News"
+             style="height: 55px; width: 55px; margin-right: 8px; vertical-align: middle;">
+            Edu-News
+        </a>
+    </div>
 
-        <div class="dropdown" style="margin-top: 10px">
-            <div class="search-container" style="">
-                <label for="searchInput" style=""></label>
-                <input type="text" id="searchInput" placeholder="Pesquisa de Notícias..." style="width: 400px; padding: 2%">
-                <button type="button" onclick="searchNews()">Pesquisar</button>
-            </div>
+
+
+
+    <div class="dropdown" style="display: flex; align-items: center;height: 100px;margin-right: 2%">
+        <div class="search-container" style="">
+            <label for="searchInput" style=""></label>
+            <input type="text" id="searchInput" placeholder="Pesquisa de Notícias..."
+                   style="width: 300px; padding: 2%">
+            <button type="button" onclick="searchNews()">Pesquisar</button>
         </div>
+    </div>
 
-        <button id="refreshButton">Refresh News</button>
+    <div class="flex-container" style="padding-left: 10%;padding-right: 15%; margin-top: 15px">{% load static %}
+
+
+        <button id="refreshButton" style="margin-top: 20px; margin-left: 20%">Refresh News</button>
         <script>
             document.getElementById("refreshButton").addEventListener("click", function () {
                 window.location.href = "{% url 'refresh_news' %}";
@@ -118,32 +133,56 @@
 <hr>
 
 
-
 <section class="section" style="background-color: #2f2f2f">
     <div class="container2" style="width: 100%;">
         {% if request.get_full_path|slice:":2" == "/?" or request.get_full_path|slice:"1:2"|is_not_digit %}
-            <div class="filters-container" style="float: left; width: 25%;">
-                <h2 style="color: white; margin-left: 40%; padding-bottom: 3%;">Filtros</h2>
+            <div class="filters-container" style="float: left; width: 25%; margin-top: 5%">
                 <div class="filter-block" style="margin-left: 5%">
-                    <button id="categorias-toggle" onclick="toogle_categorias()" style="color: #e7e8e9; margin-left: 15px; background-color: transparent; font-size: 1.5em">Categorias</button>
+                    <button id="categorias-toggle" onclick="toogle_categorias()"
+                            style="color: #e7e8e9; margin-left: 15px; background-color: transparent; font-size: 1.5em">
+                        <img src="{% static 'images/category.png' %}" alt="Edu-News"
+                            style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
+                        Categorias
+                    </button>
                     <ul class="categorias-list" style="display: none; margin-left: 5%">
+                        <li style="color: #e7e8e9">
+                            <a href="{% url 'index' %}?category=cultura">cultura</a>
+                        </li>
                         {% for category in categories %}
-                        <li style="color: #e7e8e9"><a href="{% url 'index' %}?category={{ category }}{% if query %}&q={{ query }}{% endif %}">{{ category }}</a></li>
+                            <li style="color: #e7e8e9">
+                                <a href="{% url 'index' %}?category={{ category|urlencode }}{% if query %}&q={{ query|urlencode }}{% endif %}">
+                                    {{ category }}
+                                </a>
+                            </li>
                         {% endfor %}
                     </ul>
                 </div>
                 <div class="filter-block" style="margin-left: 5%">
-                    <button id="data-toggle" onclick="toogle_data()" style="color: #e7e8e9; margin-left: 15px; margin-top: 15px; background-color: transparent; font-size: 1.5em">Ordem de Data</button>
+                    <button id="data-toggle" onclick="toogle_data()"
+                            style="color: #e7e8e9; margin-left: 15px; margin-top: 15px; background-color: transparent; font-size: 1.5em">
+                            <img src="{% static 'images/time-left.png' %}" alt="Edu-News"
+                                style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
+                        Ordem de Data
+                    </button>
                     <ul class="data-list" style="display: none; margin-left: 5%">
-                        <li style="color: white"><a href="{% url 'index' %}?date=content_date{% if query %}&q={{ query }}{% endif %}">Mais Antigas</a></li>
-                        <li style="color: white"><a href="{% url 'index' %}?date=-content_date{% if query %}&q={{ query }}{% endif %}">Mais Recentes</a></li>
+                        <li style="color: white"><a
+                                href="{% url 'index' %}?date=content_date{% if query %}&q={{ query }}{% endif %}">Mais
+                            Antigas</a></li>
+                        <li style="color: white"><a
+                                href="{% url 'index' %}?date=-content_date{% if query %}&q={{ query }}{% endif %}">Mais
+                            Recentes</a></li>
                     </ul>
                 </div>
                 <div class="filter-block" style="margin-left: 5%">
-                    <button id="fonte-toggle" onclick="toogle_fonte()" style="color: #e7e8e9; margin-left: 15px; margin-top: 15px; background-color: transparent; font-size: 1.5em">Fonte</button>
+                    <button id="fonte-toggle" onclick="toogle_fonte()"
+                            style="color: #e7e8e9; margin-left: 15px; margin-top: 15px; background-color: transparent; font-size: 1.5em">
+                            <img src="{% static 'images/identities.png' %}" alt="Edu-News"
+                                style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
+                        Fonte
+                    </button>
                     <ul class="fonte-list" style="display: none; margin-left: 5%">
                         {% for source in sources %}
-                        <li style="color: #e7e8e9"><a href="{% url 'index' %}?source={{ source }}{% if query %}&q={{ query }}{% endif %}">{{ source }}</a></li>
+                            <li style="color: #e7e8e9"><a href="{% url 'index' %}?source={{ source }}{% if query %}&q={{ query }}{% endif %}">{{ source }}</a></li>
                         {% endfor %}
                     </ul>
                 </div>

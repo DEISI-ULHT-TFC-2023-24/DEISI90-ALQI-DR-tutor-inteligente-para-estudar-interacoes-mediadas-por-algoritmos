@@ -33,6 +33,9 @@ def index(request):
     if source:
         obj = obj.filter(content_source=source)
 
+    for category in Category.objects.all():
+        category.category_label.strip()
+
     context = {
         'obj': obj,
         'query': query,
@@ -72,18 +75,17 @@ def execute_python_script(request):
     try:
         subprocess.run(["python", "data_scrapping/RTP/RTP_RSS_To_json.py"])
         sleep(6)
-        list_possibilities = ["ultimas", "pais", "mundo", "desporto", "economia", "cultura", "videos", "audios",
-                              "politica"]
+        list_possibilities = ["ultimas", "pais", "mundo", "desporto", "economia", "cultura", "politica"]
         for x in list_possibilities:
             ij.import_json_data_RTP("data_scrapping/RTP/{cat}.json".format(cat=x))
-            lj("data_scrapping/RTP/ultimas.json".format(cat=x))
+            lj("data_scrapping/RTP/{cat}.json".format(cat=x))
 
         subprocess.run(["python", "data_scrapping/Noticias_ao_Minuto/NM_RSS_to_json.py"])
-        list_possibilities = ["ultimas", "politica", "pais", "fama", "mundo", "tech", "lifestyle", "casa", "auto",
-                              "casaMinuto", "autoMinuto", "desporto", "economia", "cultura"]
+        list_possibilities = ["ultimas", "politica", "pais", "mundo", "tech", "auto", "desporto", "economia", "cultura"]
 
         for x in list_possibilities:
             ij.import_json_data_NM("data_scrapping/Noticias_ao_Minuto/{cat}.json".format(cat=x))
+            lj("data_scrapping/Noticias_ao_Minuto/{cat}.json".format(cat=x))
 
         subprocess.run(["python", "data_scrapping/sapoApi/sapo_api_to_json.py"])
         ij.import_json_data_sapo("data_scrapping/sapoApi/ultimas.json")

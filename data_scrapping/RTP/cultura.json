@@ -2548,5 +2548,923 @@
         ],
         "published": "2024-04-18 18:20:38",
         "category": "cultura"
+    },
+    {
+        "headline": "Lisbon Poetry Orchestra leva poesia, música e mensagem de liberdade a Buenos Aires",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/lisbon-poetry-orchestra-leva-poesia-musica-e-mensagem-de-liberdade-a-buenos-aires_n1567656",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os Lisbon Poetry Orchestra levaram a sua &quot;poesia para dançar&quot; à Feira do Livro de Buenos Aires, no sábado à noite, num espetáculo que quase encheu uma sala e em que a palavra liberdade se fez ouvir."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-28 12:50:11",
+        "category": "cultura"
+    },
+    {
+        "headline": "Autores de banda desenhada na Feira do Livro de Buenos Aires queixam-se da falta de apoios em Portugal",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/autores-de-banda-desenhada-na-feira-do-livro-de-buenos-aires-queixam-se-da-falta-de-apoios-em-portugal_n1567649",
+        "content": [
+            {
+                "type": "text",
+                "data": "A dificuldade de obter apoios em Portugal para Banda Desenhada foi falada na Feira do Livro de Buenos Aires, onde a ilustradora Júlia Barata revelou que está a adaptar &quot;Caderno de Memórias Coloniais&quot; com Isabela Figueiredo completamente `pro bono`. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-28 12:49:01",
+        "category": "cultura"
+    },
+    {
+        "headline": "Lisboa em Buenos Aires",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/lisboa-em-buenos-aires_a1567409",
+        "content": [
+            {
+                "type": "text",
+                "data": "É a quinta maior Feira do Livro do Mundo e tem este ano Lisboa como cidade convidada.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/66/66db1adc98bd9a3f35af0d4ef6c2d9c5?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-26 23:08:52",
+        "category": "cultura"
+    },
+    {
+        "headline": "Reportagens do Le Monde sobre a revolução portuguesa estão agora em livro",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/reportagens-do-le-monde-sobre-a-revolucao-portuguesa-estao-agora-em-livro_v1567405",
+        "content": [
+            {
+                "type": "text",
+                "data": "As reportagens do jornal Le Monde sobre o período revolucionário português saíram agora em livro. O autor é José Rebelo, antigo correspondente em Portugal do jornal francês."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/f4/f433bb8d58ae12b8bca036cfd48808e3_N.jpg?"
+            }
+        ],
+        "published": "2024-04-26 22:02:44",
+        "category": "cultura"
+    },
+    {
+        "headline": "Olhão entre 1976 e 1990, visto pela lente de Luís Torres",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/olhao-entre-1976-e-1990-visto-pela-lente-de-luis-torres_v1567363",
+        "content": [
+            {
+                "type": "text",
+                "data": "Ao todo são 164 fotografias reunidas num livro editado pela autarquia já apresentado no auditório municipal. &quot;Quando éramos só nós&quot; fala das pessoas simples e genuínas que sempre fizeram parte da vida do fotógrafo que nasceu na cidade. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/8a/8a23a87b527fe7557878b36e0f1c02f3_N.jpg?"
+            }
+        ],
+        "published": "2024-04-26 20:06:45",
+        "category": "cultura"
+    },
+    {
+        "headline": "Coliseu do Porto evoca em junho último concerto da carreira de José Afonso",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/coliseu-do-porto-evoca-em-junho-ultimo-concerto-da-carreira-de-jose-afonso_n1567331",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Coliseu Porto Ageas evoca, em junho, o último concerto de José Afonso, há 40 anos, nesta sala de espetáculos, com nomes históricos e seis artistas convidados, como Jorge Palma, Teresa Salgueiros e B Fachada."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-26 19:04:54",
+        "category": "cultura"
+    },
+    {
+        "headline": "Orquestra de Matosinhos e Salvador Sobral interpretam canções de Abril",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/orquestra-de-matosinhos-e-salvador-sobral-interpretam-cancoes-de-abril_v1567284",
+        "content": [
+            {
+                "type": "text",
+                "data": "Salvador Sobral junta-se esta sexta-feira à Orquestra Jazz de Matosinhos para celebrar as canções de Abril. Oito personalidades, da política à música, escolheram temas que marcaram a Revolução."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/d1/d1bfda5a84509d70acf0d9cc545bf351_N.jpg?"
+            }
+        ],
+        "published": "2024-04-26 15:23:47",
+        "category": "cultura"
+    },
+    {
+        "headline": "A festa dos 50 anos do 25 de Abril em Paris",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/a-festa-dos-50-anos-do-25-de-abril-em-paris_v1567283",
+        "content": [
+            {
+                "type": "text",
+                "data": "Quase um milhar de portugueses e franceses juntaram-se na noite de quinta-feira, em Paris, para um concerto comemorativo do 25 de Abril. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/2d/2d111061e1193f25affac5a26a87c677_N.jpg?"
+            }
+        ],
+        "published": "2024-04-26 15:20:46",
+        "category": "cultura"
+    },
+    {
+        "headline": "Liberdade de expressão foi uma das conquistas de Abril",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/liberdade-de-expressao-foi-uma-das-conquistas-de-abril_v1567281",
+        "content": [
+            {
+                "type": "text",
+                "data": "Muita coisa mudou depois da Revolução, desde a forma de pensar à forma de vestir. Mas a maior conquista de Abril terá sido a liberdade de expressão, que se manifestou logo nos primeiros dias."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/dc/dcd8b4b9676782b29f03d14fc2064fe7_N.jpg?"
+            }
+        ],
+        "published": "2024-04-26 15:09:45",
+        "category": "cultura"
+    },
+    {
+        "headline": "Dulce Maria Cardoso vence Grande Prémio de Crónica e Dispersos Literários",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/dulce-maria-cardoso-vence-grande-premio-de-cronica-e-dispersos-literarios_n1567226",
+        "content": [
+            {
+                "type": "text",
+                "data": "A escritora Dulce Maria Cardoso venceu o Grande Prémio de Crónica e Dispersos Literários com o segundo volume de &quot;Autobiografia não autorizada&quot;, revelou hoje a Associação Portuguesa de Escritores."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-26 13:12:33",
+        "category": "cultura"
+    },
+    {
+        "headline": "Feira do Livro de Buenos Aires opõe-se à participação de Milei no evento",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/feira-do-livro-de-buenos-aires-opoe-se-a-participacao-de-milei-no-evento_n1567212",
+        "content": [
+            {
+                "type": "text",
+                "data": "A cerimónia de abertura da Feira Internacional do Livro de Buenos Aires, na quinta-feira à noite, ficou marcada por fortes críticas da organização ao presidente argentino, Javier Milei, e pela oposição à sua participação no certame, prevista para dia 12."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-26 11:56:10",
+        "category": "cultura"
+    },
+    {
+        "headline": "Antena 3 celebra 30 anos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/antena-3-celebra-30-anos_a1567194",
+        "content": [
+            {
+                "type": "text",
+                "data": "A irmã mais nova da rádio pública portuguesa está de parabéns. A Antena 3 celebra esta sexta-feira 30 anos a dar música - e não só - aos ouvintes.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/01/01a176f51f379aad1345536a6158ab49?w=350&amp;q=50&amp;rect=0,51,2456,1346&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-26 10:03:48",
+        "category": "cultura"
+    },
+    {
+        "headline": "Pianista Teresa da Palma Pereira leva à Figueira da Foz peças dedicadas à água",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/pianista-teresa-da-palma-pereira-leva-a-figueira-da-foz-pecas-dedicadas-a-agua_n1567189",
+        "content": [
+            {
+                "type": "text",
+                "data": "A água e as emoções associadas ao imaginário popular são o mote do recital de piano que Teresa da Palma Pereira vai levar à Figueira da Foz no domingo."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-26 09:37:21",
+        "category": "cultura"
+    },
+    {
+        "headline": "Embaixador português recorda 50 anos na Feira do Livro de Buenos Aires",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/embaixador-portugues-recorda-50-anos-na-feira-do-livro-de-buenos-aires_n1567156",
+        "content": [
+            {
+                "type": "text",
+                "data": "O embaixador de Portugal na Argentina recordou os 50 anos do 25 de Abril de 1974 na cerimónia de abertura da Feira do Livro de Buenos Aires, que tem Lisboa como cidade convidada de honra."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/77/77f98267c4031c62dbe8f92552e0e630?w=350&amp;q=50&amp;rect=0,0,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-26 05:01:31",
+        "category": "cultura"
+    },
+    {
+        "headline": "Rui Simões estreia ficção \"Primeira Obra\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/rui-simoes-estreia-ficcao-primeira-obra_a1567141",
+        "content": [
+            {
+                "type": "text",
+                "data": "O cineasta Rui Simões, com quase 80 anos, dá a conhecer o seu primeiro filme de ficção de nome &quot;Primeira Obra&quot;.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/6a/6a356bd9220f3e667014753b5c775c4f?w=350&amp;q=50&amp;rect=14,0,1038,569&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-25 23:18:31",
+        "category": "cultura"
+    },
+    {
+        "headline": "Cabo Verde quer candidatar Tarrafal à UNESCO até 2026",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/cabo-verde-quer-candidatar-tarrafal-a-unesco-ate-2026_n1567087",
+        "content": [
+            {
+                "type": "text",
+                "data": "Cabo Verde quer candidatar o antigo campo de concentração do Tarrafal à UNESCO até 2026, num processo que envolve Portugal, Angola e Guiné-Bissau e que espera &quot;equilibrar&quot; a distribuição continental da lista de património mundial."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-25 20:44:16",
+        "category": "cultura"
+    },
+    {
+        "headline": "Arquivo de Otelo Saraiva de Carvalho doado ao arquivo Ephemera",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/arquivo-de-otelo-saraiva-de-carvalho-doado-ao-arquivo-ephemera_n1566938",
+        "content": [
+            {
+                "type": "text",
+                "data": "A família de Otelo Saraiva de Carvalho doou o arquivo do estratego do 25 de Abril ao Arquivo/Biblioteca Ephemera, o que ajudará a compreender &quot;o ambiente de 1974/75&quot;, disse à Lusa o historiador Pacheco Pereira. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/9b/9b6138268b9ac478f203e976dff23255?w=350&amp;q=50&amp;rect=0,85,1920,1053&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-25 11:48:45",
+        "category": "cultura"
+    },
+    {
+        "headline": "Feira do Livro de Buenos Aires abre hoje com vários autores a falar sobre Lisboa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/feira-do-livro-de-buenos-aires-abre-hoje-com-varios-autores-a-falar-sobre-lisboa_n1566916",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Feira Internacional do Livro de Buenos Aires, que tem Lisboa como convidada de honra, abre hoje com uma mesa que junta dois ilustradores, dois poetas, um romancista e dois autores de banda desenhada, para falarem sobre essa cidade."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-25 06:55:55",
+        "category": "cultura"
+    },
+    {
+        "headline": "Festival reúne escritores da Lusofonia no Brasil e presta atenção ao Dia da Língua Portuguesa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/festival-reune-escritores-da-lusofonia-no-brasil-e-presta-atencao-ao-dia-da-lingua-portuguesa_n1566889",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Brasil vai acolher, a partir do próximo dia 27, o 19.º Festival Literário Internacional de Poços de Caldas, que reunirá mais de 160 convidados numa programação que nesse homenageará cronistas e dará destaque a autores da Lusofonia."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-24 22:49:44",
+        "category": "cultura"
+    },
+    {
+        "headline": "Tita Maravilha vence Prémio Revelação Ageas Teatro Nacional D. Maria II",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/tita-maravilha-vence-premio-revelacao-ageas-teatro-nacional-d-maria-ii_n1566856",
+        "content": [
+            {
+                "type": "text",
+                "data": "A artista multidisciplinar brasileira Tita Maravilha, &quot;que tem agitado águas no panorama performativo português&quot;, venceu o Prémio Revelação Ageas Teatro Nacional D. Maria II, foi hoje revelado."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-24 22:43:24",
+        "category": "cultura"
+    },
+    {
+        "headline": "PCP na Câmara de Lisboa propõe homenagem a \"Celeste dos Cravos\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/pcp-na-camara-de-lisboa-propoe-homenagem-a-celeste-dos-cravos_n1566830",
+        "content": [
+            {
+                "type": "text",
+                "data": "O PCP em Lisboa propôs hoje uma &quot;justa homenagem&quot; a Celeste Caeiro, que deu nome à Revolução dos Cravos - 25 de Abril de 1974, e a atribuição de uma condecoração com a medalha de mérito da cidade."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-24 18:52:18",
+        "category": "cultura"
+    },
+    {
+        "headline": "Patrícia Portela monta \"Mercado das Madrugadas\" dedicado às revoluções futuras em Aveiro",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/patricia-portela-monta-mercado-das-madrugadas-dedicado-as-revolucoes-futuras-em-aveiro_n1566824",
+        "content": [
+            {
+                "type": "text",
+                "data": "A encenadora Patrícia Portela vai estrear hoje, em Aveiro, o seu novo espetáculo &quot;Mercado das Madrugadas, (ou manuais de instruções para revoluções futuras)&quot;, no âmbito do programa de Aveiro Capital Portuguesa da Cultura."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-24 18:36:59",
+        "category": "cultura"
+    },
+    {
+        "headline": "Vhils cria escultura de Salgueiro Maia a inaugurar em Castelo de Vide",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/vhils-cria-escultura-de-salgueiro-maia-a-inaugurar-em-castelo-de-vide_n1566760",
+        "content": [
+            {
+                "type": "text",
+                "data": "Uma escultura do capitão Salgueiro Maia assinada pelo artista Vhils (Alexandre Farto) vai ser inaugurada, esta quinta-feira, em Castelo de Vide (Portalegre), terra natal de um dos heróis do 25 de Abril, divulgou a câmara."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-24 18:08:06",
+        "category": "cultura"
+    },
+    {
+        "headline": "MAAT celebra 25 de Abril com exposição \"Hoje soube-me a pouco\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/maat-celebra-25-de-abril-com-exposicao-hoje-soube-me-a-pouco_a1566740",
+        "content": [
+            {
+                "type": "text",
+                "data": "O espaço cultural MAAT abre as portas esta quarta-feira com uma exposição que celebra a explosão artística no pós-25 de Abril. São mais de 40 artistas, numa exposição que se intitula &quot;Hoje soube-me a pouco&quot;.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/0c/0c2b3d7fa5bcfdbd01de221e2ae11d22?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-24 12:18:03",
+        "category": "cultura"
+    },
+    {
+        "headline": "Calema atuam em Díli num festival para celebrar o mar e a proteção do ambiente",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/calema-atuam-em-dili-num-festival-para-celebrar-o-mar-e-a-protecao-do-ambiente_n1566694",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os são-tomense Calema vão atuar em maio em Díli, na primeira edição do TasiFest, um festival de música que pretende também celebrar o mar, a interculturalidade e proteger o ambiente, anunciou hoje a organização."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-24 08:59:37",
+        "category": "cultura"
+    },
+    {
+        "headline": "Milei minimiza crise orçamental universitária na Argentina",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/milei-minimiza-crise-orcamental-universitaria-na-argentina_n1566665",
+        "content": [
+            {
+                "type": "text",
+                "data": "O libertário presidente argentino, Javier Milei, está a procurar minimizar a crise orçamental nas universidades públicas, considerando-a algo normal, em polémica com os opositores de esquerda, influentes nos espaços universitários. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ad/ad735563bd173e241f56d59a45d06534?w=350&amp;q=50&amp;rect=0,59,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-24 05:16:26",
+        "category": "cultura"
+    },
+    {
+        "headline": "25 de Abril. Concerto \"Uma Ideia de Futuro\" apresentado em Lisboa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/25-de-abril-concerto-uma-ideia-de-futuro-apresentado-em-lisboa_v1566631",
+        "content": [
+            {
+                "type": "text",
+                "data": "Um dos momentos altos das comemorações dos 50 anos da revolução será no dia 24 no Terreiro do Paço. O concerto &quot;Uma Ideia de Futuro&quot; vai reunir cerca de 200 intérpretes em palco. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/e3/e32a5adffe6efddeae2f6715bd92d08a_N.jpg?"
+            }
+        ],
+        "published": "2024-04-24 00:01:46",
+        "category": "cultura"
+    },
+    {
+        "headline": "PR condecora militares, Renascença, UMinho e rosto da revolta académica de 1969",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/pr-condecora-militares-renascenca-uminho-e-rosto-da-revolta-academica-de-1969_n1566634",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente da República Marcelo Rebelo de Sousa condecorou hoje três militares, a Rádio Renascença, a Universidade do Minho e Alberto de Sousa Martins, rosto da revolta académica em 1969. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-23 22:41:34",
+        "category": "cultura"
+    },
+    {
+        "headline": "Programa comemorativo vai apoiar sete projetos de cinema e audiovisual",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/programa-comemorativo-vai-apoiar-sete-projetos-de-cinema-e-audiovisual_n1566590",
+        "content": [
+            {
+                "type": "text",
+                "data": "Uma longa-metragem de Joana Brandão e uma série televisiva de Luís Almeida estão entre os sete projetos que vão receber financiamento de um programa criado no âmbito dos 50 anos da revolução de 25 de abril de 1974."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-23 19:03:13",
+        "category": "cultura"
+    },
+    {
+        "headline": "Nova editora Phonograma lança sete vinis de discos históricos da música portuguesa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/nova-editora-phonograma-lanca-sete-vinis-de-discos-historicos-da-musica-portuguesa_n1566552",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-23 17:54:51",
+        "category": "cultura"
+    },
+    {
+        "headline": "Vendas de música em Portugal totalizaram 36,5 milhões de euros no ano passado",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/vendas-de-musica-em-portugal-totalizaram-365-milhoes-de-euros-no-ano-passado_n1566549",
+        "content": [
+            {
+                "type": "text",
+                "data": "As vendas de música em Portugal totalizaram 36,5 milhões de euros no ano passado, o que representa um aumento de 17,4% em relação ao ano anterior, anunciou hoje a Associação de Gestão de Direitos de Produtores Fonográficos (Audiogest)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-23 17:52:47",
+        "category": "cultura"
+    },
+    {
+        "headline": "Metro de Lisboa celebra Dia Mundial do Livro",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/metro-de-lisboa-celebra-dia-mundial-do-livro_v1566540",
+        "content": [
+            {
+                "type": "text",
+                "data": "Esta manhã, a viagem no Metro de Lisboa foi acompanhada de livros. Quem passou por três das estações do Metropolitano teve oportunidade de escolher livros, sem pagar. A iniciativa pretende incentivar a leitura neste Dia Mundial do Livro. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/a0/a0733faa187a128a6d1b2c034ce0b063_N.jpg?"
+            }
+        ],
+        "published": "2024-04-23 15:27:50",
+        "category": "cultura"
+    },
+    {
+        "headline": "Festival de música e poesia em Vila Nova de Foz Côa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/festival-de-musica-e-poesia-em-vila-nova-de-foz-coa_v1566531",
+        "content": [
+            {
+                "type": "text",
+                "data": "Acontece há quatro décadas em Vila Nova de Foz Côa. O Festival de Poesia e Música é único em Portugal. Começa esta terça-feira e junta poetas, escritores, músicos, mas sobretudo o público jovem motivado para a leitura.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/3a/3a19c005669b271d6268ee54cf11093d_N.jpg?"
+            }
+        ],
+        "published": "2024-04-23 15:09:45",
+        "category": "cultura"
+    },
+    {
+        "headline": "Bordalo II coloca caixa de \"próbiótico antifascista\" sobre campa de Salazar",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/bordalo-ii-coloca-caixa-de-probiotico-antifascista-sobre-campa-de-salazar_n1566519",
+        "content": [
+            {
+                "type": "text",
+                "data": "O artista Bordalo II colocou uma caixa de medicamentos gigante, com a inscrição &quot;Liberdade. Probiótico antifascista&quot;, em cima da campa de Oliveira Salazar (1889 -1970), no cemitério do Vimieiro, concelho de Santa Comba Dão."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-23 14:57:09",
+        "category": "cultura"
+    },
+    {
+        "headline": "Bienal de Coimbra festeja Abril sob o lema \"O Fantasma da Liberdade\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/bienal-de-coimbra-festeja-abril-sob-o-lema-o-fantasma-da-liberdade_a1566427",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os 50 anos do 25 de Abril passam pela arte da Bienal de Coimbra - este ano, com o mote &quot;O Fantasma da Liberdade&quot;.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/cb/cb2c3cad5ce8834b357ac38a5ac7445d?w=350&amp;q=50&amp;rect=0,0,2000,1096&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-23 09:47:08",
+        "category": "cultura"
+    },
+    {
+        "headline": "Porto, Gaia e Matosinhos acolhem Festival Dias da Dança",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/porto-gaia-e-matosinhos-acolhem-festival-dias-da-danca_a1566423",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Festival Dias da Dança começa esta terça-feira, a norte. Porto, Gaia e Matosinhos acolhem este evento artístico, conhecido pela sigla DDD, e que, este ano, se propõe a celebrar a liberdade.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/97/97a7845a0fea7f4784b48d2f56422d16?w=350&amp;q=50&amp;rect=0,25,1405,770&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-23 09:30:49",
+        "category": "cultura"
+    },
+    {
+        "headline": "Dia Mundial do Livro assinalado em todo o país",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/dia-mundial-do-livro-assinalado-em-todo-o-pais_n1566406",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Dia Mundial do Livro é assinalado com iniciativas em todo o país, com os 50 anos do 25 de Abril por referência, com ações que vão da promoção de leitura ao debate dos livros censurados pela ditadura, para afirmação da liberdade."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ff/ff37b4b4e4afca25ad938c6a8509a00f?w=350&amp;q=50&amp;rect=0,0,859,471&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-23 06:36:37",
+        "category": "cultura"
+    },
+    {
+        "headline": "Artista Carlos Bunga e arquitetos do atelier Menos é Mais vencem Prémios AICA 2023",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/artista-carlos-bunga-e-arquitetos-do-atelier-menos-e-mais-vencem-premios-aica-2023_n1566310",
+        "content": [
+            {
+                "type": "text",
+                "data": "O artista plástico Carlos Bunga e os arquitetos Cristina Guedes e Francisco Vieira de Campos foram distinguidos com os prémios da Associação Internacional de Críticos de Arte (AICA), para artes visuais e arquitetura em 2023, anunciou hoje esta entidade.              "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-23 00:12:46",
+        "category": "cultura"
+    },
+    {
+        "headline": "Exposição sobre a diáspora africana em Portugal quer contrariar arquivos oficiais",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/exposicao-sobre-a-diaspora-africana-em-portugal-quer-contrariar-arquivos-oficiais_n1566290",
+        "content": [
+            {
+                "type": "text",
+                "data": "Uma exposição que reúne fotografias da autorrepresentação da diáspora africana em Portugal desde 1975, pretende &quot;contrariar o peso dos arquivos oficiais e a narrativa do período colonial&quot; e vai ser inaugurada no sábado, no Padrão dos Descobrimentos, em Lisboa.    "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-22 19:30:53",
+        "category": "cultura"
+    },
+    {
+        "headline": "SNS conseguiu reter 86% dos médicos formados nos últimos cinco anos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/sns-conseguiu-reter-86-dos-medicos-formados-nos-ultimos-cinco-anos_v1566250",
+        "content": [
+            {
+                "type": "text",
+                "data": "Segundo dados da Administração Central do Sistema de Saúde, dos cerca de 7.100 jovens médicos que terminaram a especialidade entre 2019 e 2023, mais de seis mil têm algum tipo de vínculo com o serviço público.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b9/b916c68acf0ef7644b0a145a6bfdb8fe?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-22 14:45:45",
+        "category": "cultura"
+    },
+    {
+        "headline": "Diogo Ramada Curto nomeado diretor-geral da Biblioteca Nacional de Portugal",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/diogo-ramada-curto-nomeado-diretor-geral-da-biblioteca-nacional-de-portugal_n1566223",
+        "content": [
+            {
+                "type": "text",
+                "data": "O historiador e professor catedrático Diogo Ramada Curto foi nomeado em regime de substituição para o cargo de diretor-geral da Biblioteca Nacional de Portugal (BNP), anunciou hoje o Ministério da Cultura."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-22 14:22:54",
+        "category": "cultura"
+    },
+    {
+        "headline": "Documentário \"Clandestina\" sobre Margarida Tengarrinha premiado no festival Porto Femme",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/documentario-clandestina-sobre-margarida-tengarrinha-premiado-no-festival-porto-femme_n1566212",
+        "content": [
+            {
+                "type": "text",
+                "data": "&quot;Clandestina&quot;, documentário de Maria Mire que recorda o trabalho de resistência à ditadura da artista Margarida Tengarrinha, venceu os prémios A Voz das Mulheres e de melhor filme português do festival Porto Femme - Festival Internacional de Cinema."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-22 14:20:52",
+        "category": "cultura"
+    },
+    {
+        "headline": "Mulheres que contam. Sara Barros Leitão",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/mulheres-que-contam-sara-barros-leitao_v1566199",
+        "content": [
+            {
+                "type": "text",
+                "data": "Atriz, encenadora, estrutura artística Cassandra\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/06/06066f282ecc1e5c0ca2479f84e94e5a?w=350&amp;q=50&amp;rect=0,14,1920,1053&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-22 12:56:06",
+        "category": "cultura"
+    },
+    {
+        "headline": "Mercearia histórica do Porto fecha portas ao fim de 144 anos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/mercearia-historica-do-porto-fecha-portas-ao-fim-de-144-anos_a1566165",
+        "content": [
+            {
+                "type": "text",
+                "data": "Alberto Martins, o atual dono da mercearia, diz que este espaço foi aberto nos anos de 1800. Um negócio que não é de família e que foi adquirido já nos anos 90 do século XX.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/64/64f9c4954aa0776956d90418c98c2017?w=350&amp;q=50&amp;rect=0,827,1440,789&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-22 12:00:54",
+        "category": "cultura"
+    },
+    {
+        "headline": "Museu em Grândola conta a história da senha da Revolução dos Cravos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/museu-em-grandola-conta-a-historia-da-senha-da-revolucao-dos-cravos_v1566179",
+        "content": [
+            {
+                "type": "text",
+                "data": "Grândola tem um novo museu que conta a história da canção &quot;Grândola Vila Morena&quot;.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/8f/8fc0e55a847c01c59a8218fe316c7aaf?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-22 11:07:45",
+        "category": "cultura"
+    },
+    {
+        "headline": "Cortiçada Art Fest leva 20 artistas internacionais a cinco municípios do Centro",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/corticada-art-fest-leva-20-artistas-internacionais-a-cinco-municipios-do-centro_n1566175",
+        "content": [
+            {
+                "type": "text",
+                "data": "A terceira edição do Cortiçada Art Fest vai levar em junho 20 artistas internacionais a Idanha-a-Nova, Sertã, Proença-a-Nova e Oleiros, no distrito de Castelo Branco, e a Pedrógão Grande, no distrito de Leiria, anunciou a organização."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-22 10:51:28",
+        "category": "cultura"
+    },
+    {
+        "headline": "Morreu o jornalista Pedro Cruz",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/morreu-o-jornalista-pedro-cruz_n1565991",
+        "content": [
+            {
+                "type": "text",
+                "data": "O jornalista Pedro Cruz morreu hoje, aos 53 anos, vítima de um cancro do pulmão, no hospital CUF Tejo, em Lisboa, confirmou à Lusa a família."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-21 12:51:12",
+        "category": "cultura"
+    },
+    {
+        "headline": "Cerca de mil militares participam na Praça do Comércio em cerimónia evocativa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/cerca-de-mil-militares-participam-na-praca-do-comercio-em-cerimonia-evocativa_n1565986",
+        "content": [
+            {
+                "type": "text",
+                "data": "Cerca de mil militares dos três ramos das Forças Armadas, dos quais 430 em parada, vão participar no dia 25 numa cerimónia evocativa dos 50 anos da Revolução dos Cravos, na Praça do Comércio, em Lisboa. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-21 12:14:23",
+        "category": "cultura"
+    },
+    {
+        "headline": "\"Estrangeiros em todo o lado\". Começa mais uma edição da Bienal de Veneza",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/estrangeiros-em-todo-o-lado-comeca-mais-uma-edicao-da-bienal-de-veneza_v1565981",
+        "content": [
+            {
+                "type": "text",
+                "data": "Começou mais uma edição da Bienal de Arte de Veneza, sob o mote &quot;Estrangeiros em todo o lado&quot;.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/cc/cc8a4378887dd65b4f8a262c65cd9f28?w=350&amp;q=50&amp;rect=0,149,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-21 11:43:46",
+        "category": "cultura"
+    },
+    {
+        "headline": "Mutu nos palcos com música nova",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/mutu-nos-palcos-com-musica-nova_v1565977",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os Mutu vão estar no próximo sábado no Generation Open Day, em Braga, e em junho no Festival Primavera Sound, no Porto."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/63/63fee90fb47316beba0dca97dbc8a9df_N.jpg?"
+            }
+        ],
+        "published": "2024-04-21 10:47:46",
+        "category": "cultura"
+    },
+    {
+        "headline": "Ator francês Omar Sy integra júri de Festival de Cannes",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/ator-frances-omar-sy-integra-juri-de-festival-de-cannes_n1567765",
+        "content": [
+            {
+                "type": "text",
+                "data": "O 77.º Festival de Cannes, a começar em duas semanas, anunciou hoje a composição do júri, que inclui Omar Sy, &quot;Lupin&quot; na série da Netflix e rosto do cinema francês no mundo."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-29 07:42:21",
+        "category": "cultura"
+    },
+    {
+        "headline": "Câmara do Porto quer 1.102 declamadores de Camões",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/camara-do-porto-quer-1102-declamadores-de-camoes_a1567848",
+        "content": [
+            {
+                "type": "text",
+                "data": "No ano em que se assinalam os 500 anos do nascimento de Luís Vaz de Camões, a autarquia do Porto quer realizar um evento digno da epopeia lírica &quot;Os Lusíadas&quot;.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/bb/bb78346e1fad3a40601a15015d543330?w=350&amp;q=50&amp;rect=0,10,718,394&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-29 14:22:11",
+        "category": "cultura"
+    },
+    {
+        "headline": "Almoço Literário reúne dezenas de escritores e artistas em Montemor-o-Velho",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/almoco-literario-reune-dezenas-de-escritores-e-artistas-em-montemor-o-velho_n1567838",
+        "content": [
+            {
+                "type": "text",
+                "data": "Cerca de 30 autores, entre escritores, ilustradores, artistas plásticos, contadores de histórias e músicos, vão participar no segundo Almoço Literário de Montemor-o-Velho, no dia 11 de maio.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-29 13:22:47",
+        "category": "cultura"
+    },
+    {
+        "headline": "Marco da Silva Ferreira finalista do primeiro Prémio Internacional de Dança Rose",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/marco-da-silva-ferreira-finalista-do-primeiro-premio-internacional-de-danca-rose_n1567829",
+        "content": [
+            {
+                "type": "text",
+                "data": "O coreógrafo português Marco da Silva Ferreira e a brasileira Lia Rodrigues são finalistas da primeira edição do Prémio Internacional de Dança Rose 2025, lançado pelo teatro Saddler`s Wells, foi hoje anunciado em Londres. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-29 12:57:06",
+        "category": "cultura"
     }
 ]
