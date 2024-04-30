@@ -1,4 +1,5 @@
 {% extends 'layout.html' %}
+{% load custom_filters %}
 {% load static %}
 
 {% block content %}
@@ -12,36 +13,57 @@
                     <div class="container">
                         <div style="float: left">
                             {% if x.content_source == "RTP" %}
-                                <div style="display: flex; align-items: center;">
+                                <div style="display: flex; align-items: center; margin-right: 5px">
                                     <img src="{% static 'images/rtp.png' %}" alt="RTP"
                                          style="height: 71px; width: 120px;display: inline-block; vertical-align: center">
                                 </div>
-                            {% elif x.content_source == "NM" %}
+                            {% endif %}
+                            {% if x.content_source == "Noticias ao Minuto" %}
                                 <div style="display: flex; align-items: center;">
-                                    <img src="{% static 'images/noticias_ao_minuto.jpg' %}" alt="NM"
-                                         style="height: 109px; width: 120px;display: inline-block; vertical-align: center">
+                                    <img src="{% static 'images/noticias_ao_minuto.png' %}" alt="Noticias ao Minuto"
+                                         style="height: 72px; width: 80px;display: inline-block; vertical-align: center">
                                 </div>
-                            {% else %}
+                            {% endif %}
+                            {% if x.content_source == "Sapo" %}
                                 <div style="display: flex; align-items: center;">
-                                    <img src="{% static 'images/sapo_roubado.jpg' %}" alt="Sapo"
+                                    <img src="{% static 'images/sapo.png' %}" alt="Sapo"
                                          style="height: 60px; width: 60px; margin-right: 10px;">
                                 </div>
-
                             {% endif %}
                         </div>
-                        <h2 style="color: #e3e3e3; font-weight: bold">{{ x.content_headline }}</h2>
+                        <h2 style="color: #e3e3e3; font-weight: bold; margin-top: 5%">{{ x.content_headline }}</h2>
                         <div style="margin: 10px; color: #cdcdcd;">
                             {{ x.content_text }}
                         </div>
                         <div style="margin-top: 15px">
                             <div style="float: right">
                                 <div>
-                                    Categoria: {{ x.content_category }}
+                                    <img src="{% static 'images/category.png' %}" alt="Edu-News"
+                                         style="height: 30px; width: 30px;display: inline-block; margin-right: 8px;
+                                         vertical-align: middle;">
+                                    {{ x.content_category }}
                                 </div>
                             </div>
                             <div style="float: left">
-                                <div style="padding-top: 15px">
-                                    {{ x.content_date }}
+                                <div style="float: left;">
+                                    <div>
+                                        <img src="{% static 'images/date.png' %}" alt="Date Icon"
+                                             style="height: 30px; width: 30px; display: inline-block; margin-left: 8px;
+                                             vertical-align: middle; margin-right: 8px">
+
+                                        {% if x.content_date %}
+                                            {% with x.content_date|date_parse as parsed_date %}
+                                                {% if parsed_date %}
+                                                        {{ parsed_date|date:"Y m d" }}
+                                                {% else %}
+                                                        Invalid date
+                                                {% endif %}
+                                            {% endwith %}
+                                        {% else %}
+                                            No date provided
+                                        {% endif %}
+
+                                    </div>
                                 </div>
                             </div>
                         </div>

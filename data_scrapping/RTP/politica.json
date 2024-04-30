@@ -2871,5 +2871,22 @@
         ],
         "published": "2024-04-29 16:48:38",
         "category": "politica"
+    },
+    {
+        "headline": "Morreu o antigo deputado comunista Sérgio Ribeiro",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/morreu-o-antigo-deputado-comunista-sergio-ribeiro_v1567975",
+        "content": [
+            {
+                "type": "text",
+                "data": "Morreu Sérgio Ribeiro, antigo deputado e eurodeputado comunista. Estas são as últimas imagens de Sérgio Ribeiro. Participou no documentário da RTP, Os Olhos da Revolução, de Jacinto Godinho. Sérgio Ribeiro revelou que ajudou uma televisão belga a filmar em Portugal um mês antes da Revolução. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/6a/6ae7e3ba83c4bc3117997ec06c8fbb7d_N.jpg?"
+            }
+        ],
+        "published": "2024-04-29 22:15:45",
+        "category": "politica"
     }
 ]

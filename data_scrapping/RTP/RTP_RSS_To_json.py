@@ -118,7 +118,7 @@ def get_news_data(x):
 
 
 if __name__ == "__main__":
-    list_possibilities = ["ultimas", "pais", "mundo", "desporto", "economia", "cultura", "videos", "audios", "politica"]
+    list_possibilities = ["ultimas", "pais", "mundo", "desporto", "economia", "cultura", "politica"]
 
 
     def fetch_and_append(category):

@@ -1,4 +1,7 @@
+from datetime import datetime
+
 from django import template
+from django.templatetags.static import static as django_static
 
 register = template.Library()
 
@@ -6,3 +9,24 @@ register = template.Library()
 @register.filter
 def is_not_digit(value):
     return not value.isdigit()
+
+
+@register.simple_tag
+def category_image(category):
+    file_path = f"images/{category}.png"
+    return django_static(file_path)
+
+
+@register.simple_tag
+def source_image(source):
+    formatted_category = source.source_name.lower().replace(" ", "_")
+    formatted_category = formatted_category.replace("%20", "_")
+    file_path = f"images/{formatted_category}.png"
+    return django_static(file_path)
+
+@register.filter
+def date_parse(value):
+    try:
+        return datetime.strptime(value, "%Y-%m-%d %H:%M:%S")
+    except ValueError:
+        return None

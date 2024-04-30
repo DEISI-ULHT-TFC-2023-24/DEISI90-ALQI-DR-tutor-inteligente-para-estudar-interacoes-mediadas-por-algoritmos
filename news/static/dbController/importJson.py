@@ -78,13 +78,17 @@ def import_json_thread_response(json_data):
         data = json.load(file)
 
     for news_item in data:
-        content_data4 = {
-            'content_id': (views.get_content_id(news_item['content_title'])).content_id,
-            'content_title': news_item['content_title'],
-            'thread_response': news_item['thread_response']
-        }
+        content_id_obj = views.get_content_id(news_item['content_title'])
+        if content_id_obj is not None:
+            content_data4 = {
+                'content_id': (views.get_content_id(news_item['content_title'])).content_id,
+                'content_title': news_item['content_title'],
+                'thread_response': news_item['thread_response']
+            }
 
-        Thread.objects.update_or_create(
-            content_title=news_item['content_title'],
-            defaults=content_data4
-        )
+            Thread.objects.update_or_create(
+                content_title=news_item['content_title'],
+                defaults=content_data4
+            )
+        else:
+            print(f"Warning: Could not find content_id for '{news_item['content_title']}'")

@@ -6135,5 +6135,56 @@
         ],
         "published": "2024-04-29 19:31:54",
         "category": "desporto"
+    },
+    {
+        "headline": "FC Porto. Sérgio Conceição revelou que vai reunir com Villas-Boas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/fc-porto-sergio-conceicao-revelou-que-vai-reunir-com-villas-boas_v1567968",
+        "content": [
+            {
+                "type": "text",
+                "data": "André Villas-Boas viu o Clássico do Dragão com o Sporting na bancada entre adeptos portistas. No final do jogo, Sérgio Conceição revelou que vai reunir com o novo Presidente eleito do Futebol Clube do Porto. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/c4/c449853f26b9aef3170aa876e82bf066_N.jpg?"
+            }
+        ],
+        "published": "2024-04-29 22:02:44",
+        "category": "desporto"
+    },
+    {
+        "headline": "Sporting avança com participação por incidentes no clássico com FC Porto",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/1a-liga/sporting-avanca-com-participacao-por-incidentes-no-classico-com-fc-porto_d1567950",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Sporting vai avançar com uma participação disciplinar por alegada agressão e ameaças a elementos do conselho diretivo no jogo com o FC Porto, da 31.ª jornada da I Liga, confirmou hoje à Lusa fonte oficial do clube.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/5c/5c9a06e92b2d692299bbeef5dd8de1d0?w=350&amp;q=50&amp;rect=0,96,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-29 21:26:17",
+        "category": "desporto"
+    },
+    {
+        "headline": "Nadal vence terceiro jogo seguido e atinge oitavos no Masters 1000 de Madrid",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/nadal-vence-terceiro-jogo-seguido-e-atinge-oitavos-no-masters-1000-de-madrid_d1567935",
+        "content": [
+            {
+                "type": "text",
+                "data": "O tenista espanhol Rafael Nadal atingiu hoje os oitavos de final do Masters 1000 de Madrid ao afastar o argentino Pedro Cachin por 6-1, 6-7 (5-7) e 6-3, em mais de três horas."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/de/de77a2da7d9c9adc9a4df42fda1638d9?w=350&amp;q=50&amp;rect=0,67,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-29 20:40:50",
+        "category": "desporto"
     }
 ]

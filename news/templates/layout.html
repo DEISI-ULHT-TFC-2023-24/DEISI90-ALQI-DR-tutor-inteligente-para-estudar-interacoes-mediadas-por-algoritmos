@@ -4,7 +4,7 @@
 {% load custom_filters %}
 
 
-<html lang="" style="width: 100%; height: 100%;background-color: #2f2f2f">
+<html lang="" style="width: 100%; height: 100%;background-color: #3e3e3e">
 
 <head>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
@@ -25,7 +25,7 @@
         }
 
         body {
-            color: black;
+            color: #252525;
             font-family: "Helvetica Neue", "Roboto", "Segoe UI", serif;
         }
 
@@ -88,19 +88,17 @@
 
 </head>
 
-<body style="color: white; background-color: #171717; margin: 0; height: 100px">
+<body style="color: white; background-color: rgba(23,23,23,0.64); margin: 0; height: 100px">
 <nav class="navbar" style="padding-bottom: 30px">
 
     <div class="dropdown" style="display: flex; align-items: center;height: 100px;margin-right: 2%; float: left">
         <a href="/" class="navbar-item"
-            style="float: left; font-size: 200%; color: #dddddd; text-decoration: none">
+           style="float: left; font-size: 200%; color: #dddddd; text-decoration: none">
             <img src="{% static 'images/edu-news-logo.jpg' %}" alt="Edu-News"
-             style="height: 55px; width: 55px; margin-right: 8px; vertical-align: middle;">
+                 style="height: 55px; width: 55px; margin-right: 8px; vertical-align: middle;">
             Edu-News
         </a>
     </div>
-
-
 
 
     <div class="dropdown" style="display: flex; align-items: center;height: 100px;margin-right: 2%">
@@ -141,16 +139,16 @@
                     <button id="categorias-toggle" onclick="toogle_categorias()"
                             style="color: #e7e8e9; margin-left: 15px; background-color: transparent; font-size: 1.5em">
                         <img src="{% static 'images/category.png' %}" alt="Edu-News"
-                            style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
+                             style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
                         Categorias
                     </button>
-                    <ul class="categorias-list" style="display: none; margin-left: 5%">
-                        <li style="color: #e7e8e9">
-                            <a href="{% url 'index' %}?category=cultura">cultura</a>
-                        </li>
+                    <ul class="categorias-list" style="display: none; margin-left: 5%; list-style-type: none">
                         {% for category in categories %}
-                            <li style="color: #e7e8e9">
+                            <li style="color: #e7e8e9; list-style-type: none">
                                 <a href="{% url 'index' %}?category={{ category|urlencode }}{% if query %}&q={{ query|urlencode }}{% endif %}">
+                                    <img src="{% category_image category %}"
+                                         alt="{{ category }}"
+                                         style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
                                     {{ category }}
                                 </a>
                             </li>
@@ -160,29 +158,38 @@
                 <div class="filter-block" style="margin-left: 5%">
                     <button id="data-toggle" onclick="toogle_data()"
                             style="color: #e7e8e9; margin-left: 15px; margin-top: 15px; background-color: transparent; font-size: 1.5em">
-                            <img src="{% static 'images/time-left.png' %}" alt="Edu-News"
-                                style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
+                        <img src="{% static 'images/time-left.png' %}" alt="Edu-News"
+                             style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
                         Ordem de Data
                     </button>
-                    <ul class="data-list" style="display: none; margin-left: 5%">
+                    <ul class="data-list" style="display: none; margin-left: 5%; list-style-type: none">
                         <li style="color: white"><a
-                                href="{% url 'index' %}?date=content_date{% if query %}&q={{ query }}{% endif %}">Mais
-                            Antigas</a></li>
+                                href="{% url 'index' %}?date=content_date{% if query %}&q={{ query }}{% endif %}">
+                            <img src="{% static 'images/mais_antigo.png' %}" alt="Edu-News"
+                             style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
+                            Mais Antigas</a></li>
                         <li style="color: white"><a
-                                href="{% url 'index' %}?date=-content_date{% if query %}&q={{ query }}{% endif %}">Mais
-                            Recentes</a></li>
+                                href="{% url 'index' %}?date=-content_date{% if query %}&q={{ query }}{% endif %}">
+                            <img src="{% static 'images/mais_recente.png' %}" alt="Edu-News"
+                             style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
+                            Mais Recentes</a></li>
                     </ul>
                 </div>
                 <div class="filter-block" style="margin-left: 5%">
                     <button id="fonte-toggle" onclick="toogle_fonte()"
                             style="color: #e7e8e9; margin-left: 15px; margin-top: 15px; background-color: transparent; font-size: 1.5em">
-                            <img src="{% static 'images/identities.png' %}" alt="Edu-News"
-                                style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
+                        <img src="{% static 'images/identities.png' %}" alt="Edu-News"
+                             style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
                         Fonte
                     </button>
-                    <ul class="fonte-list" style="display: none; margin-left: 5%">
+                    <ul class="fonte-list" style="display: none; margin-left: 5%; list-style-type: none">
                         {% for source in sources %}
-                            <li style="color: #e7e8e9"><a href="{% url 'index' %}?source={{ source }}{% if query %}&q={{ query }}{% endif %}">{{ source }}</a></li>
+                            <li style="color: #e7e8e9"><a href="{% url 'index' %}?source={{ source }}{% if query %}&q={{ query }}{% endif %}">
+                                <img src="{% source_image source %}"
+                                         alt="{{ source }}"
+                                         style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
+                                {{ source }}
+                            </a></li>
                         {% endfor %}
                     </ul>
                 </div>

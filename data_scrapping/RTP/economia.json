@@ -6118,5 +6118,124 @@
         ],
         "published": "2024-04-29 16:48:38",
         "category": "economia"
+    },
+    {
+        "headline": "Pensões. AD acusa antigo governo PS de manobra eleitoralista",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/pensoes-ad-acusa-antigo-governo-ps-de-manobra-eleitoralista_v1567965",
+        "content": [
+            {
+                "type": "text",
+                "data": "Perto de um quarto dos pensionistas da Segurança Social vão sofrer acertos nas pensões. Em maio, quase 150 mil vão receber menos. O PSD acusa agora o anterior Governo de ter feito uma manobra eleitoralista com as pensões. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/db/db9ecefcffc086dfcf2ff2c4b7d6143e_N.jpg?"
+            }
+        ],
+        "published": "2024-04-29 21:49:45",
+        "category": "economia"
+    },
+    {
+        "headline": "Ministério do Ambiente e Energia garante que vai rever lei da Taxa de Ocupação do Subsolo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/ministerio-do-ambiente-e-energia-garante-que-vai-rever-lei-da-taxa-de-ocupacao-do-subsolo_v1567953",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Ministério do Ambiente e Energia garante que vai rever a lei da Taxa de Ocupação do Subsolo que as empresas continuam a cobrar aos consumidores. A lei foi revista em 2017 mas nada mudou e as distribuidoras ainda refletem esta taxa no preço final do gás natural. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/cf/cfc9159993f2b6220bcd6d91b73fc4aa_N.jpg?"
+            }
+        ],
+        "published": "2024-04-29 21:29:44",
+        "category": "economia"
+    },
+    {
+        "headline": "Avaliação bancária das casas voltou a aumentar em Portugal",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/avaliacao-bancaria-das-casas-voltou-a-aumentar-em-portugal_v1567952",
+        "content": [
+            {
+                "type": "text",
+                "data": "A avaliação bancária das casas em Portugal voltou a aumentar. Desta vez subiu mais 20 euros em março. Os dados do Instituto Nacional de Estatística referem uma subida para 1580 euros por metro quadrado. Em relação ao mesmo mês de 2023, a taxa de variação fixou-se em 6,5%. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/be/beaed2c14a5d2e6d3ba8eda2ff560db8_N.jpg?"
+            }
+        ],
+        "published": "2024-04-29 21:28:44",
+        "category": "economia"
+    },
+    {
+        "headline": "Confiança das famílias aumentou em abril",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/confianca-das-familias-aumentou-em-abril_v1567951",
+        "content": [
+            {
+                "type": "text",
+                "data": "A confiança das famílias em Portugal voltou a aumentar em abril. Segundo o INE, o indicador que mede as expetativas dos consumidores aumentou para o valor mais elevado desde fevereiro de 2022 e está mesmo acima da média histórica. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/5b/5ba0bbee01fd0a9a3d1ad597fd06e002_N.jpg?"
+            }
+        ],
+        "published": "2024-04-29 21:25:45",
+        "category": "economia"
+    },
+    {
+        "headline": "Perto de um quarto dos reformados terão acerto nas pensões",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/perto-de-um-quarto-dos-reformados-terao-acerto-nas-pensoes_v1567947",
+        "content": [
+            {
+                "type": "text",
+                "data": "Quase um quarto dos pensionistas da Segurança Social vão sofrer acertos nas pensões. Em causa está uma alteração na retenção de IRS relativa a janeiro. Em maio, quase 150 mil pensionistas vão receber menos. O Governo diz que nada sabia deste acerto.  "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/10/108f6e7def313f0fcf1766b95e42cdc6_N.jpg?"
+            }
+        ],
+        "published": "2024-04-29 21:20:45",
+        "category": "economia"
+    },
+    {
+        "headline": "Euro e iene recuperam face ao dólar",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/euro-e-iene-recuperam-face-ao-dolar_n1567921",
+        "content": [
+            {
+                "type": "text",
+                "data": "O euro recuperou esta segunda-feira o nível de 1,07 dólares, após a publicação de dados que apontam para uma estabilização da inflação em abril na Alemanha.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-29 19:51:10",
+        "category": "economia"
+    },
+    {
+        "headline": "BCP vai pagar dividendo de 0,0170 euros por ação num total de cerca de 257 milhões",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/bcp-vai-pagar-dividendo-de-00170-euros-por-acao-num-total-de-cerca-de-257-milhoes_n1567920",
+        "content": [
+            {
+                "type": "text",
+                "data": "O BCP vai propor à Assembleia-Geral (AG) de acionistas, em 22 de maio, um dividendo de 0,0170 euros por ação, num total de cerca de 257 milhões de euros relativos aos resultados de 2023, anunciou o banco.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-04-29 19:50:14",
+        "category": "economia"
     }
 ]
