@@ -33,3 +33,18 @@ button:hover {
     background-color: #0056b3;
 }
 
+.vertical-line {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 1px; /* Line width */
+    background-color: white; /* Line color */
+}
+
+.vertical-line-left {
+    left: 0; /* Position on the far left */
+}
+
+.vertical-line-right {
+    right: 0; /* Position on the far right */
+}

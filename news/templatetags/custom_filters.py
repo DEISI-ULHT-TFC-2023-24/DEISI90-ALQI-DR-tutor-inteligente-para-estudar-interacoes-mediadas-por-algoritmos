@@ -24,9 +24,21 @@ def source_image(source):
     file_path = f"images/{formatted_category}.png"
     return django_static(file_path)
 
+
 @register.filter
 def date_parse(value):
     try:
         return datetime.strptime(value, "%Y-%m-%d %H:%M:%S")
     except ValueError:
         return None
+
+
+@register.filter
+def page_range(value, page_window):
+    """Generate a range of page numbers for pagination."""
+    current_page = value.number
+    total_pages = value.paginator.num_pages
+    start = max(1, current_page - page_window)
+    end = min(total_pages, current_page + page_window)
+
+    return range(start, end + 1)

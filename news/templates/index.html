@@ -4,10 +4,56 @@
 
 {% block content %}
     <div class="container2" style="width: 100%">
+        {% if page_obj.has_previous %}
+            <ul id="pagination-bar" class="pagination">
+                {% if page_obj.has_previous %}
+                    <li id="pagination-bar" class="page_previous">
+                        <a class="blueButton" href="?page={{ page_obj.previous_page_number }}">
+                            <img id="pagination-bar" class="pagination_arrow_left" src="{% static 'images/arrow_left.png' %}"
+                                 alt="Left Arrow" style="height: 30px; width: 30px">
+                            <b>Prev</b>
+                        </a>
+                    </li>
+                {% else %}
+                    <li id="pagination-bar" class="page_previous disabled">
+                    <span class="disabledButton">
+                        <img id="pagination-bar" class="pagination_arrow_left" src="{% static 'images/arrow_left.png' %}"
+                             alt="Left Arrow" style="height: 30px; width: 30px">
+                        <b>Prev</b>
+                    </span>
+                    </li>
+                {% endif %}
+
+                {% for i in page_obj|page_range:2 %}
+                    <li id="pagination-bar" class="page_number {% if page_obj.number == i %}active{% endif %}">
+                        <a class="greyButton" href="?page={{ i }}">{{ i }}</a>
+                    </li>
+                {% endfor %}
+
+
+                {% if page_obj.has_next %}
+                    <li id="pagination-bar" class="page_next">
+                        <a class="blueButton" href="?page={{ page_obj.next_page_number }}">
+                            <b>Next</b>
+                            <img id="pagination-bar" class="pagination_arrow_right" src="{% static 'images/arrow_right.png' %}"
+                                 alt="Right Arrow" style="height: 30px; width: 30px">
+                        </a>
+                    </li>
+                {% else %}
+                    <li id="pagination-bar" class="page_next disabled">
+                    <span class="disabledButton">
+                        <b>Next</b>
+                        <img class="pagination_arrow_right" src="{% static 'images/arrow_right.png' %}"
+                             alt="Right Arrow" style="height: 30px; width: 30px">
+                    </span>
+                    </li>
+                {% endif %}
+            </ul>
+        {% endif %}
         {% if query %}
             <h3 style="color: white;">Search Results for "{{ query }}":</h3>
         {% endif %}
-        {% for x in obj|slice:":20" %}
+        {% for x in page_obj %}
             {% if x.content_text != "No content" %}
                 <a style="text-decoration: none" href="{% url 'news_detail' x.pk %}">
                     <div class="container">
@@ -54,9 +100,9 @@
                                         {% if x.content_date %}
                                             {% with x.content_date|date_parse as parsed_date %}
                                                 {% if parsed_date %}
-                                                        {{ parsed_date|date:"Y m d" }}
+                                                    {{ parsed_date|date:"Y/m/d" }}
                                                 {% else %}
-                                                        Invalid date
+                                                    Invalid date
                                                 {% endif %}
                                             {% endwith %}
                                         {% else %}
@@ -70,11 +116,61 @@
                     </div>
                     <div style="height: 20px"></div>
                 </a>
+                <hr>
             {% endif %}
         {% empty %}
             <h2 style="color: white"> No results found.</h2>
         {% endfor %}
+        <ul id="pagination-bar" class="pagination">
+            {% if page_obj.has_previous %}
+                <li id="pagination-bar" class="page_previous">
+                    <a class="blueButton" href="?page={{ page_obj.previous_page_number }}">
+                        <img id="pagination-bar" class="pagination_arrow_left" src="{% static 'images/arrow_left.png' %}"
+                             alt="Left Arrow" style="height: 30px; width: 30px">
+                        <b>Prev</b>
+                    </a>
+                </li>
+            {% else %}
+                <li id="pagination-bar" class="page_previous disabled">
+                <span class="disabledButton">
+                    <img id="pagination-bar" class="pagination_arrow_left" src="{% static 'images/arrow_left.png' %}"
+                         alt="Left Arrow" style="height: 30px; width: 30px">
+                    <b>Prev</b>
+                </span>
+                </li>
+            {% endif %}
+
+            {% for i in page_obj|page_range:2 %}
+                <li id="pagination-bar" class="page_number {% if page_obj.number == i %}active{% endif %}">
+                    <a class="greyButton" href="?page={{ i }}">{{ i }}</a>
+                </li>
+            {% endfor %}
+
+
+            {% if page_obj.has_next %}
+                <li id="pagination-bar" class="page_next">
+                    <a class="blueButton" href="?page={{ page_obj.next_page_number }}">
+                        <b>Next</b>
+                        <img id="pagination-bar" class="pagination_arrow_right" src="{% static 'images/arrow_right.png' %}"
+                             alt="Right Arrow" style="height: 30px; width: 30px">
+                    </a>
+                </li>
+            {% else %}
+                <li id="pagination-bar" class="page_next disabled">
+                <span class="disabledButton">
+                    <b>Next</b>
+                    <img class="pagination_arrow_right" src="{% static 'images/arrow_right.png' %}"
+                         alt="Right Arrow" style="height: 30px; width: 30px">
+                </span>
+                </li>
+            {% endif %}
+        </ul>
     </div>
+
+
+
+
+
 {% endblock %}
 
 

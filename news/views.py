@@ -1,6 +1,7 @@
 import subprocess
 from time import sleep
 
+from django.core.paginator import Paginator
 from django.http import JsonResponse
 from django.shortcuts import render, redirect
 from django.urls import reverse
@@ -17,8 +18,10 @@ def index(request):
     date = request.GET.get('date')
     source = request.GET.get('source')
 
+    # Fetch all content
     obj = Content.objects.all()
 
+    # Apply filters based on query parameters
     if query:
         obj = obj.filter(content_headline__icontains=query)
 
@@ -33,11 +36,18 @@ def index(request):
     if source:
         obj = obj.filter(content_source=source)
 
-    for category in Category.objects.all():
-        category.category_label.strip()
+    # Set up pagination, showing 20 items per page
+    paginator = Paginator(obj, 20)
 
+    # Get the current page number from the request
+    page_number = request.GET.get('page', 1)
+
+    # Get the page corresponding to the page number
+    page_obj = paginator.get_page(page_number)
+
+    # Build the context with the paginated object
     context = {
-        'obj': obj,
+        'page_obj': page_obj,
         'query': query,
         'category': category,
         'date': date,

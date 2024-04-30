@@ -62,7 +62,6 @@ def standardize_date(pub_date):
 def get_news_data(x):
     rtpCat = x
     while 1:
-        # input("Introduza a categoria (\"ultimas\",\"pais\",\"mundo\",\"desporto\",\"economia\",\"cultura\",\"videos\",\"audios\")")
         if not rtpCat:
             rtpCat = "ultimas"
         if rtpCat not in list_possibilities:

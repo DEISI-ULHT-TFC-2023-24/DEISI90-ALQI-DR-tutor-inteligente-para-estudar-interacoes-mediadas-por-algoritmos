@@ -1,0 +1,27 @@
+.pagination {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0; /* Provides some spacing around the pagination */
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center;
+}
+
+.pagination li {
+    margin: 0 5px; /* Adds some space between page items */
+}
+
+.blueButton,
+.greyButton {
+    padding: 5px 10px; /* Padding for buttons */
+    text-decoration: none;
+    font-weight: bold;
+    color: white; /* Font color for buttons */
+    display: flex;
+    align-items: center; /* Center text vertically */
+    justify-content: center; /* Center text horizontally */
+}
+
+.greyButton {
+    background-color: grey; /* Neutral color for normal buttons */
+}
