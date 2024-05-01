@@ -9,7 +9,7 @@ from django.views.decorators.csrf import csrf_exempt
 
 from news.static.dbController import importJson as ij
 from thread_handler.content_text_to_query import load_json_file as lj
-from .models import Category, Source, Content
+from .models import Category, Source, Content, Thread
 
 
 def index(request):
@@ -61,7 +61,10 @@ def index(request):
 
 def news_detail(request, news_id):
     obj = Content.objects.filter(pk=news_id)
+    thread_news = Thread.objects.all()
+    thread_news = thread_news.filter(content_id=obj[0].content_id)
     context = {
+        "thread_news": thread_news[0].thread_response if thread_news else None,
         "obj": obj
     }
 

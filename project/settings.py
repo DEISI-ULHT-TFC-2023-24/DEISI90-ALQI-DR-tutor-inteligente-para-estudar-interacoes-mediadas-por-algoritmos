@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-bmrce(!fet7mb1&^m)^-yibencs_1l=85px^kdyr3_fvcgu8+)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['0.0.0.0', 'localhost', '127.0.0.1', '85.240.79.148', 'edu-news-43e47.duckdns.org']
 
 
 # Application definition

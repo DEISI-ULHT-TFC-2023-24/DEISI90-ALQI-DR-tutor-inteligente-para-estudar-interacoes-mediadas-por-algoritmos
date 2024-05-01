@@ -32,5 +32,20 @@
             </div>
             </a>
         {% endfor %}
+
+        <div class="flex-container" style="flex-direction: column">
+            <div class="container" style="flex-grow: 1">
+                <h3>Gerado por AI:</h3>
+                    {% if thread_news %}
+                        <div style="margin: 5%">
+                            {{ thread_news }}
+                        </div>
+                    {% else %}
+                        <h2> No content, yet!</h2>
+                    {% endif %}
+                </div>
+            <div style="height: 20px"></div>
+        </div>
+
     </div>
 {% endblock content %}
