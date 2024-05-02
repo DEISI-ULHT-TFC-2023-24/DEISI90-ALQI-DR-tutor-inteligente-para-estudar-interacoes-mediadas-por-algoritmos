@@ -1,3 +1,5 @@
+import subprocess
+import logging
 from django.core.management.base import BaseCommand
 from django.contrib.auth.models import User
 
@@ -12,6 +14,9 @@ class Command(BaseCommand):
 
         if not User.objects.filter(username=username).exists():
             User.objects.create_superuser(username, email, password)
-            self.stdout.write(self.style.SUCCESS('Superuser created successfully'))
+            print('Superuser created successfully')
         else:
-            self.stdout.write(self.style.NOTICE('Superuser already exists'))
+            print('Superuser already exists')
+
+        subprocess.run(["python", "views.py"])
+        self.stdout.write(self.style.SUCCESS('Command executed successfully'))

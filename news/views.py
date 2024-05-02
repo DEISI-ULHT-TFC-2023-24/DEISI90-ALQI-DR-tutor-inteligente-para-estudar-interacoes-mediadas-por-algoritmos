@@ -97,14 +97,14 @@ def execute_python_script(request):
         list_possibilities = ["ultimas", "pais", "mundo", "desporto", "economia", "cultura", "politica"]
         for x in list_possibilities:
             ij.import_json_data_RTP("data_scrapping/RTP/{cat}.json".format(cat=x))
-            #lj("data_scrapping/RTP/{cat}.json".format(cat=x))
+            lj("data_scrapping/RTP/{cat}.json".format(cat=x))
 
         subprocess.run(["python", "data_scrapping/Noticias_ao_Minuto/NM_RSS_to_json.py"])
         list_possibilities = ["ultimas", "politica", "pais", "mundo", "tech", "auto", "desporto", "economia", "cultura"]
 
         for x in list_possibilities:
             ij.import_json_data_NM("data_scrapping/Noticias_ao_Minuto/{cat}.json".format(cat=x))
-            #lj("data_scrapping/Noticias_ao_Minuto/{cat}.json".format(cat=x))
+            lj("data_scrapping/Noticias_ao_Minuto/{cat}.json".format(cat=x))
 
         subprocess.run(["python", "data_scrapping/sapoApi/sapo_api_to_json.py"])
         ij.import_json_data_sapo("data_scrapping/sapoApi/ultimas.json")
