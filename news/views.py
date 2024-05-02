@@ -18,10 +18,21 @@ def index(request):
     date = request.GET.get('date')
     source = request.GET.get('source')
 
-    # Fetch all content
+    filters = {
+        'q': query,
+        'category': category,
+        'date': date,
+        'source': source,
+    }
+
+    filters = {k: v for k, v in filters.items() if v}
+    query_string = "?" + "&".join([f"{k}={v}" for k, v in filters.items()])
+    has_query_string = len(query_string) > 1
+    query_string = query_string.replace("%20", "")
+    query_string = query_string.replace("?", "&")
+
     obj = Content.objects.all()
 
-    # Apply filters based on query parameters
     if query:
         obj = obj.filter(content_headline__icontains=query)
 
@@ -36,24 +47,19 @@ def index(request):
     if source:
         obj = obj.filter(content_source=source)
 
-    # Set up pagination, showing 20 items per page
     paginator = Paginator(obj, 20)
 
-    # Get the current page number from the request
     page_number = request.GET.get('page', 1)
 
-    # Get the page corresponding to the page number
     page_obj = paginator.get_page(page_number)
 
-    # Build the context with the paginated object
     context = {
+        'query_string': query_string,
         'page_obj': page_obj,
-        'query': query,
-        'category': category,
-        'date': date,
-        'source': source,
         'categories': Category.objects.all(),
         'sources': Source.objects.all(),
+        'filters': filters,
+        'has_query_string': has_query_string,
     }
 
     return render(request, "index.html", context)

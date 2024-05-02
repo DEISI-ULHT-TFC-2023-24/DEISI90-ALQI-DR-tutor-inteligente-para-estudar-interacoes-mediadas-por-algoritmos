@@ -1,4 +1,5 @@
 {% extends 'layout.html' %}
+{% load macros %}
 {% load custom_filters %}
 {% load static %}
 
@@ -8,7 +9,7 @@
             <ul id="pagination-bar" class="pagination">
                 {% if page_obj.has_previous %}
                     <li id="pagination-bar" class="page_previous">
-                        <a class="blueButton" href="?page={{ page_obj.previous_page_number }}">
+                        <a class="blueButton" href="?page={{ page_obj.previous_page_number }}{{ query_string }}">
                             <img id="pagination-bar" class="pagination_arrow_left" src="{% static 'images/arrow_left.png' %}"
                                  alt="Left Arrow" style="height: 30px; width: 30px">
                             <b>Prev</b>
@@ -26,14 +27,14 @@
 
                 {% for i in page_obj|page_range:2 %}
                     <li id="pagination-bar" class="page_number {% if page_obj.number == i %}active{% endif %}">
-                        <a class="greyButton" href="?page={{ i }}">{{ i }}</a>
+                        <a class="greyButton" href="?page={{ i }}{{ query_string }}">{{ i }}</a>
                     </li>
                 {% endfor %}
 
 
                 {% if page_obj.has_next %}
                     <li id="pagination-bar" class="page_next">
-                        <a class="blueButton" href="?page={{ page_obj.next_page_number }}">
+                        <a class="blueButton" href="?page={{ page_obj.next_page_number }}{{ query_string }}">
                             <b>Next</b>
                             <img id="pagination-bar" class="pagination_arrow_right" src="{% static 'images/arrow_right.png' %}"
                                  alt="Right Arrow" style="height: 30px; width: 30px">
@@ -124,7 +125,7 @@
         <ul id="pagination-bar" class="pagination">
             {% if page_obj.has_previous %}
                 <li id="pagination-bar" class="page_previous">
-                    <a class="blueButton" href="?page={{ page_obj.previous_page_number }}">
+                    <a class="blueButton" href="?page={{ page_obj.previous_page_number }}{{ query_string }}">
                         <img id="pagination-bar" class="pagination_arrow_left" src="{% static 'images/arrow_left.png' %}"
                              alt="Left Arrow" style="height: 30px; width: 30px">
                         <b>Prev</b>
@@ -142,14 +143,14 @@
 
             {% for i in page_obj|page_range:2 %}
                 <li id="pagination-bar" class="page_number {% if page_obj.number == i %}active{% endif %}">
-                    <a class="greyButton" href="?page={{ i }}">{{ i }}</a>
+                    <a class="greyButton" href="?page={{ i }}{{ query_string }}">{{ i }}</a>
                 </li>
             {% endfor %}
 
 
             {% if page_obj.has_next %}
                 <li id="pagination-bar" class="page_next">
-                    <a class="blueButton" href="?page={{ page_obj.next_page_number }}">
+                    <a class="blueButton" href="?page={{ page_obj.next_page_number }}{{ query_string }}">
                         <b>Next</b>
                         <img id="pagination-bar" class="pagination_arrow_right" src="{% static 'images/arrow_right.png' %}"
                              alt="Right Arrow" style="height: 30px; width: 30px">

@@ -42,3 +42,10 @@ def page_range(value, page_window):
     end = min(total_pages, current_page + page_window)
 
     return range(start, end + 1)
+
+
+@register.filter(name='contains')
+def contains(value, arg):
+    if isinstance(value, str):
+        return arg in value
+    return False

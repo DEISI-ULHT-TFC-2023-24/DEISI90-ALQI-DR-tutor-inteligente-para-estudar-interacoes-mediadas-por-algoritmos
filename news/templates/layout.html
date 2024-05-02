@@ -148,11 +148,19 @@
                     <ul class="categorias-list" style="display: none; margin-left: 5%; list-style-type: none">
                         {% for category in categories %}
                             <li style="color: #e7e8e9; list-style-type: none">
-                                <a href="{% url 'index' %}?category={{ category|urlencode }}{% if query %}&q={{ query|urlencode }}{% endif %}">
-                                    <img src="{% category_image category %}"
-                                         alt="{{ category }}"
-                                         style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
-                                    {{ category }}
+                                {% if has_query_string %}
+                                    {% if query_string|contains:'category=' %}
+                                        <a href="{% url 'index' %}?category={{ category }}">
+                                    {% else %}
+                                        <a href="{% url 'index' %}?category={{ category }}{{ query_string }}">
+                                    {% endif %}
+                                {% else %}
+                                    <a href="{% url 'index' %}?category={{ category }}">
+                                {% endif %}
+                                <img src="{% category_image category %}"
+                                     alt="{{ category }}"
+                                     style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
+                                {{ category }}
                                 </a>
                             </li>
                         {% endfor %}
@@ -166,16 +174,45 @@
                         Ordem de Data
                     </button>
                     <ul class="data-list" style="display: none; margin-left: 5%; list-style-type: none">
-                        <li style="color: white"><a
-                                href="{% url 'index' %}?date=content_date{% if query %}&q={{ query }}{% endif %}">
-                            <img src="{% static 'images/mais_antigo.png' %}" alt="Edu-News"
-                             style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
-                            Mais Antigas</a></li>
-                        <li style="color: white"><a
-                                href="{% url 'index' %}?date=-content_date{% if query %}&q={{ query }}{% endif %}">
-                            <img src="{% static 'images/mais_recente.png' %}" alt="Edu-News"
-                             style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
-                            Mais Recentes</a></li>
+                        <li style="color: #e7e8e9; list-style-type: none">
+                            {% if has_query_string %}
+                                {% if query_string|contains:'date=' %}
+                                    <li style="color: white"><a
+                                            href="{% url 'index' %}?date=content_date">
+                                        <img src="{% static 'images/mais_antigo.png' %}" alt="Edu-News"
+                                             style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
+                                        Mais Antigas</a></li>
+                                    <li style="color: white"><a
+                                            href="{% url 'index' %}?date=-content_date">
+                                        <img src="{% static 'images/mais_recente.png' %}" alt="Edu-News"
+                                             style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
+                                        Mais Recentes</a></li>
+                                {% else %}
+                                    <li style="color: white"><a
+                                            href="{% url 'index' %}?date=content_date{{ query_string }}">
+                                        <img src="{% static 'images/mais_antigo.png' %}" alt="Edu-News"
+                                             style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
+                                        Mais Antigas</a></li>
+                                    <li style="color: white"><a
+                                            href="{% url 'index' %}?date=-content_date{{ query_string }}">
+                                        <img src="{% static 'images/mais_recente.png' %}" alt="Edu-News"
+                                             style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
+                                        Mais Recentes</a></li>
+                                {% endif %}
+                            {% else %}
+                                <li style="color: white"><a
+                                        href="{% url 'index' %}?date=content_date{{ query_string }}">
+                                    <img src="{% static 'images/mais_antigo.png' %}" alt="Edu-News"
+                                         style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
+                                    Mais Antigas</a></li>
+                                <li style="color: white"><a
+                                        href="{% url 'index' %}?date=-content_date{{ query_string }}">
+                                    <img src="{% static 'images/mais_recente.png' %}" alt="Edu-News"
+                                         style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
+                                    Mais Recentes</a></li>
+                            {% endif %}
+                    </ul>
+                    <ul class="data-list" style="display: none; margin-left: 5%; list-style-type: none">
                     </ul>
                 </div>
                 <div class="filter-block" style="margin-left: 5%">
@@ -187,11 +224,21 @@
                     </button>
                     <ul class="fonte-list" style="display: none; margin-left: 5%; list-style-type: none">
                         {% for source in sources %}
-                            <li style="color: #e7e8e9"><a href="{% url 'index' %}?source={{ source }}{% if query %}&q={{ query }}{% endif %}">
+                            <li style="color: #e7e8e9">
+                                {% if has_query_string %}
+                                    {% if query_string|contains:'source=' %}
+                                        <a href="{% url 'index' %}?source={{ source }}">
+                                    {% else %}
+                                        <a href="{% url 'index' %}?source={{ source}}{{ query_string }}">
+                                    {% endif %}
+                                {% else %}
+                                    <a href="{% url 'index' %}?source={{ source }}">
+                                {% endif %}
                                 <img src="{% source_image source %}"
-                                         alt="{{ source }}"
-                                         style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
+                                     alt="{{ source }}"
+                                     style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
                                 {{ source }}
+                                </a>
                             </a></li>
                         {% endfor %}
                     </ul>
