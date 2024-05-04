@@ -1,0 +1,15 @@
+# Cron Dockerfile
+FROM python:3.9
+
+# Install required packages
+RUN apt-get update && apt-get install -y cron curl
+
+# Set working directory
+WORKDIR /code
+
+# Copy the entrypoint script for cron setup
+COPY entrypoint.sh /entrypoint.sh
+RUN chmod +x /entrypoint.sh
+
+# Define the entrypoint for cron
+ENTRYPOINT ["/entrypoint.sh"]

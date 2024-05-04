@@ -18,5 +18,4 @@ class Command(BaseCommand):
         else:
             print('Superuser already exists')
 
-        subprocess.run(["python", "views.py"])
-        self.stdout.write(self.style.SUCCESS('Command executed successfully'))
+
