@@ -229,7 +229,7 @@
                                     {% if query_string|contains:'source=' %}
                                         <a href="{% url 'index' %}?source={{ source }}">
                                     {% else %}
-                                        <a href="{% url 'index' %}?source={{ source}}{{ query_string }}">
+                                        <a href="{% url 'index' %}?source={{ source }}{{ query_string }}">
                                     {% endif %}
                                 {% else %}
                                     <a href="{% url 'index' %}?source={{ source }}">
@@ -239,10 +239,19 @@
                                      style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
                                 {{ source }}
                                 </a>
-                            </a></li>
+                                </a></li>
                         {% endfor %}
                     </ul>
                 </div>
+                <div class="filter-block" style="margin-left: 7%; margin-top: 20%">
+                    <button onclick="window.location.href='{% url 'random_news' %}'"
+                            style="color: #e7e8e9; background-color: transparent; font-size: 1.5em">
+                        <img src="{% static 'images/shuffle.png' %}" alt="Random"
+                             style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
+                        Random
+                    </button>
+                </div>
+
             </div>
             <div class="main-content" style="float: left; width: 50%;">
                 {% usemacro title %}

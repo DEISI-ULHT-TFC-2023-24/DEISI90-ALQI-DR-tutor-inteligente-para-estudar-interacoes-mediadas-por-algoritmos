@@ -1,3 +1,4 @@
+import random
 import subprocess
 from time import sleep
 
@@ -34,7 +35,7 @@ def index(request):
     obj = Content.objects.all()
 
     if query:
-        obj = obj.filter(content_headline__icontains=query)
+        obj = obj.filter(content_text__in=query)
 
     if category:
         obj = obj.filter(content_category=category)
@@ -82,6 +83,24 @@ def generate_category_and_date_link(category, date_type, query=None):
     if query:
         url += f'&q={query}'
     return url
+
+
+def random_news(request):
+    all_content = Content.objects.all()
+
+    if not all_content:
+        return redirect('index')
+
+    random_content = random.choice(all_content)
+
+    thread_news = Thread.objects.filter(content_id=random_content.content_id)
+
+    context = {
+        "thread_news": thread_news[0].thread_response if thread_news.exists() else None,
+        "obj": random_content
+    }
+
+    return render(request, "random.html", context)
 
 
 @csrf_exempt
