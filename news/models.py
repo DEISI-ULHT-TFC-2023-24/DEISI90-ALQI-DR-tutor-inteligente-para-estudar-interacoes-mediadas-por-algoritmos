@@ -2,7 +2,6 @@ from django.db import models
 from django.db.models import SET_DEFAULT
 
 
-# Create your models here.
 class Source(models.Model):
     source_id = models.AutoField(primary_key=True)
     source_url = models.URLField(default="")
