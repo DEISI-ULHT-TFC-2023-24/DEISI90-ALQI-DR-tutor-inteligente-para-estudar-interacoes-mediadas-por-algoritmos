@@ -12170,5 +12170,906 @@
         ],
         "published": "2024-04-29 19:53:37",
         "category": "ultimas"
+    },
+    {
+        "headline": "14h Egito: Operações em Rafah implicam graves riscos de segurança",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/14h-egito-operacoes-em-rafah-implicam-graves-riscos-de-seguranca_a1_1571171",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 15:34:03",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Explosão por fuga de gás em Vila Verde causa danos em 11 habitações",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/explosao-por-fuga-de-gas-em-vila-verde-causa-danos-em-11-habitacoes_v1571169",
+        "content": [
+            {
+                "type": "text",
+                "data": "Ninguém ficou ferido, mas quatro pessoas ficaram desalojadas.  "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/7b/7b43a2f33ca2d723aef8ba28095d3313_N.jpg?"
+            }
+        ],
+        "published": "2024-05-13 15:23:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "\"O planeta dos macacos\" tem mais uma etapa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/o-planeta-dos-macacos-tem-mais-uma-etapa_v1571168",
+        "content": [
+            {
+                "type": "text",
+                "data": "O novo filme &quot;O reino do planeta dos macacos&quot; passa-se 300 anos depois do início do domínio dos macacos, num mundo onde não há lugar para a humanidade. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/ff/ff11fc45d28b3fcd740cf667dd10baad_N.jpg?"
+            }
+        ],
+        "published": "2024-05-13 15:22:48",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Enfermeiras ajudam centenas de idosos em lugares isolados de Ribeira de Pena",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/enfermeiras-ajudam-centenas-de-idosos-em-lugares-isolados-de-ribeira-de-pena_v1571167",
+        "content": [
+            {
+                "type": "text",
+                "data": "Duas enfermeiras de Ribeira de Pena percorrem centenas de quilómetros para ajudar 800 idosos em lugares isolados. O projeto começou em 2018. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/33/33e9355e222a105db6af3cdee624c2e7_N.jpg?"
+            }
+        ],
+        "published": "2024-05-13 15:21:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Fesap admite \"verão quente\" se Governo não ouvir os sindicatos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/fesap-admite-verao-quente-se-governo-nao-ouvir-os-sindicatos_n1571166",
+        "content": [
+            {
+                "type": "text",
+                "data": "O presidente da Federação de Sindicatos da Administração Pública (Fesap) apelou hoje para que o Governo receba os sindicatos &quot;nos próximos dias&quot; e alertou que poderá haver um &quot;verão quente&quot; em protestos e lutas sindicais."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 15:16:26",
+        "category": "ultimas"
+    },
+    {
+        "headline": "PR de Moçambique envia condolências a Putin e assegura apoio após morte de embaixador",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/pr-de-mocambique-envia-condolencias-a-putin-e-assegura-apoio-apos-morte-de-embaixador_n1571165",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente de Moçambique, Filipe Nyusi, endereçou hoje uma mensagem de condolências ao homólogo russo, Vladimir Putin, pela morte em Maputo do embaixador Alexander Surikov, assegurando apoio no processo &quot;subsequente&quot;, divulgou a Presidência moçambicana."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 15:03:37",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Brasil regista148 mortes nas inundações, Lula da Silva adia viagem ao Chile",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/brasil-regista148-mortes-nas-inundacoes-lula-da-silva-adia-viagem-ao-chile_n1571158",
+        "content": [
+            {
+                "type": "text",
+                "data": "Pelo menos 148 pessoas morreram nas inundações no sul do Brasil, segundo o último balanço das autoridades divulgado hoje, com o Presidente do Brasil a adiar a viagem ao Chile para acompanhar as ações de resposta."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/8f/8fe44ba7ef97f3c6daccd0ec44a7c52b?w=350&amp;q=50&amp;rect=0,13,900,493&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 15:02:54",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Peregrinação de maio a Fátima termina esta segunda-feira",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/peregrinacao-de-maio-a-fatima-termina-esta-segunda-feira_v1571164",
+        "content": [
+            {
+                "type": "text",
+                "data": "A cerimónia do adeus terminou e o recinto do Santuário de Fátima ficou praticamente vazio ao início da tarde desta segunda-feira.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/96/96b94a084b1f2e7bc1da1fbbf29919d0?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 14:53:53",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Presidente da Ucrânia vai visitar Portugal nos próximos dias",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/presidente-da-ucrania-vai-visitar-portugal-nos-proximos-dias_v1571163",
+        "content": [
+            {
+                "type": "text",
+                "data": "Volodymyr Zelensky deverá assinar novos acordos no âmbito da segurança. A passagem por Portugal deve acontecer depois de o líder ucraniano visitar também Espanha. Por razões de segurança, as datas da viagem não foram reveladas."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/bd/bd73b7d291a3c909d7261706517cab9d_N.jpg?"
+            }
+        ],
+        "published": "2024-05-13 14:53:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Paulo Rangel recusa ver genocídio na Faixa de Gaza",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/paulo-rangel-recusa-ver-genocidio-na-faixa-de-gaza_v1571162",
+        "content": [
+            {
+                "type": "text",
+                "data": "Em entrevista ao jornal espanhol El País, o ministro dos Negócios Estrangeiros considera que seria injusto dizer que Israel pretende eliminar o povo palestiniano, mas admite uma catástrofe humanitária na região.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/05/05d049e13e1434149cca8d59a17697aa?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 14:51:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Israel bombardeou dois campos de refugiados no centro da Faixa de Gaza",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/israel-bombardeou-dois-campos-de-refugiados-no-centro-da-faixa-de-gaza_v1571159",
+        "content": [
+            {
+                "type": "text",
+                "data": "A zona era considerada segura, mas não escapou à ofensiva militar. Ao mesmo tempo, prossegue a incursão terrestre sobre Rafah.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/5d/5dad673bc1f7fe23db2d6ca280b44fc4_N.jpg?"
+            }
+        ],
+        "published": "2024-05-13 14:49:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Catalunha. Novas propostas para a criação de um Governo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/catalunha-novas-propostas-para-a-criacao-de-um-governo_v1571156",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os socialistas ganharam as eleições da Catalunha e acabaram com 14 anos de maioria independentista, mas há dois candidatos à investidura: o socialista Salvador Illa e também Carles Puigdemont que avança com a proposta de um governo minoritário. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/78/780ef5c0949a689666ec3bc19f5268a2?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 14:46:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Posto médico avançado de Ponta Delgada já recebe doentes",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/posto-medico-avancado-de-ponta-delgada-ja-recebe-doentes_a1571153",
+        "content": [
+            {
+                "type": "text",
+                "data": "Já está a funcionar e a receber doentes o posto médico avançado de Ponta Delgada, na Ilha de São Miguel.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/7f/7ffa194092ae995f18b23d484e3e350f?w=350&amp;q=50&amp;rect=0,0,1024,561&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 14:43:52",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Operação \"Bilhete Dourado\" apreende bilhetes e dinheiro",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/fc-porto/operacao-bilhete-dourado-apreende-bilhetes-e-dinheiro_d1571155",
+        "content": [
+            {
+                "type": "text",
+                "data": "A operação &quot;Bilhete Dourado&quot; resultou na constituição de 13 arguidos, na apreensão de cerca de 3.000 ingressos, 44.400 euros, documentação, material informático e de telecomunicações e uma tocha, refere a Polícia de Segurança Pública (PSP), em comunicado."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/32/32e7fb3ed7027310fb7099467d0cf39a?w=350&amp;q=50&amp;rect=0,0,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 14:42:42",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Socialistas venceram as eleições da Catalunha",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/socialistas-venceram-as-eleicoes-da-catalunha_v1571154",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os socialistas ganharam as eleições da Catalunha e acabaram com 14 anos de maioria independentista. Mesmo assim, não se avizinha fácil a formação de um executivo catalão.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/08/086dad42f0a6bc75b1fe0b67c90a1c62?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 14:40:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "AD, PS, IL e Livre abrem debates televisivos para as europeias",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/ad-ps-il-e-livre-abrem-debates-televisivos-para-as-europeias_v1571152",
+        "content": [
+            {
+                "type": "text",
+                "data": "Esta segunda-feira, vão estar frente a frente os cabeças de lista de AD, PS, IL e Livre. O modelo de debates só ficou definido na última semana.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ec/ec88407a39762e0032401e2d0bab6442?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 14:37:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Puigdemont vai candidatar-se à presidência do governo da Catalunha",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/puigdemont-vai-candidatar-se-a-presidencia-do-governo-da-catalunha_a1571150",
+        "content": [
+            {
+                "type": "text",
+                "data": "O independentista catalão Carles Puigdemont vai avançar com uma candidatura à presidência do governo autonómico da Catalunha e tentar formar um executivo minoritário. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/38/38e451dff1407ca4dbe5c9a5b2931e63?w=350&amp;q=50&amp;rect=0,28,3302,1810&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 14:36:26",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Brasil. Avisos para o risco de deslizamentos e novas inundações",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/brasil-avisos-para-o-risco-de-deslizamentos-e-novas-inundacoes_v1571151",
+        "content": [
+            {
+                "type": "text",
+                "data": "A chuva abrandou nas últimas horas, mas há o risco de deslizamentos e novas inundações, o que leva as autoridades a lançar constantes avisos de que ainda não é a altura ideal para a população voltar para casa. O nível da água teima em não descer com a rapidez desejada. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/9c/9c572f1d574c574edd5180e1a751ba32_N.jpg?"
+            }
+        ],
+        "published": "2024-05-13 14:33:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Região de Leiria quer fim das portagens na Variante da Batalha e em troços da A8",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/regiao-de-leiria-quer-fim-das-portagens-na-variante-da-batalha-e-em-trocos-da-a8_n1571136",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Assembleia Intermunicipal da Comunidade Intermunicipal da Região de Leiria (CIMRL) aprovou uma resolução que recomenda ao parlamento a isenção de portagens na Variante da Batalha e em dois troços da Autoestrada 8."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 14:33:16",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Instituição de caridade inicia programa alimentar em 30 escolas de Moçambique",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/instituicao-de-caridade-inicia-programa-alimentar-em-30-escolas-de-mocambique_n1571135",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Mary`s Meals vai iniciar, no próximo dia 20, um programa de ajuda alimentar a 5.000 crianças de 30 escolas do distrito de Mabalane, em Moçambique, com parceiros locais, anunciou hoje o fundador da iniciativa à Lusa."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 14:32:55",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Anacom emite licença de satélite do Instituto Superior Técnico para ir para o espaço",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/anacom-emite-licenca-de-satelite-do-instituto-superior-tecnico-para-ir-para-o-espaco_n1571132",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Autoridade Nacional de Comunicações (Anacom) emitiu uma licença de operações espaciais de lançamento e de comando e controlo de um satélite do Instituto Superior Técnico (IST), tratando-se da segunda licença enquanto autoridade espacial, foi hoje divulgado."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 14:32:19",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Sobe para 144 o número de mortos no temporal do Rio Grande do Sul",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/sobe-para-144-o-numero-de-mortos-no-temporal-do-rio-grande-do-sul_v1571149",
+        "content": [
+            {
+                "type": "text",
+                "data": "Subiu para 144 o número de mortos provocados pelo temporal no Rio Grande do Sul, no Brasil. A par da tragédia, as autoridades enfrentam também o aumento de furtos e saques.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ff/ffc6a01c4a8b5cba78eaabf18cb808c7?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 14:28:52",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Taxa de inflação em Portugal desacelerou ligeiramente em abril",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/taxa-de-inflacao-em-portugal-desacelerou-ligeiramente-em-abril_v1571148",
+        "content": [
+            {
+                "type": "text",
+                "data": "A diferença em relação a março é de 0,1 pontos percentuais. Está agora nos 2,2%. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/36/3614983568535f60dd0d33123c4ec228_N.jpg?"
+            }
+        ],
+        "published": "2024-05-13 14:28:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Israel não está a respeitar regras internacionais como potência ocupante",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/israel-nao-esta-a-respeitar-regras-internacionais-como-potencia-ocupante_a1571139",
+        "content": [
+            {
+                "type": "text",
+                "data": "O especialista em Direito Internacional Francisco Pereira Coutinho não tem dúvidas de que Telavive já passou várias linhas vermelhas. Para este advogado, Israel está a violar o Direito Internacional, ao não fornecer à população refugiada condições adequadas de alimentação e saúde."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/56/56639a897974a134d620c9dea786f622?w=350&amp;q=50&amp;rect=0,444,7500,4112&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 14:27:06",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Começa nova ronda de negociações entre Governo e professores",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/comeca-nova-ronda-de-negociacoes-entre-governo-e-professores_v1571147",
+        "content": [
+            {
+                "type": "text",
+                "data": "Ainda está a ser discutida a recuperação do tempo de serviço. A tutela propõe a devolução faseada a partir de setembro deste ano e até 2028. Os sindicatos querem a contagem de mais dias pagos até 2027.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/36/36a4b1dd9506d5f99cd94fb92eb10af1?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 14:24:51",
+        "category": "ultimas"
+    },
+    {
+        "headline": "13h Ucranianos em Portugal esperam encontro com Zelensky",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/13h-ucranianos-em-portugal-esperam-encontro-com-zelensky_a1_1571145",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 14:24:03",
+        "category": "ultimas"
+    },
+    {
+        "headline": "AIMA. Estão resolvidos os problemas nas fronteiras em Portugal",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/aima-estao-resolvidos-os-problemas-nas-fronteiras-em-portugal_v1571144",
+        "content": [
+            {
+                "type": "text",
+                "data": "No domingo, registaram-se filas em todos os aeroportos nacionais e maiores tempos de espera por causa da dificuldade em aceder aos sistemas de informação, incluindo alguns sistemas de controlo de fronteiras."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/dc/dc89ed8d455a4167e17a05a84f386aeb_N.jpg?"
+            }
+        ],
+        "published": "2024-05-13 14:22:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Constituídos 13 arguidos na Operação Bilhete Dourado",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/constituidos-13-arguidos-na-operacao-bilhete-dourado_v1571142",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Futebol Clube do Porto terá sido lesado em milhares de euros. Em causa estará a venda ilícita de bilhetes, num esquema onde alegadamente participavam elementos da estrutura do clube e membros da claque Super Dragões.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/61/61c7bea84b8f1cfb069c78e1543bda7e?w=350&amp;q=50&amp;rect=0,163,1393,764&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 14:21:48",
+        "category": "ultimas"
+    },
+    {
+        "headline": "SNS. Verão deverá ser pior do que no ano passado",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/sns-verao-devera-ser-pior-do-que-no-ano-passado_v1571141",
+        "content": [
+            {
+                "type": "text",
+                "data": "Serão falhas na assistência no Serviço Nacional de Saúde. Há médicos a entregar recusa em realizar mais horas extra e as férias podem deixar as urgências hospitalares à beira da rutura."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/f4/f478da8f198d2cba7e4b54306d83835e?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 14:20:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Desperdiçadas quase 900 mil primeiras consultas em cinco anos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/desperdicadas-quase-900-mil-primeiras-consultas-em-cinco-anos_v1571138",
+        "content": [
+            {
+                "type": "text",
+                "data": "Porque os doentes faltaram, foram desperdiçadas quase 900 mil primeiras consultas, nos hospitais públicos, ao longo dos últimos cinco anos. São quase 16 por cento das consultas de especialidade. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/bd/bd003dc281da0f054e1c3cd1816f269d?w=350&amp;q=50&amp;rect=0,23,1648,904&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 14:16:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "\"Zelensky em primeiro lugar tem de agradecer apoio português a ucranianos\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/zelensky-em-primeiro-lugar-tem-de-agradecer-apoio-portugues-a-ucranianos_a1571137",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Associação dos Ucranianos em Portugal espera que Volodymyr Zelensky reconheça o contributo que o Portugal tem dado à Ucrânia, desde a invasão russa, há mais de dois anos.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/0a/0a98a842cecb3f6cee5b309b559a19a4?w=350&amp;q=50&amp;rect=0,86,1024,561&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 14:15:25",
+        "category": "ultimas"
+    },
+    {
+        "headline": "12h30m Edição de João Gomes Dias",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-desporto/12h30m-edicao-de-joao-gomes-dias_a1_1571133",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 13:58:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Moradores fazem petição para retirar carros do Beco da Travessa Artur Lamas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/moradores-fazem-peticao-para-retirar-carros-do-beco-da-travessa-artur-lamas_a1571128",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Beco da Travessa Artur Lamas, em Lisboa, é hoje ocupado por carros estacionados. Um grupo de moradores do bairro quer fazer do Beco um espaço de encontro entre vizinhos.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/9f/9fca1e7e49668f4353178a8dee0a3afd?w=350&amp;q=50&amp;rect=0,27,1920,1053&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 13:53:29",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Bruxelas aplica lei dos mercados digitais à Booking e investiga se o deve fazer para o X",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/bruxelas-aplica-lei-dos-mercados-digitais-a-booking-e-investiga-se-o-deve-fazer-para-o-x_n1571130",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Comissão Europeia decidiu hoje aplicar a nova lei dos mercados digitais, com apertadas regras de concorrência para `gigantes` tecnológicas intermediárias de conteúdo, à plataforma de alojamento Booking, estando a investigar se o deve fazer para o X."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 13:37:25",
+        "category": "ultimas"
+    },
+    {
+        "headline": "MP de Moçambique desconhece impedimento de autópsia a embaixador russo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/mp-de-mocambique-desconhece-impedimento-de-autopsia-a-embaixador-russo_n1571129",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Ministério Público moçambicano disse hoje que desconhece a alegada decisão das autoridades russas de não autorizarem a autópsia do embaixador da Rússia encontrado morto no sábado em Maputo."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 13:36:59",
+        "category": "ultimas"
+    },
+    {
+        "headline": "12h Catalunha: Carles Puigdemont vai tentar Executivo minoritário",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/12h-catalunha-carles-puigdemont-vai-tentar-executivo-minoritario_a1_1571131",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 13:36:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Euro2024. Alemanha prepara segurança máxima",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/euro2024-alemanha-prepara-seguranca-maxima_d1571127",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Alemanha está a preparar-se para responder a possíveis ameaças de segurança durante o Euro2024 de futebol, com o objetivo de proteger equipas e adeptos, numa altura em que existem conflitos militares na Ucrânia e na Faixa de Gaza."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/af/af31ef7f35a9fe317a5c23d42ce8b56d?w=350&amp;q=50&amp;rect=0,0,800,439&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 13:17:03",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Porta a Porta e Vida Justa criticam Governo por tratar habitação \"como mercadoria\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/porta-a-porta-e-vida-justa-criticam-governo-por-tratar-habitacao-como-mercadoria_n1571126",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os movimentos Porta a Porta e Vida Justa consideram que a Estratégia para a Habitação anunciada pelo novo Governo trata o tema &quot;como mercadoria&quot; e realçam que a intensificação da construção não resolverá a crise."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 13:08:49",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Rendas das casas sobem 7,2% em abril",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/rendas-das-casas-sobem-72-em-abril_n1571125",
+        "content": [
+            {
+                "type": "text",
+                "data": "As rendas das casas por metro quadrado aumentaram 7,1% em abril face ao mesmo mês de 2023, quando no mês anterior a subida foi de 6,9%, e com todas as regiões a apresentarem crescimentos homólogos, divulgou hoje o INE."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 12:55:16",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Custo do trabalho sobe 6,2% no 1.º  trimestre",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/custo-do-trabalho-sobe-62-no-1o-trimestre_n1571123",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Índice de Custo do Trabalho (ICT) aumentou 6,2% no primeiro trimestre em relação ao período homólogo de 2023, desacelerando ligeiramente o ritmo de subida face aos três meses anteriores (6,3%), anunciou hoje o Instituto Nacional de Estatística (INE)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 12:47:11",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Euro2024. Soares Dias no \"workshop\" de preparação",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/euro2024-soares-dias-no-workshop-de-preparacao_d1571124",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os árbitros portugueses Artur Soares Dias, Paulo Soares, Pedro Ribeiro e Tiago Martins vão frequentar, entre esta segunda e quinta-feira, em Frankfurt, o &quot;workshop&quot; de preparação para o Euro2024, confirmou à Lusa fonte da Federação Portuguesa de Futebol (FPF)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d8/d803776894ced23ee93ad2e7714ca5bf?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 12:47:04",
+        "category": "ultimas"
+    },
+    {
+        "headline": "REN vai aumentar remuneração aos acionistas para 16,3 cêntimos por ação em 2027",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/ren-vai-aumentar-remuneracao-aos-acionistas-para-163-centimos-por-acao-em-2027_n1571122",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Redes Energéticas Nacionais (REN) prevê aumentar a remuneração aos acionistas para 16,3 cêntimos por ação em 2027, face a 15,4 cêntimos pagos este ano, e mantendo o pagamento bianual, foi hoje anunciado."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 12:46:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Simplificação da PAC entra em vigor ainda em maio",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/simplificacao-da-pac-entra-em-vigor-ainda-em-maio_n1571120",
+        "content": [
+            {
+                "type": "text",
+                "data": "A União Europeia (UE) adotou hoje formalmente a recente revisão para simplificar regras da Política Agrícola Comum (PAC), respondendo aos protestos e preocupações no setor, que entra em vigor este mês."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 12:46:31",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Concessionária angolana anuncia perfuração de novo poço no Bloco 15",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/concessionaria-angolana-anuncia-perfuracao-de-novo-poco-no-bloco-15_n1571119",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Agência Nacional de Petróleo, Gás e Biocombustíveis (ANPG) angolana anunciou hoje a perfuração &quot;com sucesso&quot; do poço de pesquisa &quot;Likembe-01&quot;, no Bloco 15, operado pela ExxonMobil em parceria com a Azule Energy, Equinor e Sonangol. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 12:46:12",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Paris2024. Telma Monteiro perde vaga olímpica",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/judo/paris2024-telma-monteiro-perde-vaga-olimpica_d1571121",
+        "content": [
+            {
+                "type": "text",
+                "data": "A judoca Telma Monteiro perdeu a vaga no apuramento olímpico para Paris2024, face à eliminação na primeira ronda no Grand Slam do Cazaquistão.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d9/d97d6998351d42f4c36d398edb6dba52?w=350&amp;q=50&amp;rect=0,61,1024,561&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 12:34:38",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Resolvidos problemas informáticos no controlo de fronteiras por falta de climatização",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/resolvidos-problemas-informaticos-no-controlo-de-fronteiras-por-falta-de-climatizacao_n1571118",
+        "content": [
+            {
+                "type": "text",
+                "data": "O sindicato dos trabalhadores da Agência para a Integração, Migrações e Asilo garante estarem já resolvidos os problemas informáticos que se verificaram no sistema de controlo de fronteiras.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/e1/e16960691e79d7b08e2655ea156570ca?w=350&amp;q=50&amp;rect=0,48,900,493&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 12:29:19",
+        "category": "ultimas"
+    },
+    {
+        "headline": "11h Volodymyr Zelensky vai estar em Portugal nos próximos dias",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/11h-volodymyr-zelensky-vai-estar-em-portugal-nos-proximos-dias_a1_1571117",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 12:23:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "INE confirma estimativa. Inflação abranda em abril para 2,2%",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/ine-confirma-estimativa-inflacao-abranda-em-abril-para-22_n1571116",
+        "content": [
+            {
+                "type": "text",
+                "data": "A taxa de inflação homóloga estabeleceu-se em 2,2 por cento no mês de abril, menos uma décima face a março, indicou esta segunda-feira o Instituto Nacional de Estatística. Confirma-se assim a estimativa rápida que havia sido publicada a 30 de abril.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/2a/2a0b37325865390f21f6107f0b4fd212?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 12:13:38",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Resolvidos problemas no `datacenter` da Agência para a Integração Migrações e Asilo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/resolvidos-problemas-no-datacenter-da-agencia-para-a-integracao-migracoes-e-asilo_n1571114",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Sistema de Segurança Interna informou hoje que já foram resolvidos os problemas no `datacenter` da Agência para a Integração Migrações e Asilo (AIMA), que no domingo afetou o sistema de controlo de fronteiras."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 12:10:51",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Nani rescinde contrato com Adana na Turquia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/nani-rescinde-contrato-com-adana-na-turquia_d1571113",
+        "content": [
+            {
+                "type": "text",
+                "data": "O futebolista internacional português Nani rescindiu contrato com os turcos do Adana, que terminava no fim da época 2023/24, anunciou o veterano avançado, de 37 anos, que “irá agora considerar os próximos passos a dar” na carreira."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/f0/f0fda8fc5068141194c6509b78b448fd?w=350&amp;q=50&amp;rect=0,27,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 12:03:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "15h Gémeas luso-brasileiras com consulta online ordena tribunal",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/15h-gemeas-luso-brasileiras-com-consulta-online-ordena-tribunal_a1_1571181",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 16:32:03",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Artur Soares Dias vai arbitrar final da Liga Conferência Europa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/artur-soares-dias-vai-arbitrar-final-da-liga-conferencia-europa_d1571180",
+        "content": [
+            {
+                "type": "text",
+                "data": "O árbitro português Artur Soares Dias vai arbitrar a final da Liga Conferência Europa, entre Olympiacos e Fiorentina, no dia 29 de maio, em Atenas, informou hoje a UEFA."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/7b/7b28127001c6095a8c69ac5ff2e9b028?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 16:30:33",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Operação \"Bilhete Dourado\" constitui treze arguidos e cerca de três mil bilhetes apreendidos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/operacao-bilhete-dourado-constitui-treze-arguidos-e-cerca-de-tres-mil-bilhetes-apreendidos_a1571174",
+        "content": [
+            {
+                "type": "text",
+                "data": "São treze os arguidos que resultam da operação policial de nome &quot;Bilhete Dourado&quot; que ontem foi notícia pelas buscas ao Estádio do Dragão. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ec/ec70335a38ee4d180e026826c0c2a85c?w=350&amp;q=50&amp;rect=0,162,1381,757&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 15:56:04",
+        "category": "ultimas"
     }
 ]

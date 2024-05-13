@@ -127,14 +127,12 @@
                 window.location.href = "{% url 'index' %}?q=" + encodeURIComponent(searchQuery);
             }
         </script>
-
-
     </div>
 </nav>
 <hr>
 
 
-<section class="section" style="background-color: #2f2f2f">
+<section class="section">
     <div class="container2" style="width: 100%;">
         {% if request.get_full_path|slice:":2" == "/?" or request.get_full_path|slice:"1:2"|is_not_digit %}
             <div class="filters-container" style="float: left; width: 25%; margin-top: 5%">
@@ -256,7 +254,7 @@
                 {% usemacro title %}
             </div>
         {% else %}
-            <div class="container2" style="padding-left: 25%; padding-right: 25%;">
+            <div class="main-content" style="float: right; width: 80%">
                 {% usemacro title %}
             </div>
         {% endif %}

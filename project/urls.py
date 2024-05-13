@@ -16,7 +16,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from news.views import index, news_detail, execute_python_script, random_news
+from news.views import index, news_detail, execute_python_script, random_news, load_comments
 import news
 
 urlpatterns = [
@@ -25,4 +25,5 @@ urlpatterns = [
     path("refresh_news/", execute_python_script, name="refresh_news"),
     path("<int:news_id>/", news_detail, name="news_detail"),
     path("random_news/", random_news, name="random_news"),
+    path('load-comments/', load_comments, name='load_comments'),
 ]

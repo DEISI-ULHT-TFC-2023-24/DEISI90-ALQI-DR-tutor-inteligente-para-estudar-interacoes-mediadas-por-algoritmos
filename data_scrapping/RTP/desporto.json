@@ -6186,5 +6186,889 @@
         ],
         "published": "2024-04-29 20:40:50",
         "category": "desporto"
+    },
+    {
+        "headline": "Operação \"Bilhete Dourado\" constitui treze arguidos e cerca de três mil bilhetes apreendidos.",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/operacao-bilhete-dourado-constitui-treze-arguidos-e-cerca-de-tres-mil-bilhetes-apreendidos_a1571174",
+        "content": [
+            {
+                "type": "text",
+                "data": "São treze os arguidos que resultam da operação policial de nome &quot;Bilhete Dourado&quot; que ontem foi notícia pelas buscas ao Estádio do Dragão. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ec/ec70335a38ee4d180e026826c0c2a85c?w=350&amp;q=50&amp;rect=0,162,1381,757&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 15:56:04",
+        "category": "desporto"
+    },
+    {
+        "headline": "Operação \"Bilhete Dourado\" apreende bilhetes e dinheiro",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/fc-porto/operacao-bilhete-dourado-apreende-bilhetes-e-dinheiro_d1571155",
+        "content": [
+            {
+                "type": "text",
+                "data": "A operação &quot;Bilhete Dourado&quot; resultou na constituição de 13 arguidos, na apreensão de cerca de 3.000 ingressos, 44.400 euros, documentação, material informático e de telecomunicações e uma tocha, refere a Polícia de Segurança Pública (PSP), em comunicado."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/32/32e7fb3ed7027310fb7099467d0cf39a?w=350&amp;q=50&amp;rect=0,0,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 14:42:42",
+        "category": "desporto"
+    },
+    {
+        "headline": "12h30m Edição de João Gomes Dias",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-desporto/12h30m-edicao-de-joao-gomes-dias_a1_1571133",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 13:58:02",
+        "category": "desporto"
+    },
+    {
+        "headline": "Euro2024. Alemanha prepara segurança máxima",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/euro2024-alemanha-prepara-seguranca-maxima_d1571127",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Alemanha está a preparar-se para responder a possíveis ameaças de segurança durante o Euro2024 de futebol, com o objetivo de proteger equipas e adeptos, numa altura em que existem conflitos militares na Ucrânia e na Faixa de Gaza."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/af/af31ef7f35a9fe317a5c23d42ce8b56d?w=350&amp;q=50&amp;rect=0,0,800,439&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 13:17:03",
+        "category": "desporto"
+    },
+    {
+        "headline": "Euro2024. Soares Dias no \"workshop\" de preparação",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/euro2024-soares-dias-no-workshop-de-preparacao_d1571124",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os árbitros portugueses Artur Soares Dias, Paulo Soares, Pedro Ribeiro e Tiago Martins vão frequentar, entre esta segunda e quinta-feira, em Frankfurt, o &quot;workshop&quot; de preparação para o Euro2024, confirmou à Lusa fonte da Federação Portuguesa de Futebol (FPF)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d8/d803776894ced23ee93ad2e7714ca5bf?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 12:47:04",
+        "category": "desporto"
+    },
+    {
+        "headline": "Paris2024. Telma Monteiro perde vaga olímpica",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/judo/paris2024-telma-monteiro-perde-vaga-olimpica_d1571121",
+        "content": [
+            {
+                "type": "text",
+                "data": "A judoca Telma Monteiro perdeu a vaga no apuramento olímpico para Paris2024, face à eliminação na primeira ronda no Grand Slam do Cazaquistão.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d9/d97d6998351d42f4c36d398edb6dba52?w=350&amp;q=50&amp;rect=0,61,1024,561&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 12:34:38",
+        "category": "desporto"
+    },
+    {
+        "headline": "Nani rescinde contrato com Adana na Turquia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/nani-rescinde-contrato-com-adana-na-turquia_d1571113",
+        "content": [
+            {
+                "type": "text",
+                "data": "O futebolista internacional português Nani rescindiu contrato com os turcos do Adana, que terminava no fim da época 2023/24, anunciou o veterano avançado, de 37 anos, que “irá agora considerar os próximos passos a dar” na carreira."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/f0/f0fda8fc5068141194c6509b78b448fd?w=350&amp;q=50&amp;rect=0,27,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 12:03:46",
+        "category": "desporto"
+    },
+    {
+        "headline": "Leandro Ramos ganha prata no dardo dos Ibero-americanos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/leandro-ramos-ganha-prata-no-dardo-dos-ibero-americanos_d1571112",
+        "content": [
+            {
+                "type": "text",
+                "data": "O português Leandro Ramos foi segundo classificado no lançamento do dardo dos Campeonatos Ibero-americanos de atletismo, com Portugal a sair com cinco medalhas de Cuiabá, no Brasil."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ec/ec8a413bd948987cb103a2b0e5cfa480?w=350&amp;q=50&amp;rect=0,60,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 11:57:17",
+        "category": "desporto"
+    },
+    {
+        "headline": "Yolanda Hopkins quinta no Sydney Surf Pro",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/yolanda-hopkins-quinta-no-sydney-surf-pro_d1571108",
+        "content": [
+            {
+                "type": "text",
+                "data": "A portuguesa Yolanda Hopkins terminou o Sydney Surf Pro, segunda etapa do circuito Challenger Series, no quinto lugar, após ser eliminada pela australiana Isabella Nichols, nos quartos de final."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/f3/f31bb29b6576c8ea6e89aad5e0ed5bf2?w=350&amp;q=50&amp;rect=0,0,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 11:49:52",
+        "category": "desporto"
+    },
+    {
+        "headline": "Futebol profissional. O que falta decidir",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/futebol-profissional-o-que-falta-decidir_d1571106",
+        "content": [
+            {
+                "type": "text",
+                "data": "O que está por decidir na última jornada do campeonato da I Liga de futebol passa pelos jogos a realizar em Braga, no Bessa, na Amadora e em Faro."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b1/b1e4a2fef6a87fb5eedc3d777eb2b9d7?w=350&amp;q=50&amp;rect=0,23,986,541&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 11:34:57",
+        "category": "desporto"
+    },
+    {
+        "headline": "Santa Clara recebido em festa em Ponta Delgada",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/santa-clara-recebido-em-festa-em-ponta-delgada_d1571100",
+        "content": [
+            {
+                "type": "text",
+                "data": "O plantel do Santa Clara foi recebido em festa por mais de uma centena de adeptos no Aeroporto João Paulo II, em Ponta Delgada, após a equipa ter garantido a subida à I Liga portuguesa de futebol, no domingo."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/04/04f5ce5545a998dfe6098528e1c99220?w=350&amp;q=50&amp;rect=0,79,1024,561&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 10:23:36",
+        "category": "desporto"
+    },
+    {
+        "headline": "Palmeiras continua sem ganhar em casa no Brasileirão",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/palmeiras-continua-sem-ganhar-em-casa-no-brasileirao_d1571098",
+        "content": [
+            {
+                "type": "text",
+                "data": "O campeão Palmeiras, orientado pelo português Abel Ferreira, continua sem ganhar em casa no campeonato brasileiro de futebol, depois de no domingo ter sido derrotado por 2-0 pelo Athletico Paranaense, líder à sexta ronda."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/cf/cf034e5f1ed8cc5d9eb2d8d77dca3a86?w=350&amp;q=50&amp;rect=0,0,972,533&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 10:16:29",
+        "category": "desporto"
+    },
+    {
+        "headline": "Nacional recebido em festa no Funchal",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/nacional-recebido-em-festa-no-funchal_d1571097",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Nacional foi recebido em apoteose no Aeroporto da Madeira, no domingo, por centenas de nacionalistas que se juntaram para ovacionar os seus heróis e comemorar a subida à I Liga de futebol."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/1c/1c38d9ff8580823b2a5909729914980b?w=350&amp;q=50&amp;rect=0,4,1170,641&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 10:10:43",
+        "category": "desporto"
+    },
+    {
+        "headline": "Martim Cunha confia no título Europeu de sub-17",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/selecao-nacional/martim-cunha-confia-no-titulo-europeu-de-sub-17_d1571094",
+        "content": [
+            {
+                "type": "text",
+                "data": "O futebolista Martim Cunha, um dos 21 pré-convocados da seleção portuguesa de sub-17, que prepara a fase final do Euro2024, mostrou-se confiante na hipótese de a equipa lusa lutar pela conquista do título."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/2d/2d89799cea0288db126cd565cf366b6f?w=350&amp;q=50&amp;rect=0,121,1200,658&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 10:01:20",
+        "category": "desporto"
+    },
+    {
+        "headline": "Mbappé despede-se do PSG com uma derrota",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/mbappe-despede-se-do-psg-com-uma-derrota_d1571091",
+        "content": [
+            {
+                "type": "text",
+                "data": "O avançado Kyllian Mbappé disputou domingo o último jogo pelo Paris Saint-Germain no Parque dos Príncipes, na capital francesa, na derrota por 3-1 frente ao Toulouse, para a 33.ª e penúltima jornada da Liga francesa de futebol."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/7a/7ae1d88c35163649b45935561af0e9c2?w=350&amp;q=50&amp;rect=0,0,920,504&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 09:54:13",
+        "category": "desporto"
+    },
+    {
+        "headline": "Filipe Albuquerque foi sexto em Laguna Seca",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/motores/filipe-albuquerque-foi-sexto-em-laguna-seca_d1571090",
+        "content": [
+            {
+                "type": "text",
+                "data": "O piloto português Filipe Albuquerque (Acura) foi sexto classificado na quarta prova do campeonato americano de resistência, o IMSA, disputada em Laguna Seca."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b3/b3b47375a38eed5c193357854d6096e6?w=350&amp;q=50&amp;rect=0,124,972,533&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 09:48:22",
+        "category": "desporto"
+    },
+    {
+        "headline": "Taça da Liga definida para a próxima época",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/taca-da-liga-definida-para-a-proxima-epoca_d1571088",
+        "content": [
+            {
+                "type": "text",
+                "data": "Sporting, Benfica, FC Porto, Sporting de Braga, Vitória de Guimarães e Moreirense, primeiros seis classificados da I Liga, vão disputar a próxima edição da Taça da Liga de futebol com Santa Clara e Nacional, da II Liga."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/66/668ad312e108a306e50a1272fa79c2db?w=350&amp;q=50&amp;rect=0,0,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 09:42:42",
+        "category": "desporto"
+    },
+    {
+        "headline": "Seleção portuguesa 6.ª na final da Taça do Mundo de rítmica",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/selecao-portuguesa-6a-na-final-da-taca-do-mundo-de-ritmica_d1571085",
+        "content": [
+            {
+                "type": "text",
+                "data": "A seleção portuguesa feminina conseguiu um sexto lugar, na final de três fitas e duas bolas, e um sétimo, nos cinco arcos, no último dia da Taça do Mundo de ginástica rítmica de Portimão."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/2d/2d74d4c12fb4c7a5d83f66ffd8119650?w=350&amp;q=50&amp;rect=0,0,925,507&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 09:37:44",
+        "category": "desporto"
+    },
+    {
+        "headline": "Mundial2025. Seleção Nacional de andebol apurada após empate na Bósnia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/mundial2025-selecao-nacional-de-andebol-apurada-apos-empate-na-bosnia_v1571071",
+        "content": [
+            {
+                "type": "text",
+                "data": "A seleção nacional de andebol conseguiu a qualificação para o mundial de 2025. A segunda mão do play-off com a Bósnia terminou com um empate, mas Portugal beneficiou do triunfo folgado conseguido na primeira mão."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/59/595ace69cfb2cde27b988494d7b14c97_N.jpg?"
+            }
+        ],
+        "published": "2024-05-13 08:59:47",
+        "category": "desporto"
+    },
+    {
+        "headline": "SL Benfica. Roger Schmidt põe ao dispor do clube a sua saída",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/sl-benfica-roger-schmidt-poe-ao-dispor-do-clube-a-sua-saida_v1571070",
+        "content": [
+            {
+                "type": "text",
+                "data": "Apesar da goleada Roger Schmidt foi contestado por alguns adeptos. O treinador do Benfica volta a colocar em cima da mesa uma possível saída."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/2a/2a0529468c98270730b27964c8a1128a_N.jpg?"
+            }
+        ],
+        "published": "2024-05-13 08:58:47",
+        "category": "desporto"
+    },
+    {
+        "headline": "I Liga. Benfica 5-0 Arouca, com bis de Rafa no adeus à Luz",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/i-liga-benfica-5-0-arouca-com-bis-de-rafa-no-adeus-a-luz_v1571068",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Benfica goleou o Arouca por 5-0. Rafa marcou dois golos, na despedida na Luz e foi ovacionado."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/3e/3e2028f56922a5240dd3e6bc917d0572_N.jpg?"
+            }
+        ],
+        "published": "2024-05-13 08:57:47",
+        "category": "desporto"
+    },
+    {
+        "headline": "I Liga. FC Porto venceu Boavista e mantém terceira posição",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/i-liga-fc-porto-venceu-boavista-e-mantem-terceira-posicao_v1571067",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Futebol Clube do Porto venceu o Boavista por 2-1 e continua no terceiro lugar do campeonato. Os dragões estiveram a perder e só garantiram a vitória nos instantes finais do jogo."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/a2/a2fb3ef01d3fab294ee2d64c640b9d01_N.jpg?"
+            }
+        ],
+        "published": "2024-05-13 08:56:47",
+        "category": "desporto"
+    },
+    {
+        "headline": "II Liga. Nacional vence Tondela e sobre à primeira divisão",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/ii-liga-nacional-vence-tondela-e-sobre-a-primeira-divisao_v1571066",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Nacional da Madeira também está de regresso à Primeira Liga. Objetivo conseguido em casa do Tondela, com um triunfo por 3-2.&lt;br /&gt;&lt;br /&gt; "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/b5/b553625c57c88b57cb1381527213bf6b_N.jpg?"
+            }
+        ],
+        "published": "2024-05-13 08:54:47",
+        "category": "desporto"
+    },
+    {
+        "headline": "Atlético de Madrid à porta da Champions",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/atletico-de-madrid-a-porta-da-champions_d1571038",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Atlético de Madrid venceu o Celta de Vigo pela margem mínima (1-0), em jogo da 35.ª jornada da Liga espanhola, e ficou muito perto de garantir o apuramento para a Liga dos Campeões."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ea/eaf1e94f3c26d712b946f0efba1755f0?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 23:55:34",
+        "category": "desporto"
+    },
+    {
+        "headline": "Atalanta bate Roma e apura Bolonha e Juventus para a Liga dos Campeões",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/atalanta-bate-roma-e-apura-bolonha-e-juventus-para-a-liga-dos-campeoes_d1571033",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Atalanta bateu a Roma por 2-1 na 36.ª jornada da Liga italiana, resultado que confirmou a qualificação de Bolonha e Juventus para a Liga dos Campeões 2024/25."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/01/019ca7a2eb0995b640e289206a9e8e0f?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 23:32:23",
+        "category": "desporto"
+    },
+    {
+        "headline": "Rabiot salva Juventus de derrota frente à última Salernitana nos descontos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/rabiot-salva-juventus-de-derrota-frente-a-ultima-salernitana-nos-descontos_d1571030",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Juventus empatou hoje com a Salernitana (1-1), com o francês Adrien Rabiot a impedir a derrota caseira com o lanterna-vermelha, já no período de compensação da partida da 36.ª ronda da Liga italiana de futebol."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_desporto.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 22:52:48",
+        "category": "desporto"
+    },
+    {
+        "headline": "Mais uma vitória para o Leverkusen",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/mais-uma-vitoria-para-o-leverkusen_d1571029",
+        "content": [
+            {
+                "type": "text",
+                "data": "O novo campeão Bayer Leverkusen foi a Bochum golear por 5-0, na 33.ª e penúltima jornada da Liga alemã, mantendo a invencibilidade no campeonato e em todas as competições esta época."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/9c/9c4be2b426303ad9e1c64e0ef4001fb3?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 22:49:49",
+        "category": "desporto"
+    },
+    {
+        "headline": "Desportivo da Corunha sobe à segunda divisão espanhola",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/desportivo-da-corunha-sobe-a-segunda-divisao-espanhola_d1571028",
+        "content": [
+            {
+                "type": "text",
+                "data": "O &#039;Deportivo&#039; garantiu o regresso à segunda divisão espanhola com uma vitória por 1-0 ante a equipa B do FC Barcelona, selada com golo de Lucas Pérez."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_desporto.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 22:46:51",
+        "category": "desporto"
+    },
+    {
+        "headline": "Rali de Portugal. Sébastien Ogier é o vencedor pela sexta vez",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/rali-de-portugal-sebastien-ogier-e-o-vencedor-pela-sexta-vez_v1571023",
+        "content": [
+            {
+                "type": "text",
+                "data": "O piloto Sébastien Ogier venceu o Rali de Portugal. Entre os portugueses Armindo Araújo foi novamente o melhor."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/c4/c417d277c288972208d8c3d59dfecb2b_N.jpg?"
+            }
+        ],
+        "published": "2024-05-12 22:28:45",
+        "category": "desporto"
+    },
+    {
+        "headline": "Sporting bate recorde e chega às 28 vitórias na I Liga",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/sporting-bate-recorde-e-chega-as-28-vitorias-na-i-liga_v1571022",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Sporting foi ao Estoril ganhar por 1-0. O jogo foi de festa para as duas equipa, uma vez que o Estoril entrou em campo já com a permanência garantida e o Sporting com o título de campeão."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/c5/c5f87797dddc9f8002e7690427ffc5bf_N.jpg?"
+            }
+        ],
+        "published": "2024-05-12 22:25:52",
+        "category": "desporto"
+    },
+    {
+        "headline": "Vasyl Lomachenko conquista título mundial de pesos ligeiros IBF",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/vasyl-lomachenko-conquista-titulo-mundial-de-pesos-ligeiros-ibf_d1571016",
+        "content": [
+            {
+                "type": "text",
+                "data": "O ucraniano Vasyl Lomachenko conquistou o título mundial de pesos ligeiros IBF de boxe, ao derrotar o australiano George Kambosos na 11.ª ronda do combate entre ambos em Perth."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_desporto.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 21:35:35",
+        "category": "desporto"
+    },
+    {
+        "headline": "Alverca sagra-se campeão da Liga 3",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/alverca-sagra-se-campeao-da-liga-3_d1571014",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Alverca garantiu hoje a conquista do título da Liga 3 ao vencer em casa a Académica por 2-1, em jogo da 13.ª jornada da fase de apuramento do campeão.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_desporto.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 21:32:41",
+        "category": "desporto"
+    },
+    {
+        "headline": "Filipe Cardoso e Helena Rodrigues vencem 5 km do Open de águas abertas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/filipe-cardoso-e-helena-rodrigues-vencem-5-km-do-open-de-aguas-abertas_d1571012",
+        "content": [
+            {
+                "type": "text",
+                "data": "Filipe Cardoso e Helena Rodrigues venceram hoje a prova de cinco quilómetros do Open de Portugal de natação em águas abertas, que integra os Nacionais da disciplina, disputado em Abrantes."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_desporto.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 21:31:14",
+        "category": "desporto"
+    },
+    {
+        "headline": "Arsenal não desarma na luta pela Premier",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/arsenal-nao-desarma-na-luta-pela-premier_d1571008",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Arsenal foi ganhar no recinto do Manchester United e reassumiu a liderança da Liga inglesa com mais um ponto, mas mais um jogo, do que o Manchester City.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/18/182b29129f24540011d233196e5e1f18?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 21:25:44",
+        "category": "desporto"
+    },
+    {
+        "headline": "Operação \"Bilhete Dourado\". Suspeita de venda ilícita de bilhetes no FC Porto",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/operacao-bilhete-dourado-suspeita-de-venda-ilicita-de-bilhetes-no-fc-porto_v1571004",
+        "content": [
+            {
+                "type": "text",
+                "data": "A polícia lançou buscas no FC Porto. As autoridades entraram no Estádio do Dragão e noutros locais e constituíram mais de uma dezena de arguidos na Operação designada Bilhete Dourado.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/94/943fc571b5869c9f8fa3e21d3d59443a?w=350&amp;q=50&amp;rect=0,90,1393,764&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 21:18:46",
+        "category": "desporto"
+    },
+    {
+        "headline": "Reviravolta no Dragão",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/reviravolta-no-dragao_e1570998",
+        "content": [
+            {
+                "type": "text",
+                "data": "Um golo de Taremi ao oitavo minuto de compensação deu a vitória ao FC Porto no dérbi da Invicta e consumou a reviravolta no marcador, aberto pelo boavisteiro Bruno Lourenço aos 60&#039; e nivelado aos 81&#039; por Zé Pedro.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/23/23d434cfe9cef904d27ba5e3283164c3?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 20:54:46",
+        "category": "desporto"
+    },
+    {
+        "headline": "Olav Kooij é o vencedor do dia na Volta à Itália",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/olav-kooij-e-o-vencedor-do-dia-na-volta-a-italia_d1570996",
+        "content": [
+            {
+                "type": "text",
+                "data": "O ciclista neerlandês Olav Kooij (Visma-Lease a Bike) venceu a nona etapa da Volta a Itália, num sprint vitorioso em que confirmou as credenciais que, aos 22 anos, já trazia para a primeira grande Volta da carreira."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/bc/bcf88633adcd2d28d3a8e893ab8b7113?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 20:07:11",
+        "category": "desporto"
+    },
+    {
+        "headline": "Paços de Ferreira vence em casa do FC Porto B",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/pacos-de-ferreira-vence-em-casa-do-fc-porto-b_d1570995",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Paços de Ferreira impôs uma vitória por 3-1 ao FC Porto B, em Vila Nova de Gaia, em partida da 33.ª jornada da II Liga."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/2f/2fb113953c90e1c03ec8cc2d8849c82f?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 19:55:24",
+        "category": "desporto"
+    },
+    {
+        "headline": "Tiago Ferreira e Melissa Maia campeões nacionais de maratona BTT",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/tiago-ferreira-e-melissa-maia-campeoes-nacionais-de-maratona-btt_d1570994",
+        "content": [
+            {
+                "type": "text",
+                "data": "Tiago Ferreira, em masculinos, e Melissa Maia, em femininos, sagraram-se hoje campeões nacionais de maratona BTT (XCM), em Ansião, e deram a ‘dobradinha’ à sua equipa, a Guilhabreu MTB."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_desporto.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 19:52:11",
+        "category": "desporto"
+    },
+    {
+        "headline": "Nuno Borges \"muito contente\" após \"mais uma maratona\" no Masters 1.000 de Roma",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/nuno-borges-muito-contente-apos-mais-uma-maratona-no-masters-1000-de-roma_d1570993",
+        "content": [
+            {
+                "type": "text",
+                "data": "O tenista português Nuno Borges, 53.º do ranking mundial, mostrou-se hoje “muito contente” por continuar no Masters 1.000 de Roma, após eliminar o italiano Francesco Passaro, 240.º, em “mais uma maratona”.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/61/614b035c78f558c2e7f8e9abae5f8137?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 19:49:23",
+        "category": "desporto"
+    },
+    {
+        "headline": "MP suspeita de \"conluio\" entre funcionários do FC Porto e Super Dragões",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/fc-porto/mp-suspeita-de-conluio-entre-funcionarios-do-fc-porto-e-super-dragoes_d1570992",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Ministério Público (MP) suspeita de “conluio” entre funcionários ligados ao FC Porto e uma empresa associada e membros dos Super Dragões na aquisição de bilhetes para jogos de futebol depois vendidos no ‘mercado negro’, levando a buscas hoje realizadas.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/58/5883525bab8d55f108339105fb5b9176?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 19:44:06",
+        "category": "desporto"
+    },
+    {
+        "headline": "Portugal está no Mundial de andebol",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/portugal-esta-no-mundial-de-andebol_d1570987",
+        "content": [
+            {
+                "type": "text",
+                "data": "A seleção portuguesa de andebol conseguiu o apuramento para o Mundial2025, apesar do empate (26-26) na Bósnia, na segunda mão do play&amp;#8208;off de acesso, valendo-se dos 10 golos de vantagem que trazia de Guimarães.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/46/46aba52b3268a90f0b04a2680cd8b98a?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 18:50:27",
+        "category": "desporto"
+    },
+    {
+        "headline": "St. Pauli de volta à elite do futebol alemão",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/st-pauli-de-volta-a-elite-do-futebol-alemao_d1570986",
+        "content": [
+            {
+                "type": "text",
+                "data": "O St. Pauli confirmou hoje o regresso à Liga alemã 13 anos depois da última presença, ao bater em casa por 3-1 o Osnabrück, já relegado ao terceiro escalão, assumindo a liderança da segunda divisão."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/63/639557945227d8b009c5fda1ee14a08c?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 18:45:14",
+        "category": "desporto"
+    },
+    {
+        "headline": "Casa Pia perde com Moreirense",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/casa-pia-perde-com-moreirense_e1570980",
+        "content": [
+            {
+                "type": "text",
+                "data": "Um golo de Gonçalo Franco, aos 33 minutos, foi o suficiente para a vitória do Moreirense na visita ao Casa Pia, a contar para a 33.ª jornada da I Liga.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/42/422d20344c42d0fb51104f283621513a?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 18:31:33",
+        "category": "desporto"
+    },
+    {
+        "headline": "Goleada no adeus a Rafa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/goleada-no-adeus-a-rafa_e1570979",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Benfica impôs uma pesada derrota ao Arouca no jogo em que o estádio da Luz se despediu de Rafa, autor de dois dos golos faturados pelos lisboetas nesta partida da 33.ª e penúltima jornada da I Liga.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/60/60f9eab5ee344c036935a3c0b08f5a04?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 18:31:29",
+        "category": "desporto"
+    },
+    {
+        "headline": "Tabilo elimina Djokovic em Roma",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/tabilo-elimina-djokovic-em-roma_d1570978",
+        "content": [
+            {
+                "type": "text",
+                "data": "O sérvio Novak Djokovic, líder do ranking mundial e primeiro cabeça de série, foi hoje eliminado na terceira ronda do Masters 1.000 de Roma em ténis, ao perder com o chileno Alejandro Tabilo, 32.º da hierarquia."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/2b/2bc75f52fbdcdfec23e6168b7740e202?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 18:08:53",
+        "category": "desporto"
+    },
+    {
+        "headline": "Sporting vence `Champions` de hóquei em patins",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/sporting-vence-champions-de-hoquei-em-patins_d1570977",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Sporting fez valer a sua eficácia para conquistar o quarto título de campeão europeu de hóquei em patins, batendo a Oliveirense por 2-1 na final da Liga dos Campeões disputada no Porto."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/72/7271546b7dd3fb0e8447533ce0a2f0ed?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 18:04:18",
+        "category": "desporto"
+    },
+    {
+        "headline": "Hopkins avança para os `quartos`, Bonvalot eliminada no Sydney Surf Pro",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/hopkins-avanca-para-os-quartos-bonvalot-eliminada-no-sydney-surf-pro_d1570976",
+        "content": [
+            {
+                "type": "text",
+                "data": "A portuguesa Yolanda Hopkins garantiu hoje uma vaga nos quartos de final do Sydney Surf Pro, segunda etapa do circuito Challenger Series, na Austrália, ao contrário da compatriota Teresa Bonvalot, que foi eliminada nos &#039;oitavos&#039;.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/11/11e1f911f42ed50713ce526ee70a0740?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 17:59:59",
+        "category": "desporto"
+    },
+    {
+        "headline": "Mikael Jesus torna-se campeão iberoamericano de 400 metros barreiras",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/mikael-jesus-torna-se-campeao-iberoamericano-de-400-metros-barreiras_d1570975",
+        "content": [
+            {
+                "type": "text",
+                "data": "O português Mikael Jesus sagrou-se no sábado campeão iberoamericano de 400 metros barreiras, ao vencer a final da distância dos Campeonatos Ibero-Americanos em Cuiabá, Brasil, com um tempo de 49,20 segundos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_desporto.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 17:58:42",
+        "category": "desporto"
+    },
+    {
+        "headline": "Armindo Araújo orgulhoso por ser o melhor piloto nacional no Rali de Portugal",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/motores/armindo-araujo-orgulhoso-por-ser-o-melhor-piloto-nacional-no-rali-de-portugal_d1570974",
+        "content": [
+            {
+                "type": "text",
+                "data": "O piloto português Armindo Araújo (Skoda) mostrou-se “muito orgulhoso” por se sagrar, pela 13.ª vez, o melhor participante nacional no Rali de Portugal."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/da/dadc4ecda99fb14fb364ae08785ae417?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 17:55:13",
+        "category": "desporto"
+    },
+    {
+        "headline": "Artur Soares Dias vai arbitrar final da Liga Conferência Europa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/artur-soares-dias-vai-arbitrar-final-da-liga-conferencia-europa_d1571180",
+        "content": [
+            {
+                "type": "text",
+                "data": "O árbitro português Artur Soares Dias vai arbitrar a final da Liga Conferência Europa, entre Olympiacos e Fiorentina, no dia 29 de maio, em Atenas, informou hoje a UEFA."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/7b/7b28127001c6095a8c69ac5ff2e9b028?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 16:30:33",
+        "category": "desporto"
+    },
+    {
+        "headline": "Operação \"Bilhete Dourado\" constitui treze arguidos e cerca de três mil bilhetes apreendidos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/operacao-bilhete-dourado-constitui-treze-arguidos-e-cerca-de-tres-mil-bilhetes-apreendidos_a1571174",
+        "content": [
+            {
+                "type": "text",
+                "data": "São treze os arguidos que resultam da operação policial de nome &quot;Bilhete Dourado&quot; que ontem foi notícia pelas buscas ao Estádio do Dragão. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ec/ec70335a38ee4d180e026826c0c2a85c?w=350&amp;q=50&amp;rect=0,162,1381,757&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 15:56:04",
+        "category": "desporto"
     }
 ]

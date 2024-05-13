@@ -44,3 +44,14 @@ class Thread(models.Model):
 
     def __str__(self):
         return self.content_title
+
+
+class Comment(models.Model):
+    comment_id = models.AutoField(primary_key=True)
+    content_id = models.IntegerField()
+    comment_user = models.TextField()
+    comment_text = models.TextField()
+    comment_date = models.DateTimeField(auto_now_add=True)
+
+    def __str__(self):
+        return self.comment_text

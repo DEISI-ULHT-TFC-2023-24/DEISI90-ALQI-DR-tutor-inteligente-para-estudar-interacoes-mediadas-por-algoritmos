@@ -3483,5 +3483,855 @@
         ],
         "published": "2024-04-29 20:09:50",
         "category": "cultura"
+    },
+    {
+        "headline": "\"O planeta dos macacos\" tem mais uma etapa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/o-planeta-dos-macacos-tem-mais-uma-etapa_v1571168",
+        "content": [
+            {
+                "type": "text",
+                "data": "O novo filme &quot;O reino do planeta dos macacos&quot; passa-se 300 anos depois do início do domínio dos macacos, num mundo onde não há lugar para a humanidade. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/ff/ff11fc45d28b3fcd740cf667dd10baad_N.jpg?"
+            }
+        ],
+        "published": "2024-05-13 15:22:48",
+        "category": "cultura"
+    },
+    {
+        "headline": "Festa do Cinema coloca bilhetes a 3,5 euros",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/festa-do-cinema-coloca-bilhetes-a-35-euros_a1571095",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os bilhetes de cinema vão estar bem mais baratos durante os próximos dias. Assistir a um filme no grande ecrã vai custar apenas 3,5 euros até quarta-feira, à boleia da chamada Festa do Cinema."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/2b/2be86048f2ca99b22861db3cc5f0f8aa?w=350&amp;q=50&amp;rect=0,0,4932,2704&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 10:11:18",
+        "category": "cultura"
+    },
+    {
+        "headline": "Bienal de Veneza é oportunidade para repensar pavilhão nacional considera Mónica de Miranda",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/bienal-de-veneza-e-oportunidade-para-repensar-pavilhao-nacional-considera-monica-de-miranda_n1571082",
+        "content": [
+            {
+                "type": "text",
+                "data": "A artista visual Mónica de Miranda considera que a Bienal de Arte de Veneza deste ano é uma oportunidade para repensar o conceito de pavilhão nacional e de contribuir para propostas que desafiem os discursos e práticas dominantes.    "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 09:47:03",
+        "category": "cultura"
+    },
+    {
+        "headline": "Faltam políticas de igualdade e inclusão no setor da cultura defende Mónica de Miranda",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/faltam-politicas-de-igualdade-e-inclusao-no-setor-da-cultura-defende-monica-de-miranda_n1571081",
+        "content": [
+            {
+                "type": "text",
+                "data": "A artista Mónica de Miranda defendeu hoje a criação de políticas e legislação para a igualdade e multiculturalismo na cultura, em Portugal, onde &quot;ainda há muito que pode ser feito para promover a inclusão.&quot;"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 09:46:32",
+        "category": "cultura"
+    },
+    {
+        "headline": "Portugal deve reconhecer amnésia sobre papel histórico das pessoas negras diz Mónica de Miranda",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/portugal-deve-reconhecer-amnesia-sobre-papel-historico-das-pessoas-negras-diz-monica-de-miranda_n1571080",
+        "content": [
+            {
+                "type": "text",
+                "data": "A artista Mónica de Miranda considera que Portugal tem feito um &quot;apagamento das histórias das pessoas negras&quot; que fazem parte da população do país desde o século XV, e deveria reconhecer esta &quot;amnésia cultural&quot; para sarar feridas coloniais do passado.   "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 09:46:02",
+        "category": "cultura"
+    },
+    {
+        "headline": "Projeto \"Uma Imagem Solidária\" realiza-se a 23 de maio e vai apoiar a Casa do Artista",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/projeto-uma-imagem-solidaria-realiza-se-a-23-de-maio-e-vai-apoiar-a-casa-do-artista_n1571074",
+        "content": [
+            {
+                "type": "text",
+                "data": "A iniciativa &quot;Uma Imagem Solidária&quot; vai realizar-se a 23 de maio e para esta 7.ª edição foram reunidas 70 fotografias que podem agora ser trocadas por donativos, este ano destinados à Casa do Artista."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 09:45:28",
+        "category": "cultura"
+    },
+    {
+        "headline": "Fundação de Serralves recebe doação do arquivo de Julião Sarmento",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/fundacao-de-serralves-recebe-doacao-do-arquivo-de-juliao-sarmento_n1571061",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Fundação de Serralves e Isabel Sarmento, viúva do artista português Julião Sarmento, vão assinar hoje um acordo para a doação do arquivo do artista, anunciou a instituição sediada no Porto."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-13 09:40:20",
+        "category": "cultura"
+    },
+    {
+        "headline": "Vereador da Cultura de Lisboa Diogo Moura suspendeu mandato a pedido de Moedas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/vereador-da-cultura-de-lisboa-diogo-moura-suspendeu-mandato-a-pedido-de-moedas_n1571031",
+        "content": [
+            {
+                "type": "text",
+                "data": "O vereador da Cultura da Câmara Municipal de Lisboa (CML), Diogo Moura, suspendeu o mandato, a pedido do presidente da autarquia, Carlos Moedas, dias depois de ter sido acusado do crime de fraude em eleições internas do CDS-PP."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 23:05:51",
+        "category": "cultura"
+    },
+    {
+        "headline": "Eurovisão. Manifestações contra a participação de Israel marcaram a edição",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/eurovisao-manifestacoes-contra-a-participacao-de-israel-marcaram-a-edicao_v1571026",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Suíça ganhou o Festival Eurovisão da Canção. A final ficou marcada por vários momentos polémicos. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/5f/5f0f0c84dcc34d7ada99f4eb53cd9f7a_N.jpg?"
+            }
+        ],
+        "published": "2024-05-12 22:33:46",
+        "category": "cultura"
+    },
+    {
+        "headline": "Eurovisão. Iolanda mostrou apoio à Palestina em palco",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/eurovisao-iolanda-mostrou-apoio-a-palestina-em-palco_v1571025",
+        "content": [
+            {
+                "type": "text",
+                "data": "O vídeo da atuação de Portugal na final da Eurovisão não foi logo publicado na página do festival."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/38/380ff21335dd5d1f01930cb39468c884_N.jpg?"
+            }
+        ],
+        "published": "2024-05-12 22:30:45",
+        "category": "cultura"
+    },
+    {
+        "headline": "RTP aguarda respostas \"cabais\" sobre atraso na divulgação da atuação de Iolanda",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/rtp-aguarda-respostas-cabais-sobre-atraso-na-divulgacao-da-atuacao-de-iolanda_n1570968",
+        "content": [
+            {
+                "type": "text",
+                "data": "A RTP está a aguardar esclarecimentos mais detalhados da União Europeia de Radiodifusão (EBU) sobre o atraso na divulgação da atuação portuguesa na final da Eurovisão. O presidente do Conselho de Administração da RTP, Nicolau Santos, quer também perceber como é que Israel acabou por ficar em primeiro na votação do público, quando antes se encontrava nos últimos lugares da tabela.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/2c/2c7995188797badab996dde6882d95b1?w=350&amp;q=50&amp;rect=1,0,4024,2206&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 17:37:28",
+        "category": "cultura"
+    },
+    {
+        "headline": "Festival da Eurovisão. Iolanda mostrou em palco apoio à Palestina",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/festival-da-eurovisao-iolanda-mostrou-em-palco-apoio-a-palestina_v1570941",
+        "content": [
+            {
+                "type": "text",
+                "data": "Portugal ficou em 10º lugar nesta final. Em palco, Iolanda mostrou apoio à causa palestiniana. Por causa disso, o vídeo da atuação portuguesa não foi logo publicado na página de internet da organização."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/57/57532f434f3ff49ebc5464818e70fcec_N.jpg?"
+            }
+        ],
+        "published": "2024-05-12 15:25:48",
+        "category": "cultura"
+    },
+    {
+        "headline": "A luta de Covas do Barroso chega a Cannes num filme de Paulo Carneiro",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/a-luta-de-covas-do-barroso-chega-a-cannes-num-filme-de-paulo-carneiro_n1570910",
+        "content": [
+            {
+                "type": "text",
+                "data": "A luta dos habitantes de Covas do Barroso, Vila Real, contra a exploração de lítio na região, chega esta semana ao Festival de Cinema de Cannes, em França, num filme de Paulo Carneiro, que também reflete sobre cinema português."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 10:15:04",
+        "category": "cultura"
+    },
+    {
+        "headline": "Apoio de Taylor Swift pode ser trunfo para recandidatura de Biden",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/apoio-de-taylor-swift-pode-ser-trunfo-para-recandidatura-de-biden_n1570909",
+        "content": [
+            {
+                "type": "text",
+                "data": "Na renhida disputa com Donald Trump pela presidência norte-americana, Joe Biden pode ter um trunfo na estrela musical Taylor Swift, cujo apoio à candidatura do democrata em 2020 a tornou alvo de teorias da conspiração entre republicanos e conservadores."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 10:14:37",
+        "category": "cultura"
+    },
+    {
+        "headline": "Eurovisão. EBU protelou publicação de vídeo de Iolanda com símbolos da Palestina",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/eurovisao-ebu-protelou-publicacao-de-video-de-iolanda-com-simbolos-da-palestina_v1570890",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Suíça ganhou a edição deste ano do Festival Eurovisão da Canção, com o tema &quot;The Code&quot;, cantado por Nemo. Portugal ficou no décimo lugar, com a canção &quot;Grito&quot;, interpretada por Iolanda.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/44/44702f66dd75aea685a2d102ea7a429f_N.jpg?"
+            }
+        ],
+        "published": "2024-05-12 02:06:48",
+        "category": "cultura"
+    },
+    {
+        "headline": "Eurovisão. \"Quero ficar do lado certo da História\", frisa Iolanda",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/eurovisao-quero-ficar-do-lado-certo-da-historia-frisa-iolanda_v1570886",
+        "content": [
+            {
+                "type": "text",
+                "data": "A representante de Portugal na Eurovisão, Iolanda, disse após a final deste sábado estar muito feliz com o resultado obtido. Sobre as polémicas em torno da participação de Israel no concurso, voltou a frisar que &quot;a paz prevalecerá&quot;, tal como fez no final da sua atuação esta noite. &quot;Quero ficar do lado certo da História&quot;, vincou Iolanda.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/af/afedd35063eee510bec410817dad39df?w=350&amp;q=50&amp;rect=0,0,3446,1889&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 01:36:19",
+        "category": "cultura"
+    },
+    {
+        "headline": "Suíça vence o Festival Eurovisão da Canção",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/suica-vence-o-festival-eurovisao-da-cancao_n1570884",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Suíça é a vencedora da 68ª edição do Festival Eurovisão da Canção com a música &quot;The Code&quot;, de Nemo. A canção portuguesa, &quot;Grito&quot;, de Iolanda, ficou em 10º lugar. A noite ficou marcada pelos apelos de vários intérpretes, incluindo da representante portuguesa, numa edição em que a participação de Israel motivou muitos protestos. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/fb/fb6d946921a94111fec327eec4f788a9?w=350&amp;q=50&amp;rect=0,132,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 00:51:39",
+        "category": "cultura"
+    },
+    {
+        "headline": "\"A paz prevalecerá\". Iolanda deixa mensagem no final da atuação na Eurovisão",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/a-paz-prevalecera-iolanda-deixa-mensagem-no-final-da-atuacao-na-eurovisao_n1570882",
+        "content": [
+            {
+                "type": "text",
+                "data": "A representante portuguesa terminou a sua atuação no Festival Eurovisão da Canção com uma mensagem da paz. &quot;A paz prevalecerá&quot;, afirmou depois de cantar &quot;Grito&quot;, a 18ª música em palco na final deste sábado. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/1c/1c80ba63d9fc85b234397c052795a897?w=350&amp;q=50&amp;rect=0,68,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-12 00:03:55",
+        "category": "cultura"
+    },
+    {
+        "headline": "Eurovisão. Esperadas grandes manifestações em Malmö",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/eurovisao-esperadas-grandes-manifestacoes-em-malmo_v1570797",
+        "content": [
+            {
+                "type": "text",
+                "data": "Decorre este sábado a final do Festival Eurovisão da Canção. A edição deste ano está a ser marcada por várias polémicas, desde logo pela participação de Israel. Soube-se entretanto que o representante dos Países Baixos foi excluído devido a uma alegada agressão.  "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/26/26529b445c0107336daaece7932e2c9f_N.jpg?"
+            }
+        ],
+        "published": "2024-05-11 15:14:47",
+        "category": "cultura"
+    },
+    {
+        "headline": "Eurovisão. Televisão pública da Finlândia ocupada por manifestantes pró-Palestina",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/eurovisao-televisao-publica-da-finlandia-ocupada-por-manifestantes-pro-palestina_v1570771",
+        "content": [
+            {
+                "type": "text",
+                "data": "A sede da televisão pública finlandesa foi invadida por manifestantes. Querem um boicote à participação de Israel na final do Festival Eurovisão da Canção . "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/3c/3cc4155a53414eedb2cd0eca678fe447_N.jpg?"
+            }
+        ],
+        "published": "2024-05-11 13:19:46",
+        "category": "cultura"
+    },
+    {
+        "headline": "Concorrente dos Países Baixos excluído da Eurovisão",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/concorrente-dos-paises-baixos-excluido-da-eurovisao_n1570769",
+        "content": [
+            {
+                "type": "text",
+                "data": "O artista holandês Joost Klein foi expulso este sábado da final da Eurovisão. O cantor está a ser investigado pela polícia sueca na sequência de uma denúncia feita por uma mulher da equipa de produção após um &quot;incidente&quot; na semifinal do concurso.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b2/b25d56232a9d508fd8aa3f54a21504b6?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-11 13:00:59",
+        "category": "cultura"
+    },
+    {
+        "headline": "Open House Lisboa destaca arquitetura lisboeta em transformação",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/open-house-lisboa-destaca-arquitetura-lisboeta-em-transformacao_v1570765",
+        "content": [
+            {
+                "type": "text",
+                "data": "A arquitetura lisboeta está em destaque este fim de semana. A Open House Lisboa organiza visitas e passeios a dezenas de locais pela cidade.&lt;br /&gt; "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/14/14ce67f68176ae96ec5179cb184689b2_N.jpg?"
+            }
+        ],
+        "published": "2024-05-11 11:22:48",
+        "category": "cultura"
+    },
+    {
+        "headline": "Arquivo de Salazar vai ser digitalizado e ficar disponível ao público",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/arquivo-de-salazar-vai-ser-digitalizado-e-ficar-disponivel-ao-publico_n1570761",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Arquivo Nacional da Torre do Tombo (ANTT) vai digitalizar o arquivo do líder da ditadura do Estado Novo, António de Oliveira Salazar (1889-1970), e disponibilizá-lo ao público na Internet, disse à agência Lusa o seu diretor, Silvestre Lacerda."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-11 10:57:34",
+        "category": "cultura"
+    },
+    {
+        "headline": "Filme com nome de rebuçado retrata amargura do abuso de menores em Cabo Verde",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/filme-com-nome-de-rebucado-retrata-amargura-do-abuso-de-menores-em-cabo-verde_n1570743",
+        "content": [
+            {
+                "type": "text",
+                "data": "Pirinha era um rebuçado que Natasha Craveiro comprava quando era criança e que agora dá nome a um filme, com antestreia hoje e que alerta para a amargura do abuso de menores em Cabo Verde."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-11 09:28:19",
+        "category": "cultura"
+    },
+    {
+        "headline": "Relógios de torre continuam a acompanhar o quotidiano nas aldeias da Guarda",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/relogios-de-torre-continuam-a-acompanhar-o-quotidiano-nas-aldeias-da-guarda_n1570750",
+        "content": [
+            {
+                "type": "text",
+                "data": "Em algumas aldeias do concelho da Guarda, o bater das horas pelos relógios comunitários instalados em torres continua a acompanhar o quotidiano das populações, apesar de aqueles instrumentos terem perdido protagonismo para outros aparelhos de uso pessoal."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-11 09:27:40",
+        "category": "cultura"
+    },
+    {
+        "headline": "Final da Eurovisão hoje na Suécia com o conflito israelo-palestiniano a marcar esta edição",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/final-da-eurovisao-hoje-na-suecia-com-o-conflito-israelo-palestiniano-a-marcar-esta-edicao_n1570745",
+        "content": [
+            {
+                "type": "text",
+                "data": "A final do 68.º Festival Eurovisão da Canção é disputada hoje em Malmö, na Suécia, por 26 países, Portugal incluído, com a Croácia, Israel e Suíça como favoritas à vitória de uma edição marcada pelo conflito israelo-palestiniano."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/77/77db580048705b4fc64101950cd8b7df?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-11 09:03:59",
+        "category": "cultura"
+    },
+    {
+        "headline": "Escritor José Gardeazabal vence 2.ª edição do Prémio Ibérico Álvaro Magalhães",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/escritor-jose-gardeazabal-vence-2a-edicao-do-premio-iberico-alvaro-magalhaes_n1570718",
+        "content": [
+            {
+                "type": "text",
+                "data": "O escritor português José Gardeazabal venceu o Prémio Ibérico Álvaro Magalhães, de literatura infantil e juvenil, com o livro ilustrado &quot;Aquele natal inteiro e limpo&quot;, revelou hoje a organização."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-11 00:34:45",
+        "category": "cultura"
+    },
+    {
+        "headline": "\"Corrida para a Gloria\". Do Campeonato do Mundo de Ralis de 1983 para as salas de cinema",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/corrida-para-a-gloria-do-campeonato-do-mundo-de-ralis-de-1983-para-as-salas-de-cinema_a1570711",
+        "content": [
+            {
+                "type": "text",
+                "data": "&quot;Corrida para a Glória&quot; é a recriação do duelo entre duas equipas, no Campeonato do Mundo de Ralis de 1983, em Monte Carlo, no Mónaco. A equipa Lancia liderada por Cesare Fiorio desafiava a poderosa Audi liderada por Roland Gumpert. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/bc/bc0db1eea43a73af5d586a9d9d29b9cf?w=350&amp;q=50&amp;rect=20,0,1459,800&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-10 23:10:29",
+        "category": "cultura"
+    },
+    {
+        "headline": "\"Cândido - O Espião que veio do Futebol\" em exibição nos cinemas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/candido-o-espiao-que-veio-do-futebol-em-exibicao-nos-cinemas_a1570710",
+        "content": [
+            {
+                "type": "text",
+                "data": "Das quatro linhas para o campo da espionagem, &#039;&#039;Cândido o espião que veio do futebol&#039;&#039; é um filme revelador do lado menos conhecido de Cândido de Oliveira. O filme, de Jorge Paixão da Costa, revela o passado do primeiro selecionador nacional de futebol, um dos fundadores do jornal &#039;&#039;A Bola&#039;&#039; e que dá nome à Supertaça.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b0/b04e25f272ba379ac6da19c5335de518?w=350&amp;q=50&amp;rect=20,0,1459,800&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-10 22:59:16",
+        "category": "cultura"
+    },
+    {
+        "headline": "Espetáculo \"Desver\". O conflito no Médio Oriente visto por Joana Craveiro",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/espetaculo-desver-o-conflito-no-medio-oriente-visto-por-joana-craveiro_a1570698",
+        "content": [
+            {
+                "type": "text",
+                "data": "A encenadora, dramaturga e atriz Joana Craveiro considera que não se pode ficar indiferente ao que está a acontecer em Gaza. Em entrevista à jornalista da Antena 1, Sandy Gageiro, a encenadora do Teatro do Vestido falou do impacto de uma viagem à Palestina há cerca de um ano. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/cf/cf97f5035bfccc343ffb8e5a8bd1ea09?w=350&amp;q=50&amp;rect=0,207,2048,1123&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-10 22:46:29",
+        "category": "cultura"
+    },
+    {
+        "headline": "Israel disparou na lista dos favoritos para ganhar Eurofestival da Canção",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/israel-disparou-na-lista-dos-favoritos-para-ganhar-eurofestival-da-cancao_v1570704",
+        "content": [
+            {
+                "type": "text",
+                "data": "Apesar dos protestos políticos contra a participação de Israel, a atuação israelita em palco causou forte impressão e a canção está agora em segundo lugar na lista dos favoritos à vitória. A final é este sábado, na RTP, e Portugal atuará em 18.º lugar. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/a5/a51b3531cc68abc0998b7e63c18505a8_N.jpg?"
+            }
+        ],
+        "published": "2024-05-10 22:08:47",
+        "category": "cultura"
+    },
+    {
+        "headline": "Ideia de reparações expressa por PR merece plena concordância - investigador",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/ideia-de-reparacoes-expressa-por-pr-merece-plena-concordancia-investigador_n1570602",
+        "content": [
+            {
+                "type": "text",
+                "data": "O investigador angolano Afonso Vita, autor do livro &quot;A Rota dos Escravos&quot;, que será apresentado neste sábado em Lisboa, disse hoje à Lusa que &quot;concorda plenamente&quot; com a ideia de reparações expressa pelo Presidente português."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-10 18:03:59",
+        "category": "cultura"
+    },
+    {
+        "headline": "Eurovisão. Participação dos Países Baixos suspensa devido a \"incidente\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/eurovisao-participacao-dos-paises-baixos-suspensa-devido-a-incidente_n1570607",
+        "content": [
+            {
+                "type": "text",
+                "data": "A participação dos Países Baixos no Festival Eurovisão da Canção foi suspensa, anunciou esta sexta-feira a União Europeia de Radiodifusão (EBU) em comunicado, adiantando que está a investigar um &quot;incidente&quot; envolvendo o artista neerlandês Joost Klein.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ca/caf43e50dfd373211ef07f37dfea1546?w=350&amp;q=50&amp;rect=1,0,4752,2605&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-10 17:29:55",
+        "category": "cultura"
+    },
+    {
+        "headline": "\"Uma primavera portuguesa\". Olhar alemão sobre o 25 de Abril",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/uma-primavera-portuguesa-olhar-alemao-sobre-o-25-de-abril_v1570578",
+        "content": [
+            {
+                "type": "text",
+                "data": "Em 1974, a mais conceituada equipa de documentários internacionais da televisão da Alemanha de Leste, o &quot;Grupo Katins&quot;, permaneceu vários meses em Portugal. Filmou os elementos da PIDE presos em Peniche, onde foram entrevistados.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/fe/fe22c42f98a26eb436e8c7817c05e40d?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-10 15:24:46",
+        "category": "cultura"
+    },
+    {
+        "headline": "RTP voltou a ser distinguida como \"Marca de Confiança\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/rtp-voltou-a-ser-distinguida-como-marca-de-confianca_v1570576",
+        "content": [
+            {
+                "type": "text",
+                "data": "A RTP voltou a ser eleita como uma &quot;Marca de Confiança&quot; e o jornalista José Rodrigues dos Santos também. Da música à medicina, foram distinguidas mais de 90 personalidades.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ea/ea51f09e9f6417d3dd23abf93dd865e2?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-10 15:22:46",
+        "category": "cultura"
+    },
+    {
+        "headline": "Atrasos na construção no Museu da Língua Portuguesa em Bragança",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/atrasos-na-construcao-no-museu-da-lingua-portuguesa-em-braganca_v1570574",
+        "content": [
+            {
+                "type": "text",
+                "data": "A autarquia de Bragança pode ter de assumir sozinha os encargos da construção da Museu da Língua Portuguesa. O equipamento cultural vai custar mais de 16 milhões de euros. Parte do financiamento comunitário foi perdida pelos atrasos na execução do projeto."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/33/3390ac2fc2f6a2bb86930dbda1c7bc6f?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-10 15:18:49",
+        "category": "cultura"
+    },
+    {
+        "headline": "Cinemas portugueses tiveram pior abril em receitas de bilheteira desde 2013",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/cinemas-portugueses-tiveram-pior-abril-em-receitas-de-bilheteira-desde-2013_n1570540",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os cinemas portugueses registaram em abril 3,8 milhões de euros de bilheteira, um valor tão baixo que é preciso recuar a abril de 2013 para encontrar semelhante, com exceção do período pandémico, segundo dados do ICA hoje divulgados."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-10 14:47:50",
+        "category": "cultura"
+    },
+    {
+        "headline": "Centenas de migrantes vivem em tendas na zona de Arroios",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/centenas-de-migrantes-vivem-em-tendas-na-zona-de-arroios_v1570538",
+        "content": [
+            {
+                "type": "text",
+                "data": "Um dos cenários mais evidentes da crise dos sem-abrigo em Lisboa acontece na zona de Arroios, onde centenas de pessoas dormem em tendas. Muitos são imigrantes.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/22/22d471a6f447853561d71176cd531777?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-10 14:17:51",
+        "category": "cultura"
+    },
+    {
+        "headline": "A destruição da arte e as desculpas da Apple",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/a-destruicao-da-arte-e-as-desculpas-da-apple_n1570506",
+        "content": [
+            {
+                "type": "text",
+                "data": "Em causa está a reação online ao anúncio ao novo iPad. A publicidade, lançada esta semana, mostra uma prensa hidráulica industrial que destrói diversos objetos criativos, incluindo instrumentos musicais e livros.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/2e/2ea1a4440dd1dfbbc0b805a99d09a86f?w=350&amp;q=50&amp;rect=0,444,2000,1096&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-10 12:36:28",
+        "category": "cultura"
+    },
+    {
+        "headline": "Nona Sinfonia de Beethoven nasceu há 200 anos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/nona-sinfonia-de-beethoven-nasceu-ha-200-anos_a1570494",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Orquestra do Algarve vai interpretar, esta sexta-feira, no Teatro das Figuras, e sábado, no Palácio de Congressos do Algarve, a Nona Sinfonia de Beethoven. Obra que nasceu há precisamente 200 anos.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/53/53260618a9399a31f5f6a7b36e070d70?w=350&amp;q=50&amp;rect=0,562,5413,2968&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-10 10:51:28",
+        "category": "cultura"
+    },
+    {
+        "headline": "Carlos Martins propõe \"um novo olhar para o cante\" com sons do Mediterrâneo e muito \"Vagar\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/carlos-martins-propoe-um-novo-olhar-para-o-cante-com-sons-do-mediterraneo-e-muito-vagar_n1570466",
+        "content": [
+            {
+                "type": "text",
+                "data": "O músico Carlos Martins propõe &quot;um novo olhar para o cante&quot; alentejano no seu novo álbum, &quot;Vagar&quot;, que definiu como &quot;coisa fora do comum&quot;, ao combinar instrumentos, um sabor do Mediterrâneo e o saber do jazz."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-10 09:26:41",
+        "category": "cultura"
+    },
+    {
+        "headline": "Quadro \"Descida da Cruz\" de Domingos Sequeira no Museu Soares dos Reis a partir de junho",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/quadro-descida-da-cruz-de-domingos-sequeira-no-museu-soares-dos-reis-a-partir-de-junho_n1570452",
+        "content": [
+            {
+                "type": "text",
+                "data": "O quadro &quot;Descida da Cruz&quot;, de Domingos Sequeira (1768-1837), vai estar exposto no Museu Nacional de Soares dos Reis, no Porto, a partir de 01 de junho, anunciou hoje a Fundação Livraria Lello, proprietária da obra."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-10 08:17:18",
+        "category": "cultura"
+    },
+    {
+        "headline": "Embaixada de França mostra documentos inéditos nos 50 anos do 25 de Abril",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/embaixada-de-franca-mostra-documentos-ineditos-nos-50-anos-do-25-de-abril_n1569732",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Embaixada de França em Lisboa abre na próxima segunda-feira as portas ao público com a exposição &quot;Olhares franceses sobre a Revolução dos Cravos&quot;. Vão estar patentes documentos diplomáticos inéditos.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/1f/1f3899d9ddc662f31f6ebcac5ab0b547?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-10 07:54:37",
+        "category": "cultura"
+    },
+    {
+        "headline": "Concerto de José Afonso de 1983 editado hoje",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/concerto-de-jose-afonso-de-1983-editado-hoje_n1570439",
+        "content": [
+            {
+                "type": "text",
+                "data": "A primeira edição completa, sem cortes e remasterizada, do concerto de José Afonso no Coliseu dos Recreios, em Lisboa, em 1983, é lançada esta sexta-feira nas plataformas digitais e no formato físico de LP triplo e CD duplo."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/cd/cdd28cbbe31d02d7a7aef3ef52d5a3e2?w=350&amp;q=50&amp;rect=0,6,983,539&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-10 04:49:56",
+        "category": "cultura"
+    },
+    {
+        "headline": "Bienal de Coimbra intervém no exterior de Santa Clara-a-Nova para propor um novo jardim",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/bienal-de-coimbra-intervem-no-exterior-de-santa-clara-a-nova-para-propor-um-novo-jardim_n1570359",
+        "content": [
+            {
+                "type": "text",
+                "data": "O programa de arquitetura da bienal Anozero interveio este ano no exterior do Mosteiro de Santa Clara-a-Nova, em Coimbra, propondo e imaginando um novo jardim e espaço público para usufruto de todos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-09 22:43:43",
+        "category": "cultura"
+    },
+    {
+        "headline": "Eurovisão. Milhares nas ruas de Malmo contra participação de Israel",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/eurovisao-milhares-nas-ruas-de-malmo-contra-participacao-de-israel_v1570403",
+        "content": [
+            {
+                "type": "text",
+                "data": "Milhares de pessoas manifestaram-se nas ruas de Malmo, na Suécia, contra a participação de Israel na Eurovisão. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/a3/a31b6436d0837d6686ea7b2c87f9dfca_N.jpg?"
+            }
+        ],
+        "published": "2024-05-09 22:07:47",
+        "category": "cultura"
+    },
+    {
+        "headline": "Eurovisão. Milhares de pessoas protestam contra a participação de Israel em Malmö",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/eurovisao-milhares-de-pessoas-protestam-contra-a-participacao-de-israel-em-malmo_a1570349",
+        "content": [
+            {
+                "type": "text",
+                "data": "Milhares de manifestantes pró-palestinianos reuniram-se esta quinta-feira em Malmö, na Suécia, para protestar contra a participação de Israel na 68.ª edição do Festival da Eurovisão da Canção. Apesar dos protestos a cantora israelita, Eden Golan, sobe ao palco da Malmö Arena esta noite para atuar na segunda semifinal. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/0b/0b764532984aa55bdacf978d1b79655f?w=350&amp;q=50&amp;rect=20,0,1459,800&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-09 20:50:32",
+        "category": "cultura"
+    },
+    {
+        "headline": "Casa da Música recebe fagotista Rui Lopes",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/casa-da-musica-recebe-fagotista-rui-lopes_v1570285",
+        "content": [
+            {
+                "type": "text",
+                "data": "A viver no estrangeiro há vários anos, o músico regressa a Portugal para um concerto, esta sexta-feira, com a Orquestra Sinfónica do Porto Casa da Música. A RTP foi assistir ao ensaio.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/79/794da1209bb6f4624e560ce34b531466?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-09 15:17:51",
+        "category": "cultura"
+    },
+    {
+        "headline": "Coimbra. Monumental Serenata pode não se realizar",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/coimbra-monumental-serenata-pode-nao-se-realizar_v1570284",
+        "content": [
+            {
+                "type": "text",
+                "data": "Faltam pouco mais de duas semanas para o arranque da Queima das Fitas de Coimbra e a Monumental Serenata pode não se realizar.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b2/b2d3df7ef7e17be4ba479c2613506a6d?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-09 15:17:46",
+        "category": "cultura"
+    },
+    {
+        "headline": "Braga recebe Bienal de Arte e Tecnologia INDEX24",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/braga-recebe-bienal-de-arte-e-tecnologia-index24_a1570209",
+        "content": [
+            {
+                "type": "text",
+                "data": "Começa esta quinta-feira, em Braga, a Bienal de Arte e Tecnologia. A INDEX 2024 junta duas ideias principais: como podem conviver democracia e tecnologia.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/14/1452222a005617b520636b6228f5ba9d?w=350&amp;q=50&amp;rect=0,0,526,288&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-09 11:45:36",
+        "category": "cultura"
     }
 ]
