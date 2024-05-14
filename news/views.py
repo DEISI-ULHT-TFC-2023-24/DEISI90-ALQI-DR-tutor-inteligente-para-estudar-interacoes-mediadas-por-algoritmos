@@ -108,9 +108,11 @@ def random_news(request):
     random_content = random.choice(all_content)
 
     thread_news = Thread.objects.filter(content_id=random_content.content_id)
+    comments = Comment.objects.filter(content_id=random_content.content_id)
 
     context = {
         "thread_news": thread_news[0].thread_response if thread_news.exists() else None,
+        "comments": comments,
         "obj": random_content
     }
 
@@ -130,17 +132,17 @@ def execute_python_script(request):
         list_possibilities = ["ultimas", "pais", "mundo", "desporto", "economia", "cultura", "politica"]
         for x in list_possibilities:
             ij.import_json_data_RTP("data_scrapping/RTP/{cat}.json".format(cat=x))
-            #lj("data_scrapping/RTP/{cat}.json".format(cat=x))
+            lj("data_scrapping/RTP/{cat}.json".format(cat=x))
 
         subprocess.run(["python", "data_scrapping/Noticias_ao_Minuto/NM_RSS_to_json.py"])
         list_possibilities = ["ultimas", "politica", "pais", "mundo", "tech", "auto", "desporto", "economia", "cultura"]
 
         for x in list_possibilities:
             ij.import_json_data_NM("data_scrapping/Noticias_ao_Minuto/{cat}.json".format(cat=x))
-            #lj("data_scrapping/Noticias_ao_Minuto/{cat}.json".format(cat=x))
+            lj("data_scrapping/Noticias_ao_Minuto/{cat}.json".format(cat=x))
 
         subprocess.run(["python", "data_scrapping/sapoApi/sapo_api_to_json.py"])
-        #ij.import_json_data_sapo("data_scrapping/sapoApi/ultimas.json")
+        ij.import_json_data_sapo("data_scrapping/sapoApi/ultimas.json")
 
         ij.import_json_thread_response("thread_handler/thread_responses.json")
 
@@ -153,21 +155,3 @@ def get_content_id(content_headline):
     obj = Content.objects.all()
     x = obj.filter(content_headline=content_headline).first()
     return x
-
-
-def comment_view(request):
-    if request.method == 'POST':
-        form = CommentForm(request.POST)
-        if form.is_valid():
-            comment = form.save(commit=False)
-            comment.save()
-            return redirect('comment_success')
-    else:
-        form = CommentForm()
-    return render(request, )
-
-
-def load_comments(request):
-    news_id = request.GET.get('news_id')
-    comments = Comment.objects.filter(news_id=news_id)
-    return render(request, 'comment_section.html', {'comments': comments})

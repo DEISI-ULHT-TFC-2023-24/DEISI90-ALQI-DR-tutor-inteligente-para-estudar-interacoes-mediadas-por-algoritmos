@@ -32,25 +32,6 @@ DO $$ BEGIN
     END IF;
 END $$;
 
--- Check if news_comment table exists
-DO $$ BEGIN
-    IF NOT EXISTS (
-        SELECT 1
-        FROM   information_schema.tables
-        WHERE  table_schema = 'public'
-        AND    table_name = 'news_comment'
-    ) THEN
-        -- Create news_comment table
-        CREATE TABLE news_comment (
-            comment_id SERIAL PRIMARY KEY,
-            comment_user TEXT,
-            comment_text TEXT,
-            comment_date Date,
-            foreign key (content_id) references news_content(content_id)
-        );
-    END IF;
-END $$;
-
 -- Check if news_content table exists
 DO $$ BEGIN
     IF NOT EXISTS (
@@ -91,6 +72,26 @@ DO $$ BEGIN
             content_title TEXT,
             thread_response TEXT,
             FOREIGN KEY (content_id) REFERENCES news_content(content_id)
+        );
+    END IF;
+END $$;
+
+-- Check if news_comment table exists
+DO $$ BEGIN
+    IF NOT EXISTS (
+        SELECT 1
+        FROM   information_schema.tables
+        WHERE  table_schema = 'public'
+        AND    table_name = 'news_comment'
+    ) THEN
+        -- Create news_comment table
+        CREATE TABLE news_comment (
+            comment_id SERIAL PRIMARY KEY,
+            content_id INT,
+            comment_user TEXT,
+            comment_text TEXT,
+            comment_date Date,
+            foreign key (content_id) references news_content(content_id)
         );
     END IF;
 END $$;
