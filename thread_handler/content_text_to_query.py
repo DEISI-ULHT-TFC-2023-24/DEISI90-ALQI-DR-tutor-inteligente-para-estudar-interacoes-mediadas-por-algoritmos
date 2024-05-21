@@ -1,6 +1,13 @@
 import json
 import requests
+from langchain_community.tools import DuckDuckGoSearchRun
 
+
+# python -m venv env
+# .\env\Scripts\activate
+#pip install langchain
+#pip install duckduckgo-search
+#pip install -U langchain-community
 
 # Function to extract the 'response' field and concatenate them to form the complete message
 def extract_response_parts(api_response_text):
@@ -29,6 +36,7 @@ def ai_api_response(text):
     data = {
         "model": "llama3",
         "prompt": f"Quero respostas com português de Portugal(nada de você, nem qualquer tipo de pronome, quero que seja tipo notícia). A partir de agora, vou dar apenas um texto de uma notícia e gostaria que fizesse um resumo, tipo thread de 300 palavras, quero que seja persuasivo e cativante. Aqui está o texto::\n{text}",
+        "temperature": 0,
     }
     headers = {'Content-Type': 'application/json'}
     response = requests.post(url, data=json.dumps(data), headers=headers)
@@ -37,9 +45,15 @@ def ai_api_response(text):
 
 
 def process_news_item(news_item):
+    # for more context search headline of the news in duckduckgo
+    search = DuckDuckGoSearchRun()
+    text_for_ai = (news_item['content'][0]['data'] +
+                   "\nAqui está uma pesquisa no duckduckgo para teres mais contexto:\n"
+                   + search.run(news_item['headline']))
+
     data = {
         'content_title': news_item['headline'],
-        'thread_response': ai_api_response(news_item['content'][0]['data'])
+        'thread_response': ai_api_response(text_for_ai)
     }
     return data
 

@@ -36,10 +36,12 @@ def index(request):
     obj = Content.objects.all()
 
     if query:
-        obj = obj.filter(content_text__in=query)
+        obj = obj.filter(content_headline__icontains=query)
 
     if category:
         obj = obj.filter(content_category=category)
+    else:
+        obj = obj.filter(content_category='ultimas')
 
     if date:
         obj = obj.order_by(date)

@@ -80,7 +80,7 @@
                         </div>
                         <h2 style="color: #e3e3e3; font-weight: bold; margin-top: 5%">{{ x.content_headline }}</h2>
                         <div style="margin: 10px; color: #cdcdcd;">
-                            {{ x.content_text }}
+                            {{ x.content_text|truncatewords:100 }}...
                         </div>
                         <div style="margin-top: 15px">
                             <div style="float: right">

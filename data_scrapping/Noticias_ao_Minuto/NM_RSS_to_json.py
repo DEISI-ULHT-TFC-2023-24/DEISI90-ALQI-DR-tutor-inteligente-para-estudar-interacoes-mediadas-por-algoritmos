@@ -105,7 +105,7 @@ def get_news_data(x):
         published_date = standardize_date(item.find('pubdate').string.strip())
 
         data = {
-            'headline': item.find('title').text,
+            'headline': item.find('title').text.replace('&quot;', '\"'),
             'source': "Noticias ao Minuto",
             'url': findLink2,
             'content': [
