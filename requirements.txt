@@ -6,3 +6,4 @@ django-templates-macros==0.3
 langchain
 langchain-community
 duckduckgo-search
+django-macros
