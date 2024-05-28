@@ -40,18 +40,27 @@ class Thread(models.Model):
     thread_id = models.AutoField(primary_key=True)
     content_id = models.IntegerField()
     content_title = models.TextField()
-    thread_response = models.TextField(max_length=300)
+    thread_snippet = models.BinaryField()  #BLOB
 
     def __str__(self):
         return self.content_title
 
 
-class Comment(models.Model):
-    comment_id = models.AutoField(primary_key=True)
-    content_id = models.IntegerField()
-    comment_user = models.TextField()
-    comment_text = models.TextField()
-    comment_date = models.DateTimeField(auto_now_add=True)
+class Snippet(models.Model):
+    snippet_id = models.AutoField(primary_key=True)
+    thread_id = models.IntegerField()
+    snippet_text = models.TextField()
+    snippet_options = models.BinaryField()  #BLOB
 
     def __str__(self):
-        return self.comment_text
+        return self.snippet_text
+
+
+class Option(models.Model):
+    option_id = models.AutoField(primary_key=True)
+    snippet_id = models.IntegerField()
+    option_default = models.TextField()
+    option_added = models.BinaryField()
+
+    def __str__(self):
+        return self.option_id

@@ -57,6 +57,8 @@ DO $$ BEGIN
     END IF;
 END $$;
 
+
+
 -- Check if news_thread table exists
 DO $$ BEGIN
     IF NOT EXISTS (
@@ -70,7 +72,7 @@ DO $$ BEGIN
             thread_id SERIAL PRIMARY KEY,
             content_id INT,
             content_title TEXT,
-            thread_response TEXT,
+            thread_snippet BLOB,
             FOREIGN KEY (content_id) REFERENCES news_content(content_id)
         );
     END IF;
@@ -82,19 +84,44 @@ DO $$ BEGIN
         SELECT 1
         FROM   information_schema.tables
         WHERE  table_schema = 'public'
-        AND    table_name = 'news_comment'
+        AND    table_name = 'thread_snippet'
     ) THEN
         -- Create news_comment table
-        CREATE TABLE news_comment (
-            comment_id SERIAL PRIMARY KEY,
-            content_id INT,
-            comment_user TEXT,
-            comment_text TEXT,
-            comment_date Date,
-            foreign key (content_id) references news_content(content_id)
+        CREATE TABLE thread_snippet (
+            snippet_id SERIAL PRIMARY KEY,
+            thread_id INT,
+            snippet_text TEXT,
+            snippet_option BLOB,
+            foreign key (thread_id) references news_thread(thread_id)
         );
     END IF;
 END $$;
+
+
+
+-- Check if news_comment table exists
+DO $$ BEGIN
+    IF NOT EXISTS (
+        SELECT 1
+        FROM   information_schema.tables
+        WHERE  table_schema = 'public'
+        AND    table_name = 'snippet_options'
+    ) THEN
+        -- Create news_comment table
+        CREATE TABLE snippet_options (
+            option_id SERIAL PRIMARY KEY,
+            snippet_id INT,
+            option_default TEXT,
+            option_added BLOB,
+            foreign key (content_id) references thread_snippet(snippet_id)
+        );
+    END IF;
+END $$;
+
+
+
+
+
 
 
 -- Insert data into news_category table if not exists

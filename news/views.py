@@ -10,7 +10,7 @@ from django.views.decorators.csrf import csrf_exempt
 
 from news.static.dbController import importJson as ij
 from thread_handler.content_text_to_query import load_json_file as lj
-from .models import Category, Source, Content, Thread, Comment
+from .models import Category, Source, Content, Thread, Snippet, Option
 from .forms import CommentForm
 
 
@@ -73,21 +73,21 @@ def news_detail(request, news_id):
     obj = Content.objects.filter(pk=news_id)
     thread_news = Thread.objects.all()
     thread_news = thread_news.filter(content_id=obj[0].content_id)
-    comments = Comment.objects.filter(content_id=obj[0].content_id)
+    #comments = Comment.objects.filter(content_id=obj[0].content_id)
 
     if request.method == 'POST':
         form = CommentForm(request.POST)
         if form.is_valid():
             comment_user = form.cleaned_data['comment_user']
             comment_text = form.cleaned_data['comment_text']
-            Comment.objects.create(content_id=news_id, comment_user=comment_user, comment_text=comment_text)
+            #Comment.objects.create(content_id=news_id, comment_user=comment_user, comment_text=comment_text)
     else:
         form = CommentForm()
 
     context = {
         "thread_news": thread_news[0].thread_response if thread_news else None,
         "obj": obj,
-        "comments": comments,
+        #"comments": comments,
         "form": form
     }
 
@@ -110,11 +110,11 @@ def random_news(request):
     random_content = random.choice(all_content)
 
     thread_news = Thread.objects.filter(content_id=random_content.content_id)
-    comments = Comment.objects.filter(content_id=random_content.content_id)
+   # comments = Comment.objects.filter(content_id=random_content.content_id)
 
     context = {
         "thread_news": thread_news[0].thread_response if thread_news.exists() else None,
-        "comments": comments,
+        #"comments": comments,
         "obj": random_content
     }
 
