@@ -113,19 +113,20 @@
             </a>
         {% endfor %}
 
-        <div id="utterances-wrapper" class="utterances-wrapper">
-            <div style="display: flex; justify-content: center; align-items: center;">
-                <a id="prev-utterance" href="javascript:void(0);" class="navigation-arrow" style="margin-right: 60px;">&#9664;</a>
-                <div id="utterances-container" class="utterances-container" style="flex-grow: 1;">
-                    {% for snippet in snippets %}
-                        <div class="utterance" style="display: none;">
-                            {{ snippet.snippet_text }}
-                        </div>
-                    {% endfor %}
+       <div id="utterances-wrapper" class="utterances-wrapper">
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <a id="prev-utterance" href="javascript:void(0);" class="navigation-arrow" style="margin-right: 60px;">&#9664;</a>
+        <div id="utterances-container" class="utterances-container" style="flex-grow: 1;">
+            {% for snippet in snippets %}
+                <div class="utterance" style="display: none; display: flex; justify-content: center;">
+                    {{ snippet.snippet_text }}
                 </div>
-                <a id="next-utterance" href="javascript:void(0);" class="navigation-arrow" style="margin-left: 60px;">&#9654;</a>
-            </div>
+            {% endfor %}
         </div>
+        <a id="next-utterance" href="javascript:void(0);" class="navigation-arrow" style="margin-left: 60px;">&#9654;</a>
+    </div>
+</div>
+
 
 
         <div style="height: 20px"></div>
