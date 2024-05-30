@@ -899,5 +899,175 @@
         ],
         "published": "2024-05-30 14:54:47",
         "category": "mundo"
+    },
+    {
+        "headline": "Deputados e jornalistas ucranianos apelam a investigação à agência de notícias estatal",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/deputados-e-jornalistas-ucranianos-apelam-a-investigacao-a-agencia-de-noticias-estatal_a1575605",
+        "content": [
+            {
+                "type": "text",
+                "data": "Denunciam censura a qualquer voz da oposição e uma política editorial centrada apenas em Volodymyr Zelensky.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/6d/6dfb40b7104764ea85499f8fc50f93d9?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 20:09:01",
+        "category": "mundo"
+    },
+    {
+        "headline": "Puigdemont diz que Espanha corrigiu erro com amnistia para separatistas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/puigdemont-diz-que-espanha-corrigiu-erro-com-amnistia-para-separatistas_n1575598",
+        "content": [
+            {
+                "type": "text",
+                "data": "O independentista catalão Carles Puigdemont disse hoje que o parlamento espanhol corrigiu esta quinta-feira um erro com a aprovação de uma amnistia para centenas de pessoas &quot;perseguidas por defenderem a independência da Catalunha&quot;.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/4b/4b820ea5a02266dfc5c20daf62de68c3?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 19:29:13",
+        "category": "mundo"
+    },
+    {
+        "headline": "Líderes europeus debatem sobre o futuro da Europa em Bruxelas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/rtpeuropa/lideres-europeus-debatem-sobre-o-futuro-da-europa-em-bruxelas_v1575594",
+        "content": [
+            {
+                "type": "text",
+                "data": "A menos de um mês das eleições europeias, a Comissão Europeia organizou o Fórum Económico de Bruxelas, que contou com a presença de vários líderes europeus.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/9f/9f0f929cf72f5245ee92dbcbfc5bb4e4_N.jpg?"
+            }
+        ],
+        "published": "2024-05-30 19:21:30",
+        "category": "mundo"
+    },
+    {
+        "headline": "Dançarinos eslovacos interpretam \"Carmen\" no CCB",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/rtpeuropa/dancarinos-eslovacos-interpretam-carmen-no-ccb_v1575593",
+        "content": [
+            {
+                "type": "text",
+                "data": "O grupo &quot;Dança de Teatro Eslovaco&quot; levou até ao Centro Cultural de Belém uma antiga história de amor - &quot;Carmen&quot;.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/7e/7ea05a2922748931d24a9224614f97a4_N.jpg?"
+            }
+        ],
+        "published": "2024-05-30 19:18:40",
+        "category": "mundo"
+    },
+    {
+        "headline": "Partido britânico quer imposto sobre trabalhadores estrangeiros incluindo futebolistas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/partido-britanico-quer-imposto-sobre-trabalhadores-estrangeiros-incluindo-futebolistas_n1575588",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Partido Reformista britânico propôs hoje aumentar em 45% a contribuição para a segurança social das empresas que empreguem imigrantes, incluindo clubes de futebol, no âmbito da campanha para as eleições legislativas de 04 de julho."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 19:13:03",
+        "category": "mundo"
+    },
+    {
+        "headline": "Síria vê segunda geração de crianças privadas de educação devido ao conflito",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/siria-ve-segunda-geracao-de-criancas-privadas-de-educacao-devido-ao-conflito_n1575589",
+        "content": [
+            {
+                "type": "text",
+                "data": "O enviado especial da ONU para a Síria alertou hoje que o país assiste já à segunda geração de crianças privadas do acesso contínuo à educação devido ao conflito, uma situação que alimenta &quot;o potencial para o radicalismo&quot;."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 19:12:40",
+        "category": "mundo"
+    },
+    {
+        "headline": "Telescópio espacial James Webb deteta galáxia longínqua nunca antes descoberta",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/telescopio-espacial-james-webb-deteta-galaxia-longinqua-nunca-antes-descoberta_n1575592",
+        "content": [
+            {
+                "type": "text",
+                "data": "O telescópio espacial James Webb bateu o seu próprio recorde nas observações ao ter detetado uma galáxia mais longínqua, nunca antes descoberta, anunciou hoje a agência espacial norte-americana NASA."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 19:12:16",
+        "category": "mundo"
+    },
+    {
+        "headline": "Investir em Defesa não é incompatível com transição energética, defende ministra",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/investir-em-defesa-nao-e-incompativel-com-transicao-energetica-defende-ministra_a1575590",
+        "content": [
+            {
+                "type": "text",
+                "data": "Maria da Graça Carvalho, ministra do Ambiente e Energia, recusa que um reforço do investimento em Defesa pelos países da União Europeia atrase as metas da transição energética.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/70/703c9a3bae4f84d2547f63839a350f99?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 19:02:39",
+        "category": "mundo"
+    },
+    {
+        "headline": "Tensão em Israel. Partido de Gantz apresenta projeto de lei para dissolver Parlamento",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/tensao-em-israel-partido-de-gantz-apresenta-projeto-de-lei-para-dissolver-parlamento_n1575585",
+        "content": [
+            {
+                "type": "text",
+                "data": "O partido de Benny Gantz, membro do Gabinete de Guerra de Israel e líder do partido centrista União Nacional, apresentou esta quinta-feira um projeto de lei para dissolver o Parlamento e realizar eleições antecipadas. O anúncio reflete as crescentes tensões no Governo de Benjamin Netanyahu, apesar de o primeiro-ministro ter o apoio de deputados suficientes para conseguir manter-se no cargo.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/7a/7aafd1a75d7d63348a0c7c93e3b18539?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 18:57:04",
+        "category": "mundo"
+    },
+    {
+        "headline": "Europeias. Von der Leyen em Portugal a 6 de junho para ação de campanha da AD",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/europeias-von-der-leyen-em-portugal-a-6-de-junho-para-acao-de-campanha-da-ad_n1575541",
+        "content": [
+            {
+                "type": "text",
+                "data": "A presidente da Comissão Europeia e candidata do Partido Popular Europeu a um segundo mandato estará em Portugal a 6 de junho para uma ação de campanha da Aliança Democrática (AD), avançou hoje à Lusa fonte partidária europeia.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/97/9777210110dfdc61f98ce093d9ce090a?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 15:13:09",
+        "category": "mundo"
     }
 ]

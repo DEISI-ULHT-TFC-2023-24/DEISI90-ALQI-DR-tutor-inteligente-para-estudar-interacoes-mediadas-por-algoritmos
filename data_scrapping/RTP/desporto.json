@@ -848,5 +848,73 @@
         ],
         "published": "2024-05-30 18:05:59",
         "category": "desporto"
+    },
+    {
+        "headline": "18h30 Edição David Carvalho",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-desporto/18h30-edicao-david-carvalho_a1_1575606",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 20:16:01",
+        "category": "desporto"
+    },
+    {
+        "headline": "Portugal está nas meias-finais do Europeu de sub-17",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/portugal-esta-nas-meias-finais-do-europeu-de-sub-17_d1575601",
+        "content": [
+            {
+                "type": "text",
+                "data": "Portugal apurou-se hoje para as meias-finais do Europeu de sub-17 de futebol, a decorrer no Chipre, com um justo triunfo por 2-1 sobre a Polónia, numa partida em que a vitória da seleção lusa devia ter sido mais dilatada.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/e7/e718b1c05d1ebaf888a90c14d7ec716f?w=350&amp;q=50&amp;rect=0,0,1999,1096&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 19:31:46",
+        "category": "desporto"
+    },
+    {
+        "headline": "Benfica sagra-se pentacampeão feminino de pólo aquático",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/benfica-sagra-se-pentacampeao-feminino-de-polo-aquatico_d1575600",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Benfica sagrou-se hoje pentacampeão português feminino de polo aquático, ao derrotar o Fluvial Portuense por 14-8 no terceiro jogo da final do play-off do campeonato nacional, disputado em Algés\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_desporto.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 19:30:09",
+        "category": "desporto"
+    },
+    {
+        "headline": "Agronomia vence Direito e conquista sua 11.ª Taça de Portugal",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/raguebi/agronomia-vence-direito-e-conquista-sua-11a-taca-de-portugal_d1575587",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Agronomia conquistou hoje a Taça de Portugal de râguebi pela 11.ª vez na sua história, ao vencer na final o Direito, por 15-9, num encontro realizado no Estádio Universitário, em Lisboa.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/3f/3fd702c5e4a4a483a742601b6df15d3b?w=350&amp;q=50&amp;rect=0,89,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 18:47:40",
+        "category": "desporto"
     }
 ]

@@ -848,5 +848,39 @@
         ],
         "published": "2024-05-25 09:03:20",
         "category": "cultura"
+    },
+    {
+        "headline": "Filme \"O Bêbado\" é a primeira longa-metragem do realizador André Marques",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/filme-o-bebado-e-a-primeira-longa-metragem-do-realizador-andre-marques_a1575604",
+        "content": [
+            {
+                "type": "text",
+                "data": "&#039;&#039;O Bêbado&#039;&#039; é o título de um filme português, que conta a história de um homem alcoólico, que conhece uma mulher, vítima de tráfico humano, e que a tenta ajudar a libertar-se de uma máfia de Leste.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/a4/a48de7de79292dd5ad9d2bff6640643c?w=350&amp;q=50&amp;rect=18,0,1623,890&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 20:00:29",
+        "category": "cultura"
+    },
+    {
+        "headline": "Sindicatos falam de forte adesão à greve nos museus",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/sindicatos-falam-de-forte-adesao-a-greve-nos-museus_a1575586",
+        "content": [
+            {
+                "type": "text",
+                "data": "Mosteiro dos Jerónimos, em Lisboa, Castelo de Guimarães ou Convento de Cristo em Tomar são alguns dos monumentos que estão esta quinta-feira fechados por causa do protesto.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/31/31b56044259149a0797623fe3b05c5ab?w=350&amp;q=50&amp;rect=0,33,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 18:52:53",
+        "category": "cultura"
     }
 ]

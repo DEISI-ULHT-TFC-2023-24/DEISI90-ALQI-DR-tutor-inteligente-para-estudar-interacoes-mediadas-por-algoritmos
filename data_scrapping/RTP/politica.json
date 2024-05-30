@@ -848,5 +848,56 @@
         ],
         "published": "2024-05-29 14:38:46",
         "category": "politica"
+    },
+    {
+        "headline": "Palavras Cruzadas - Marta rebenta, Sebastião come",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/eleicoes-europeias-2024-vamos-a-votos/palavras-cruzadas-marta-rebenta-sebastiao-come_a1575599",
+        "content": [
+            {
+                "type": "text",
+                "data": "O que dizem os candidatos e o que responde o povo. Tudo captado pelos repórteres da Antena 1 na estrada. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/2a/2ad2608fc9b8536d55aed245a00bf618?w=350&amp;q=50&amp;rect=0,9,1200,658&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 19:34:28",
+        "category": "politica"
+    },
+    {
+        "headline": "Vamos a votos - Onde está Rui Tavares?",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/eleicoes-europeias-2024-vamos-a-votos/vamos-a-votos-onde-esta-rui-tavares_a1575596",
+        "content": [
+            {
+                "type": "text",
+                "data": "Marta rebenta minas. Sebastião come tudo, tudo, tudo. Cotrim Figueiredo quer acabar com as picardias entre candidatos.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/f1/f1c6a91a9b571d2621c71e4cf5f41044?w=350&amp;q=50&amp;rect=0,9,1200,658&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 19:32:11",
+        "category": "politica"
+    },
+    {
+        "headline": "Picardias e respostas ao alerta de Marcelo num feriado passado em campanha",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/picardias-e-respostas-ao-alerta-de-marcelo-num-feriado-passado-em-campanha_n1575597",
+        "content": [
+            {
+                "type": "text",
+                "data": "Troca de acusações entre AD e PS, a vinda de Von der Leyen a Portugal e respostas ao alerta do Presidente da República para a viabilização do Orçamento marcaram o quinto dia de campanha para as europeias."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 19:28:47",
+        "category": "politica"
     }
 ]

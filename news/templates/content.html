@@ -86,58 +86,7 @@
 
 
     <div style="width: 30%; float: right">
-        {% comment %}
-        Comments removed but code could be useful
 
-        <div class="filters-container" style="margin: 0 auto; width: 70%;">
-            <h1 style="text-align: center; margin-left: 2%">Comentários</h1>
-            {% if comments %}
-                <div class="container" style="background: #999999; margin-right: 2%; margin-left: 2%">
-                {% for comment in comments %}
-                    <div class="flex-container" style="flex-direction: column">
-                        <div class="container" style="flex-grow: 1">
-                            <h2 style="margin-bottom: 5%">
-                                {{ comment.comment_user }}
-                            </h2>
-                            <div style="margin: 5%">
-                                {{ comment.comment_text }}
-                            </div>
-                            <div style="margin: 5%">
-                                {{ comment.comment_date }}
-                            </div>
-                        </div>
-                    <div style="height: 20px"></div>
-                </div>
-                {% endfor %}
-                </div>
-            {% endif %}
-            <div class="container" style="background: #999999; margin-right: 2%; margin-left: 2%; display: none;"
-                 id="comment-container">
-                <form method="post" style="float: left">
-                    {% csrf_token %}
-                    {{ form.as_p }}
-                    <div style="margin-bottom: 10px; float: left">
-                        <button type="submit">Enviar</button>
-                    </div>
-                </form>
-            </div>
-            <button style="margin-left: 2%; background: #3e3e3e" id="show-comment">Introduzir comentário</button>
-            <script>
-                const commentButton = document.getElementById('show-comment');
-                const commentContainer = document.getElementById('comment-container');
-
-                commentButton.addEventListener('click', function () {
-                    if (commentContainer.style.display === 'none' || commentContainer.style.display === '') {
-                        commentContainer.style.display = 'block';
-                        commentButton.textContent = 'Voltar';
-                    } else {
-                        commentContainer.style.display = 'none';
-                        commentButton.textContent = 'Introduzir comentário';
-                    }
-                });
-            </script>
-        </div>
-        {% endcomment %}
 
     </div>
     <div class="container2" style="width: 70%; float:left">
@@ -164,23 +113,20 @@
             </a>
         {% endfor %}
 
-        <div class="flex-container" style="flex-direction: column">
-            <div class="container"  id="text-container" style="flex-grow: 1;">
-                <h3>Gerado por inteligência artificial:</h3>
-                <div id="utterances-wrapper" class="utterances-wrapper">
-                    <a id="prev-utterance" href="javascript:void(0);" class="navigation-arrow">&#9664;</a>
-                    <!-- Arrow pointing to the left -->
-                    <div id="utterances-container" class="utterances-container">
-                        {% for snippet in snippets %}
-                            <div class="utterance" style="display: none;">
-                                {{ snippet.snippet_text }}
-                            </div>
-                        {% endfor %}
-                    </div>
-                    <a id="next-utterance" href="javascript:void(0);" class="navigation-arrow">&#9654;</a>
-                    <!-- Arrow pointing to the right -->
+       <div id="utterances-wrapper" class="utterances-wrapper">
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <a id="prev-utterance" href="javascript:void(0);" class="navigation-arrow">&#9664;</a>
+        <div id="utterances-container" class="utterances-container" style="flex-grow: 1;">
+            {% for snippet in snippets %}
+                <div class="utterance" style="display: none;">
+                    {{ snippet.snippet_text }}
                 </div>
-            </div>
+            {% endfor %}
+        </div>
+        <a id="next-utterance" href="javascript:void(0);" class="navigation-arrow">&#9654;</a>
+    </div>
+</div>
+
             <div style="height: 20px"></div>
         </div>
     </div>
