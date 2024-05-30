@@ -2,11 +2,89 @@
 
 
 {% block style %}
+    <style>
+        .utterances-wrapper {
+            display: inline-grid;
+            text-align: center;
+            width: 100%;
+        }
+
+        .navigation-arrow {
+            text-decoration: none;
+            font-size: 20px;
+            display: inline-block;
+            vertical-align: middle;
+            cursor: pointer;
+            padding: 10px;
+        }
+
+        .utterances-container {
+            display: inline-block;
+            vertical-align: middle;
+            width: 60%; /* Adjust width as needed */
+            padding: 10px;
+        }
+
+        .utterance {
+            width: 100%;
+            border: 1px solid #ccc;
+            padding: 20px;
+            background-color: #f9f9f9;
+            text-align: center;
+            display: none; /* All utterances are hidden initially */
+        }
+
+    </style>
+
+
 
 
 {% endblock style %}
 
 {% block content %}
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const utterances = document.querySelectorAll('.utterance');
+            const prevButton = document.getElementById('prev-utterance');
+            const nextButton = document.getElementById('next-utterance');
+            let currentIndex = 0;
+
+            function showUtterance(index) {
+                // Hide all utterances
+                utterances.forEach(utterance => {
+                    utterance.style.display = 'none';
+                });
+
+                // Show the current utterance
+                if (utterances[index]) {
+                    utterances[index].style.display = 'grid';
+
+                }
+            }
+
+            // Event listener for the next button
+            nextButton.addEventListener('click', function () {
+                if (currentIndex + 1 < utterances.length) {
+                    currentIndex += 1;
+                    showUtterance(currentIndex);
+                }
+            });
+
+            // Event listener for the previous button
+            prevButton.addEventListener('click', function () {
+                if (currentIndex - 1 >= 0) {
+                    currentIndex -= 1;
+                    showUtterance(currentIndex);
+                }
+            });
+
+            // Initially show the first utterance
+            showUtterance(currentIndex);
+        });
+    </script>
+
+
+
     <div style="width: 30%; float: right">
         {% comment %}
         Comments removed but code could be useful
@@ -87,16 +165,30 @@
         {% endfor %}
 
         <div class="flex-container" style="flex-direction: column">
-            <div class="container" id="text-container" style="flex-grow: 1">
-                <h3>Gerado por intelegência artificial:</h3>
-                {% if thread_news %}
-                    <div id="full-content" style="">{{ thread_news }}</div>
-                {% else %}
-                    <h2>Conteúdo ainda não gerado.</h2>
-                {% endif %}
+            <div class="container"  id="text-container" style="flex-grow: 1;">
+                <h3>Gerado por inteligência artificial:</h3>
+                <div id="utterances-wrapper" class="utterances-wrapper">
+                    <a id="prev-utterance" href="javascript:void(0);" class="navigation-arrow">&#9664;</a>
+                    <!-- Arrow pointing to the left -->
+                    <div id="utterances-container" class="utterances-container">
+                        {% for snippet in snippets %}
+                            <div class="utterance" style="display: none;">
+                                {{ snippet.snippet_text }}
+                            </div>
+                        {% endfor %}
+                    </div>
+                    <a id="next-utterance" href="javascript:void(0);" class="navigation-arrow">&#9654;</a>
+                    <!-- Arrow pointing to the right -->
+                </div>
             </div>
             <div style="height: 20px"></div>
         </div>
     </div>
+
+
+
+
+
+
 
 {% endblock content %}

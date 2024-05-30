@@ -82,8 +82,11 @@ def news_detail(request, news_id):
     else:
         form = CommentForm()
 
+    snippets = Snippet.objects.all()
+    snippets = snippets.filter(thread_id=thread_news[0].thread_id)
+
     context = {
-        "thread_news": thread_news[0].thread_response if thread_news else None,
+        "snippets": snippets,
         "obj": obj,
         #"comments": comments,
         "form": form
