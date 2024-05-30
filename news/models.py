@@ -41,6 +41,11 @@ class Thread(models.Model):
     content_id = models.IntegerField()
     content_title = models.TextField()
     thread_snippet = models.BinaryField()  #BLOB (group of snippets)
+    type = models.TextField()
+    sentiment_valence = models.TextField()
+    sentiment_arousal = models.TextField()
+    style = models.TextField()
+    tone = models.TextField()
 
     def __str__(self):
         return self.content_title
@@ -52,11 +57,6 @@ class Snippet(models.Model):
     snippet_text = models.TextField()
     snippet_options = models.BinaryField()  #BLOB (group of options)
     time_to_consume = models.IntegerField()
-    type = models.TextField()
-    sentiment_valence = models.TextField()
-    sentiment_arousal = models.TextField()
-    style = models.TextField()
-    tone = models.TextField()
 
     def __str__(self):
         return self.snippet_text

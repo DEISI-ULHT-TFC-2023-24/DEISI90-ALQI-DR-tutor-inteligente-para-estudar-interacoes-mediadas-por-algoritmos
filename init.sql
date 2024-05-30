@@ -71,6 +71,11 @@ DO $$ BEGIN
             content_id INT,
             content_title TEXT,
             thread_snippet BYTEA,
+            type TEXT,
+            sentiment_valence TEXT,
+            sentiment_arousal TEXT,
+            style TEXT,
+            tone TEXT,
             FOREIGN KEY (content_id) REFERENCES news_content(content_id)
         );
     END IF;
@@ -91,11 +96,6 @@ DO $$ BEGIN
             snippet_text TEXT,
             snippet_option BYTEA,
             time_to_consume INT,
-            type TEXT,
-            sentiment_valence TEXT,
-            sentiment_arousal TEXT,
-            style TEXT,
-            tone TEXT,
             FOREIGN KEY (thread_id) REFERENCES news_thread(thread_id)
         );
     END IF;

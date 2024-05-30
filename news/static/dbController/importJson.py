@@ -84,7 +84,12 @@ def import_json_thread_response(json_data):
             content_data4 = {
                 'content_id': content_id,
                 'content_title': news_item['content_title'],
-                'thread_snippet': news_item['thread_response']
+                'thread_snippet': news_item['thread_response'],
+                'type': "",
+                'sentiment_valence': "",
+                'sentiment_arousal': "",
+                'style': "",
+                'tone': ""
             }
 
             thread_instance, created = Thread.objects.update_or_create(
@@ -107,11 +112,6 @@ def import_thread_snippet(thread_id, snippets):
             'thread_id': thread_id,
             'snippet_text': snippet.replace('\'', ''),
             'time_to_consume': 0,
-            'type': "",
-            'sentiment_valence': "",
-            'sentiment_arousal': "",
-            'style': "",
-            'tone': ""
         }
 
         snippet_instance, created = Snippet.objects.update_or_create(
@@ -129,12 +129,7 @@ def import_thread_snippet(thread_id, snippets):
         snippet_data = {
             'thread_id': thread_id,
             'snippet_text': snippet.replace('\'', ''),
-            'time_to_consume': 0,
-            'type': "",
-            'sentiment_valence': "",
-            'sentiment_arousal': "",
-            'style': "",
-            'tone': ""
+            'time_to_consume': 0
         }
 
         Snippet.objects.update_or_create(
