@@ -57,8 +57,6 @@ DO $$ BEGIN
     END IF;
 END $$;
 
-
-
 -- Check if news_thread table exists
 DO $$ BEGIN
     IF NOT EXISTS (
@@ -72,13 +70,13 @@ DO $$ BEGIN
             thread_id SERIAL PRIMARY KEY,
             content_id INT,
             content_title TEXT,
-            thread_snippet BLOB,
+            thread_snippet BYTEA,
             FOREIGN KEY (content_id) REFERENCES news_content(content_id)
         );
     END IF;
 END $$;
 
--- Check if news_comment table exists
+-- Check if thread_snippet table exists
 DO $$ BEGIN
     IF NOT EXISTS (
         SELECT 1
@@ -86,20 +84,24 @@ DO $$ BEGIN
         WHERE  table_schema = 'public'
         AND    table_name = 'thread_snippet'
     ) THEN
-        -- Create news_comment table
+        -- Create thread_snippet table
         CREATE TABLE thread_snippet (
             snippet_id SERIAL PRIMARY KEY,
             thread_id INT,
             snippet_text TEXT,
-            snippet_option BLOB,
-            foreign key (thread_id) references news_thread(thread_id)
+            snippet_option BYTEA,
+            time_to_consume INT,
+            type TEXT,
+            sentiment_valence TEXT,
+            sentiment_arousal TEXT,
+            style TEXT,
+            tone TEXT,
+            FOREIGN KEY (thread_id) REFERENCES news_thread(thread_id)
         );
     END IF;
 END $$;
 
-
-
--- Check if news_comment table exists
+-- Check if snippet_options table exists
 DO $$ BEGIN
     IF NOT EXISTS (
         SELECT 1
@@ -107,22 +109,16 @@ DO $$ BEGIN
         WHERE  table_schema = 'public'
         AND    table_name = 'snippet_options'
     ) THEN
-        -- Create news_comment table
+        -- Create snippet_options table
         CREATE TABLE snippet_options (
             option_id SERIAL PRIMARY KEY,
             snippet_id INT,
             option_default TEXT,
-            option_added BLOB,
-            foreign key (content_id) references thread_snippet(snippet_id)
+            option_added BYTEA,
+            FOREIGN KEY (snippet_id) REFERENCES thread_snippet(snippet_id)
         );
     END IF;
 END $$;
-
-
-
-
-
-
 
 -- Insert data into news_category table if not exists
 INSERT INTO news_category (category_label, category_id, category_code)
@@ -144,7 +140,6 @@ WHERE NOT EXISTS (
     WHERE nc.category_label = data.category_label
 );
 
-
 -- Insert data into news_source table if not exists
 INSERT INTO news_source (source_url, source_trust_rating, source_name)
 SELECT *
@@ -158,5 +153,3 @@ WHERE NOT EXISTS (
     FROM news_source ns
     WHERE ns.source_url = data.source_url
 );
-
-

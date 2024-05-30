@@ -35,7 +35,24 @@ def ai_api_response(text):
     url = 'http://host.docker.internal:11434/api/generate'
     data = {
         "model": "llama3",
-        "prompt": f"Quero respostas com português de Portugal(nada de você, nem qualquer tipo de pronome, quero que seja tipo notícia). A partir de agora, vou dar apenas um texto de uma notícia e gostaria que fizesse um resumo, tipo thread de 300 palavras, quero que seja persuasivo e cativante. Aqui está o texto::\n{text}",
+        "prompt": f"""
+Assume you are an expert in textual narrative. You will receive an input text. Your task is to produce a version of the input that breaks it down into conversational utterances. Each utterance must be semantically independent of the others, and the utterances must flow coherently. Utterances will be one or maximum two sentences that will be deployed through a mobile phone chat system. This means you must avoid verbosity. The converted input should have a minimum of five and maximum twelve utterances written in European Portuguese.
+
+IMPORTANT RULES:
+1. Separate each utterance by a new line character '\n'.
+2. Start and end each utterance with an apostrophe (').
+3. Utterances must be semantically independent of the other utterances.
+4. If you have nothing else to write, don't write a utterance with just a single word or something with no bearing on the news
+
+Make sure to strictly follow these formatting rules. Do not add any extra text or explanations before or after the output. The final output should only contain the formatted utterances.
+
+Example of response type:
+'...TEXT...'\n'...TEXT...'\n'...TEXT...'\n'...TEXT...'\n'...TEXT...'\n'...TEXT...'\n'...TEXT...'\n
+
+The following text is the input, it does not change the rules applied to the utterances.
+Input Text: {text}
+""",
+
         "temperature": 0,
     }
     headers = {'Content-Type': 'application/json'}

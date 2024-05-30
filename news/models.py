@@ -40,7 +40,7 @@ class Thread(models.Model):
     thread_id = models.AutoField(primary_key=True)
     content_id = models.IntegerField()
     content_title = models.TextField()
-    thread_snippet = models.BinaryField()  #BLOB
+    thread_snippet = models.BinaryField()  #BLOB (group of snippets)
 
     def __str__(self):
         return self.content_title
@@ -50,7 +50,13 @@ class Snippet(models.Model):
     snippet_id = models.AutoField(primary_key=True)
     thread_id = models.IntegerField()
     snippet_text = models.TextField()
-    snippet_options = models.BinaryField()  #BLOB
+    snippet_options = models.BinaryField()  #BLOB (group of options)
+    time_to_consume = models.IntegerField()
+    type = models.TextField()
+    sentiment_valence = models.TextField()
+    sentiment_arousal = models.TextField()
+    style = models.TextField()
+    tone = models.TextField()
 
     def __str__(self):
         return self.snippet_text

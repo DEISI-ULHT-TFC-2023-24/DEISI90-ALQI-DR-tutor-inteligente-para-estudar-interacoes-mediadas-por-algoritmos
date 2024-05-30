@@ -148,6 +148,8 @@ def execute_python_script(request):
 
         ij.import_json_thread_response("thread_handler/thread_responses.json")
 
+        ij.import_thread_snippet()
+
         return redirect('/')
     except Exception as e:
         return JsonResponse({'error': str(e)}, status=500)
