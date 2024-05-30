@@ -1,1 +1,903 @@
-[]
+[
+    {
+        "headline": "Governo da Eslovénia aprovou moção de reconhecimento do Estado da Palestina",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/governo-da-eslovenia-aprovou-mocao-de-reconhecimento-do-estado-da-palestina_n1575569",
+        "content": [
+            {
+                "type": "text",
+                "data": "O governo da Eslovénia aprovou hoje uma moção de reconhecimento do Estado Palestiniano e pediu ao parlamento que faça o mesmo, dois dias após o reconhecimento por parte de Espanha, Noruega e Irlanda."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 17:41:50",
+        "category": "mundo"
+    },
+    {
+        "headline": "Nenhuma zona do planeta está a salvo de temperaturas extremas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/nenhuma-zona-do-planeta-esta-a-salvo-de-temperaturas-extremas_a1575571",
+        "content": [
+            {
+                "type": "text",
+                "data": "É um alerta para as alterações climáticas. Nenhuma zona do planeta está a salvo de temperaturas extremas, conclui um estudo do centro climático da Federação Internacional da Cruz Vermelha e do Crescente Vermelho.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/28/287a29b6cc1e0cd38378d0ba7eb1313d?w=350&amp;q=50&amp;rect=0,133,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 17:08:14",
+        "category": "mundo"
+    },
+    {
+        "headline": "Guerra da Faixa de Gaza vai custar mais de 63 mil milhões de euros",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/guerra-da-faixa-de-gaza-vai-custar-mais-de-63-mil-milhoes-de-euros_n1575563",
+        "content": [
+            {
+                "type": "text",
+                "data": "A guerra na Faixa de Gaza, agora no seu oitavo mês, vai custar a Israel mais de 63 mil milhões de euros em despesas variadas, segundo as estimativas do governador do Banco Central de Israel."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 16:35:42",
+        "category": "mundo"
+    },
+    {
+        "headline": "Biden realiza visita de Estado a França na próxima semana",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/biden-realiza-visita-de-estado-a-franca-na-proxima-semana_n1575562",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente dos Estados Unidos, Joe Biden vai realizar a sua primeira visita de Estado a França na próxima semana, no decorrer da qual participará nas comemorações do 80.º aniversário do Desembarque na Normandia, foi hoje divulgado.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 16:35:09",
+        "category": "mundo"
+    },
+    {
+        "headline": "Parlamento espanhol aprovou polémica lei da amnistia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/parlamento-espanhol-aprovou-polemica-lei-da-amnistia_a1575564",
+        "content": [
+            {
+                "type": "text",
+                "data": "A amnistia reverte a condenação dos independentistas catalães. A lei foi aprovada com 177 votos a favor e 172 contra, depois de duas horas de intenso debate parlamentar."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/09/096d02fd4b274670a516955912c54b04?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 16:32:54",
+        "category": "mundo"
+    },
+    {
+        "headline": "Portugal já cumpriu compromisso de compra de munições para a Ucrânia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/portugal-ja-cumpriu-compromisso-de-compra-de-municoes-para-a-ucrania_a1575558",
+        "content": [
+            {
+                "type": "text",
+                "data": "Portugal é um dos países que já cumpriram com o compromisso assumido na iniciativa checa para compra de munições destinadas à Ucrânia. Foi o ministro dos Negócios Estrangeiros da Chéquia quem o disse numa reunião com jornalistas.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/74/74b9326cae4e00f134d33864c9e8282b?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 16:03:22",
+        "category": "mundo"
+    },
+    {
+        "headline": "Coreia do Norte lança mísseis para o Mar do Japão",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/coreia-do-norte-lanca-misseis-para-o-mar-do-japao_v1575549",
+        "content": [
+            {
+                "type": "text",
+                "data": "Depois de ter lançado balões com lixo sobre a Coreia do Sul, a Coreia do Norte disparou dez mísseis balísticos de curto alcance para o Mar do Japão.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/44/448825d2bcbe06a979f10ced07240d4b?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 15:30:51",
+        "category": "mundo"
+    },
+    {
+        "headline": "Europeias. Von der Leyen em Portugal a 06 de junho para ação de campanha da AD",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/eleicoes-europeias-2024/europeias-von-der-leyen-em-portugal-a-06-de-junho-para-acao-de-campanha-da-ad_n1575541",
+        "content": [
+            {
+                "type": "text",
+                "data": "A presidente da Comissão Europeia e candidata do Partido Popular Europeu a um segundo mandato estará em Portugal a 06 de junho para uma ação de campanha da Aliança Democrática (AD), avançou hoje à Lusa fonte partidária europeia."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/97/9777210110dfdc61f98ce093d9ce090a?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 15:13:09",
+        "category": "mundo"
+    },
+    {
+        "headline": "Israel reivindica controlo de toda a fronteira entre Faixa de Gaza e Egito",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/israel-reivindica-controlo-de-toda-a-fronteira-entre-faixa-de-gaza-e-egito_v1575544",
+        "content": [
+            {
+                "type": "text",
+                "data": "Apesar da condenação internacional e dos múltiplos apelos a um cessar-fogo, os ataques a Rafah não param.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/3d/3d1f288971c070cd3aed2caec1af74d8?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 15:10:48",
+        "category": "mundo"
+    },
+    {
+        "headline": "Chéquia agradece participação portuguesa em envio de munições à Ucrânia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/chequia-agradece-participacao-portuguesa-em-envio-de-municoes-a-ucrania_v1575543",
+        "content": [
+            {
+                "type": "text",
+                "data": "Declarações do ministro checo dos Negócios Estrangeiros, à margem de uma reunião ministerial da NATO em Praga. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/6f/6fab2f1c02658214a047d259fcad5890_N.jpg?"
+            }
+        ],
+        "published": "2024-05-30 15:04:46",
+        "category": "mundo"
+    },
+    {
+        "headline": "Aprovada em Espanha controversa lei da amnistia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/aprovada-em-espanha-controversa-lei-da-amnistia_v1575540",
+        "content": [
+            {
+                "type": "text",
+                "data": "A polémica lei da amnistia foi aprovada em Madrid com 177 votos a favor e 172 contra.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/63/637b4b2acc3e897195caec2765eefbfa?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 14:57:46",
+        "category": "mundo"
+    },
+    {
+        "headline": "Nuno Melo apoia uso de armas dadas à Ucrânia contra alvos na Rússia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/nuno-melo-apoia-uso-de-armas-dadas-a-ucrania-contra-alvos-na-russia_v1575539",
+        "content": [
+            {
+                "type": "text",
+                "data": "O ministro da Defesa apoia um eventual uso de armas dadas à Ucrânia pelo ocidente em território russo. Mas a questão não é consensual.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/90/904ab410ebf127bf064e90ad6c525aea?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 14:54:47",
+        "category": "mundo"
+    },
+    {
+        "headline": "Kiev reivindica novo ataque com `drones` navais na Crimeia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/kiev-reivindica-novo-ataque-com-drones-navais-na-crimeia_n1575532",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Ucrânia reivindicou hoje ter atingido dois navios de patrulha russos na Crimeia, a península ucraniana anexada pela Rússia no Mar Negro, num ataque com `drones` navais."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 14:51:40",
+        "category": "mundo"
+    },
+    {
+        "headline": "Rússia acusa NATO de provocar Kiev para prolongar a guerra",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/russia-acusa-nato-de-provocar-kiev-para-prolongar-a-guerra_n1575524",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Rússia acusou hoje a NATO de provocar a Ucrânia para prolongar a guerra, numa altura em que os aliados debatem a possibilidade de autorizar Kiev a usar armas ocidentais para atacar território russo."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 14:50:01",
+        "category": "mundo"
+    },
+    {
+        "headline": "Nuno Melo considera inspeção determinante para fundamentar suspeitas de ilegalidade na Defesa desde 2015",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/nuno-melo-considera-inspecao-determinante-para-fundamentar-suspeitas-de-ilegalidade-na-defesa-desde-2015_n1575523",
+        "content": [
+            {
+                "type": "text",
+                "data": "O ministro da Defesa, Nuno Melo, sustentou hoje a necessidade de uma inspeção a licenciamentos no seu ministério desde 2015 como forma de obter uma base jurídica sólida para as suspeitas de ilegalidade que alega ter encontrado."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 14:48:24",
+        "category": "mundo"
+    },
+    {
+        "headline": "Angola vai comprar dez mil kits de medicamentos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/angola-vai-comprar-dez-mil-kits-de-medicamentos_n1575520",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Ministério da Saúde (Minsa) angolano vai adquirir dez mil kits de medicamentos essenciais, na modalidade de contratação simplificada (ajuste direto) por um valor de nove mil milhões de kwanzas, cerca de dez milhões de euros."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 13:56:27",
+        "category": "mundo"
+    },
+    {
+        "headline": "Terra Ranka critica constitucionalista português por declarações sobre Guiné-Bissau",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/terra-ranka-critica-constitucionalista-portugues-por-declaracoes-sobre-guine-bissau_n1575518",
+        "content": [
+            {
+                "type": "text",
+                "data": "A coligação PAI-Terra Ranka justificou hoje o não recurso aos tribunais com o alegado sequestro das instituições e quer que o constitucionalista português Bacelar Gouveia se retrate por declarações sobre a situação política da Guiné-Bissau."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 13:55:37",
+        "category": "mundo"
+    },
+    {
+        "headline": "Ucrânia. Portugal entre os cinco que já pagaram a sua parte na iniciativa checa de apoio com munições",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/ucrania-portugal-entre-os-cinco-que-ja-pagaram-a-sua-parte-na-iniciativa-checa-de-apoio-com-municoes_n1575517",
+        "content": [
+            {
+                "type": "text",
+                "data": "Portugal é um dos cinco países que já pagaram a sua contribuição para a iniciativa da República Checa para enviar munições à Ucrânia, tendo enviado 100 milhões de euros, anunciou hoje o governo checo, agradecendo o apoio português.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 13:55:17",
+        "category": "mundo"
+    },
+    {
+        "headline": "ONG Ocean Alive premiada por recuperação de prados marinhos no Estuário do Sado",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/ong-ocean-alive-premiada-por-recuperacao-de-prados-marinhos-no-estuario-do-sado_n1575515",
+        "content": [
+            {
+                "type": "text",
+                "data": "A organização não-governamental (ONG) portuguesa Ocean Alive recebeu o prémio da conservação marinha da Comissão Europeia com um projeto de recuperação e conservação de prados de ervas marinhas e sapais ameaçados no Estuário do Sado, em Setúbal."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 13:54:01",
+        "category": "mundo"
+    },
+    {
+        "headline": "Sánchez diz que amnistia abre caminho à convivência, oposição acusa-o de \"corrupção política\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/sanchez-diz-que-amnistia-abre-caminho-a-convivencia-oposicao-acusa-o-de-corrupcao-politica_n1575519",
+        "content": [
+            {
+                "type": "text",
+                "data": "O primeiro-ministro espanhol, o socialista Pedro Sánchez, considerou hoje que a amnistia de separatistas catalães abre caminho à convivência em Espanha, enquanto a oposição o acusou de &quot;corrupção política&quot;."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 13:53:12",
+        "category": "mundo"
+    },
+    {
+        "headline": "Israel dá ordem de despejo à agência da ONU em Jerusalém Oriental",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/israel-da-ordem-de-despejo-a-agencia-da-onu-em-jerusalem-oriental_n1575490",
+        "content": [
+            {
+                "type": "text",
+                "data": "Israel deu um prazo de 30 dias à Agência das Nações Unidas de Assistência aos Refugiados da Palestina no Próximo Oriente (UNRWA) para desocupar a sede em Jerusalém Oriental, noticiou hoje a imprensa israelita."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 12:40:22",
+        "category": "mundo"
+    },
+    {
+        "headline": "EUA neutralizam armamento e ataques de rebeldes do Iémen",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/eua-neutralizam-armamento-e-ataques-de-rebeldes-do-iemen_n1575495",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os Estados Unidos reivindicaram hoje a destruição de dois lançadores de mísseis e dois `drones` dos Huthis do Iémen nas últimas 48 horas, numa altura em que os rebeldes intensificaram os ataques à navegação internacional."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 12:40:01",
+        "category": "mundo"
+    },
+    {
+        "headline": "Independência de Taiwan equivale a uma declaração de guerra, diz Pequim",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/independencia-de-taiwan-equivale-a-uma-declaracao-de-guerra-diz-pequim_n1575497",
+        "content": [
+            {
+                "type": "text",
+                "data": "A China advertiu hoje que uma eventual independência de Taiwan seria equivalente a uma declaração de guerra e que não haverá paz em caso de secessão."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 12:39:38",
+        "category": "mundo"
+    },
+    {
+        "headline": "Seis planetas vão ser visíveis alinhados desde a Terra na madrugada de 03 de junho",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/seis-planetas-vao-ser-visiveis-alinhados-desde-a-terra-na-madrugada-de-03-de-junho_n1575504",
+        "content": [
+            {
+                "type": "text",
+                "data": "Seis planetas do sistema solar - Mercúrio, Marte, Júpiter, Saturno, Urano e Neptuno -- vão ser visíveis mais ou menos alinhados no céu noturno antes da madrugada de 03 de junho, um fenómeno invulgar, de acordo com a NASA.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ca/ca22bb013cdcd2b04379fe8be04f46a5?w=350&amp;q=50&amp;rect=0,266,1081,593&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 12:38:42",
+        "category": "mundo"
+    },
+    {
+        "headline": "Gaza. Presidente da China pede conferência de paz \"credível e eficaz\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/gaza-presidente-da-china-pede-conferencia-de-paz-credivel-e-eficaz_n1575507",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente chinês, Xi Jinping, pediu hoje uma conferência internacional de paz &quot;credível e eficaz&quot; para resolver o conflito israelo-palestiniano e reiterou o apoio à criação do Estado da Palestina."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 12:34:46",
+        "category": "mundo"
+    },
+    {
+        "headline": "Independentistas catalães. Lei da amnistia aprovada pelo Parlamento espanhol",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/independentistas-catalaes-lei-da-amnistia-aprovada-pelo-parlamento-espanhol_n1575496",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Parlamento espanhol aprovou, esta quinta-feira, a polémica lei da amnistia que reverte a condenação dos independentistas catalães. A lei foi aprovada com 177 votos a favor e 172 contra. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/f9/f91e9cd8a1e5d79095aa3dd60ed8fe6a?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 11:35:49",
+        "category": "mundo"
+    },
+    {
+        "headline": "Xi Jinping quer cimeira da paz para resolver conflito em Gaza",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/xi-jinping-quer-cimeira-da-paz-para-resolver-conflito-em-gaza_v1575489",
+        "content": [
+            {
+                "type": "text",
+                "data": "A China apela à organização de uma grande conferência de paz para resolver o conflito em Gaza."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/79/79f4b9bab055df3c1dac90a23e1980e8_N.jpg?"
+            }
+        ],
+        "published": "2024-05-30 10:47:47",
+        "category": "mundo"
+    },
+    {
+        "headline": "Comissão contra o Racismo do Conselho da Europa lamenta poucos julgamentos de crimes de ódio",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/comissao-contra-o-racismo-do-conselho-da-europa-lamenta-poucos-julgamentos-de-crimes-de-odio_n1575486",
+        "content": [
+            {
+                "type": "text",
+                "data": "O presidente da Comissão do Conselho da Europa contra o Racismo e a Intolerância (ECRI, na sigla inglesa) afirmou à Lusa que está preocupado com o crescimento do racismo em Portugal e na Europa e admitiu problemas na punição dos crimes de ódio. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 10:29:52",
+        "category": "mundo"
+    },
+    {
+        "headline": "Coreia do Norte lança mísseis balísticos de curto alcance para o mar do Japão",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/coreia-do-norte-lanca-misseis-balisticos-de-curto-alcance-para-o-mar-do-japao_n1575466",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Coreia do Norte lançou hoje uma dezena de mísseis balísticos para o mar do Japão, um dia depois de enviar centenas de balões com lixo para o Sul, segundo fontes oficiais sul-coreanas."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 10:18:35",
+        "category": "mundo"
+    },
+    {
+        "headline": "China adverte comunidade internacional para deixar de interferir em Hong Kong",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/china-adverte-comunidade-internacional-para-deixar-de-interferir-em-hong-kong_n1575482",
+        "content": [
+            {
+                "type": "text",
+                "data": "A China advertiu hoje os críticos internacionais da lei de segurança nacional de Hong Kong de que devem deixar de interferir, depois da detenção de sete pessoas por apelos à desobediência nas redes sociais."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 10:18:06",
+        "category": "mundo"
+    },
+    {
+        "headline": "África do Sul inicia contagem de votos após forte afluência às urnas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/africa-do-sul-inicia-contagem-de-votos-apos-forte-afluencia-as-urnas_n1575460",
+        "content": [
+            {
+                "type": "text",
+                "data": "Com mais de metade das assembleias de voto encerradas, a África do Sul iniciou esta madrugada a contagem dos votos das eleições gerais mais disputadas dos últimos 30 anos.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d1/d16adc4d7fbc2ef75f8f4e1f029674d9?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 09:46:24",
+        "category": "mundo"
+    },
+    {
+        "headline": "Justiça de Hong Kong condena 14 pessoas por realizarem primárias não oficiais",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/justica-de-hong-kong-condena-14-pessoas-por-realizarem-primarias-nao-oficiais_n1575462",
+        "content": [
+            {
+                "type": "text",
+                "data": "Um tribunal de Hong Kong declarou hoje 14 ativistas pró-democracia culpados de subversão por terem realizado primárias não oficiais em 2020 para selecionar os candidatos da oposição para o parlamento da região semiautónoma chinesa.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/a1/a199bf589c859116a50e4ebb0047681b?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 09:34:54",
+        "category": "mundo"
+    },
+    {
+        "headline": "Brasil atribuiu quase 3.950 autorizações de residência e 837 vistos temporários CPLP",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/brasil-atribuiu-quase-3950-autorizacoes-de-residencia-e-837-vistos-temporarios-cplp_n1575474",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Brasil atribuiu 3.947 autorizações de residência CPLP entre setembro de 2023, quando entraram em vigor no país as modalidades de vistos da comunidade lusófona, e março deste ano, e 837 vistos temporários até maio, segundo dados oficiais."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 09:32:09",
+        "category": "mundo"
+    },
+    {
+        "headline": "Ucrânia. Limites ao uso de armas ocidentais domina reunião de MNE da NATO em Praga",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/ucrania-limites-ao-uso-de-armas-ocidentais-domina-reuniao-de-mne-da-nato-em-praga_n1575464",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os ministros dos Negócios Estrangeiros da NATO reúnem-se hoje e sexta-feira de maneira informal em Praga para preparar a cimeira de julho, com a discussão a ser dominada pelas limitações impostas ao uso de armamento ocidental pela Ucrânia."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 09:03:52",
+        "category": "mundo"
+    },
+    {
+        "headline": "Quatro pessoas detidas em operação mundial contra software malicioso",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/quatro-pessoas-detidas-em-operacao-mundial-contra-software-malicioso_n1575467",
+        "content": [
+            {
+                "type": "text",
+                "data": "Quatro pessoas foram detidas e mais de 100 servidores foram desligados na &quot;maior operação alguma vez realizada&quot; contra um software malicioso e particularmente agressivo, anunciou hoje a Europol."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 09:03:16",
+        "category": "mundo"
+    },
+    {
+        "headline": "BAD vai aumentar financiamento a África em 70 mil milhões de dólares até 2033",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/bad-vai-aumentar-financiamento-a-africa-em-70-mil-milhoes-de-dolares-ate-2033_n1575470",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Banco Africano de Desenvolvimento (BAD) vai aumentar a capacidade de financiamento em 70 mil milhões de dólares (64,8 milhões de euros) no âmbito da nova estratégia a dez anos, lançada nos encontros anuais da instituição, em Nairobi."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 09:02:14",
+        "category": "mundo"
+    },
+    {
+        "headline": "Principal mercado de Macau reabre após dois anos de obras e ainda se compra em português",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/principal-mercado-de-macau-reabre-apos-dois-anos-de-obras-e-ainda-se-compra-em-portugues_n1575472",
+        "content": [
+            {
+                "type": "text",
+                "data": "No Mercado Vermelho, o mais icónico de Macau, que reabriu hoje ao público depois de dois anos encerrado para obras de remodelação, ainda há quem recorra ao português para atrair clientes."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 09:01:40",
+        "category": "mundo"
+    },
+    {
+        "headline": "EUA defendem que resolução do Conselho de Segurança da ONU sobre Rafah \"não ajuda\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/eua-defendem-que-resolucao-do-conselho-de-seguranca-da-onu-sobre-rafah-nao-ajuda_n1575448",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os Estados Unidos defenderam esta quarta-feira que uma resolução do Conselho de Segurança da ONU, para o fim imediato da ofensiva israelita em Rafah, no sul da Faixa de Gaza, não irá alterar a &quot;dinâmica no terreno&quot;.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 01:50:07",
+        "category": "mundo"
+    },
+    {
+        "headline": "Júri do julgamento de Trump sem veredicto no primeiro dia de deliberação",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/juri-do-julgamento-de-trump-sem-veredicto-no-primeiro-dia-de-deliberacao_n1575444",
+        "content": [
+            {
+                "type": "text",
+                "data": "O júri do julgamento do ex-presidente norte-americano Donald Trump não alcançou esta quarta-feira um consenso, no primeiro dia de deliberações sobre o caso de alegados subornos para silenciar um escândalo sexual na campanha eleitoral do republicano de 2016.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 23:53:52",
+        "category": "mundo"
+    },
+    {
+        "headline": "Israel assume controlo da zona de fronteira entre Gaza e Egito",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/israel-assume-controlo-da-zona-de-fronteira-entre-gaza-e-egito_n1575442",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Exército israelita anunciou esta quarta-feira que assumiu o controlo da zona fronteiriça entre a Faixa de Gaza e o Egito e que intensificou os bombardeamentos em Rafah, cidade do sul e atual epicentro da guerra contra o Hamas.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 23:25:20",
+        "category": "mundo"
+    },
+    {
+        "headline": "Bombas lançadas contra civis em Rafah foram fabricadas nos Estados Unidos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/bombas-lancadas-contra-civis-em-rafah-foram-fabricadas-nos-estados-unidos_n1575439",
+        "content": [
+            {
+                "type": "text",
+                "data": "As bombas usadas no ataque israelita que, no domingo, matou dezenas de palestinos num campo de deslocados perto de Rafah, em Gaza, foram fabricadas nos Estados Unidos, segundo especialistas e meios de comunicação social.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 23:24:08",
+        "category": "mundo"
+    },
+    {
+        "headline": "Charles Michel quer mais apoio para a Ucrânia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/charles-michel-quer-mais-apoio-para-a-ucrania_v1575438",
+        "content": [
+            {
+                "type": "text",
+                "data": "O presidente do Conselho Europeu está confiante na cimeira de paz para a Ucrânia. Em entrevista à RTP, Charles Michel disse que é preciso apoiar mais a Ucrânia. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/f3/f323fca01f6450c2facc04c1a6a39e25_N.jpg?"
+            }
+        ],
+        "published": "2024-05-29 22:33:51",
+        "category": "mundo"
+    },
+    {
+        "headline": "Vladimir Putin acusa NATO de criar uma crise global",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/vladimir-putin-acusa-nato-de-criar-uma-crise-global_v1575436",
+        "content": [
+            {
+                "type": "text",
+                "data": "O presidente russo garante que os países da Europa passam a ser alvos militares se a Ucrânia for autorizada a usar armas contra território da Rússia.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/32/32b8a238e54f410729d36e84fecd8e63?w=350&amp;q=50&amp;rect=0,86,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 22:28:50",
+        "category": "mundo"
+    },
+    {
+        "headline": "EUA dizem que ataque israelita a campo de deslocados não ultrapassou linhas vermelhas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/eua-dizem-que-ataque-israelita-a-campo-de-deslocados-nao-ultrapassou-linhas-vermelhas_v1575430",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os Estados Unidos consideram que o ataque israelita a um campo de deslocados em Rafah não ultrapassou as linhas vermelhas impostas pela Casa Branca. A Administração Biden diz-se atenta à investigação de Israel sobre o ataque que matou mais de 45 pessoas. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/62/6236ff07a8cc2ce20e18adefc6e95627_N.jpg?"
+            }
+        ],
+        "published": "2024-05-29 22:11:46",
+        "category": "mundo"
+    },
+    {
+        "headline": "Netanyahu agradece a Nikki Haley apoio para sancionar TPI por pedir a sua detenção",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/netanyahu-agradece-a-nikki-haley-apoio-para-sancionar-tpi-por-pedir-a-sua-detencao_n1575413",
+        "content": [
+            {
+                "type": "text",
+                "data": "O primeiro-ministro israelita, Benjamin Netanyahu, agradeceu esta quarta-feira à republicana Nikki Haley o apoio à proposta de alguns congressistas norte-americanos de sancionar o Tribunal Penal Internacional (TPI), cujo procurador solicitou na semana passada um mandado para o deter.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 21:17:30",
+        "category": "mundo"
+    },
+    {
+        "headline": "Operação contra branqueamento de capitais com 40 indiciados e 305 ME apreendidos em Moçambique",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/operacao-contra-branqueamento-de-capitais-com-40-indiciados-e-305-me-apreendidos-em-mocambique_n1575409",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Ministério Público moçambicano anunciou esta quarta-feira a instauração de processos com 40 indiciados no crime de branqueamento de capitais e a apreensão, nos últimos cinco anos, de 330 milhões de dólares (305 milhões de euros).\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 21:02:46",
+        "category": "mundo"
+    },
+    {
+        "headline": "Macron apela a Abbas para \"reformar\" Autoridade Palestiniana",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/macron-apela-a-abbas-para-reformar-autoridade-palestiniana_n1575399",
+        "content": [
+            {
+                "type": "text",
+                "data": "O presidente francês Emmanuel Macron apelou esta quarta-feira ao chefe da Autoridade Palestiniana, Mahmoud Abbas, que &quot;aplique as reformas indispensáveis&quot; na &quot;perspetiva de reconhecimento do Estado da Palestina&quot;, indicou a presidência francesa em comunicado. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/21/21abfb908d5a3defc82cc8f94a15bbcb?w=350&amp;q=50&amp;rect=1,0,5498,3014&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 20:32:14",
+        "category": "mundo"
+    },
+    {
+        "headline": "Tecnologia \"blockchain\" passa a controlar pessoal e massa salarial na Guiné-Bissau",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/tecnologia-blockchain-passa-a-controlar-pessoal-e-massa-salarial-na-guine-bissau_n1575397",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Guiné-Bissau tornou-se esta quarta-feira num dos primeiros países da África Ocidental a utilizar a tecnologia ´blockchain` para controlo da massa salarial e pessoal na Administração Pública, num país onde os salários absorvem o grosso das receitas fiscais.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 20:30:07",
+        "category": "mundo"
+    },
+    {
+        "headline": "Governo guineense desmente organização que contesta regime no país  ",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/governo-guineense-desmente-organizacao-que-contesta-regime-no-pais_n1575396",
+        "content": [
+            {
+                "type": "text",
+                "data": "O secretário de Estado da Ordem Pública guineense, José Carlos Monteiro, desmentiu esta quarta-feira as alegações de um grupo de cidadãos que contestam o regime no país e afirmou que não pediram autorização para realizar uma manifestação pública.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 20:25:22",
+        "category": "mundo"
+    },
+    {
+        "headline": "Houhis reivindicam abate de \"drone\" dos EUA, o sexto desde novembro",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/houhis-reivindicam-abate-de-drone-dos-eua-o-sexto-desde-novembro_n1575394",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os rebeldes Houthis do Iémen reivindicaram esta quarta-feira o abate de um &quot;drone&quot; norte-americano na província de Marib (centro), o sexto que reclamam ter neutralizado desde novembro quando iniciaram os ataques a navios no Médio Oriente.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 20:23:06",
+        "category": "mundo"
+    },
+    {
+        "headline": "Irão recorreu a gangues para atos de violência contra interesses de Israel na Suécia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/irao-recorreu-a-gangues-para-atos-de-violencia-contra-interesses-de-israel-na-suecia_n1575576",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Irão recorreu a gangues para efetuar atos de violência contra interesses de Israel na Suécia e &quot;noutros Estados&quot;, afirmaram hoje os serviços secretos suecos (Säpo)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 18:15:12",
+        "category": "mundo"
+    },
+    {
+        "headline": "Júri do julgamento de Trump retoma deliberações",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/juri-do-julgamento-de-trump-retoma-deliberacoes_n1575579",
+        "content": [
+            {
+                "type": "text",
+                "data": "O júri do julgamento do ex-Presidente norte-americano Donald Trump no caso de alegados subornos para silenciar um escândalo sexual na campanha eleitoral de 2016 retomou hoje as deliberações após repetição dos depoimentos das principais testemunhas."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 18:14:50",
+        "category": "mundo"
+    },
+    {
+        "headline": "Nuno Melo apoia uso de armas dadas à Ucrânia contra alvos na Rússia em ações defensivas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/nuno-melo-apoia-uso-de-armas-dadas-a-ucrania-contra-alvos-na-russia-em-acoes-defensivas_v1575539",
+        "content": [
+            {
+                "type": "text",
+                "data": "O ministro da Defesa apoia um eventual uso de armas dadas à Ucrânia pelo ocidente em território russo. Mas a questão não é consensual.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/90/904ab410ebf127bf064e90ad6c525aea?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 14:54:47",
+        "category": "mundo"
+    }
+]

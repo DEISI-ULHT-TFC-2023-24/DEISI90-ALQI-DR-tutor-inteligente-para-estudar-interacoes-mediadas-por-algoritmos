@@ -84,11 +84,6 @@ def import_json_thread_response(json_data):
             content_data4 = {
                 'content_id': content_id,
                 'content_title': news_item['content_title'],
-                'type': "",
-                'sentiment_valence': "",
-                'sentiment_arousal': "",
-                'style': "",
-                'tone': ""
             }
 
             thread_instance, created = Thread.objects.update_or_create(
@@ -98,15 +93,16 @@ def import_json_thread_response(json_data):
             thread_id = thread_instance.thread_id
 
             snippets = news_item['thread_response'].split('\n')
-            import_thread_snippet(thread_id, snippets)
+            import_news_snippet(thread_id, snippets)
+
 
         else:
             print(f"Warning: Could not find content_id for '{news_item['content_title']}'")
 
 
-def import_thread_snippet(thread_id, snippets):
+def import_news_snippet(thread_id, snippets):
     for snippet in snippets:
-        snippet = snippet.replace('\'', '').trim()
+        snippet = snippet.replace('\'', '')
         snippet_data = {
             'thread_id': thread_id,
             'snippet_text': snippet.replace('\'', ''),
@@ -119,16 +115,14 @@ def import_thread_snippet(thread_id, snippets):
         )
         snippet_id = snippet_instance.snippet_id
 
-        import_thread_options(snippet_id)
+        # import_news_options(snippet_id)
 
 
-def import_thread_options(snippet_id, snippets):
-    for snippet in snippets:
-        snippet = snippet.replace('\'', '').trim()
-        snippet_options = {
-            'snippet_id': snippet_id,
-            'option_default': "",
-            'option_added': "",
-        }
+def import_news_options(snippet_id):
+    snippet_options = {
+        'snippet_id': snippet_id,
+        'option_default': "",
+        'option_added': "",
+    }
 
-        Snippet.objects.create(**snippet_options)
+    Snippet.objects.create(**snippet_options)

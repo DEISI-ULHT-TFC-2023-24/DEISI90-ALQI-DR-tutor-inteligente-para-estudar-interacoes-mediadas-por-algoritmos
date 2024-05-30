@@ -70,10 +70,10 @@ DO $$ BEGIN
             thread_id SERIAL PRIMARY KEY,
             content_id INT,
             content_title TEXT,
-            type TEXT,
+            "type" TEXT,
             sentiment_valence TEXT,
             sentiment_arousal TEXT,
-            style TEXT,
+            "style" TEXT,
             tone TEXT,
             FOREIGN KEY (content_id) REFERENCES news_content(content_id)
         );
@@ -86,14 +86,13 @@ DO $$ BEGIN
         SELECT 1
         FROM   information_schema.tables
         WHERE  table_schema = 'public'
-        AND    table_name = 'thread_snippet'
+        AND    table_name = 'news_snippet'
     ) THEN
         -- Create thread_snippet table
-        CREATE TABLE thread_snippet (
+        CREATE TABLE news_snippet (
             snippet_id SERIAL PRIMARY KEY,
             thread_id INT,
             snippet_text TEXT,
-            snippet_option BYTEA,
             time_to_consume INT,
             FOREIGN KEY (thread_id) REFERENCES news_thread(thread_id)
         );
@@ -106,15 +105,15 @@ DO $$ BEGIN
         SELECT 1
         FROM   information_schema.tables
         WHERE  table_schema = 'public'
-        AND    table_name = 'snippet_options'
+        AND    table_name = 'news_options'
     ) THEN
         -- Create snippet_options table
-        CREATE TABLE snippet_options (
+        CREATE TABLE news_options (
             option_id SERIAL PRIMARY KEY,
             snippet_id INT,
             option_default TEXT,
             option_added BYTEA,
-            FOREIGN KEY (snippet_id) REFERENCES thread_snippet(snippet_id)
+            FOREIGN KEY (snippet_id) REFERENCES news_snippet(snippet_id)
         );
     END IF;
 END $$;

@@ -40,8 +40,6 @@ def index(request):
 
     if category:
         obj = obj.filter(content_category=category)
-    else:
-        obj = obj.filter(content_category='ultimas')
 
     if date:
         obj = obj.order_by(date)
@@ -135,7 +133,7 @@ def execute_python_script(request):
         for x in list_possibilities:
             ij.import_json_data_RTP("data_scrapping/RTP/{cat}.json".format(cat=x))
             lj("data_scrapping/RTP/{cat}.json".format(cat=x))
-
+        """
         subprocess.run(["python", "data_scrapping/Noticias_ao_Minuto/NM_RSS_to_json.py"])
         list_possibilities = ["ultimas", "politica", "pais", "mundo", "tech", "auto", "desporto", "economia", "cultura"]
 
@@ -146,9 +144,9 @@ def execute_python_script(request):
         subprocess.run(["python", "data_scrapping/sapoApi/sapo_api_to_json.py"])
         ij.import_json_data_sapo("data_scrapping/sapoApi/ultimas.json")
 
-        ij.import_json_thread_response("thread_handler/thread_responses.json")
+        """
 
-        ij.import_thread_snippet()
+        ij.import_json_thread_response("thread_handler/thread_responses.json")
 
         return redirect('/')
     except Exception as e:

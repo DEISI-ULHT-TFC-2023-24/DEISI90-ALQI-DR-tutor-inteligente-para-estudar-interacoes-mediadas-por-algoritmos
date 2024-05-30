@@ -54,7 +54,6 @@ class Snippet(models.Model):
     snippet_id = models.AutoField(primary_key=True)
     thread_id = models.IntegerField()
     snippet_text = models.TextField()
-    snippet_options = models.BinaryField()  #BLOB (group of options)
     time_to_consume = models.IntegerField()
 
     def __str__(self):

@@ -1,1 +1,886 @@
-[]
+[
+    {
+        "headline": "Idade de aposentação vai subir para 66 anos e sete meses",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/idade-de-aposentacao-vai-subir-para-66-anos-e-sete-meses_v1575542",
+        "content": [
+            {
+                "type": "text",
+                "data": "São mais três meses do que a atual idade de reforma, a partir de 2025. É o que resulta do aumento da esperança média de vida."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ed/ed6e1345db16f714c589949eaa98ee5c?w=350&amp;q=50&amp;rect=0,164,1236,678&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 14:59:46",
+        "category": "economia"
+    },
+    {
+        "headline": "Regulador deteta tentativa de \"interferência ilegítima\" da Global Media na TSF",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/regulador-deteta-tentativa-de-interferencia-ilegitima-da-global-media-na-tsf_n1575506",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Entidade Reguladora para a Comunicação Social (ERC) detetou duas situações na emissão da TSF que podem configurar tentativa de &quot;interferência ilegítima&quot; da administração da Global Media na autonomia editorial da direção de informação da rádio, foi hoje anunciado."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 12:35:10",
+        "category": "economia"
+    },
+    {
+        "headline": "GNR sinalizou 10.251 casos de falta de limpeza de terrenos mas só aplica coimas após sábado",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/gnr-sinalizou-10251-casos-de-falta-de-limpeza-de-terrenos-mas-so-aplica-coimas-apos-sabado_n1575475",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Guarda Nacional Republicana registou este ano 10.251 sinalizações por falta de limpeza de terrenos agrícolas e florestais para prevenir fogos rurais, informou fonte oficial, mas só a partir de sábado proprietários que não limparem os terrenos arriscam coimas."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 09:32:29",
+        "category": "economia"
+    },
+    {
+        "headline": "Preço do gás natural vai aumentar 6,9% em outubro no mercado regulado",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/preco-do-gas-natural-vai-aumentar-69-em-outubro-no-mercado-regulado_v1575477",
+        "content": [
+            {
+                "type": "text",
+                "data": "O preço do gás natural vai aumentar. A Entidade Reguladora aprovou um aumento de 6,9% para as famílias que estão no mercado regulado. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/35/35293375d891ba7ef6689ec74c566891_N.jpg?"
+            }
+        ],
+        "published": "2024-05-30 09:18:46",
+        "category": "economia"
+    },
+    {
+        "headline": "Idade da reforma sobe para 66 anos e sete meses",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/idade-da-reforma-sobe-para-66-anos-e-sete-meses_v1575476",
+        "content": [
+            {
+                "type": "text",
+                "data": "A idade da reforma vai subir para 66 anos e sete meses em 2025. Um aumento determinado com base na esperança média de vida. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/c4/c44dc3f0440974e83820d07ea4932586_N.jpg?"
+            }
+        ],
+        "published": "2024-05-30 09:17:47",
+        "category": "economia"
+    },
+    {
+        "headline": "Governo vai assinar em junho contratos de obras num valor superior a 2 mil milhões de euros",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/governo-vai-assinar-em-junho-contratos-de-obras-num-valor-superior-a-2-mil-milhoes-de-euros_n1575411",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Governo vai assinar em junho, contratos de obras num valor superior a 2.000 milhões de euros (ME), no âmbito do Plano de Recuperação e Resiliência (PRR), anunciou esta quarta-feira o ministro da Coesão, Manuel Castro Almeida.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 21:10:21",
+        "category": "economia"
+    },
+    {
+        "headline": "ASAE apreende cerca de 10.700 litros de produtos alimentares num armazém ilegal",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/asae-apreende-cerca-de-10700-litros-de-produtos-alimentares-num-armazem-ilegal_n1575410",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Autoridade de Segurança Alimentar e Económica (ASAE) apreendeu cerca de 10.700 litros de azeite, vinho e mel num armazém ilegal no distrito de Viseu, no valor total de 22.300 euros, foi esta quarta-feira anunciado.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 21:08:07",
+        "category": "economia"
+    },
+    {
+        "headline": "ERSE aprova aumento de 6,9% do gás natural em mercado regulado em outubro",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/erse-aprova-aumento-de-69-do-gas-natural-em-mercado-regulado-em-outubro_n1575407",
+        "content": [
+            {
+                "type": "text",
+                "data": "A ERSE aprovou um aumento de 6,9% nos preços do gás natural para as famílias que estão em mercado regulado, a partir de 01 de outubro e até 30 de setembro de 2025, foi esta quarta-feira anunciado.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 20:59:27",
+        "category": "economia"
+    },
+    {
+        "headline": "Norte de Portugal e Galiza preparam manifesto sobre alta velocidade Porto - Vigo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/norte-de-portugal-e-galiza-preparam-manifesto-sobre-alta-velocidade-porto-vigo_n1575381",
+        "content": [
+            {
+                "type": "text",
+                "data": "A eurorregião Galiza e Norte de Portugal está a preparar um manifesto conjunto para defender a ligação ferroviária de alta velocidade, prevista, do lado português, até 2032, revelou esta quarta-feira o presidente da Xunta da Galiza, Espanha.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 20:01:56",
+        "category": "economia"
+    },
+    {
+        "headline": "PSI cai 1,62% só com a Ibersol a subir",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/psi-cai-162-so-com-a-ibersol-a-subir_n1575363",
+        "content": [
+            {
+                "type": "text",
+                "data": "A bolsa de Lisboa terminou esta quarta-feira a sessão em baixa, com o índice PSI a registar uma queda acentuada de 1,62% para 6.798,09 pontos e só uma cotada no `verde`, a Ibersol.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 18:59:32",
+        "category": "economia"
+    },
+    {
+        "headline": "CMVM multa dona da Euronews, jornais e gestores em mais de 100 mil euros",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/cmvm-multa-dona-da-euronews-jornais-e-gestores-em-mais-de-100-mil-euros_n1575350",
+        "content": [
+            {
+                "type": "text",
+                "data": "A CMVM multou a Alpac, dona da Euronews, jornal i e Nascer do Sol, e dois gestores em mais de 100 mil euros por falhas nos deveres de prevenção do branqueamento de capitais e financiamento do terrorismo.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 18:42:43",
+        "category": "economia"
+    },
+    {
+        "headline": "Pedro Nuno avisa que PS não define voto no Orçamento com pressões",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/pedro-nuno-avisa-que-ps-nao-define-voto-no-orcamento-com-pressoes_n1575349",
+        "content": [
+            {
+                "type": "text",
+                "data": "O secretário-geral socialista considerou esta quarta-feira que se o Presidente da República quisesse garantir a aprovação do Orçamento do Estado não tinha dissolvido o parlamento, avisando que não é &quot;com mais ou menos pressões&quot; que o PS define o voto.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 18:40:34",
+        "category": "economia"
+    },
+    {
+        "headline": "Dados da esperança média de vida confirmam subida da idade da reforma para 66 anos e 7 meses",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/dados-da-esperanca-media-de-vida-confirmam-subida-da-idade-da-reforma-para-66-anos-e-7-meses_n1575339",
+        "content": [
+            {
+                "type": "text",
+                "data": "A idade da reforma vai subir para os 66 anos e sete meses em 2025, segundo indicam os dados da esperança média de vida esta quarta-feira publicados pelo Instituto Nacional de Estatística (INE).\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/f0/f07dd5768addff6356b0fbb775c2a557?w=350&amp;q=50&amp;rect=0,324,5472,3000&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 18:26:11",
+        "category": "economia"
+    },
+    {
+        "headline": "Desemprego no Brasil cai para 7,5% em abril, menor taxa em dez anos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/desemprego-no-brasil-cai-para-75-em-abril-menor-taxa-em-dez-anos_n1575337",
+        "content": [
+            {
+                "type": "text",
+                "data": "O desemprego no Brasil caiu para 7,5 por cento no trimestre encerrado em abril, a menor taxa para o período desde 2014 (7,2%), segundo informações divulgadas esta quarta-feira pelo Instituto Brasileiro de Geografia e Estatística (IBGE).\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 18:20:30",
+        "category": "economia"
+    },
+    {
+        "headline": "Bruxelas. Portugal já realizou \"progressos significativos\" para recuperação económica",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/bruxelas-portugal-ja-realizou-progressos-significativos-para-recuperacao-economica_n1575336",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Comissão Europeia garantiu esta quarta-feira que, até à data, Portugal &quot;implementou satisfatoriamente&quot; um quarto dos marcos e metas do Plano de Recuperação e Resiliência (PRR) e realizou &quot;progressos significativos&quot; para a recuperação económica.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/57/572435b4a50b03062f3ddb6f4fc9ff44?w=350&amp;q=50&amp;rect=0,0,800,439&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 18:18:38",
+        "category": "economia"
+    },
+    {
+        "headline": "Chega forçou adiamento de proposta sobre IRS para impedir \"mais uma derrota\" do Governo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/chega-forcou-adiamento-de-proposta-sobre-irs-para-impedir-mais-uma-derrota-do-governo_n1575335",
+        "content": [
+            {
+                "type": "text",
+                "data": "O presidente do Chega explicou esta quarta-feira ter forçado o adiamento da votação do texto de substituição de PSD e CDS-PP sobre a redução do IRS para evitar &quot;mais uma derrota&quot; do Governo no parlamento.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 18:13:33",
+        "category": "economia"
+    },
+    {
+        "headline": "UTAO alerta para desaceleração do crescimento da receita fiscal no 1.º trimestre",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/utao-alerta-para-desaceleracao-do-crescimento-da-receita-fiscal-no-1o-trimestre_n1575334",
+        "content": [
+            {
+                "type": "text",
+                "data": "A UTAO alertou esta quarta-feira que os fatores que impulsionaram a evolução orçamental no passado recente parecem estar a dissipar-se, assistindo-se nomeadamente a uma desaceleração do crescimento da receita. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 18:12:10",
+        "category": "economia"
+    },
+    {
+        "headline": "Presidente da República apela ao diálogo entre Governo e oposição para viabilizar OE",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/presidente-da-republica-apela-ao-dialogo-entre-governo-e-oposicao-para-viabilizar-oe_n1575328",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente da Republica alertou hoje para a importância de garantir a viabilização do próximo Orçamento do Estado para manter o equilíbrio das contas públicas, apelando ao diálogo entre o Governo e a oposição."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/e7/e7418db61d238ef53a798694f0a6d881?w=350&amp;q=50&amp;rect=0,78,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 15:52:34",
+        "category": "economia"
+    },
+    {
+        "headline": "São Tomé e Príncipe sem dinheiro para bens necessários e dívida elevada",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/sao-tome-e-principe-sem-dinheiro-para-bens-necessarios-e-divida-elevada_n1575309",
+        "content": [
+            {
+                "type": "text",
+                "data": "São Tomé e Príncipe tem a dívida &quot;a um nível muitíssimo elevado&quot; e não tem financiamento para importar bens necessários, alertou hoje uma missão técnica do Fundo Monetário Internacional (FMI), após um encontro com o Presidente são-tomense."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 14:58:11",
+        "category": "economia"
+    },
+    {
+        "headline": "Tribunal confirma multa de 50.000 euros à TAP por informação \"não verdadeira\" à CMVM",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/tribunal-confirma-multa-de-50000-euros-a-tap-por-informacao-nao-verdadeira-a-cmvm_n1575306",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Tribunal da Concorrência, Regulação e Supervisão considerou improcedente o recurso da TAP à multa de 50.000 euros aplicada pela Comissão do Mercado de Valores Mobiliários (CMVM) por considerar que enviou informação &quot;não verdadeira&quot; ao mercado."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 14:57:31",
+        "category": "economia"
+    },
+    {
+        "headline": "Votação da proposta de redução de IRS volta a ser adiada",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/votacao-da-proposta-de-reducao-de-irs-volta-a-ser-adiada_v1575318",
+        "content": [
+            {
+                "type": "text",
+                "data": "Foi novamente adiada a votação da proposta do PSD e CDS para a descida do IRS. Depois dos socialistas, agora foi o Chega a travar a votação. O PSD lamenta o bloqueio dos partidos. Diz que se recusam a negociar. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/9a/9a3408f8611dab99f3be7afbba51eb30_N.jpg?"
+            }
+        ],
+        "published": "2024-05-29 14:53:48",
+        "category": "economia"
+    },
+    {
+        "headline": "OIT prevê queda do desemprego mundial para 4,9% em 2024",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/oit-preve-queda-do-desemprego-mundial-para-49-em-2024_n1575259",
+        "content": [
+            {
+                "type": "text",
+                "data": "A taxa de desemprego mundial vai cair para 4,9% em 2024, menos uma décima que em 2023, segundo novos dados publicados hoje pela Organização Internacional do Trabalho (OIT), que no início deste ano havia previsto um aumento do desemprego global."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 14:34:06",
+        "category": "economia"
+    },
+    {
+        "headline": "Grupo José de Mello decide \"em meses\" investimentos da Lifthium",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/grupo-jose-de-mello-decide-em-meses-investimentos-da-lifthium_n1575283",
+        "content": [
+            {
+                "type": "text",
+                "data": "O grupo José de Mello adiantou hoje que espera vir a tomar uma decisão sobre investimentos no negócio do lítio &quot;nos próximos meses&quot; e não descartou a possibilidade de vir a ter parceiros. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 14:20:23",
+        "category": "economia"
+    },
+    {
+        "headline": "Presidente da CP diz que rescisões por mútuo acordo não tinham idade mínima",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/presidente-da-cp-diz-que-rescisoes-por-mutuo-acordo-nao-tinham-idade-minima_n1575281",
+        "content": [
+            {
+                "type": "text",
+                "data": "O presidente do Conselho de Administração da CP, que não exercia o cargo aquando da saída da secretária de Estado da Mobilidade com indemnização, disse hoje que o programa de rescisões era aberto a todos os trabalhadores, independentemente da idade."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 14:19:29",
+        "category": "economia"
+    },
+    {
+        "headline": "8,0% das empresas da UE usaram em 2023 tecnologias de IA",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/80-das-empresas-da-ue-usaram-em-2023-tecnologias-de-ia_n1575280",
+        "content": [
+            {
+                "type": "text",
+                "data": "A quota de empresas com 10 ou mais trabalhadores que usam tecnologias de inteligência artificial (IA) nas suas atividades subiu ligeiramente, dos 7,6% em 2021, para os 8,0% em 2023, divulga hoje o Eurostat."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 13:59:21",
+        "category": "economia"
+    },
+    {
+        "headline": "Antigo PR de Moçambique Joaquim Chissano questiona se África já fala a uma só voz",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/antigo-pr-de-mocambique-joaquim-chissano-questiona-se-africa-ja-fala-a-uma-so-voz_n1575268",
+        "content": [
+            {
+                "type": "text",
+                "data": "O antigo Presidente de Moçambique Joaquim Chissano questionou hoje, em Nairobi, se África fala a uma só voz para promover o desenvolvimento do continente, defendendo que essa é a única forma de o conseguir."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 13:21:45",
+        "category": "economia"
+    },
+    {
+        "headline": "Depósitos de particulares aumentam 5% em abril",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/depositos-de-particulares-aumentam-5-em-abril_n1575264",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os particulares tinham depositado no final de abril um total de 183,2 mil milhões de euros nos bancos em Portugal, ou seja, mais 5% face ao mês homólogo de 2023."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 13:21:22",
+        "category": "economia"
+    },
+    {
+        "headline": "Ministério das Finanças revela abertura para a negociação com a FESAP",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/ministerio-das-financas-revela-abertura-para-a-negociacao-com-a-fesap_n1575266",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Federação dos Sindicatos da Administração Pública (Fesap) disse hoje que o Governo está a avaliar o acordo plurianual de valorização dos trabalhadores e considerou que o Ministério das Finanças revela abertura para a negociação."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 13:21:02",
+        "category": "economia"
+    },
+    {
+        "headline": "Antigo presidente da CP nega conhecimento prévio da ida de Cristina Dias para AMT",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/antigo-presidente-da-cp-nega-conhecimento-previo-da-ida-de-cristina-dias-para-amt_n1575261",
+        "content": [
+            {
+                "type": "text",
+                "data": "O antigo presidente da CP Manuel Queiró negou hoje ter tido conhecimento prévio da ida da então administradora e atual secretária de Estado Cristina Dias para a Autoridade da Mobilidade e dos Transportes (AMT)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 13:10:00",
+        "category": "economia"
+    },
+    {
+        "headline": "Confiança dos consumidores cai em maio, após cinco subidas mensais consecutivas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/confianca-dos-consumidores-cai-em-maio-apos-cinco-subidas-mensais-consecutivas_n1575262",
+        "content": [
+            {
+                "type": "text",
+                "data": "O indicador de confiança dos consumidores diminuiu em maio, depois de cinco subidas mensais consecutivas e de ter registado em abril o valor mais elevado desde fevereiro de 2022, anunciou hoje o Instituto Nacional de Estatística (INE).                  "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 13:09:36",
+        "category": "economia"
+    },
+    {
+        "headline": "Taxa de desemprego cai para 6,3% em abril",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/taxa-de-desemprego-cai-para-63-em-abril_n1575257",
+        "content": [
+            {
+                "type": "text",
+                "data": "A taxa de desemprego fixou-se, em abril, nos 6,3 por cento, valor inferior ao do mês anterior e ao do mesmo período do ano anterior. No entanto, também a população empregada encolheu, em comparação com março. É o que mostram os números divulgados esta quarta-feira pelo Instituto Nacional de Estatística.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/cc/cc13682e9aa27bfd4eaa61d3dfcbe1d3?w=350&amp;q=50&amp;rect=0,164,1391,763&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 12:51:15",
+        "category": "economia"
+    },
+    {
+        "headline": "Banco Africano de Desenvolvimento com lucros recorde de mais de 500 ME em 2023",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/banco-africano-de-desenvolvimento-com-lucros-recorde-de-mais-de-500-me-em-2023_n1575238",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Banco Africano de Desenvolvimento (BAD) registou lucros recorde de 545 milhões de dólares (503 milhões de euros) em 2023, anunciou hoje o seu presidente, sublinhando a solidez da maior instituição financeira do continente. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 12:14:19",
+        "category": "economia"
+    },
+    {
+        "headline": "Intervenção do Tribunal de Contas no ano passado poupou 389 ME em futura despesa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/intervencao-do-tribunal-de-contas-no-ano-passado-poupou-389-me-em-futura-despesa_n1575229",
+        "content": [
+            {
+                "type": "text",
+                "data": "A intervenção do Tribunal de Contas (TdC), no âmbito da sua atividade de fiscalização prévia, no ano passado, levou a que não fosse realizada despesa de 389 milhões de euros, revelou a entidade. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 11:24:22",
+        "category": "economia"
+    },
+    {
+        "headline": "Países africanos vão receber mais de 1.600 ME de apoio de emergência à produção alimentar",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/paises-africanos-vao-receber-mais-de-1600-me-de-apoio-de-emergencia-a-producao-alimentar_n1575226",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Banco Africano de Desenvolvimento vai financiar com 1.800 milhões de dólares (1.661 milhões de euros) 35 países do continente em ajuda de emergência para produção alimentar devido aos efeitos da guerra na Ucrânia, anunciou hoje o seu presidente. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 10:57:42",
+        "category": "economia"
+    },
+    {
+        "headline": "FMI eleva previsão de crescimento da economia da China",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/fmi-eleva-previsao-de-crescimento-da-economia-da-china_n1575189",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Fundo Monetário Internacional (FMI) elevou a previsão para o crescimento da economia da China em 2024 de 4,6% para 5%, a meta fixada pelo governo chinês em março."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/c4/c47c555e6622d152db479ff9e536c540?w=350&amp;q=50&amp;rect=0,31,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 06:18:54",
+        "category": "economia"
+    },
+    {
+        "headline": "Reserva financeira de Macau ganha 3,21 milhões de euros em 12 meses",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/reserva-financeira-de-macau-ganha-321-milhoes-de-euros-em-12-meses_n1575185",
+        "content": [
+            {
+                "type": "text",
+                "data": "A reserva financeira de Macau ganhou 28,1 mil milhões de patacas (3,21 mil milhões de euros) nos últimos 12 meses, mas continua longe do máximo histórico, indicam dados agora divulgados."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/bf/bf07bedbd98dba4b75b522804619e257?w=350&amp;q=50&amp;rect=0,0,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-29 05:19:00",
+        "category": "economia"
+    },
+    {
+        "headline": "Governo quer reduzir prazo da morada fiscal para venda de casa sem pagar mais-valias",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/governo-quer-reduzir-prazo-da-morada-fiscal-para-venda-de-casa-sem-pagar-mais-valias_n1575038",
+        "content": [
+            {
+                "type": "text",
+                "data": "As mais-valias da venda da habitação própria e permanente vão passar a estar isentas se aquela casa tiver sido a morada fiscal nos 12 meses anteriores em vez dos 24 até agora exigidos, segundo uma proposta do Governo."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-28 21:37:33",
+        "category": "economia"
+    },
+    {
+        "headline": "Tribunal de Contas dá `luz verde` ao novo Hospital Lisboa Oriental",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/tribunal-de-contas-da-luz-verde-ao-novo-hospital-lisboa-oriental_n1575044",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Tribunal de Contas (TdC) deu `luz verde` ao novo Hospital Lisboa Oriental, que vai substituir seis unidades de saúde da capital, disse hoje à Lusa fonte oficial da instituição."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-28 21:35:58",
+        "category": "economia"
+    },
+    {
+        "headline": "Governo quer rever modelo de subsídio social de mobilidade para as ilhas e evitar fraudes",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/governo-quer-rever-modelo-de-subsidio-social-de-mobilidade-para-as-ilhas-e-evitar-fraudes_n1575006",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Governo pretende rever o atual modelo de subsídio social de mobilidade para as regiões autónomas, que tem levado a várias fraudes, comprometendo-se a apresentar uma solução até 15 de setembro, anunciou hoje o ministro das Infraestruturas."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-28 19:06:24",
+        "category": "economia"
+    },
+    {
+        "headline": "Governador do BdP avisa que inflação tem efeito desfasado na despesa pública",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/governador-do-bdp-avisa-que-inflacao-tem-efeito-desfasado-na-despesa-publica_n1575005",
+        "content": [
+            {
+                "type": "text",
+                "data": "O governador do Banco de Portugal (BdP) disse hoje que a situação estrutural das contas públicas foi em 2023 melhor do que indica o excedente, mas avisou que a inflação tem um efeito desfasado no aumento da despesa pública."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-28 19:05:51",
+        "category": "economia"
+    },
+    {
+        "headline": "Empréstimos em risco aumentaram em 2023 - BdP",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/emprestimos-em-risco-aumentaram-em-2023-bdp_n1574974",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Relatório de Estabilidade Financeira indica que houve, em 2023, um aumento dos empréstimos em risco, relacionando sobretudo com o endividamento de famílias mais pobres."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-28 18:49:38",
+        "category": "economia"
+    },
+    {
+        "headline": "AT liquidou IMI de 153 barragens desde 2019 numa média de 5 ME por ano",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/at-liquidou-imi-de-153-barragens-desde-2019-numa-media-de-5-me-por-ano_n1574968",
+        "content": [
+            {
+                "type": "text",
+                "data": "A diretora-geral da Autoridade Tributária e Aduaneira disse hoje que foi efetuada a liquidação do IMI de 153 barragens dos anos de 2019 a 2022, sendo o imposto liquidado de cerca de cinco milhões de euros para ano."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-28 18:42:13",
+        "category": "economia"
+    },
+    {
+        "headline": "Regras no crédito à habitação são para ser levadas \"muito a sério\" mesmo com garantia pública",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/regras-no-credito-a-habitacao-sao-para-ser-levadas-muito-a-serio-mesmo-com-garantia-publica_n1574914",
+        "content": [
+            {
+                "type": "text",
+                "data": "O governador do Banco de Portugal disse hoje que os bancos não podem aliviar o cumprimento das regras de concessão de crédito à habitação, a propósito da medida do Governo de garantia pública à compra de primeira habitação por jovens."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-28 15:34:48",
+        "category": "economia"
+    },
+    {
+        "headline": "Governador do Banco de Portugal considera que inflação na Zona Euro está controlada",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/governador-do-banco-de-portugal-considera-que-inflacao-na-zona-euro-esta-controlada_a1574900",
+        "content": [
+            {
+                "type": "text",
+                "data": "Mário Centeno entende que, assim sendo, a flexibilização da atual política monetária está prestes a avançar. Palavras do governador do Banco de Portugal e antigo ministro das Finanças, esta terça-feira de manhã, numa conferência de imprensa, em Lisboa.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/07/07c407396bdba5bae28dcb7941dde93c?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-28 15:05:15",
+        "category": "economia"
+    },
+    {
+        "headline": "Aumento para 45 movimentos/hora na Portela requer estudo das obras necessárias",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/aumento-para-45-movimentoshora-na-portela-requer-estudo-das-obras-necessarias_n1574881",
+        "content": [
+            {
+                "type": "text",
+                "data": "O aumento de capacidade no aeroporto de Lisboa para 45 movimentos por hora vai requerer o estudo das obras necessárias e será acompanhado por um grupo de trabalho que inclui Infraestruturas e Defesa, disse hoje à Lusa fonte oficial."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-28 13:55:11",
+        "category": "economia"
+    },
+    {
+        "headline": "Receitas da Altice Portugal sobem 0,6% no 1.º trimestre para 704ME",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/receitas-da-altice-portugal-sobem-06-no-1o-trimestre-para-704me_n1574872",
+        "content": [
+            {
+                "type": "text",
+                "data": "As receitas da Altice Portugal subiram 0,6% no primeiro trimestre, face a igual período de 2023, para 704 milhões de euros, &quot;impulsionadas pelo sólido crescimento dos resultados operacionais&quot;, divulgou hoje a dona da Meo."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/15/1549a87166c1b8551cceeaf3b214f4ca?w=350&amp;q=50&amp;rect=0,73,1024,561&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-28 13:17:10",
+        "category": "economia"
+    },
+    {
+        "headline": "Fundo de Estabilização da Segurança Social com rentabilidade de 9,1% em 2023",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/fundo-de-estabilizacao-da-seguranca-social-com-rentabilidade-de-91-em-2023_n1574869",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Fundo de Estabilização da Segurança Social registou uma rentabilidade de 9,1% em 2023, invertendo a quebra de 13% verificada em 2022, indicou hoje o Conselho das Finanças Públicas (CFP). "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-28 13:16:10",
+        "category": "economia"
+    },
+    {
+        "headline": "Pensionistas de velhice da CGA atingem valor mais alto dos últimos anos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/pensionistas-de-velhice-da-cga-atingem-valor-mais-alto-dos-ultimos-anos_n1574870",
+        "content": [
+            {
+                "type": "text",
+                "data": "O número de pensionistas de velhice da Caixa Geral de Aposentações (CGA) foi de 420.349 em 2023, tendo atingido o valor mais alto dos últimos anos, segundo o relatório divulgado hoje pelo Conselho das Finanças Públicas (CFP)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-28 13:15:48",
+        "category": "economia"
+    },
+    {
+        "headline": "Práticas desleais na cadeia agroalimentar rendem 39,4 ME em multas na UE",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/praticas-desleais-na-cadeia-agroalimentar-rendem-394-me-em-multas-na-ue_n1574861",
+        "content": [
+            {
+                "type": "text",
+                "data": "A aplicação da diretiva sobre práticas comerciais desleais na cadeia de abastecimento agroalimentar resultou em dois anos na aplicação de multas no valor de 39,4 milhões de euros na União Europeia (UE), segundo dados hoje divulgados."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-28 12:35:58",
+        "category": "economia"
+    },
+    {
+        "headline": "Procura de gás na UE cai 7,4% em 2023 e atinge valor mais baixo desde 2008",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/procura-de-gas-na-ue-cai-74-em-2023-e-atinge-valor-mais-baixo-desde-2008_n1574860",
+        "content": [
+            {
+                "type": "text",
+                "data": "A procura de gás na União Europeia (UE) caiu 7,4% em 2023 atingindo o valor mais baixo registado desde 2008, anunciou hoje o gabinete estatístico comunitário, o Eurostat, falando numa redução que dura há dois anos consecutivos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-28 12:35:07",
+        "category": "economia"
+    },
+    {
+        "headline": "Engenharia. Empresas criada por portugueses continua a crescer o Brasil",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/engenharia-empresas-criada-por-portugueses-continua-a-crescer-o-brasil_v1575582",
+        "content": [
+            {
+                "type": "text",
+                "data": "No Brasil, uma empresa de projetos de engenharia criada há 28 anos por portugueses é um exemplo de crescimento. Apesar da crise económica, nos últimos anos tem estado sempre a recrutar trabalhadores qualificados. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/54/54ea773fcaff7ac9e9f373d34edf5bb0_N.jpg?"
+            }
+        ],
+        "published": "2024-05-30 18:19:46",
+        "category": "economia"
+    },
+    {
+        "headline": "Engenharia. Empresa criada por portugueses continua a crescer no Brasil",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/engenharia-empresas-criada-por-portugueses-continua-a-crescer-o-brasil_v1575582",
+        "content": [
+            {
+                "type": "text",
+                "data": "No Brasil, uma empresa de projetos de engenharia criada há 28 anos por portugueses é um exemplo de crescimento. Apesar da crise económica, nos últimos anos tem estado sempre a recrutar trabalhadores qualificados.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/40/40816c43e6464b5983c0c9c7ec02effd?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-30 18:19:46",
+        "category": "economia"
+    }
+]
