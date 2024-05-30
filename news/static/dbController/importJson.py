@@ -1,5 +1,5 @@
 from news import views
-from news.models import Source, Thread, Content, Category, Snippet
+from news.models import Source, Thread, Content, Category, Snippet, Option
 import json
 from django.db import connection
 
@@ -84,7 +84,6 @@ def import_json_thread_response(json_data):
             content_data4 = {
                 'content_id': content_id,
                 'content_title': news_item['content_title'],
-                'thread_snippet': news_item['thread_response'],
                 'type': "",
                 'sentiment_valence': "",
                 'sentiment_arousal': "",
@@ -120,20 +119,16 @@ def import_thread_snippet(thread_id, snippets):
         )
         snippet_id = snippet_instance.snippet_id
 
-        import_thread_snippet(snippet_id)
+        import_thread_options(snippet_id)
 
 
-def import_thread_snippet(thread_id, snippets):
+def import_thread_options(snippet_id, snippets):
     for snippet in snippets:
         snippet = snippet.replace('\'', '').trim()
-        snippet_data = {
-            'thread_id': thread_id,
-            'snippet_text': snippet.replace('\'', ''),
-            'time_to_consume': 0
+        snippet_options = {
+            'snippet_id': snippet_id,
+            'option_default': "",
+            'option_added': "",
         }
 
-        Snippet.objects.update_or_create(
-            snippet_text=snippet,
-            defaults=snippet_data
-        )
-
+        Snippet.objects.create(**snippet_options)

@@ -40,7 +40,6 @@ class Thread(models.Model):
     thread_id = models.AutoField(primary_key=True)
     content_id = models.IntegerField()
     content_title = models.TextField()
-    thread_snippet = models.BinaryField()  #BLOB (group of snippets)
     type = models.TextField()
     sentiment_valence = models.TextField()
     sentiment_arousal = models.TextField()

@@ -70,7 +70,6 @@ DO $$ BEGIN
             thread_id SERIAL PRIMARY KEY,
             content_id INT,
             content_title TEXT,
-            thread_snippet BYTEA,
             type TEXT,
             sentiment_valence TEXT,
             sentiment_arousal TEXT,
