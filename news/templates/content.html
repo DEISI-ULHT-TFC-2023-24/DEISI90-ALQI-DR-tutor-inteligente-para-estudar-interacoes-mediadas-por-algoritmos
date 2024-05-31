@@ -2,9 +2,12 @@
 
 
 {% block style %}
+
     <style>
         .utterances-wrapper {
-            display: inline-grid;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
             text-align: center;
             width: 100%;
         }
@@ -12,21 +15,19 @@
         .navigation-arrow {
             text-decoration: none;
             font-size: 20px;
-            display: inline-block;
-            vertical-align: middle;
             cursor: pointer;
             padding: 10px;
         }
 
         .utterances-container {
-            display: inline-block;
-            vertical-align: middle;
-            width: 60%; /* Adjust width as needed */
-            padding: 10px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
         }
 
         .utterance {
-            width: 100%;
+            width: auto;
             border: 1px solid #ccc;
             padding: 20px;
             background-color: #f9f9f9;
@@ -34,12 +35,37 @@
             display: none; /* All utterances are hidden initially */
         }
 
+        #containerBLOP {
+            overflow-wrap: break-word;
+            padding: 20px;
+            border-radius: 10px;
+            overflow: hidden;
+            position: relative;
+            transition: background-color 0.5s ease;
+            margin: 15px;
+            text-align: center;
+            color: white;
+            flex-direction: column;
+        }
+
+        #containerBLOP button {
+            margin: 100px
+        }
+
+        #emoji_picker {
+            margin: 10px;
+        }
+
+        #text_for_emoji, #button_for_emoji {
+            display: none;
+            margin-top: 10px;
+        }
     </style>
-
-
-
-
 {% endblock style %}
+
+
+
+
 
 {% block content %}
     <script>
@@ -47,22 +73,23 @@
             const utterances = document.querySelectorAll('.utterance');
             const prevButton = document.getElementById('prev-utterance');
             const nextButton = document.getElementById('next-utterance');
+            const display_emojis = document.getElementById('emoji_picker');
+            const text_area = document.getElementById('text_for_emoji');
+            const button_emoji = document.getElementById('button_for_emoji');
+
+            let isEmojiAreaInitialized = false;
             let currentIndex = 0;
 
             function showUtterance(index) {
-                // Hide all utterances
                 utterances.forEach(utterance => {
                     utterance.style.display = 'none';
                 });
 
-                // Show the current utterance
                 if (utterances[index]) {
-                    utterances[index].style.display = 'grid';
-
+                    utterances[index].style.display = 'block';
                 }
             }
 
-            // Event listener for the next button
             nextButton.addEventListener('click', function () {
                 if (currentIndex + 1 < utterances.length) {
                     currentIndex += 1;
@@ -70,7 +97,6 @@
                 }
             });
 
-            // Event listener for the previous button
             prevButton.addEventListener('click', function () {
                 if (currentIndex - 1 >= 0) {
                     currentIndex -= 1;
@@ -78,63 +104,125 @@
                 }
             });
 
-            // Initially show the first utterance
+            display_emojis.addEventListener('click', function () {
+
+                if (!isEmojiAreaInitialized) {
+                    $("#text_for_emoji").emojioneArea();
+                    isEmojiAreaInitialized = true; // Set flag to true after initialization
+                }
+
+                const emojiAreaContainer = document.querySelector('.emojionearea');
+
+                if (isEmojiAreaInitialized === true) {
+                    emojiAreaContainer.style.display = 'block';
+                    button_emoji.style.display = 'block';
+                    $("#text_for_emoji").data("emojioneArea").enable();
+                } else {
+                    emojiAreaContainer.style.display = 'none';
+                    button_emoji.style.display = 'none';
+                    $("#text_for_emoji").data("emojioneArea").disable();
+                }
+            });
+
             showUtterance(currentIndex);
         });
     </script>
 
 
 
-    <div style="width: 30%; float: right">
 
 
-    </div>
-    <div class="container2" style="width: 70%; float:left">
-        {% for x in obj %}
-            <a style="text-decoration: none" href="{{ x.content_url }}">
-                <div class="flex-container" style="flex-direction: column">
-                    <div class="container" style="flex-grow: 1">
-                        <h2 style="margin-bottom: 5%">
-                            {{ x.content_headline }}
-                        </h2>
-                        <img src="{{ x.content_image }}" alt="Image" style="width: 350px; height: 192px;">
-                        <div style="margin: 5%">
-                            {{ x.content_text }}
+
+    <div style="display: flex; width: 100%;">
+
+        <div class="container2" style="width: 70%; float: left;">
+            {% for x in obj %}
+                <a style="text-decoration: none" href="{{ x.content_url }}">
+                    <div class="flex-container" style="flex-direction: column">
+                        <div class="container" style="flex-grow: 1">
+                            <h2 style="margin-bottom: 5%;">{{ x.content_headline }}</h2>
+                            <img src="{{ x.content_image }}" alt="Image" style="width: 350px; height: 192px;">
+                            <div style="margin: 5%;">{{ x.content_text }}</div>
+                            <h4>{{ x.content_date }}</h4>
+                            <div style="float: right;">Fonte: {{ x.content_source }}</div>
                         </div>
-                        <h4>
-                            {{ x.content_date }}
-                        </h4>
-                        <div style="float: right">
-                            Fonte: {{ x.content_source }}
-                        </div>
+                        <div style="height: 20px;"></div>
                     </div>
-                    <div style="height: 20px"></div>
-                </div>
-            </a>
-        {% endfor %}
-
-       <div id="utterances-wrapper" class="utterances-wrapper">
-    <div style="display: flex; justify-content: center; align-items: center;">
-        <a id="prev-utterance" href="javascript:void(0);" class="navigation-arrow" style="margin-right: 60px;">&#9664;</a>
-        <div id="utterances-container" class="utterances-container" style="flex-grow: 1;">
-            {% for snippet in snippets %}
-                <div class="utterance" style="display: none; display: flex; justify-content: center;">
-                    {{ snippet.snippet_text }}
-                </div>
+                </a>
             {% endfor %}
+
+            <div id="utterances-wrapper" class="utterances-wrapper" style="margin-top: 50px;">
+                <div style="display: flex; justify-content: center; align-items: center;">
+                    <a id="prev-utterance" href="javascript:void(0);" class="navigation-arrow"
+                       style="margin-right: 60px;">&#9664;</a>
+                    <div id="utterances-container" class="utterances-container">
+                        {% for snippet in snippets %}
+                            <div class="utterance">{{ snippet.snippet_text }}</div>
+                        {% endfor %}
+                    </div>
+                    <a id="next-utterance" href="javascript:void(0);" class="navigation-arrow"
+                       style="margin-left: 60px;">&#9654;</a>
+                </div>
+                <div id="containerBLOP">
+                    {% if snippets %}
+                        <div class="container" style="margin: 2%;">
+                            <div class="flex-container" style="flex-direction: column;">
+                                <div style="display: flex; flex-direction: column;">
+                                    <div style="display: flex; justify-content: center; margin: 10%;">
+                                        <div id="visible-content"></div>
+                                        <button onclick="window.location.href='{% url 'random_news' %}'">Outra coisa
+                                        </button>
+                                        <button onclick="window.location.href='{% url 'index' %}'">Voltar</button>
+                                        <button id="emoji_picker">Reagir</button>
+                                    </div>
+                                    <div style="display: flex; justify-content: center; margin: 10%;">
+                                        <label for="text_for_emoji"></label>
+                                        <textarea style="display: none" name="reaction" id="text_for_emoji"
+                                                  rows="1"></textarea>
+
+                                        <button id="button_for_emoji" style="display: none">Submit</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    {% else %}
+                        <h2>Conteúdo ainda não gerado!</h2>
+                        <button onclick="window.location.href='{% url 'random_news' %}'">Outra coisa</button>
+                        <button onclick="window.location.href='{% url 'index' %}'">Voltar</button>
+                    {% endif %}
+                </div>
+            </div>
         </div>
-        <a id="next-utterance" href="javascript:void(0);" class="navigation-arrow" style="margin-left: 60px;">&#9654;</a>
     </div>
-</div>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const emojiPickerButton = document.getElementById('emoji_picker');
+            let isEmojiAreaInitialized = false; // Flag to check initialization
 
+            emojiPickerButton.addEventListener("click", function () {
+                const textArea = document.getElementById('text_for_emoji');
+                const buttonEmoji = document.getElementById('button_for_emoji');
 
+                if (!isEmojiAreaInitialized) {
+                    $("#text_for_emoji").emojioneArea();
+                    isEmojiAreaInitialized = true; // Set flag to true after initialization
+                }
 
-        <div style="height: 20px"></div>
-    </div>
-    </div>
+                // Toggle display of emojionearea container
+                const emojiAreaContainer = document.querySelector('.emojionearea');
+                if (emojiAreaContainer.style.display === 'none' || emojiAreaContainer.style.display === '') {
+                    emojiAreaContainer.style.display = 'block';
+                    buttonEmoji.style.display = 'block';
+                } else {
+                    emojiAreaContainer.style.display = 'none';
+                    buttonEmoji.style.display = 'none';
+                }
+            });
+        });
+    </script>
 
-
-
+    <script>$("#text_for_emoji").emojioneArea();</script>
+    <script>$(".emojionearea").disable()</script>
 
 
 

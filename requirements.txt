@@ -7,3 +7,4 @@ langchain
 langchain-community
 duckduckgo-search
 django-macros
+django-emoji

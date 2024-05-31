@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "macros",
     "news",
+    'emoji',
 ]
 
 MIDDLEWARE = [

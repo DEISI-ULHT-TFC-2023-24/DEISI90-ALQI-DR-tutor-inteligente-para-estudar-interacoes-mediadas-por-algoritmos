@@ -12,9 +12,14 @@
     {% endmacro %}
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="../static/scripts/filtros.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/emojionearea/3.4.2/emojionearea.min.js"></script>
+
+
 
     {% load static %}
     <link rel="shortcut icon" type="image/png" href="{% static 'images/favicon.jpg' %}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/emojionearea/3.4.2/emojionearea.min.css"/>
 
     <meta charset="UTF-8">
     <title>Edu-News</title>
@@ -240,7 +245,7 @@
                     </ul>
                 </div>
                 <div class="filter-block" style="margin-left: 7%; margin-top: 20%">
-                    <button onclick="window.location.href='{% url 'random_news' %}'"
+                    <button onclick="window.location.href='{% url 'news_detail' random_content_id %}'"
                             style="color: #e7e8e9; background-color: transparent; font-size: 1.5em">
                         <img src="{% static 'images/shuffle.png' %}" alt="Random"
                              style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">

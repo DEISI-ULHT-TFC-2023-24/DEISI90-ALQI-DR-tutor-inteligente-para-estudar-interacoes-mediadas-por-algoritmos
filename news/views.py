@@ -12,6 +12,7 @@ from news.static.dbController import importJson as ij
 from thread_handler.content_text_to_query import load_json_file as lj
 from .models import Category, Source, Content, Thread, Snippet, Option
 from .forms import CommentForm
+from emoji import Emoji
 
 
 def index(request):
@@ -34,6 +35,8 @@ def index(request):
     query_string = query_string.replace("?", "&")
 
     obj = Content.objects.all()
+    random_content = random.choice(obj)
+    random_content_id = random_content.content_id
 
     if query:
         obj = obj.filter(content_headline__icontains=query)
@@ -56,6 +59,7 @@ def index(request):
     page_obj = paginator.get_page(page_number)
 
     context = {
+        'random_content_id': random_content_id,
         'query_string': query_string,
         'page_obj': page_obj,
         'categories': Category.objects.all(),
@@ -110,16 +114,7 @@ def random_news(request):
 
     random_content = random.choice(all_content)
 
-    thread_news = Thread.objects.filter(content_id=random_content.content_id)
-   # comments = Comment.objects.filter(content_id=random_content.content_id)
-
-    context = {
-        "thread_news": thread_news[0].thread_response if thread_news.exists() else None,
-        #"comments": comments,
-        "obj": random_content
-    }
-
-    return render(request, "random.html", context)
+    return news_detail(request, random_content.content_id)
 
 
 @csrf_exempt
