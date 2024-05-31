@@ -104,25 +104,7 @@
                 }
             });
 
-            display_emojis.addEventListener('click', function () {
 
-                if (!isEmojiAreaInitialized) {
-                    $("#text_for_emoji").emojioneArea();
-                    isEmojiAreaInitialized = true; // Set flag to true after initialization
-                }
-
-                const emojiAreaContainer = document.querySelector('.emojionearea');
-
-                if (isEmojiAreaInitialized === true) {
-                    emojiAreaContainer.style.display = 'block';
-                    button_emoji.style.display = 'block';
-                    $("#text_for_emoji").data("emojioneArea").enable();
-                } else {
-                    emojiAreaContainer.style.display = 'none';
-                    button_emoji.style.display = 'none';
-                    $("#text_for_emoji").data("emojioneArea").disable();
-                }
-            });
 
             showUtterance(currentIndex);
         });
@@ -213,6 +195,7 @@
                 if (emojiAreaContainer.style.display === 'none' || emojiAreaContainer.style.display === '') {
                     emojiAreaContainer.style.display = 'block';
                     buttonEmoji.style.display = 'block';
+                    buttonEmoji.innerText = 'Submit'
                 } else {
                     emojiAreaContainer.style.display = 'none';
                     buttonEmoji.style.display = 'none';
@@ -221,8 +204,6 @@
         });
     </script>
 
-    <script>$("#text_for_emoji").emojioneArea();</script>
-    <script>$(".emojionearea").disable()</script>
 
 
 
