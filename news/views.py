@@ -114,7 +114,7 @@ def random_news(request):
    # comments = Comment.objects.filter(content_id=random_content.content_id)
 
     context = {
-        "thread_news": thread_news[0].thread_response if thread_news.exists() else None,
+        "thread_news": thread_news[0].thread_id if thread_news.exists() else None,
         #"comments": comments,
         "obj": random_content
     }
