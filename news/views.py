@@ -20,6 +20,7 @@ def index(request):
     category = request.GET.get('category')
     date = request.GET.get('date')
     source = request.GET.get('source')
+    random_content_id = 0
 
     filters = {
         'q': query,
@@ -35,8 +36,9 @@ def index(request):
     query_string = query_string.replace("?", "&")
 
     obj = Content.objects.all()
-    random_content = random.choice(obj)
-    random_content_id = random_content.content_id
+    if obj:
+        random_content = random.choice(obj)
+        random_content_id = random_content.content_id
 
     if query:
         obj = obj.filter(content_headline__icontains=query)
@@ -76,6 +78,8 @@ def news_detail(request, news_id):
     thread_news = Thread.objects.all()
     thread_news = thread_news.filter(content_id=obj[0].content_id)
     #comments = Comment.objects.filter(content_id=obj[0].content_id)
+    random_content = random.choice(Content.objects.all())
+    random_content_id = random_content.content_id
 
     if request.method == 'POST':
         form = CommentForm(request.POST)
@@ -90,6 +94,7 @@ def news_detail(request, news_id):
     snippets = snippets.filter(thread_id=thread_news[0].thread_id)
 
     context = {
+        "random_content_id": random_content_id,
         "snippets": snippets,
         "obj": obj,
         #"comments": comments,

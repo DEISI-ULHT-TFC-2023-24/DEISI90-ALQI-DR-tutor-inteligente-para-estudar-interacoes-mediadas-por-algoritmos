@@ -1069,5 +1069,872 @@
         ],
         "published": "2024-05-30 15:13:09",
         "category": "mundo"
+    },
+    {
+        "headline": "França e Reino Unido apoiam proposta para trégua na Faixa de Gaza",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/franca-e-reino-unido-apoiam-proposta-para-tregua-na-faixa-de-gaza_n1576053",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente francês, Emmanuel Macron, e o primeiro-ministro britânico, Rishi Sunak, expressaram hoje apoio à proposta em três fases para uma trégua na Faixa de Gaza, que prevê igualmente a libertação dos reféns em posse do grupo palestiniano Hamas. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 15:14:21",
+        "category": "mundo"
+    },
+    {
+        "headline": "Médio Oriente. EUA pedem cessar-fogo imediato",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/medio-oriente-eua-pedem-cessar-fogo-imediato_v1576064",
+        "content": [
+            {
+                "type": "text",
+                "data": "Joe Biden apresentou um plano de paz para por fim ao conflito entre Israel e o Hamas. Assenta em três fases e prevê de imediato um cessar-fogo e a libertação de alguns reféns em troca de presos palestinianos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/d4/d4295f540dc7052171692992bb230ef9_N.jpg?"
+            }
+        ],
+        "published": "2024-06-01 15:04:46",
+        "category": "mundo"
+    },
+    {
+        "headline": "Israel mantém destruição do Hamas como condição para uma trégua",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/israel-mantem-destruicao-do-hamas-como-condicao-para-uma-tregua_n1576038",
+        "content": [
+            {
+                "type": "text",
+                "data": "Israel insistiu hoje que as condições para um cessar-fogo permanente na Faixa de Gaza incluem a destruição do Hamas e a libertação de todos os reféns detidos, segundo um comunicado do gabinete do primeiro-ministro israelita.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/2f/2fb67cff6e701d9132f2757923def56c?w=350&amp;q=50&amp;rect=0,64,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 12:18:49",
+        "category": "mundo"
+    },
+    {
+        "headline": "Calor extremo causa 62 mortos no norte da Índia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/calor-extremo-causa-62-mortos-no-norte-da-india_n1576031",
+        "content": [
+            {
+                "type": "text",
+                "data": "O calor extremo causou a morte de 62 pessoas no norte da Índia, incluindo dezenas de funcionários eleitorais, quando o país realiza a fase final das eleições gerais."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 12:11:54",
+        "category": "mundo"
+    },
+    {
+        "headline": "PR timorense defende intensificação de consultas sobre mar do sul da China",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/pr-timorense-defende-intensificacao-de-consultas-sobre-mar-do-sul-da-china_n1576030",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente de Timor-Leste, José Ramos-Horta, defendeu hoje a intensificação das consultas sobre o mar do sul da China, propondo que aquelas águas sejam geridas regionalmente e sem &quot;instalações militares permanentes&quot;."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 12:09:07",
+        "category": "mundo"
+    },
+    {
+        "headline": "Rússia lançou novos ataques contra alvos energéticos ucranianos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/russia-lancou-novos-ataques-contra-alvos-energeticos-ucranianos_n1576037",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Rússia lançou mais de uma centena de &lt;i&gt;drones&lt;/i&gt; e mísseis contra infraestruturas essenciais e centrais elétricas em cinco regiões da  Ucrânia. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/4a/4a8a1c8184c650aa228422b888ef1f23?w=350&amp;q=50&amp;rect=0,24,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 12:04:03",
+        "category": "mundo"
+    },
+    {
+        "headline": "Naufrágio no Afeganistão provoca 20 mortos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/naufragio-no-afeganistao-provoca-20-mortos_n1576029",
+        "content": [
+            {
+                "type": "text",
+                "data": "Vinte pessoas morreram hoje de manhã no leste do Afeganistão quando um barco se afundou ao atravessar um rio, anunciou a autoridade provincial do governo talibã."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 11:14:19",
+        "category": "mundo"
+    },
+    {
+        "headline": "Checos respondem com humor a \"muito séria\" propaganda russa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/checos-respondem-com-humor-a-muito-seria-propaganda-russa_n1576020",
+        "content": [
+            {
+                "type": "text",
+                "data": "A República Checa diz levar &quot;muito a sério&quot; as ameaças híbridas russas de desinformação e interferência, a propósito das eleições europeias e legislativas checas de 2025, mas vê o humor como arma contra a propaganda de Moscovo."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 09:31:30",
+        "category": "mundo"
+    },
+    {
+        "headline": "Eleições Europeias. Michel pede a países da UE \"vigilância\" a interferência russa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/eleicoes-europeias-michel-pede-a-paises-da-ue-vigilancia-a-interferencia-russa_n1576019",
+        "content": [
+            {
+                "type": "text",
+                "data": "O presidente do Conselho Europeu, Charles Michel, apela aos países da União Europeia (UE) para estarem &quot;vigilantes e atentos&quot; para desinformação e propaganda russa que possa interferir com as eleições europeias, descrevendo o sufrágio como &quot;um encontro democrático&quot;."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 09:30:56",
+        "category": "mundo"
+    },
+    {
+        "headline": "Governo da Papua-Nova Guiné reduz para 670 número de soterrados em deslizamento de terra",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/governo-da-papua-nova-guine-reduz-para-670-numero-de-soterrados-em-deslizamento-de-terra_n1576013",
+        "content": [
+            {
+                "type": "text",
+                "data": "O primeiro-ministro da Papua-Nova Guiné, James Marape, reduziu para 670 o número estimado de pessoas soterradas na sequência do deslizamento de terras que ocorreu, na semana passada, no centro do país do Pacífico Sul."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 09:28:38",
+        "category": "mundo"
+    },
+    {
+        "headline": "Terramoto de magnitude 5,9 atinge região chinesa do Tibete",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/terramoto-de-magnitude-59-atinge-regiao-chinesa-do-tibete_n1576011",
+        "content": [
+            {
+                "type": "text",
+                "data": "Um terramoto de magnitude 5,9 sacudiu hoje a região do Tibete, oeste da China, sem vítimas ou danos materiais, informou o Centro da Rede Sismológicas do país asiático."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 08:47:44",
+        "category": "mundo"
+    },
+    {
+        "headline": "Blinken promove novo plano para Gaza à Arábia Saudita, Jordânia e Turquia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/blinken-promove-novo-plano-para-gaza-a-arabia-saudita-jordania-e-turquia_n1576006",
+        "content": [
+            {
+                "type": "text",
+                "data": "O chefe da diplomacia norte-americana, Antony Blinken, promoveu esta sexta-feira o novo roteiro para Gaza revelado pelo Presidente Joe Biden, que tem em vista o cessar-fogo, durante chamadas com os seus homólogos da Jordânia, Arábia Saudita e Turquia."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/7c/7cbf8bcb9b12883e98a834aad22f5476?w=350&amp;q=50&amp;rect=0,129,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 08:44:22",
+        "category": "mundo"
+    },
+    {
+        "headline": "Quatro pessoas, incluindo socorristas, mortas em ataques israelitas no Líbano",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/quatro-pessoas-incluindo-socorristas-mortas-em-ataques-israelitas-no-libano_n1576004",
+        "content": [
+            {
+                "type": "text",
+                "data": "Quatro pessoas, incluindo uma equipa de salvamento, foram mortas na sexta-feira por ataques israelitas no sul do Líbano, anunciaram o Hezbollah e uma organização afiliada."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/92/9252f956b241415c8868d76bcb3bca59?w=350&amp;q=50&amp;rect=0,48,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 08:40:11",
+        "category": "mundo"
+    },
+    {
+        "headline": "Trump lança recrutamento de voluntários para mobilizar votos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/trump-lanca-recrutamento-de-voluntarios-para-mobilizar-votos_n1576002",
+        "content": [
+            {
+                "type": "text",
+                "data": "A equipa de campanha de Donald Trump, presumível candidato republicano à Casa Branca, lançou esta sexta-feira uma iniciativa de recrutamento de voluntários para mobilizar eleitores em &quot;estados-chave&quot;, antes das presidenciais de novembro nos Estados Unidos.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 01:54:31",
+        "category": "mundo"
+    },
+    {
+        "headline": "Von der Leyen elogia proposta realista para cessar-fogo em Gaza",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/von-der-leyen-elogia-proposta-realista-para-cessar-fogo-em-gaza_n1576001",
+        "content": [
+            {
+                "type": "text",
+                "data": "A presidente da Comissão Europeia, Ursula von der Leyen, elogiou o roteiro &quot;equilibrado e realista&quot; para um cessar-fogo em Gaza, considerando a proposta apresentada esta sexta-feira pelo Presidente norte-americano Joe Biden &quot;uma oportunidade real&quot; para acabar com a guerra.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/21/215257d2fa719257ad63531230a82558?w=350&amp;q=50&amp;rect=0,0,859,471&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 01:42:04",
+        "category": "mundo"
+    },
+    {
+        "headline": "Governo \"a acompanhar\" situação de professores dispensados na Escola Portuguesa de Macau",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/governo-a-acompanhar-situacao-de-professores-dispensados-na-escola-portuguesa-de-macau_n1575995",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Governo português pediu esclarecimentos ao diretor da Escola Portuguesa de Macau (EPM), depois de vários professores da instituição terem sido dispensados esta semana, disse hoje à Lusa fonte oficial.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 01:38:55",
+        "category": "mundo"
+    },
+    {
+        "headline": "Biden critica Trump por afirmar que sistema de justiça é tendencioso",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/biden-critica-trump-por-afirmar-que-sistema-de-justica-e-tendencioso_n1575994",
+        "content": [
+            {
+                "type": "text",
+                "data": "O presidente norte-americano, Joe Biden, condenou esta sexta-feira as afirmações de Donald Trump sobre o sistema jurídico tendencioso, considerando-o &quot;imprudente&quot; e &quot;perigoso&quot;.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 01:37:31",
+        "category": "mundo"
+    },
+    {
+        "headline": "África do Sul. Partido MK de Jacob Zuma anuncia que vai contestar resultados eleitorais",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/africa-do-sul-partido-mk-de-jacob-zuma-anuncia-que-vai-contestar-resultados-eleitorais_n1575993",
+        "content": [
+            {
+                "type": "text",
+                "data": "O partido umKhonto weSizwe (MKP) do ex-Presidente Jacob Zuma vai contestar os resultados das eleições de quarta-feira alegando irregularidades no processo eleitoral, anunciou na noite de hoje o responsável eleitoral do partido.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 01:09:45",
+        "category": "mundo"
+    },
+    {
+        "headline": "EUA anunciam mais meios e medidas para desmantelar tráfico de seres humanos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/eua-anunciam-mais-meios-e-medidas-para-desmantelar-trafico-de-seres-humanos_n1575992",
+        "content": [
+            {
+                "type": "text",
+                "data": "O executivo liderado pelo presidente dos Estados Unidos, Joe Biden, anunciou esta sexta-feira mais procuradores e pessoal de apoio para combater o tráfico de pessoas e o reforço das sanções contra &quot;quem viola as leis de imigração&quot;.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 01:00:58",
+        "category": "mundo"
+    },
+    {
+        "headline": "Guterres espera que roteiro para cessar-fogo leve a paz duradoura",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/guterres-espera-que-roteiro-para-cessar-fogo-leve-a-paz-duradoura_n1575990",
+        "content": [
+            {
+                "type": "text",
+                "data": "O secretário-geral da ONU, António Guterres, realçou que &quot;espera fervorosamente&quot; que a proposta israelita para um cessar-fogo em Gaza, anunciada esta sexta-feira pelo presidente dos Estados Unidos Joe Biden, resulte &quot;num acordo entre as partes para uma paz duradoura&quot;.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/9e/9ebfdba7d101de964b390df5ae9dd9d4?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 00:59:22",
+        "category": "mundo"
+    },
+    {
+        "headline": "S&P reduz rating da França para AA- mas governo argumenta com apoios no covid",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/sp-reduz-rating-da-franca-para-aa-mas-governo-argumenta-com-apoios-no-covid_n1575988",
+        "content": [
+            {
+                "type": "text",
+                "data": "A agência de notação financeira S&amp;P Global Ratings baixou esta sexta-feira, pela primeira vez desde 2013, a nota da dívida soberana da França, de AA para AA-, sancionando a &quot;deterioração da posição orçamental&quot; do país.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 00:51:46",
+        "category": "mundo"
+    },
+    {
+        "headline": "UE apoia \"roteiro\" para cessar-fogo em Gaza e libertação de reféns",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/ue-apoia-roteiro-para-cessar-fogo-em-gaza-e-libertacao-de-refens_n1575985",
+        "content": [
+            {
+                "type": "text",
+                "data": "O chefe da diplomacia da União Europeia (UE), Josep Borrell, e o presidente do Conselho Europeu, Charles Michel, manifestaram esta sexta-feira o seu apoio ao `roteiro` proposto por Israel para um cessar-fogo em Gaza e libertação de reféns.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/fb/fb13c43e700f546e5a3414d6426c64e2?w=350&amp;q=50&amp;rect=0,53,900,493&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 00:49:35",
+        "category": "mundo"
+    },
+    {
+        "headline": "Hamas vê como positiva proposta de trégua apresentada pelos EUA",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/hamas-ve-como-positiva-proposta-de-tregua-apresentada-pelos-eua_n1575982",
+        "content": [
+            {
+                "type": "text",
+                "data": "O movimento islamita palestiniano Hamas disse esta sexta-feira encarar positivamente a proposta de trégua anunciada pelo Presidente norte-americano sobre um &quot;cessar-fogo definitivo, a retirada das forças israelitas da Faixa de Gaza, a reconstrução de Gaza e a troca de prisioneiros&quot;.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 00:44:12",
+        "category": "mundo"
+    },
+    {
+        "headline": "Palestinianos obtêm mais direitos na OMS",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/palestinianos-obtem-mais-direitos-na-oms_n1575979",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os países membros da Organização Mundial de Saúde (OMS) decidiram esta sexta-feira conceder direitos adicionais aos palestinianos, fazendo eco de uma decisão semelhante tomada no início do mês pela ONU.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/85/856ad2cb033cf28a0223cdde9a6a1c83?w=350&amp;q=50&amp;rect=20,0,1459,800&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-31 23:47:43",
+        "category": "mundo"
+    },
+    {
+        "headline": "Netanyahu convidado a discursar perante o Congresso dos EUA",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/netanyahu-convidado-a-discursar-perante-o-congresso-dos-eua_n1575975",
+        "content": [
+            {
+                "type": "text",
+                "data": "O primeiro-ministro israelita, Benjamin Netanyahu, foi convidado pelos republicanos e democratas para discursar perante o Congresso norte-americano, adiantou hoje Mike Johnson, líder republicano da Câmara dos Representantes, numa demonstração de apoio à guerra na Faixa de Gaza.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-31 23:14:09",
+        "category": "mundo"
+    },
+    {
+        "headline": "Israel mata 18 membros do Hamas que coordenavam ataques na Cisjordânia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/israel-mata-18-membros-do-hamas-que-coordenavam-ataques-na-cisjordania_n1575972",
+        "content": [
+            {
+                "type": "text",
+                "data": "O serviço de segurança de Israel Shin Bet anunciou esta sexta-feira a morte de 18 membros de uma unidade do movimento islamita palestiniano Hamas que coordenou, a partir de Gaza, a realização de ataques contra alvos israelitas na Cisjordânia.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-31 22:53:45",
+        "category": "mundo"
+    },
+    {
+        "headline": "NATO vai responder à intensificação dos ataques híbridos russos, garantiu Blinken",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/nato-vai-responder-a-intensificacao-dos-ataques-hibridos-russos-garantiu-blinken_n1575967",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os países da NATO vão responder ao aumento dos ataques híbridos realizados pela Rússia contra várias nações da Aliança Atlântica, garantiu esta sexta-feira o secretário de Estado norte-americano, Antony Blinken.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-31 22:45:13",
+        "category": "mundo"
+    },
+    {
+        "headline": "Governo russo classifica Yekaterina Duntsova como agente do estrangeiro",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/governo-russo-classifica-yekaterina-duntsova-como-agente-do-estrangeiro_n1575964",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Ministério da Justiça da Federação Russa declarou esta sexta-feira &quot;agente do estrangeiro&quot; a oposicionista e única mulher que se pretendeu candidatar às eleições presidenciais de março último, Yekaterina Duntsova. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-31 22:18:40",
+        "category": "mundo"
+    },
+    {
+        "headline": "EUA autorizam Kiev a utilizar armas norte-americanas contra território russo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/eua-autorizam-kiev-a-utilizar-armas-norte-americanas-contra-territorio-russo_v1575959",
+        "content": [
+            {
+                "type": "text",
+                "data": "A confirmação surgiu na reunião de Praga dos ministros dos Negócios Estrangeiros da NATO."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/d3/d3253c3141f8c8cd4bb77ab61c35560d_N.jpg?"
+            }
+        ],
+        "published": "2024-05-31 21:51:47",
+        "category": "mundo"
+    },
+    {
+        "headline": "Senador democrata Joe Manchin da Virgínia Ocidental passa a independente",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/senador-democrata-joe-manchin-da-virginia-ocidental-passa-a-independente_n1575938",
+        "content": [
+            {
+                "type": "text",
+                "data": "O senador democrata Joe Manchin, da Virgínia Ocidental, anunciou esta sexta-feira que mudou seu registo para independente, apontando um &quot;extremismo partidário&quot;, decisão que levanta questões sobre uma possível luta pela reeleição no Estado fortemente republicano.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-31 21:35:06",
+        "category": "mundo"
+    },
+    {
+        "headline": "Eleições gerais de quarta-feira na África do Sul foram pacíficas e credíveis",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/eleicoes-gerais-de-quarta-feira-na-africa-do-sul-foram-pacificas-e-crediveis_n1575937",
+        "content": [
+            {
+                "type": "text",
+                "data": "As eleições gerais de quarta-feira na África do Sul foram pacíficas e credíveis, apesar do &quot;ambiente político tenso&quot; marcado pela proibição da candidatura do antigo Presidente Jacob Zuma, anunciaram hoje os observadores eleitorais da União Africana (UA).\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-31 21:27:25",
+        "category": "mundo"
+    },
+    {
+        "headline": "Moderado Ali Larijani candidata-se às presidenciais antecipadas no Irão",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/moderado-ali-larijani-candidata-se-as-presidenciais-antecipadas-no-irao_n1575936",
+        "content": [
+            {
+                "type": "text",
+                "data": "O antigo chefe do parlamento iraniano, o moderado Ali Larijani, apresentou-se hoje como candidato às eleições presidenciais antecipadas de 28 de junho para suceder a Ebrahim Raissi, morto num acidente de helicóptero, anunciou um&quot;media&quot; estatal. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-31 21:10:18",
+        "category": "mundo"
+    },
+    {
+        "headline": "Hamas divulga vídeo de propaganda usando voz de um dos reféns",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/hamas-divulga-video-de-propaganda-usando-voz-de-um-dos-refens_n1575925",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Hamas divulgou hoje um vídeo de propaganda contra o Governo do primeiro-ministro israelita, Benjamin Netanyahu, no qual se ouve a voz de um dos reféns israelitas que ainda permanecem na Faixa de Gaza."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-31 20:59:05",
+        "category": "mundo"
+    },
+    {
+        "headline": "Rússia prolonga detenção provisória de jornalista russo-norte-americana",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/russia-prolonga-detencao-provisoria-de-jornalista-russo-norte-americana_n1575933",
+        "content": [
+            {
+                "type": "text",
+                "data": "A detenção provisória da jornalista russo-norte-americana Alsu Kurmasheva foi esta sexta-feira prolongada até 05 de agosto, por um tribunal da cidade russa de Kazan, onde está detida, indicou uma porta-voz judicial à AFP. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-31 20:55:46",
+        "category": "mundo"
+    },
+    {
+        "headline": "Hezbollah dispara dezenas de foguetes contra Israel após ataque de \"drone\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/hezbollah-dispara-dezenas-de-foguetes-contra-israel-apos-ataque-de-drone_n1575931",
+        "content": [
+            {
+                "type": "text",
+                "data": "O grupo xiita libanês Hezbollah reivindicou esta sexta-feira o ataque a três localidades do norte de Israel com &quot;dezenas&quot; de lança-foguetes, em resposta ao bombardeamento de um `drone` israelita que atingiu uma ambulância no Líbano e matou um paramédico. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-31 20:53:46",
+        "category": "mundo"
+    },
+    {
+        "headline": "EUA. Vermont passa a exigir indemnizações às empresas petrolíferas por intempéries",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/eua-vermont-passa-a-exigir-indemnizacoes-as-empresas-petroliferas-por-intemperies_n1575930",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Vermont tornou-se o primeiro Estado norte-americano a promulgar uma lei que exige às empresas de combustíveis fósseis o pagamento de parte dos danos causados pelas alterações climáticas, depois de ter sofrido inundações catastróficas no verão.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-31 20:50:02",
+        "category": "mundo"
+    },
+    {
+        "headline": "Base de apoiantes de Donald Trump sólida apesar de condenação judicial",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/base-de-apoiantes-de-donald-trump-solida-apesar-de-condenacao-judicial_n1575922",
+        "content": [
+            {
+                "type": "text",
+                "data": "Analistas e imprensa norte-americana consideram incerto o impacto eleitoral da condenação de Donald Trump por falsificação de documentos, apesar de concordarem que a base de apoiantes convictos do ex-presidente se manterá fiel.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-31 20:37:22",
+        "category": "mundo"
+    },
+    {
+        "headline": "Seul ameaça com medidas dolorosas face às \"provocações irracionais\" de Pyongyang",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/seul-ameaca-com-medidas-dolorosas-face-as-provocacoes-irracionais-de-pyongyang_n1575919",
+        "content": [
+            {
+                "type": "text",
+                "data": "As autoridades sul-coreanas ameaçaram esta sexta-feira adotar medidas dolorosas e insuportáveis contra a Coreia do Norte, caso o país vizinho continue com as &quot;provocações irracionais&quot;, como o envio de balões com lixo através da fronteira.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-31 20:32:19",
+        "category": "mundo"
+    },
+    {
+        "headline": "\"Muito injusto\". Donald Trump insiste na inocência",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/muito-injusto-donald-trump-insiste-na-inocencia_n1575890",
+        "content": [
+            {
+                "type": "text",
+                "data": "O antigo presidente dos Estados Unidos voltou a falar aos jornalistas, esta tarde de sexta-feira, para dizer que foi vítima de um processo injusto. Trump foi condenado por 34 crimes no âmbito do caso conhecido como Stormy Daniels.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/39/39fcad3e18a79763f3d635eaf789ed31?w=350&amp;q=50&amp;rect=0,372,1080,592&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-31 20:31:48",
+        "category": "mundo"
+    },
+    {
+        "headline": "Turquia rejeita que a NATO \"participe\" na guerra",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/turquia-rejeita-que-a-nato-participe-na-guerra_n1575916",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Turquia rejeita uma &quot;participação&quot; da NATO no conflito na Ucrânia, afirmou esta sexta-feira o ministro dos Negócios Estrangeiros Hakan Fidan no final de uma reunião informal dos chefes da diplomacia da Aliança em Praga. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-31 20:26:32",
+        "category": "mundo"
+    },
+    {
+        "headline": "PM de Taiwan devolve ao parlamento leis controversas que aumentam poderes dos deputados",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/pm-de-taiwan-devolve-ao-parlamento-leis-controversas-que-aumentam-poderes-dos-deputados_n1575913",
+        "content": [
+            {
+                "type": "text",
+                "data": "O primeiro-ministro de Taiwan anunciou esta sexta-feira que irá devolver ao parlamento as leis controversas destinadas a expandir os poderes deste órgão, aprovadas esta semana e que provocaram protestos, apontando preocupações sobre a sua constitucionalidade.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-31 20:21:28",
+        "category": "mundo"
+    },
+    {
+        "headline": "Moçambique. Órgão eleitoral com dívida de 49,7 milhões de euros a fornecedores",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/mocambique-orgao-eleitoral-com-divida-de-497-milhoes-de-euros-a-fornecedores_n1575912",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Comissão Nacional de Eleições (CNE) de Moçambique deve 54 milhões de dólares (49,7 milhões de euros) a fornecedores de bens e serviços, refere hoje o Centro de Integridade Pública (CPI), uma organização não--governamental (ONG).\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-31 20:19:46",
+        "category": "mundo"
+    },
+    {
+        "headline": "Moscovo e Kiev trocam prisioneiros de guerra pela primeira vez em 3 meses",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/moscovo-e-kiev-trocam-prisioneiros-de-guerra-pela-primeira-vez-em-3-meses_n1575909",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Ucrânia e a Rússia trocaram hoje 150 prisioneiros de guerra, 75 por cada parte, na primeira troca desse tipo nos últimos três meses, informaram as autoridades ucranianas. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-31 20:16:48",
+        "category": "mundo"
+    },
+    {
+        "headline": "Joe Biden. Israel propôs \"retirada total de Gaza\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/joe-biden-israel-propos-retirada-total-de-gaza_n1575917",
+        "content": [
+            {
+                "type": "text",
+                "data": "O presidente dos Estados Unidos da América anunciou esta sexta-feira que &quot;Israel propôs um novo acordo de cessar-fogo em três fases, que inclui a retirada de todas as suas forças de Gaza por seis semanas&quot; e a entrega de todos os reféns ainda vivos ou dos seus corpos. &quot;O Hamas deve aceitar o acordo&quot;, opinou Joe Biden.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/61/61f9b9dc0a59ca3ea09599e0bd8bf8be?w=350&amp;q=50&amp;rect=0,81,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-31 20:05:55",
+        "category": "mundo"
+    },
+    {
+        "headline": "ONU apela à libertação imediata do opositor egípcio Ahmad al-Tantawi",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/onu-apela-a-libertacao-imediata-do-opositor-egipcio-ahmad-al-tantawi_n1575900",
+        "content": [
+            {
+                "type": "text",
+                "data": "As Nações Unidas apelaram hoje à libertação imediata do opositor egípcio Ahmad al-Tantawi, manifestando profunda preocupação pela sua detenção. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-31 19:56:55",
+        "category": "mundo"
+    },
+    {
+        "headline": "NATO termina maior exercício militar em décadas com 90 mil soldados",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/nato-termina-maior-exercicio-militar-em-decadas-com-90-mil-soldados_n1575899",
+        "content": [
+            {
+                "type": "text",
+                "data": "A NATO conclui esta sexta-feira o seu maior exercício militar em décadas, no qual participaram mais de 90 mil soldados, acima de 50 navios e de 80 aeronaves, e ainda cerca de 1.100 veículos dos 32 estados-membros da organização.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/e2/e2dfb1cb5a5de2f742638cbba08c737d?w=350&amp;q=50&amp;rect=0,0,800,439&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-31 19:42:34",
+        "category": "mundo"
+    },
+    {
+        "headline": "Primeira Feira Literária de Língua Portuguesa em Londres juntou escritores lusófonos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/primeira-feira-literaria-de-lingua-portuguesa-em-londres-juntou-escritores-lusofonos_n1575898",
+        "content": [
+            {
+                "type": "text",
+                "data": "Cerca de 30 escritores, ilustradores e editores juntaram-se esta sexta-feira na Feira Literária Internacional de Língua Portuguesa em Londres para vender livros, fazer conhecimentos e trocar experiências. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-31 19:35:30",
+        "category": "mundo"
+    },
+    {
+        "headline": "Governo de coligação será dor de cabeça para o ANC na África do Sul",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/governo-de-coligacao-sera-dor-de-cabeca-para-o-anc-na-africa-do-sul_n1575892",
+        "content": [
+            {
+                "type": "text",
+                "data": "O ANC, partido no poder há trinta anos na África do Sul, está prestes a perder a maioria absoluta e, embora continue a ser o maior partido, tem pela frente a difícil tarefa de negociar uma coligação para governar.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-31 19:30:14",
+        "category": "mundo"
+    },
+    {
+        "headline": "Resultados parciais na África do Sul. Partido há 30 anos no poder longe da maioria absoluta",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/resultados-parciais-na-africa-do-sul-partido-ha-30-anos-no-poder-longe-da-maioria-absoluta_n1575886",
+        "content": [
+            {
+                "type": "text",
+                "data": "O partido no poder há 30 anos na África do Sul, o Congresso Nacional Africano (ANC), está à beira de perder, pela primeira vez, a maioria absoluta, quando estão contados 73,5 por cento dos votos das eleições realizadas quarta-feira.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/83/83933c26b50bdab8481ab7a1b0ac6c03?w=350&amp;q=50&amp;rect=0,355,6000,3289&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-31 18:46:23",
+        "category": "mundo"
+    },
+    {
+        "headline": "Ciberataque russo \"provável\" na publicação de notícia falsa por agência polaca",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/ciberataque-russo-provavel-na-publicacao-de-noticia-falsa-por-agencia-polaca_n1575880",
+        "content": [
+            {
+                "type": "text",
+                "data": "As autoridades polacas informaram esta sexta-feira que um ciberataque russo é a causa provável da divulgação de uma notícia falsa pela agência noticiosa do país sobre a mobilização de 200 mil cidadãos para combater na Ucrânia.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-05-31 18:42:55",
+        "category": "mundo"
+    },
+    {
+        "headline": "Índia. Sondagens à boca das urnas projetam vitória da NDA de Narendra Modi",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/india-sondagens-a-boca-das-urnas-projetam-vitoria-da-nda-de-narendra-modi_n1576079",
+        "content": [
+            {
+                "type": "text",
+                "data": "O primeiro-ministro da Índia deverá tornar-se o segundo líder do país a cumprir três mandatos consecutivos, caso se confirmem os resultados do somatório de duas sondagens à boca das urnas, publicados pelo canal de televisão NDTV."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b9/b9912788b81f306df6aea8d5c45ae52e?w=350&amp;q=50&amp;rect=0,48,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 17:52:43",
+        "category": "mundo"
     }
 ]

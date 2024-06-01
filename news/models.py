@@ -1,3 +1,4 @@
+from django.contrib.postgres.fields import ArrayField
 from django.db import models
 from django.db.models import SET_DEFAULT
 
@@ -63,8 +64,16 @@ class Snippet(models.Model):
 class Option(models.Model):
     option_id = models.AutoField(primary_key=True)
     snippet_id = models.IntegerField()
-    option_default = models.TextField()
-    option_added = models.BinaryField()
+    option_default = ArrayField(
+        models.CharField(max_length=50),
+        blank=True,
+        default=list
+    )
+    option_added = ArrayField(
+        models.CharField(max_length=20),
+        blank=True,
+        default=list
+    )
 
     def __str__(self):
-        return self.option_id
+        return str(self.snippet_id)

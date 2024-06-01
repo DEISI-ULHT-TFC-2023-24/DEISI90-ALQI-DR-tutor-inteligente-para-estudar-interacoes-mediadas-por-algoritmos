@@ -105,7 +105,6 @@
             });
 
 
-
             showUtterance(currentIndex);
         });
     </script>
@@ -152,24 +151,30 @@
                                 <div style="display: flex; flex-direction: column;">
                                     <div style="display: flex; justify-content: center; margin: 10%;">
                                         <div id="visible-content"></div>
-                                        <button onclick="window.location.href='{% url 'random_news' %}'">Outra coisa
-                                        </button>
+                                        <button onclick="window.location.href='{% url 'news_detail' random_content_id %}'">Outra coisa</button>
                                         <button onclick="window.location.href='{% url 'index' %}'">Voltar</button>
                                         <button id="emoji_picker">Reagir</button>
                                     </div>
                                     <div style="display: flex; justify-content: center; margin: 10%;">
                                         <label for="text_for_emoji"></label>
-                                        <textarea style="display: none" name="reaction" id="text_for_emoji"
+                                        <textarea style="display: none; " name="reaction" id="text_for_emoji"
                                                   rows="1"></textarea>
+                                        <div class="grid-container">
+                                            <button class="grid-item" id="button_for_emoji"
+                                                    style="display: none; margin-bottom: 2%">Submit
+                                            </button>
+                                            <button class="grid-item" id="reset_emoji_text" style="display: none">
+                                                Reset
+                                            </button>
+                                        </div>
 
-                                        <button id="button_for_emoji" style="display: none">Submit</button>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     {% else %}
                         <h2>Conteúdo ainda não gerado!</h2>
-                        <button onclick="window.location.href='{% url 'random_news' %}'">Outra coisa</button>
+                        <button onclick="window.location.href='{% url 'news_detail' random_content_id %}'">Outra coisa</button>
                         <button onclick="window.location.href='{% url 'index' %}'">Voltar</button>
                     {% endif %}
                 </div>
@@ -179,30 +184,54 @@
     <script>
         document.addEventListener("DOMContentLoaded", function () {
             const emojiPickerButton = document.getElementById('emoji_picker');
-            let isEmojiAreaInitialized = false; // Flag to check initialization
+            const textArea = document.getElementById('text_for_emoji');
+            const submit_button_emoji = document.getElementById('button_for_emoji');
+            const text_reset = document.getElementById('reset_emoji_text');
+
+            let is_emojiarea_init = false; // Flag to check initialization
 
             emojiPickerButton.addEventListener("click", function () {
-                const textArea = document.getElementById('text_for_emoji');
-                const buttonEmoji = document.getElementById('button_for_emoji');
-
-                if (!isEmojiAreaInitialized) {
-                    $("#text_for_emoji").emojioneArea();
-                    isEmojiAreaInitialized = true; // Set flag to true after initialization
+                if (!is_emojiarea_init) {
+                    $("#text_for_emoji").emojioneArea({
+                        standalone: true
+                    });
+                    is_emojiarea_init = true; // Set flag to true after initialization
+                    submit_button_emoji.style.display = 'block'
+                    text_reset.style.display = 'block'
                 }
 
                 // Toggle display of emojionearea container
                 const emojiAreaContainer = document.querySelector('.emojionearea');
+
                 if (emojiAreaContainer.style.display === 'none' || emojiAreaContainer.style.display === '') {
                     emojiAreaContainer.style.display = 'block';
-                    buttonEmoji.style.display = 'block';
-                    buttonEmoji.innerText = 'Submit'
+                    submit_button_emoji.style.display = 'block';
+                    text_reset.style.display = 'block';
+                    const emojiArea_text = document.querySelector('.emojionearea-editor');
+                    emojiArea_text.innerText = '';
                 } else {
                     emojiAreaContainer.style.display = 'none';
-                    buttonEmoji.style.display = 'none';
+                    submit_button_emoji.style.display = 'none';
+                    text_reset.style.display = 'none';
                 }
+            });
+
+            // Add event listener for submit button
+            submit_button_emoji.addEventListener('click', function () {
+                const emojiArea_text = document.querySelector('.emojionearea-editor');
+                if (emojiArea_text.innerText !== '') {
+                    alert(emojiArea_text.innerText);
+                }
+            });
+
+            // Add event listener for reset button
+            text_reset.addEventListener('click', function () {
+                const emojiArea_text = document.querySelector('.emojionearea-editor');
+                emojiArea_text.innerText = '';
             });
         });
     </script>
+
 
 
 

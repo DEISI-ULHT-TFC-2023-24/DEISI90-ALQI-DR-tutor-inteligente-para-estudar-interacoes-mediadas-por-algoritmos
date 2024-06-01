@@ -115,14 +115,21 @@ def import_news_snippet(thread_id, snippets):
         )
         snippet_id = snippet_instance.snippet_id
 
-        # import_news_options(snippet_id)
+        import_news_options(snippet_id)
 
 
 def import_news_options(snippet_id):
-    snippet_options = {
+    options = {
         'snippet_id': snippet_id,
-        'option_default': "",
-        'option_added': "",
+        'option_default': ["Mostrar Mais", "Outra Coisa", "Voltar"],
+        'option_added': []
     }
 
-    Snippet.objects.create(**snippet_options)
+    # Create or update the Option instance
+    Option.objects.update_or_create(
+        snippet_id=options['snippet_id'],
+        defaults={
+            'option_default': options['option_default'],
+            'option_added': options['option_added'] or ['']  # Ensuring the type is consistent
+        }
+    )

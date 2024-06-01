@@ -1324,5 +1324,974 @@
         ],
         "published": "2024-05-30 15:13:09",
         "category": "ultimas"
+    },
+    {
+        "headline": "Paris2024: Judo aumenta para 54 número de atletas portugueses",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/paris2024-judo-aumenta-para-54-numero-de-atletas-portugueses_d1576076",
+        "content": [
+            {
+                "type": "text",
+                "data": "A confirmação de uma equipa de seis judocas, quatro femininos e dois masculinos, aumentou hoje para 54 o número de portugueses apurados para os Jogos Olímpicos Paris2024.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/e8/e8774899d5d851811df1f26ef7661776?w=350&amp;q=50&amp;rect=0,0,1232,675&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 17:04:43",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Vamos a Votos - Não passarão!",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/vamos-a-votos-nao-passarao_a1576072",
+        "content": [
+            {
+                "type": "text",
+                "data": "PS recupera o lema de Costa contra o Chega; Montenegro, o ciclista e, da noite, um candidato de pijama Star Wars. Imigração na análise.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/7d/7dfd42f355780b015c3a3c7693351bd5?w=350&amp;q=50&amp;rect=0,9,1200,658&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 16:40:43",
+        "category": "ultimas"
+    },
+    {
+        "headline": "15h secretário-geral do PS diz que Montenegro não sabe governar",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/15h-secretario-geral-do-ps-diz-que-montenegro-nao-sabe-governar_a1_1576074",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 16:28:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Piloto luso Miguel Oliveira desiste da corrida sprint do GP de Itália por queda",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/motores/piloto-luso-miguel-oliveira-desiste-da-corrida-sprint-do-gp-de-italia-por-queda_d1576073",
+        "content": [
+            {
+                "type": "text",
+                "data": "O piloto português Miguel Oliveira (Aprilia) desistiu da corrida sprint do Grande Prémio de Itália de MotoGP, sétima prova da temporada, depois de se envolver numa queda com o francês Fábio Quartararo (Yamaha).\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b6/b6cf3a0ec5e63bbfe2e9be78597a877f?w=350&amp;q=50&amp;rect=0,90,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 16:26:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Madeira. PS vota contra moção de confiança e programa de Governo Regional do PSD",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/madeira-ps-vota-contra-mocao-de-confianca-e-programa-de-governo-regional-do-psd_n1576069",
+        "content": [
+            {
+                "type": "text",
+                "data": "O PS/Madeira indicou hoje que vai votar contra a moção de confiança e o programa do Governo Regional do PSD, partido que venceu as eleições de domingo sem maioria absoluta e estabeleceu um acordo de incidência parlamentar com o CDS-PP.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 15:29:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Europa em Portugal - Cuba: terra com alma, mas esperança?",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/europa-em-portugal-cuba-terra-com-alma-mas-esperanca_a1576045",
+        "content": [
+            {
+                "type": "text",
+                "data": "O novo mercado municipal de Cuba no Alentejo ainda não saiu do papel, mas vai ser erguido graças aos fundos europeus e também aos da autarquia.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/47/47b44c44108bc15db90a71adba96f2ac?w=350&amp;q=50&amp;rect=0,9,1200,658&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 15:19:35",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Serralves em festa. Ofertas culturais dedicadas ao dia da criança",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/serralves-em-festa-ofertas-culturais-dedicadas-ao-dia-da-crianca_v1576068",
+        "content": [
+            {
+                "type": "text",
+                "data": "A festa em Serralves tem um sabor especial este sábado. No dia da criança, há muitas ofertas culturais, mas há também muito para ver pelos mais crescidos. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/a9/a9a1cc61c5fd25975d734e99170eb49f_N.jpg?"
+            }
+        ],
+        "published": "2024-06-01 15:14:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "França e Reino Unido apoiam proposta para trégua na Faixa de Gaza",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/franca-e-reino-unido-apoiam-proposta-para-tregua-na-faixa-de-gaza_n1576053",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente francês, Emmanuel Macron, e o primeiro-ministro britânico, Rishi Sunak, expressaram hoje apoio à proposta em três fases para uma trégua na Faixa de Gaza, que prevê igualmente a libertação dos reféns em posse do grupo palestiniano Hamas. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 15:14:21",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Pintar o recreio. Iniciativa quer reduzir uso de telemóveis",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/pintar-o-recreio-iniciativa-quer-reduzir-uso-de-telemoveis_v1576067",
+        "content": [
+            {
+                "type": "text",
+                "data": "Há uma escola em Vila Nova de Gaia que está a tentar reduzir o uso do telemóvel. Para isso está a pintar jogos tradicionais nos recreios, sendo que são os próprios alunos que desenvolvem a iniciativa. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/29/29fd4597e6f7f34589a6f6935ffac96b_N.jpg?"
+            }
+        ],
+        "published": "2024-06-01 15:13:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "FC Porto. Família de Sérgio Conceição ataca Vítor Bruno",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/fc-porto-familia-de-sergio-conceicao-ataca-vitor-bruno_v1576066",
+        "content": [
+            {
+                "type": "text",
+                "data": "Vítor Bruno, adjunto de Sérgio Conceição garante que não traiu o treinador do Porto. A mulher de Conceição e dois filhos fizeram duras críticas ao técnico adjunto... "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/d7/d7a60acc77ad1f3f2684536b7a6d1958_N.jpg?"
+            }
+        ],
+        "published": "2024-06-01 15:10:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Palavras Cruzadas - Falam falam falam",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/palavras-cruzadas-falam-falam-falam_a1576046",
+        "content": [
+            {
+                "type": "text",
+                "data": "O que dizem os candidatos e o que responde o povo. Tudo captado pelos repórteres da Antena 1 na estrada. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d1/d1ee116bd84f590abeda76966fb1756e?w=350&amp;q=50&amp;rect=0,9,1200,658&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 15:09:19",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Voto antecipado nas europeias. Mais de 252 mil pessoas inscritas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/voto-antecipado-nas-europeias-mais-de-252-mil-pessoas-inscritas_v1576065",
+        "content": [
+            {
+                "type": "text",
+                "data": "Mais de 252 mil pessoas inscreveram-se para o voto antecipado em mobilidade. Estes eleitores vão votar este domingo, uma semana antes das eleições europeias. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/50/5014b8f54cac3ec75b71f88ccc436a4c_N.jpg?"
+            }
+        ],
+        "published": "2024-06-01 15:06:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Médio Oriente. EUA pedem cessar-fogo imediato",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/medio-oriente-eua-pedem-cessar-fogo-imediato_v1576064",
+        "content": [
+            {
+                "type": "text",
+                "data": "Joe Biden apresentou um plano de paz para por fim ao conflito entre Israel e o Hamas. Assenta em três fases e prevê de imediato um cessar-fogo e a libertação de alguns reféns em troca de presos palestinianos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/d4/d4295f540dc7052171692992bb230ef9_N.jpg?"
+            }
+        ],
+        "published": "2024-06-01 15:04:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "NÓS Cidadãos e RIR em campanha para as europeias",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/nos-cidadaos-e-rir-em-campanha-para-as-europeias_v1576063",
+        "content": [
+            {
+                "type": "text",
+                "data": "O défice demográfico é umas das principais preocupações do NOS Cidadãos. Esta manhã, o cabeça de lista do partido apresentou propostas de apoio para apoiar famílias. Já o RIR defende que é prioritário uniformizar os salários em toda União Europeia para que em Portugal consiga evitar a saída de jovens qualificados. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/80/80cf543641fc132d6347a921ff574369_N.jpg?"
+            }
+        ],
+        "published": "2024-06-01 15:02:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Referendo às touradas? PAN pede que partidos deixem os portugueses decidir",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/referendo-as-touradas-pan-pede-que-partidos-deixem-os-portugueses-decidir_v1576062",
+        "content": [
+            {
+                "type": "text",
+                "data": "O PAN desafia os restantes partidos a aprovar a proposta de referendo pelo fim das touradas e a deixar que sejam os portugueses a decidir."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ae/aeb2464be14e994bed027f1574114464?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 15:01:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Livre. Paupério diz que fechar fronteiras não é solução",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/livre-pauperio-diz-que-fechar-fronteiras-nao-e-solucao_v1576061",
+        "content": [
+            {
+                "type": "text",
+                "data": "O candidato do Livre diz que a resposta para os problemas da imigração não é fechar fronteiras. Francisco Paupério esteve esta manhã no Mercado de Matosinhos a defender o salário mínimo europeu."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/db/db83fb0a0249d7ceb91420e1b00856d1?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 15:00:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "CDU em campanha enfatiza combate ao empobrecimento",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/cdu-em-campanha-enfatiza-combate-ao-empobrecimento_v1576060",
+        "content": [
+            {
+                "type": "text",
+                "data": "O candidato da CDU diz que é preciso combater o empobrecimento e apostar em melhores condições laborais. João Oliveira esteve esta manhã em Vila Franca de Xira, a comemorar o Dia da Criança depois de ontem ter atacado o Chega, no Algarve. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/af/afdd584156004cfb7da5bd56ee9248b0?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 14:59:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Marta Temido acusa a AD de contradições na questão migratória",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/marta-temido-acusa-a-ad-de-contradicoes-na-questao-migratoria_v1576059",
+        "content": [
+            {
+                "type": "text",
+                "data": "Marta Temido acusa a AD de contradições nas questões das migrações e dos direitos das mulheres. A candidata do PS avisa que fechar fronteiras não funciona porque não há barreiras que impeçam pessoas em risco de procurar melhores condições de vida."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/12/1268d9b953d9c49fc3a3c14bb3736bc2?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 14:58:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Iniciativa Liberal diz que não se pode \"apaziguar tiranos\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/iniciativa-liberal-diz-que-nao-se-pode-apaziguar-tiranos_v1576058",
+        "content": [
+            {
+                "type": "text",
+                "data": "João Cotrim de Figueiredo diz que apaziguar tiranos não é boa ideia e quando os portugueses acordarem para isso pode ser tarde demais. O candidato da Iniciativa Liberal esteve este sábado na Feira do Livro, em Lisboa, e escolheu um para cada candidato às europeias. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/3e/3ebc474c580ebc826946614576d4545e?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 14:57:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Europeias. Bugalho irritado com perguntas sobre mulheres",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/europeias-bugalho-irritado-com-perguntas-sobre-mulheres_v1576057",
+        "content": [
+            {
+                "type": "text",
+                "data": "Luís Montenegro acusou os partidos da oposição de não terem pedalada para o Governo. Foi no comício de Santa Maria da Feira. Já este sábado, Sebastião Bugalho ouviu uma mulher em Gaia dizer que prefere a vitória das mulheres nestas eleições.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/a4/a41280d0e1a735d6e80ddf00e95a4d4e?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 14:52:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "PS Madeira vai votar contra programa de Governo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/ps-madeira-vai-votar-contra-programa-de-governo_v1576056",
+        "content": [
+            {
+                "type": "text",
+                "data": "O PS Madeira vai votar contra o Programa de Governo de Miguel Albuquerque e fazer disso uma moção de confiança ao Executivo Regional. Paulo Cafôfo insiste que tem tanta legitimidade para governar, como o PSD e critica a decisão do representante da República."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/6d/6d31b594fd40693193e56407dbbed0e0?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 14:47:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Abusos sexuais na Igreja. Vítimas já podem pedir compensação",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/abusos-sexuais-na-igreja-vitimas-ja-podem-pedir-compensacao_v1576055",
+        "content": [
+            {
+                "type": "text",
+                "data": "As vítimas de abusos na Igreja podem pedir a partir &quot;compensação financeira&quot; a partir deste sábado. O anúncio é da Conferência Episcopal Portuguesa. A atribuição de compensações financeiras foi definida em abril. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/91/91def827441ea0809c41362c6e8c113c?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 14:44:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "JMJ rendeu mais de 35 milhões de euros à Igreja Católica",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/jmj-rendeu-mais-de-35-milhoes-de-euros-a-igreja-catolica_v1576054",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Jornada Mundial da Juventude que se realizou em Lisboa, no ano passado, deu mais de 35 milhões de euros à Igreja Católica, números muito acima dos que estava previsto. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/7b/7b2731aa4c4477ad034281c25176468c_N.jpg?"
+            }
+        ],
+        "published": "2024-06-01 14:42:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "As eleições europeias estão à porta. O que precisa de saber",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/eleicoes-europeias-2024/as-eleicoes-europeias-estao-a-porta-o-que-precisa-de-saber_es1572420",
+        "content": [
+            {
+                "type": "text",
+                "data": "Mais de 448 milhões de pessoas nos 27 Estados-membros da União Europeia são convocadas às urnas entre 6 e 9 de junho para elegerem os novos membros do Parlamento Europeu. Desde as últimas eleições, há cinco anos, uma guerra apanhou a Europa de surpresa, o Reino Unido saiu do bloco comunitário e a extrema-direita ganhou terreno em várias nações da UE. As eleições que se aproximam são, por isso, das mais decisivas até ao momento para definir o rumo da Europa.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/9b/9b4e675b92faae746f32dbf0dcd34a40?w=350&amp;q=50&amp;rect=0,0,8192,3641&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 14:30:05",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Montijo. Fábrica de madeiras destruída por incêndio",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/montijo-fabrica-de-madeiras-destruida-por-incendio_v1576052",
+        "content": [
+            {
+                "type": "text",
+                "data": "O alerta foi dado de madrugada deste sábado e só a meio da manhã o incêndio foi dado como dominado. O combate às chamas na fábrica em Pegões envolveu mais de sessenta operacionais. Não há registo de feridos.  "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/0e/0e1ed8350ab013061f02cfc14508bbdf_N.jpg?"
+            }
+        ],
+        "published": "2024-06-01 14:26:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Acidentes de mergulho, uma das principais causas de lesões na coluna e medula",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/acidentes-de-mergulho-uma-das-principais-causas-de-lesoes-na-coluna-e-medula_v1576051",
+        "content": [
+            {
+                "type": "text",
+                "data": "Com o calor e o tempo a convidar a banhos, os médicos reforçam o alerta para mergulhos mal calculados. São a quarta causa de lesões na medula e podem deixar as pessoas paraplégicas, tetraplégicas ou levar mesmo à morte."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/da/da35fe5cbe06d95ddaae827827f4771e?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 14:23:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Carta por pontos. Número de infrações aumentou 53% no último ano",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/carta-por-pontos-numero-de-infracoes-aumentou-53-no-ultimo-ano_v1576049",
+        "content": [
+            {
+                "type": "text",
+                "data": "Disparou o número de condutores que perderam pontos na carta de condução. Só no último ano foram 300 mil, um aumento de 53% em relação ao sete anos anteriores. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/74/7451b6190c2583edb5864b89d7c3c6a7?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 14:20:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Governo quer regras mais apertadas na imigração",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/governo-quer-regras-mais-apertadas-na-imigracao_v1576048",
+        "content": [
+            {
+                "type": "text",
+                "data": "As regras da imigração vão apertar em Portugal. O novo plano vai ser apresentado na próxima semana. O Governo está a desenhar uma estratégia para atrair imigrantes qualificados com maior regulamentação. Haverá tratamento diferenciado para quem vem dos países da CPLP.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d7/d760d50956625ad9e540712171b949ca?w=350&amp;q=50&amp;rect=0,14,1920,1053&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 14:17:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "12h As vítimas de abusos sexuais na Igreja podem pedir indemnização",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/12h-as-vitimas-de-abusos-sexuais-na-igreja-podem-pedir-indemnizacao_a1_1576044",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 13:26:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Israel mantém destruição do Hamas como condição para uma trégua",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/israel-mantem-destruicao-do-hamas-como-condicao-para-uma-tregua_n1576038",
+        "content": [
+            {
+                "type": "text",
+                "data": "Israel insistiu hoje que as condições para um cessar-fogo permanente na Faixa de Gaza incluem a destruição do Hamas e a libertação de todos os reféns detidos, segundo um comunicado do gabinete do primeiro-ministro israelita.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/2f/2fb67cff6e701d9132f2757923def56c?w=350&amp;q=50&amp;rect=0,64,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 12:18:49",
+        "category": "ultimas"
+    },
+    {
+        "headline": "11h Vítimas abuso sexual já podem pedir indemnizações à Igreja",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/11h-vitimas-abuso-sexual-ja-podem-pedir-indemnizacoes-a-igreja_a1_1576040",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 12:17:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Americanos compram 78,90% da Greenvolt e lançam OPA obrigatória",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/americanos-compram-7890-da-greenvolt-e-lancam-opa-obrigatoria_n1576036",
+        "content": [
+            {
+                "type": "text",
+                "data": "O fundo norte-americano Kohlberg Kravis Roberts (KKR) já é dono de 78,90% do capital da empresa de energias renováveis Greenvolt e vai avançar com uma oferta pública de aquisição obrigatória para adquirir o capital que ainda não detém."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 12:13:15",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Vítimas de abusos podem a partir de hoje pedir compensação financeira à Igreja",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/abusos-igreja/vitimas-de-abusos-podem-a-partir-de-hoje-pedir-compensacao-financeira-a-igreja_n1576033",
+        "content": [
+            {
+                "type": "text",
+                "data": "As vítimas de abusos sexuais no contexto da Igreja católica portuguesa podem a partir de hoje apresentar formalmente os seus pedidos de compensação financeira, anunciou a Conferência Episcopal Portuguesa."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 12:12:20",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Calor extremo causa 62 mortos no norte da Índia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/calor-extremo-causa-62-mortos-no-norte-da-india_n1576031",
+        "content": [
+            {
+                "type": "text",
+                "data": "O calor extremo causou a morte de 62 pessoas no norte da Índia, incluindo dezenas de funcionários eleitorais, quando o país realiza a fase final das eleições gerais."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 12:11:54",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Dúvidas, questões e respostas sobre o Parlamento Europeu. Presidência da Comissão e comissários",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/eleicoes-europeias-2024/duvidas-questoes-e-respostas-sobre-o-parlamento-europeu-presidencia-da-comissao-e-comissarios_es1573070",
+        "content": [
+            {
+                "type": "text",
+                "data": "José Luís Pacheco, ex-chefe do Secretariado da Comissão dos Assuntos Constitucionais do Parlamento Europeu, fala sobre o papel deste órgão na aprovação da Presidência da Comissão Europeia e dos comissários.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/29/29fa238158833e70206662cdc58691e3?w=350&amp;q=50&amp;rect=0,155,1500,667&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 12:09:54",
+        "category": "ultimas"
+    },
+    {
+        "headline": "PR timorense defende intensificação de consultas sobre mar do sul da China",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/pr-timorense-defende-intensificacao-de-consultas-sobre-mar-do-sul-da-china_n1576030",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente de Timor-Leste, José Ramos-Horta, defendeu hoje a intensificação das consultas sobre o mar do sul da China, propondo que aquelas águas sejam geridas regionalmente e sem &quot;instalações militares permanentes&quot;."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 12:09:07",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Rússia lançou novos ataques contra alvos energéticos ucranianos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/russia-lancou-novos-ataques-contra-alvos-energeticos-ucranianos_n1576037",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Rússia lançou mais de uma centena de &lt;i&gt;drones&lt;/i&gt; e mísseis contra infraestruturas essenciais e centrais elétricas em cinco regiões da  Ucrânia. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/4a/4a8a1c8184c650aa228422b888ef1f23?w=350&amp;q=50&amp;rect=0,24,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 12:04:03",
+        "category": "ultimas"
+    },
+    {
+        "headline": "10h Conduzir ao telemóvel já ultrapassa o álcool na perda de pontos da carta",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/10h-conduzir-ao-telemovel-ja-ultrapassa-o-alcool-na-perda-de-pontos-da-carta_a1_1576032",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 11:24:01",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Naufrágio no Afeganistão provoca 20 mortos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/naufragio-no-afeganistao-provoca-20-mortos_n1576029",
+        "content": [
+            {
+                "type": "text",
+                "data": "Vinte pessoas morreram hoje de manhã no leste do Afeganistão quando um barco se afundou ao atravessar um rio, anunciou a autoridade provincial do governo talibã."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 11:14:19",
+        "category": "ultimas"
+    },
+    {
+        "headline": "9h Mais de 870 mil perderam pontos da carta de condução",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/9h-mais-de-870-mil-perderam-pontos-da-carta-de-conducao_a1_1576027",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 10:27:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Plano para migrações terá regras mais apertadas e tratamento diferente para lusófonos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/plano-para-migracoes-tera-regras-mais-apertadas-e-tratamento-diferente-para-lusofonos_n1576025",
+        "content": [
+            {
+                "type": "text",
+                "data": "O ministro da Presidência prometeu hoje que o Plano de Ação para as Migrações que vai ser apresentado na segunda-feira contempla regras mais apertadas, uma estratégia para atrair quadros qualificados e um tratamento diferenciado para os lusófonos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 10:24:33",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Condução ao telemóvel é a segunda causa para perder pontos na carta",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/conducao-ao-telemovel-e-a-segunda-causa-para-perder-pontos-na-carta_v1576024",
+        "content": [
+            {
+                "type": "text",
+                "data": "A condução ao telemóvel passou a ser a segunda razão para a perda de pontos da carta de condução. Esta infracção já ultrapassa a da condução sob o efeito de álcool. Em primeiro lugar, mantém-se o excesso de velocidade.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/67/67d9d2bcf56d40a0772ba8a1e294c50e?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 10:05:52",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Complemento Solidário para Idosos com aumento de 50 euros",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/complemento-solidario-para-idosos-com-aumento-de-50-euros_v1576023",
+        "content": [
+            {
+                "type": "text",
+                "data": "A partir de hoje, quem recebe o Complemento Solidário para Idosos vai ter um aumento de 50 euros. O apoio passa a ser de 600 euros mensais. O Complemento é revisto em função do novo valor de referência e dos rendimentos dos beneficiários."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/37/378044310bf17e94404a4c5f11add70d?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 09:56:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "08h Pontos fazer perder carta de condução",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/08h-pontos-fazer-perder-carta-de-conducao_a1_1576022",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 09:40:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Plano emergência saúde. Linha SNS 24 Grávida já está em vigor",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/plano-emergencia-saude-linha-sns-24-gravida-ja-esta-em-vigor_v1576021",
+        "content": [
+            {
+                "type": "text",
+                "data": "Começa hoje a funcionar uma das medidas previstas no Plano de Emergência para a Saúde. As grávidas passam a ser encaminhadas para o serviço de urgência mais próximo da área de residência, através da Linha SNS 24.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/99/997770d053bba68bc4b23c747d8d692a?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 09:39:40",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Checos respondem com humor a \"muito séria\" propaganda russa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/checos-respondem-com-humor-a-muito-seria-propaganda-russa_n1576020",
+        "content": [
+            {
+                "type": "text",
+                "data": "A República Checa diz levar &quot;muito a sério&quot; as ameaças híbridas russas de desinformação e interferência, a propósito das eleições europeias e legislativas checas de 2025, mas vê o humor como arma contra a propaganda de Moscovo."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 09:31:30",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Eleições Europeias. Michel pede a países da UE \"vigilância\" a interferência russa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/eleicoes-europeias-michel-pede-a-paises-da-ue-vigilancia-a-interferencia-russa_n1576019",
+        "content": [
+            {
+                "type": "text",
+                "data": "O presidente do Conselho Europeu, Charles Michel, apela aos países da União Europeia (UE) para estarem &quot;vigilantes e atentos&quot; para desinformação e propaganda russa que possa interferir com as eleições europeias, descrevendo o sufrágio como &quot;um encontro democrático&quot;."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 09:30:56",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Nova linha SNS Grávida está disponível a partir de hoje",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/nova-linha-sns-gravida-esta-disponivel-a-partir-de-hoje_n1576018",
+        "content": [
+            {
+                "type": "text",
+                "data": "A nova linha SNS Grávida, prevista no plano de emergência da Saúde, está disponível a partir de hoje no mesmo número do SNS 24 (808 24 24 24) para encaminhar as utentes para a urgência mais próxima."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 09:29:54",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Receitas do jogo em Macau em maio com valor mais alto desde início da pandemia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/receitas-do-jogo-em-macau-em-maio-com-valor-mais-alto-desde-inicio-da-pandemia_n1576017",
+        "content": [
+            {
+                "type": "text",
+                "data": "As receitas do jogo em Macau registaram um aumento de 29,7% em maio, em termos anuais, e alcançaram o valor mais alto desde janeiro de 2020, de acordo com dados hoje anunciados.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 09:29:19",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Cineasta luso-americano lança campanha no Kickstarter para financiar filme de ação",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/cineasta-luso-americano-lanca-campanha-no-kickstarter-para-financiar-filme-de-acao_n1576015",
+        "content": [
+            {
+                "type": "text",
+                "data": "O cineasta luso-americano John Allen Soares lança hoje uma campanha na plataforma Kickstarter para financiar a sua longa-metragem de ação &quot;Eonblade&quot;, que mistura ficção histórica com artes marciais na Califórnia. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 09:29:09",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Sebastião Bugalho volta a defender direito das mulheres",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/sebastiao-bugalho-volta-a-defender-direito-das-mulheres_a1576077",
+        "content": [
+            {
+                "type": "text",
+                "data": "No almoço-comício da Aliança Democrática Sebastião Bugalho quis recuperar o assunto da manhã em que se irritou com os jornalistas sobre os direitos das mulheres.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/4e/4e33d46b40b40f840381fa3c0a3b16aa?w=350&amp;q=50&amp;rect=0,221,1096,601&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 17:29:59",
+        "category": "ultimas"
+    },
+    {
+        "headline": "16h secretário- geral do PS  considera que o problema do governo não é pedalada mas sim más medidas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/16h-secretario-geral-do-ps-considera-que-o-problema-do-governo-nao-e-pedalada-mas-sim-mas-medidas_a1_1576078",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 17:23:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Sebastião Bugalho da AD volta a defender direito das mulheres",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/eleicoes-europeias-2024/sebastiao-bugalho-da-ad-volta-a-defender-direito-das-mulheres_a1576077",
+        "content": [
+            {
+                "type": "text",
+                "data": "No almoço-comício da Aliança Democrática Sebastião Bugalho quis recuperar o assunto da manhã em que se irritou com os jornalistas sobre os direitos das mulheres.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/4e/4e33d46b40b40f840381fa3c0a3b16aa?w=350&amp;q=50&amp;rect=0,221,1096,601&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 17:29:59",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Índia. Sondagens à boca das urnas projetam vitória da NDA de Narendra Modi",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/india-sondagens-a-boca-das-urnas-projetam-vitoria-da-nda-de-narendra-modi_n1576079",
+        "content": [
+            {
+                "type": "text",
+                "data": "O primeiro-ministro da Índia deverá tornar-se o segundo líder do país a cumprir três mandatos consecutivos, caso se confirmem os resultados do somatório de duas sondagens à boca das urnas, publicados pelo canal de televisão NDTV."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b9/b9912788b81f306df6aea8d5c45ae52e?w=350&amp;q=50&amp;rect=0,48,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 17:52:43",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Vários feridos em colapso de bancada na Cidade Universitária, em Lisboa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/varios-feridos-em-colapso-de-bancada-na-cidade-universitaria-em-lisboa_n1576081",
+        "content": [
+            {
+                "type": "text",
+                "data": "O colapso parcial de uma bancada no Estádio Universitário de Lisboa provocou 15 feridos.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 18:04:13",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Estoril Praia conquista Taça Revelação e consegue terceira dobradinha",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/estoril-praia-conquista-taca-revelacao-e-consegue-terceira-dobradinha_d1576080",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Estoril Praia venceu este sábado pela terceira vez a Taça Revelação em futebol, para equipas de sub-23, ao bater o Sporting de Braga por 3-0, na segunda mão da final da edição 2023/24.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/06/0692210f10b3999662e3fe26692d57d7?w=350&amp;q=50&amp;rect=0,67,1254,688&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 18:09:27",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Vários feridos em colapso de bancada no Estádio Universitário, em Lisboa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/varios-feridos-em-colapso-de-bancada-no-estadio-universitario-em-lisboa_n1576081",
+        "content": [
+            {
+                "type": "text",
+                "data": "O colapso parcial de uma bancada no Estádio Universitário de Lisboa provocou 15 feridos.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 18:04:13",
+        "category": "ultimas"
     }
 ]
