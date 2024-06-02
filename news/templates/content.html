@@ -184,9 +184,10 @@
                                                 {% for option in options %}
                                                     <div style="margin-top: 10px;">
                                                         <strong>Reações Adicionadas:</strong>
-                                                        <div id="emoji_reactions" style="display: flex; flex-direction: row">
+                                                        <div id="emoji_reactions"
+                                                             style="display: flex; flex-direction: row">
                                                             {% for added_option in option.option_added %}
-                                                                 <span>{{ added_option }} </span>
+                                                                <span>{{ added_option }} </span>
                                                             {% endfor %}
                                                         </div>
                                                     </div>
@@ -308,7 +309,7 @@
                     },
                     success: function (response) {
                         console.log('Emoji text saved successfully:', response);
-                        addEmojiToList(emojiText)
+                        addEmojiToList(snippetId, emojiText)
                         // Optionally, update UI or perform additional actions
                     },
                     error: function (xhr, status, error) {
@@ -318,14 +319,19 @@
                 });
             }
 
-            function addEmojiToList(emojiText) {
+            function addEmojiToList(snippetId, emojiText) {
                 // Find the container where emojis are listed
-                const emojiListContainer = document.querySelector('#emoji_reactions');
-                if (emojiListContainer) {
-                    const newEmojiSpan = document.createElement('span');
-                    newEmojiSpan.textContent = emojiText + ' ';
-                    emojiListContainer.appendChild(newEmojiSpan);
+                const visibleUtterance = document.getElementById(snippetId);
+
+                if (visibleUtterance) {
+                    const emojiListContainer = visibleUtterance.querySelector('#emoji_reactions');
+                    if (emojiListContainer) {
+                        const newEmojiSpan = document.createElement('span');
+                        newEmojiSpan.textContent = emojiText + ' ';
+                        emojiListContainer.appendChild(newEmojiSpan);
+                    }
                 }
+
             }
 
             // Function to get CSRF token from cookie
@@ -333,7 +339,7 @@
                 let cookieValue = null;
                 if (document.cookie && document.cookie !== '') {
                     const cookies = document.cookie.split(';');
-                    for (var i = 0; i < cookies.length; i++) {
+                    for (let i = 0; i < cookies.length; i++) {
                         const cookie = jQuery.trim(cookies[i]);
                         if (cookie.substring(0, 10) === ('csrftoken' + '=')) {
                             cookieValue = decodeURIComponent(cookie.substring(10));
@@ -341,7 +347,6 @@
                         }
                     }
                 }
-                console.log(cookieValue);
                 return cookieValue;
             }
         });
