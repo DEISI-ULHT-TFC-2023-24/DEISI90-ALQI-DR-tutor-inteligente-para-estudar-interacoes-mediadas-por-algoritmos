@@ -5,6 +5,9 @@ from django.templatetags.static import static as django_static
 
 register = template.Library()
 
+@register.filter
+def get_options(snippet_options, snippet_id):
+    return snippet_options.get(snippet_id, [])
 
 @register.filter
 def is_not_digit(value):

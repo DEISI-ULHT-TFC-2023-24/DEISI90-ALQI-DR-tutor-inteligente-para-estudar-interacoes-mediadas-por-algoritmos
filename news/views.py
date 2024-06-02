@@ -1,3 +1,4 @@
+import pprint
 import random
 import subprocess
 from time import sleep
@@ -77,7 +78,6 @@ def news_detail(request, news_id):
     obj = Content.objects.filter(pk=news_id)
     thread_news = Thread.objects.all()
     thread_news = thread_news.filter(content_id=obj[0].content_id)
-    #comments = Comment.objects.filter(content_id=obj[0].content_id)
     random_content = random.choice(Content.objects.all())
     random_content_id = random_content.content_id
 
@@ -90,12 +90,13 @@ def news_detail(request, news_id):
     else:
         form = CommentForm()
 
-    snippets = Snippet.objects.all()
-    snippets = snippets.filter(thread_id=thread_news[0].thread_id)
-
+    snippets = Snippet.objects.filter(thread_id=thread_news[0].thread_id)
+    snippet_options = {snippet.snippet_id: Option.objects.filter(snippet_id=snippet.snippet_id) for snippet in snippets}
+    pprint.pprint(snippet_options)
     context = {
         "random_content_id": random_content_id,
         "snippets": snippets,
+        "snippet_options": snippet_options,
         "obj": obj,
         #"comments": comments,
         "form": form

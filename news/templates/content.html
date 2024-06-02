@@ -1,4 +1,5 @@
 {% extends 'layout.html' %}
+{% load custom_filters %}
 
 
 {% block style %}
@@ -59,6 +60,18 @@
         #text_for_emoji, #button_for_emoji {
             display: none;
             margin-top: 10px;
+        }
+
+        .navigation-arrow {
+            cursor: pointer;
+        }
+
+        .left-arrow {
+            order: -1; /* Move the left arrow to the left side */
+        }
+
+        .right-arrow {
+            order: 1; /* Move the right arrow to the right side */
         }
     </style>
 {% endblock style %}
@@ -133,54 +146,188 @@
             {% endfor %}
 
             <div id="utterances-wrapper" class="utterances-wrapper" style="margin-top: 50px;">
-                <div style="display: flex; justify-content: center; align-items: center;">
-                    <a id="prev-utterance" href="javascript:void(0);" class="navigation-arrow"
-                       style="margin-right: 60px;">&#9664;</a>
-                    <div id="utterances-container" class="utterances-container">
-                        {% for snippet in snippets %}
-                            <div class="utterance">{{ snippet.snippet_text }}</div>
-                        {% endfor %}
+                {% if snippets %}
+                    <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 2%">
+                        <button style="margin-right: 5px; background: #3e3e3e; color: lightblue"
+                                onclick="window.location.href='{% url 'news_detail' random_content_id %}'">Outra Notícia
+                        </button>
+                        <button style="margin-left: 5px; background: #3e3e3e; color: lightblue"
+                                onclick="window.location.href='{% url 'index' %}'">Voltar á página principal
+                        </button>
                     </div>
-                    <a id="next-utterance" href="javascript:void(0);" class="navigation-arrow"
-                       style="margin-left: 60px;">&#9654;</a>
-                </div>
-                <div id="containerBLOP">
-                    {% if snippets %}
-                        <div class="container" style="margin: 2%;">
-                            <div class="flex-container" style="flex-direction: column;">
-                                <div style="display: flex; flex-direction: column;">
-                                    <div style="display: flex; justify-content: center; margin: 10%;">
-                                        <div id="visible-content"></div>
-                                        <button onclick="window.location.href='{% url 'news_detail' random_content_id %}'">Outra coisa</button>
-                                        <button onclick="window.location.href='{% url 'index' %}'">Voltar</button>
-                                        <button id="emoji_picker">Reagir</button>
+
+                    <h3 style="display: flex; justify-content: center; align-items: center; margin: 5%">Comentários
+                        feito com IA</h3>
+                {% endif %}
+
+                <div style="display: flex; justify-content: center; align-items: center;">
+                    <div id="utterances-container" class="utterances-container"
+                         style="flex-grow: 1; display: flex; flex-direction: column; align-items: center;">
+                        {% if snippets %}
+                            {% for snippet in snippets %}
+
+                                <div class="utterance"
+                                     style="margin-bottom: 50px; display: flex; flex-direction: column; align-items: center; justify-content: space-between; width: 80%;">
+                                    <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; width: 100%;">
+
+                                        <a id="prev-utterance-{{ forloop.counter }}" href="javascript:void(0);"
+                                           class="navigation-arrow left-arrow" style="margin-right: 20px;">&#9664;</a>
+                                        <div style="display: flex; flex-direction: column;">
+                                            <div style="display: flex; flex-direction: row; align-items: center;">
+                                                {{ snippet.snippet_text }} {{ forloop.counter }} / {{ snippets|length }}
+                                            </div>
+                                        </div>
+                                        <a id="next-utterance-{{ forloop.counter }}" href="javascript:void(0);"
+                                                   class="navigation-arrow right-arrow" style="margin-left: 20px;">&#9654;</a>
                                     </div>
-                                    <div style="display: flex; justify-content: center; margin: 10%;">
+
+                                    <div class="options" style="margin-top: 10px;">
+                                        {% with options=snippet_options|get_options:snippet.snippet_id %}
+                                            {% if options %}
+                                                {% for option in options %}
+                                                    <div style="margin-top: 10px;">
+                                                        <strong>Reações Adicionadas:</strong>
+                                                        <ul>
+                                                            {% for added_option in option.option_added %}
+                                                                <ul>{{ added_option }}</ul>
+                                                            {% endfor %}
+                                                        </ul>
+                                                    </div>
+                                                {% endfor %}
+                                            {% endif %}
+                                        {% endwith %}
                                         <label for="text_for_emoji"></label>
-                                        <textarea style="display: none; " name="reaction" id="text_for_emoji"
-                                                  rows="1"></textarea>
-                                        <div class="grid-container">
+                                        <textarea style="display: none"
+                                                  name="reaction" id="text_for_emoji" rows="1"></textarea>
+                                        <div style="display: flex; flex-direction: row; justify-content: space-evenly; width: auto">
                                             <button class="grid-item" id="button_for_emoji"
-                                                    style="display: none; margin-bottom: 2%">Submit
+                                                style="display: none; margin-bottom: 2%">Submit
                                             </button>
-                                            <button class="grid-item" id="reset_emoji_text" style="display: none">
+                                            <button class="grid-item" id="reset_emoji_text" style="display: none; margin-bottom: 2%">
                                                 Reset
                                             </button>
                                         </div>
+                                        <button style="display: flex; flex-direction: row; justify-content: center; background: #3e3e3e; color: lightblue" id="emoji_picker">Reagir</button>
 
+                                    </div>
+                                </div>
+
+                            {% endfor %}
+                        {% endif %}
+                    </div>
+
+                </div>
+            </div>
+
+
+            <div id="containerBLOP">
+                {% if snippets %}
+                    <div class="container" style="margin: 2%;">
+                        <div class="flex-container" style="flex-direction: column;">
+                            <div style="display: flex; flex-direction: column;">
+                                <div style="display: flex; justify-content: center; margin: 10%;">
+                                    <div id="visible-content"></div>
+                                    <button onclick="window.location.href='{% url 'news_detail' random_content_id %}'">
+                                        Outra coisa
+                                    </button>
+                                    <button onclick="window.location.href='{% url 'index' %}'">Voltar</button>
+                                </div>
+                                <div style="display: flex; justify-content: center; margin: 10%;">
+                                    <div class="grid-container">
+                                        <button class="grid-item" id="button_for_emoji"
+                                                style="display: none; margin-bottom: 2%">Submit
+                                        </button>
+                                        <button class="grid-item" id="reset_emoji_text" style="display: none">
+                                            Reset
+                                        </button>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    {% else %}
-                        <h2>Conteúdo ainda não gerado!</h2>
-                        <button onclick="window.location.href='{% url 'news_detail' random_content_id %}'">Outra coisa</button>
-                        <button onclick="window.location.href='{% url 'index' %}'">Voltar</button>
-                    {% endif %}
-                </div>
+                    </div>
+                {% else %}
+                    <h2>Conteúdo ainda não gerado!</h2>
+                    <button onclick="window.location.href='{% url 'news_detail' random_content_id %}'">Outra coisa
+                    </button>
+                    <button onclick="window.location.href='{% url 'index' %}'">Voltar</button>
+                {% endif %}
             </div>
         </div>
     </div>
+    <script>
+    $(document).ready(function() {
+        // Show the submit button when an option is selected
+        $('.options').on('click', 'li', function() {
+            $('#button_for_emoji').show();
+        });
+
+        // Handle button click to send emoji text to server
+        $('#button_for_emoji').click(function() {
+            // Get the emoji text
+            const emojiText = $('#text_for_emoji').text();
+
+            // Send AJAX request to save emoji text to database
+            $.ajax({
+                url: '/your-save-endpoint/',  // Replace with your backend endpoint
+                method: 'POST',
+                data: {
+                    emoji_text: emojiText
+                },
+                success: function(response) {
+                    // Handle success response
+                    console.log('Emoji text saved successfully:', response);
+                    // Optionally, update UI or perform additional actions
+                },
+                error: function(xhr, status, error) {
+                    // Handle error response
+                    console.error('Error saving emoji text:', error);
+                    // Optionally, display an error message or perform recovery actions
+                }
+            });
+        });
+    });
+</script>
+    <script>
+        // JavaScript for handling navigation between snippets
+        let currentSnippetIndex = 0;
+        const snippetsCount = {{ snippets|length }};  // Assuming snippets are passed as JSON or context variable
+
+        function showCurrentSnippet() {
+            // Hide all snippets
+            const allSnippets = document.querySelectorAll('.utterance');
+            allSnippets.forEach(function (snippet) {
+                snippet.style.display = 'none';
+            });
+
+            // Show the current snippet
+            allSnippets[currentSnippetIndex].style.display = 'flex';
+        }
+
+        function showNextSnippet() {
+            if (currentSnippetIndex < snippetsCount - 1) {
+                currentSnippetIndex++;
+                showCurrentSnippet();
+            }
+        }
+
+        function showPreviousSnippet() {
+            if (currentSnippetIndex > 0) {
+                currentSnippetIndex--;
+                showCurrentSnippet();
+            }
+        }
+
+        // Event listeners for navigation arrows
+        {% if snippets %}
+            {% for snippet in snippets %}
+                document.getElementById('prev-utterance-{{ forloop.counter }}').addEventListener('click', showPreviousSnippet);
+                document.getElementById('next-utterance-{{ forloop.counter }}').addEventListener('click', showNextSnippet);
+            {% endfor %}
+        {% endif %}
+
+        // Show the initial snippet
+        showCurrentSnippet();
+    </script>
     <script>
         document.addEventListener("DOMContentLoaded", function () {
             const emojiPickerButton = document.getElementById('emoji_picker');
@@ -193,8 +340,10 @@
             emojiPickerButton.addEventListener("click", function () {
                 if (!is_emojiarea_init) {
                     $("#text_for_emoji").emojioneArea({
-                        standalone: true
+                        standalone: true,
+                        display: 'block'
                     });
+
                     is_emojiarea_init = true; // Set flag to true after initialization
                     submit_button_emoji.style.display = 'block'
                     text_reset.style.display = 'block'
@@ -207,8 +356,6 @@
                     emojiAreaContainer.style.display = 'block';
                     submit_button_emoji.style.display = 'block';
                     text_reset.style.display = 'block';
-                    const emojiArea_text = document.querySelector('.emojionearea-editor');
-                    emojiArea_text.innerText = '';
                 } else {
                     emojiAreaContainer.style.display = 'none';
                     submit_button_emoji.style.display = 'none';
