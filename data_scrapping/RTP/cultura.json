@@ -1035,5 +1035,22 @@
         ],
         "published": "2024-05-31 04:41:51",
         "category": "cultura"
+    },
+    {
+        "headline": "Pedro Abrunhosa celebra 30 anos do álbum \"Viagens\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/pedro-abrunhosa-celebra-30-anos-do-album-viagens_v1576180",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os jardins da Torre de Belém foram, este sábado, palco para espetáculos de música portuguesa. 12 concertos, todos gratuitos, e com uma assistência de milhares de pessoas. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/e9/e9144daf8054bbbed805c3f9d660c4b1_N.jpg?"
+            }
+        ],
+        "published": "2024-06-02 10:24:47",
+        "category": "cultura"
     }
 ]

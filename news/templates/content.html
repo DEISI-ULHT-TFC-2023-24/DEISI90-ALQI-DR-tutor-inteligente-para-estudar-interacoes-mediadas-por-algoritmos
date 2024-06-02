@@ -86,9 +86,6 @@
             const utterances = document.querySelectorAll('.utterance');
             const prevButton = document.getElementById('prev-utterance');
             const nextButton = document.getElementById('next-utterance');
-            const display_emojis = document.getElementById('emoji_picker');
-            const text_area = document.getElementById('text_for_emoji');
-            const button_emoji = document.getElementById('button_for_emoji');
 
             let isEmojiAreaInitialized = false;
             let currentIndex = 0;
@@ -166,7 +163,7 @@
                         {% if snippets %}
                             {% for snippet in snippets %}
 
-                                <div class="utterance"
+                                <div class="utterance" id="{{ snippet.snippet_id }}"
                                      style="margin-bottom: 50px; display: flex; flex-direction: column; align-items: center; justify-content: space-between; width: 80%;">
                                     <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; width: 100%;">
 
@@ -178,7 +175,7 @@
                                             </div>
                                         </div>
                                         <a id="next-utterance-{{ forloop.counter }}" href="javascript:void(0);"
-                                                   class="navigation-arrow right-arrow" style="margin-left: 20px;">&#9654;</a>
+                                           class="navigation-arrow right-arrow" style="margin-left: 20px;">&#9654;</a>
                                     </div>
 
                                     <div class="options" style="margin-top: 10px;">
@@ -196,23 +193,26 @@
                                                 {% endfor %}
                                             {% endif %}
                                         {% endwith %}
-                                        <label for="text_for_emoji"></label>
-                                        <textarea style="display: none"
-                                                  name="reaction" id="text_for_emoji" rows="1"></textarea>
-                                        <div style="display: flex; flex-direction: row; justify-content: space-evenly; width: auto">
-                                            <button class="grid-item" id="button_for_emoji"
-                                                style="display: none; margin-bottom: 2%">Submit
-                                            </button>
-                                            <button class="grid-item" id="reset_emoji_text" style="display: none; margin-bottom: 2%">
-                                                Reset
-                                            </button>
-                                        </div>
-                                        <button style="display: flex; flex-direction: row; justify-content: center; background: #3e3e3e; color: lightblue" id="emoji_picker">Reagir</button>
-
                                     </div>
                                 </div>
 
                             {% endfor %}
+                            <label for="text_for_emoji">
+                                <textarea style="display: none" name="reaction" id="text_for_emoji" rows="1"></textarea>
+                            </label>
+
+                            <div style="display: flex; flex-direction: row; justify-content: space-evenly; width: auto">
+                                <button class="grid-item" id="button_for_emoji"
+                                        style="display: none; margin-bottom: 2%">Submit
+                                </button>
+                                <button class="grid-item" id="reset_emoji_text"
+                                        style="display: none; margin-bottom: 2%">
+                                    Reset
+                                </button>
+                            </div>
+                            <button style="display: flex; flex-direction: row; justify-content: center; background: #3e3e3e; color: lightblue"
+                                    id="emoji_picker">Reagir
+                            </button>
                         {% endif %}
                     </div>
 
@@ -254,39 +254,92 @@
             </div>
         </div>
     </div>
+
     <script>
-    $(document).ready(function() {
-        // Show the submit button when an option is selected
-        $('.options').on('click', 'li', function() {
-            $('#button_for_emoji').show();
-        });
+        document.addEventListener("DOMContentLoaded", function () {
+            const submitButtonsEmoji = document.querySelectorAll('#button_for_emoji');
+            /*
+            const emojiArea_text = document.querySelector('.emojionearea-editor');
+            if (!emojiArea_text.classList.contains('has-placeholder') && emojiArea_text.innerText !== '') {
+                alert(emojiArea_text.innerText);
+            }
+             */
+            submitButtonsEmoji.forEach(function (button) {
+                button.addEventListener('click', function () {
+                    // Find the visible utterance element
+                    const visibleUtterance = document.querySelector('.utterance:not([style*="display: none"])');
+                    if (visibleUtterance) {
+                        // Get the index of the visible utterance from its ID
+                        const utteranceId = visibleUtterance.id;
 
-        // Handle button click to send emoji text to server
-        $('#button_for_emoji').click(function() {
-            // Get the emoji text
-            const emojiText = $('#text_for_emoji').text();
+                        // Get the emoji text from the .emojionearea-editor element
+                        const emojiArea_text = document.querySelector('.emojionearea-editor');
 
-            // Send AJAX request to save emoji text to database
-            $.ajax({
-                url: '/your-save-endpoint/',  // Replace with your backend endpoint
-                method: 'POST',
-                data: {
-                    emoji_text: emojiText
-                },
-                success: function(response) {
-                    // Handle success response
-                    console.log('Emoji text saved successfully:', response);
-                    // Optionally, update UI or perform additional actions
-                },
-                error: function(xhr, status, error) {
-                    // Handle error response
-                    console.error('Error saving emoji text:', error);
-                    // Optionally, display an error message or perform recovery actions
-                }
+                        if (emojiArea_text) {
+                            // Get the emoji image from the .emojionearea-editor element
+                            const emojiImg = emojiArea_text.querySelector('.emojioneemoji');
+                            if (emojiImg) {
+                                const emojiText = emojiImg.alt.trim();
+                                if (emojiText !== '') {
+                                    // Pass the snippet ID and emoji text to the function
+                                    console.log(emojiText)
+                                    saveEmojiToDatabase(utteranceId, emojiText);
+                                }
+
+                            }
+                        }
+                    }
+                });
             });
+
+            function saveEmojiToDatabase(snippetId, emojiText) {
+                // Replace with your actual backend endpoint
+                const endpoint = '/save_emoji/';
+
+                // Get CSRF token
+                const csrftoken = getCSRFToken();
+
+                // Send AJAX request to save emoji text to database
+                $.ajax({
+
+                    url: endpoint,
+                    method: 'POST',
+                    headers: {
+                        'X-CSRFToken': csrftoken
+                    },
+                    data: {
+                        snippet_id: snippetId,
+                        emoji_text: emojiText
+                    },
+                    success: function (response) {
+                        console.log('Emoji text saved successfully:', response);
+                        // Optionally, update UI or perform additional actions
+                    },
+                    error: function (xhr, status, error) {
+                        console.error('Error saving emoji text:', error);
+                        // Optionally, display an error message or perform recovery actions
+                    }
+                });
+            }
+
+            // Function to get CSRF token from cookie
+            function getCSRFToken() {
+                let cookieValue = null;
+                if (document.cookie && document.cookie !== '') {
+                    const cookies = document.cookie.split(';');
+                    for (var i = 0; i < cookies.length; i++) {
+                        const cookie = jQuery.trim(cookies[i]);
+                        if (cookie.substring(0, 10) === ('csrftoken' + '=')) {
+                            cookieValue = decodeURIComponent(cookie.substring(10));
+                            break;
+                        }
+                    }
+                }
+                console.log(cookieValue);
+                return cookieValue;
+            }
         });
-    });
-</script>
+    </script>
     <script>
         // JavaScript for handling navigation between snippets
         let currentSnippetIndex = 0;
@@ -341,7 +394,13 @@
                 if (!is_emojiarea_init) {
                     $("#text_for_emoji").emojioneArea({
                         standalone: true,
-                        display: 'block'
+                        display: "block",
+                        emojiPlaceholder: ":100:",
+                        events: {
+                            ready: function () {
+                                $('.emojionearea-editor').attr('id', 'emoji_text_area');
+                            }
+                        }
                     });
 
                     is_emojiarea_init = true; // Set flag to true after initialization
@@ -363,13 +422,6 @@
                 }
             });
 
-            // Add event listener for submit button
-            submit_button_emoji.addEventListener('click', function () {
-                const emojiArea_text = document.querySelector('.emojionearea-editor');
-                if (emojiArea_text.innerText !== '') {
-                    alert(emojiArea_text.innerText);
-                }
-            });
 
             // Add event listener for reset button
             text_reset.addEventListener('click', function () {

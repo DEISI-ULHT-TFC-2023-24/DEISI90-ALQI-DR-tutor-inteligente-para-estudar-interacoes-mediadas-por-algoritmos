@@ -1715,5 +1715,22 @@
         ],
         "published": "2024-05-31 05:30:47",
         "category": "economia"
+    },
+    {
+        "headline": "Pedro Nuno quer que Governo esclareça se empresa privada esteve envolvida no plano da saúde",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/pedro-nuno-quer-que-governo-esclareca-se-empresa-privada-esteve-envolvida-no-plano-da-saude_n1576101",
+        "content": [
+            {
+                "type": "text",
+                "data": "O secretário-geral do PS perguntou hoje ao Governo se alguma empresa privada na área da consultoria esteve envolvida na elaboração do plano de emergência para a saúde, como foi contratada e a que informação do SNS teve acesso. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 21:28:41",
+        "category": "economia"
     }
 ]

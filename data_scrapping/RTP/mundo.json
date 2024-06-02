@@ -1936,5 +1936,583 @@
         ],
         "published": "2024-06-01 17:52:43",
         "category": "mundo"
+    },
+    {
+        "headline": "Presidente de Israel encoraja governo a fechar acordo com Hamas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/presidente-de-israel-encoraja-governo-a-fechar-acordo-com-hamas_n1576192",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente israelita, Isaac Herzog, encorajou hoje o primeiro-ministro Benjamin Netanyahu a finalizar um acordo de cessar-fogo com o grupo islamita Hamas que permita libertar os reféns que estão na Faixa de Gaza."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 11:41:33",
+        "category": "mundo"
+    },
+    {
+        "headline": "Agência da ONU suspende operações em Rafah",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/agencia-da-onu-suspende-operacoes-em-rafah_n1576188",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Agência das Nações Unidas de Assistência aos Refugiados da Palestina no Próximo Oriente (UNRWA) suspendeu o trabalho em Rafah e mudou-se para a cidade de Khan Younis, também no sul da Faixa de Gaza."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/63/63724e172bed183fda43ade16ceb811d?w=350&amp;q=50&amp;rect=0,89,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 11:19:07",
+        "category": "mundo"
+    },
+    {
+        "headline": "Zelensky acusa China de tentar boicotar cimeira da paz na Suíça",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/zelensky-acusa-china-de-tentar-boicotar-cimeira-da-paz-na-suica_n1576185",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente ucraniano, Volodymyr Zelensky, acusou hoje a China de tentar impedir países de participaram na cimeira de paz na Ucrânia, que se realiza em 15 e 16 de junho, na Suíça."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 10:54:02",
+        "category": "mundo"
+    },
+    {
+        "headline": "Missão do Vaticano em Timor-Leste para reuniões e inspeções a locais a visitar pelo Papa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/missao-do-vaticano-em-timor-leste-para-reunioes-e-inspecoes-a-locais-a-visitar-pelo-papa_n1576184",
+        "content": [
+            {
+                "type": "text",
+                "data": "Uma missão do Vaticano encontra-se em Díli, Timor-Leste, para reuniões com o Governo e inspeções aos locais envolvidos na visita do Papa Francisco ao país, em setembro, disse hoje o representante do Vaticano em Díli, Marco Sprizz."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 10:39:32",
+        "category": "mundo"
+    },
+    {
+        "headline": "Jejum intermitente mais eficaz para controlar saúde intestinal e peso",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/jejum-intermitente-mais-eficaz-para-controlar-saude-intestinal-e-peso_n1576183",
+        "content": [
+            {
+                "type": "text",
+                "data": "O jejum intermitente é mais eficaz a melhorar a saúde intestinal e o controlo do peso do que a simples restrição calórica, segundo um estudo realizado em vários centros de investigação norte-americanos. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 10:38:48",
+        "category": "mundo"
+    },
+    {
+        "headline": "Irão. Ex-presidente da linha dura Ahmadinejad regista-se como candidato presidencial",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/irao-ex-presidente-da-linha-dura-ahmadinejad-regista-se-como-candidato-presidencial_n1576177",
+        "content": [
+            {
+                "type": "text",
+                "data": "O antigo presidente Mahmoud Ahmadinejad, da linha dura do Irão, inscreveu-se hoje como possível candidato às eleições presidenciais, convocadas devido à morte do chefe de Estado, Ebrahim Raisi, num acidente de helicóptero em maio."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:47:16",
+        "category": "mundo"
+    },
+    {
+        "headline": "PR de Moçambique participa na primeira cimeira Coreia-África",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/pr-de-mocambique-participa-na-primeira-cimeira-coreia-africa_n1576175",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente moçambicano, Filipe Nyusi, visita a partir de hoje e até quarta-feira a Coreia do Sul para participar da primeira cimeira Coreia-África, a decorrer em Seul, anunciou hoje a Presidência em comunicado."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:46:34",
+        "category": "mundo"
+    },
+    {
+        "headline": "Huthis reivindicam novo ataque a porta-aviões dos EUA e outros navios",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/huthis-reivindicam-novo-ataque-a-porta-avioes-dos-eua-e-outros-navios_n1576143",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os rebeldes Huthis do Iémen assumiram hoje a responsabilidade por ataques a seis navios no Mar Vermelho, dois deles norte-americanos, um contratorpedeiro e o porta-aviões Dwight D. Eisenhower, que já tinham atacado na sexta-feira."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:43:31",
+        "category": "mundo"
+    },
+    {
+        "headline": "Fechou o único hospital que ainda funcionava em Rafah",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/fechou-o-unico-hospital-que-ainda-funcionava-em-rafah_n1576144",
+        "content": [
+            {
+                "type": "text",
+                "data": "O único hospital que restava em Rafah, no sul da Faixa de Gaza, deixou de funcionar, ficando hospitais de campanha com serviços reduzidos na cidade sob ataques israelitas, informou hoje a Organização Mundial da Saúde (OMS)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:42:59",
+        "category": "mundo"
+    },
+    {
+        "headline": "Sonda espacial chinesa aterra no lado distante da Lua",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/sonda-espacial-chinesa-aterra-no-lado-distante-da-lua_n1576147",
+        "content": [
+            {
+                "type": "text",
+                "data": "Uma sonda espacial chinesa aterrou hoje no lado distante da Lua para recolher amostras de rochas, anunciou a Administração Espacial da China. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:41:24",
+        "category": "mundo"
+    },
+    {
+        "headline": "Insegurança no México leva a fecho de 222 locais de voto e afeta 120 mil eleitores",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/inseguranca-no-mexico-leva-a-fecho-de-222-locais-de-voto-e-afeta-120-mil-eleitores_n1576148",
+        "content": [
+            {
+                "type": "text",
+                "data": "Pelo menos 222 centros de voto vão permanecer encerrados nas eleições de hoje no México, devido a problemas de segurança ou conflitos sociais, afetando cerca de 120 mil eleitores, informou o Instituto Nacional Eleitoral (INE)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b1/b1623b7ffeb1c25403ffeda3cbdccd13?w=350&amp;q=50&amp;rect=0,155,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:35:27",
+        "category": "mundo"
+    },
+    {
+        "headline": "PP espanhol já cruzou \"linhas vermelhas\" com Vox e admite aliança com Meloni",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/pp-espanhol-ja-cruzou-linhas-vermelhas-com-vox-e-admite-alianca-com-meloni_n1576173",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Partido Popular espanhol cruzou no último ano as &quot;linhas vermelhas&quot; em debate nas eleições europeias com acordos com a extrema-direita que o colocaram no poder em quatro regiões, mas também, segundo analistas, num &quot;jogo difícil&quot; de gerir."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:30:59",
+        "category": "mundo"
+    },
+    {
+        "headline": "Direita radical ambiciona mudar maiorias no Parlamento Europeu",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/direita-radical-ambiciona-mudar-maiorias-no-parlamento-europeu_n1576172",
+        "content": [
+            {
+                "type": "text",
+                "data": "A direita radical europeia, dividida por diferentes grupos no Parlamento Europeu, reuniu-se recentemente em Madrid com apelos à cooperação e a uma &quot;frente comum&quot; que acabe com a &quot;maioria antinatural&quot; formada por socialistas, populares (direita tradicional) e liberais."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:30:25",
+        "category": "mundo"
+    },
+    {
+        "headline": "China vai agir \"com determinação e força\" para impedir independência de Taiwan",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/china-vai-agir-com-determinacao-e-forca-para-impedir-independencia-de-taiwan_n1576157",
+        "content": [
+            {
+                "type": "text",
+                "data": "A China vai &quot;agir sempre com determinação e força&quot; para impedir a independência de Taiwan, afirmou hoje em Singapura o ministro da Defesa chinês, Dong Jun."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:29:12",
+        "category": "mundo"
+    },
+    {
+        "headline": "Conselho das Comunidades Portuguesas quer \"atuação mais forte\" de Portugal na Venezuela",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/conselho-das-comunidades-portuguesas-quer-atuacao-mais-forte-de-portugal-na-venezuela_n1576159",
+        "content": [
+            {
+                "type": "text",
+                "data": "O presidente do Conselho das Comunidades Portuguesas defendeu uma &quot;atuação mais forte&quot; de Portugal nos países da América Latina e em África, onde a diáspora tem uma &quot;força importantíssima&quot;."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:28:35",
+        "category": "mundo"
+    },
+    {
+        "headline": "A imigração, a questão fraturante dos europeus em cinco números-chave",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/eleicoes-europeias-2024/a-imigracao-a-questao-fraturante-dos-europeus-em-cinco-numeros-chave_n1574345",
+        "content": [
+            {
+                "type": "text",
+                "data": "Um mês e meio depois de ter aprovado uma reforma histórica do sistema de asilo e migração e a uma semana das eleições europeias para o Parlamento Europeu, agendadas para o dia 9 de junho em Portugal, a RTP apresenta alguns factos sobre a questão que está a dominar o debate político em toda a Europa. Conheça a imigração na União Europeia e em Portugal em cinco números-chave.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d2/d2c8aa4f7ca1362e11030e5c29318446?w=350&amp;q=50&amp;rect=0,7,980,537&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:20:54",
+        "category": "mundo"
+    },
+    {
+        "headline": "Coreia do Norte envia mais 600 balões com lixo para Coreia do Sul",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/coreia-do-norte-envia-mais-600-baloes-com-lixo-para-coreia-do-sul_n1576161",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Coreia do Norte enviou para o outro lado da fronteira cerca de 600 balões com lixo, incluindo beatas de cigarros e plásticos, declarou hoje o exército sul-coreano. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/7d/7d51544112a0045ec8d0c599543bee35?w=350&amp;q=50&amp;rect=0,226,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:17:07",
+        "category": "mundo"
+    },
+    {
+        "headline": "Timor-Leste participa na conferência de solidariedade internacional com Ucrânia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/timor-leste-participa-na-conferencia-de-solidariedade-internacional-com-ucrania_n1576162",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente timorense, José Ramos-Horta, confirmou hoje que Timor-Leste vai participar na conferência de solidariedade internacional com a Ucrânia, que vai decorrer em junho na Suíça, após um encontro, no sábado, em Singapura, com Volodymyr Zelensky."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:14:26",
+        "category": "mundo"
+    },
+    {
+        "headline": "Onda de calor na Índia causou morte de 33 funcionários eleitorais no sábado",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/onda-de-calor-na-india-causou-morte-de-33-funcionarios-eleitorais-no-sabado_n1576170",
+        "content": [
+            {
+                "type": "text",
+                "data": "Pelo menos 33 funcionários eleitorais indianos morreram devido ao calor no sábado, último dia das eleições nacionais, só no estado de Uttar Pradesh, no norte do país, informou um responsável eleitoral."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/bb/bb05dfe9cf8af31066042c4866f3c705?w=350&amp;q=50&amp;rect=0,129,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:11:24",
+        "category": "mundo"
+    },
+    {
+        "headline": "Zelensky convida líderes da Ásia-Pacífico para cimeira mundial para a paz",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/zelensky-convida-lideres-da-asia-pacifico-para-cimeira-mundial-para-a-paz_n1576165",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente da Ucrânia, Volodymyr Zelensky, convido, em Singapura, os líderes da região Ásia-Pacífico a participarem na cimeira mundial sobre a paz, que se realiza na Suíça a 15 e 16 de junho.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/77/77653d6403d9a18f3ac27cb731a0c073?w=350&amp;q=50&amp;rect=0,174,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 08:50:00",
+        "category": "mundo"
+    },
+    {
+        "headline": "OMS adia tratado global sobre pandemias por falta de acordo entre países-membros",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/oms-adia-tratado-global-sobre-pandemias-por-falta-de-acordo-entre-paises-membros_n1576137",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os países-membros da Organização Mundial da Saúde (OMS) anunciaram hoje, último dia da assembleia anual do organismo, que precisam de mais um ano para tentar chegar a um tratado que prepare o mundo para futuras pandemias."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 00:05:43",
+        "category": "mundo"
+    },
+    {
+        "headline": "Partido alemão CDU de Ursula von der Leyen alvo de ciberataque \"grave\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/partido-alemao-cdu-de-ursula-von-der-leyen-alvo-de-ciberataque-grave_n1576138",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Governo da Alemanha anunciou hoje que o partido conservador alemão CDU, de Ursula von der Leyen, foi alvo de um ciberataque &quot;grave&quot;, em vésperas das eleições para o Parlamento Europeu."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 00:05:12",
+        "category": "mundo"
+    },
+    {
+        "headline": "Israel reivindica eliminação de 4 combatentes do Hezbollah no Líbano",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/israel-reivindica-eliminacao-de-4-combatentes-do-hezbollah-no-libano_n1576136",
+        "content": [
+            {
+                "type": "text",
+                "data": "As Forças de Defesa de Israel (IDF) atacaram hoje alvos no sul do Líbano, reivindicando a eliminação de quatro combatentes do Hezbollah, enquanto serviços de saúde ligados a este movimento palestiniano indicaram que 16 crianças ficaram feridas nos ataques.  "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 23:48:12",
+        "category": "mundo"
+    },
+    {
+        "headline": "Chile junta-se a denúncia da África do Sul contra Israel no TIJ",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/chile-junta-se-a-denuncia-da-africa-do-sul-contra-israel-no-tij_n1576133",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Chile vai juntar-se à queixa apresentada pela África do Sul contra Israel no Tribunal Internacional de Justiça (TIJ) por &quot;genocídio&quot; dos palestinianos, anunciou hoje o Presidente chileno, que exigiu &quot;uma resposta firme da comunidade internacional&quot;."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 23:15:57",
+        "category": "mundo"
+    },
+    {
+        "headline": "Extrema-direita ameaça deixar governo israelita se trégua em Gaza for aprovada",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/extrema-direita-ameaca-deixar-governo-israelita-se-tregua-em-gaza-for-aprovada_n1576132",
+        "content": [
+            {
+                "type": "text",
+                "data": "O ministro israelita Benny Gantz pediu hoje uma reunião &quot;o mais brevemente possível&quot; do Gabinete de Guerra para discutir a nova proposta de trégua com o Hamas, enquanto a extrema-direita ameaçou abandonar o governo caso a mesma seja aprovada.  \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/f1/f15a81be7b06b62c208456682943f4ba?w=350&amp;q=50&amp;rect=0,105,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 23:07:41",
+        "category": "mundo"
+    },
+    {
+        "headline": "Ex-presidente sul-africano Jacob Zuma pede comissão de inquérito a resultados eleitorais",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/ex-presidente-sul-africano-jacob-zuma-pede-comissao-de-inquerito-a-resultados-eleitorais_n1576126",
+        "content": [
+            {
+                "type": "text",
+                "data": "O ex-presidente sul-africano Jacob Zuma instou hoje à criação de uma comissão de inquérito a alegadas &quot;irregularidades graves&quot; nas eleições gerais de quarta-feira na África do Sul."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 22:41:59",
+        "category": "mundo"
+    },
+    {
+        "headline": "Socialista Nicolas Schmit. Acordos entre PPE e extrema direita são um risco",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/socialista-nicolas-schmit-acordos-entre-ppe-e-extrema-direita-sao-um-risco_v1576127",
+        "content": [
+            {
+                "type": "text",
+                "data": "O candidato socialista à presidência da Comissão Europeia acredita que é uma ilusão fechar as fronteiras e defende a abertura de rotas legais de migração e melhores procedimentos de controlo.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/8b/8bb919ddf9e8d410ce62a2427d555df6?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 22:41:46",
+        "category": "mundo"
+    },
+    {
+        "headline": "Egito, Qatar e EUA apelam a cessar-fogo Israel-Hamas em Gaza",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/egito-qatar-e-eua-apelam-a-cessar-fogo-israel-hamas-em-gaza_n1576125",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Egito, o Qatar e os Estados Unidos apelaram hoje a Israel e ao grupo islamita Hamas para que finalizem um acordo de cessar-fogo na Faixa de Gaza e de libertação de reféns israelitas e prisioneiros palestinianos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 22:41:42",
+        "category": "mundo"
+    },
+    {
+        "headline": "Primeiro-ministro francês alerta para \"bloqueio\" com subida da extrema-direita",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/eleicoes-europeias-2024/primeiro-ministro-frances-alerta-para-bloqueio-com-subida-da-extrema-direita_n1576122",
+        "content": [
+            {
+                "type": "text",
+                "data": "O primeiro-ministro francês, Gabriel Attal, alertou hoje que uma extrema-direita forte no Parlamento Europeu, como indicam as sondagens para as eleições europeias, poderá criar uma &quot;minoria de bloqueio&quot; em Estrasburgo."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 22:40:31",
+        "category": "mundo"
+    },
+    {
+        "headline": "Portugal e Espanha preparam acordo sobre águas do Tejo e do Guadiana",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/portugal-e-espanha-preparam-acordo-sobre-aguas-do-tejo-e-do-guadiana_v1576121",
+        "content": [
+            {
+                "type": "text",
+                "data": "Portugal e Espanha vão preparar um acordo sobre a utilização da água dos rios Tejo e Guadiana. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/58/58d4f0eebe019284db3c5d68e4af77f7_N.jpg?"
+            }
+        ],
+        "published": "2024-06-01 21:59:45",
+        "category": "mundo"
+    },
+    {
+        "headline": "Netanyahu aceita convite para discursar no Congresso dos EUA",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/netanyahu-aceita-convite-para-discursar-no-congresso-dos-eua_n1576117",
+        "content": [
+            {
+                "type": "text",
+                "data": "O primeiro-ministro israelita, Benjamin Netanyahu, disse hoje que recebeu &quot;encantado&quot; o convite para discursar no Congresso norte-americano, em plena guerra entre o seu país e o movimento islamita palestiniano Hamas.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/a6/a6c99185e2e8b26cd03ad92a3b59784d?w=350&amp;q=50&amp;rect=0,21,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 21:59:09",
+        "category": "mundo"
+    },
+    {
+        "headline": "Tribunal manda penhorar contas da Escola Portuguesa de Luanda",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/tribunal-manda-penhorar-contas-da-escola-portuguesa-de-luanda_n1576109",
+        "content": [
+            {
+                "type": "text",
+                "data": "O tribunal da comarca de Belas (Luanda) mandou penhorar as contas da Escola Portuguesa de Luanda (EPL) para pagar uma dívida associada à sentença que, no ano passado, deu razão aos professores que mantêm um conflito laboral com a EPL."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 21:37:05",
+        "category": "mundo"
+    },
+    {
+        "headline": "Meloni antecipa que eleições enviarão \"esquerdistas para a oposição\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/eleicoes-europeias-2024/meloni-antecipa-que-eleicoes-enviarao-esquerdistas-para-a-oposicao_n1576092",
+        "content": [
+            {
+                "type": "text",
+                "data": "A primeira-ministra italiana, Giorgia Meloni, antecipou hoje que as eleições europeias vão &quot;mandar os esquerdistas para a oposição&quot;, como o seu partido fez em Itália, e mudar uma Europa que é &quot;um gigante burocrático e um anão político&quot;."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 20:54:57",
+        "category": "mundo"
+    },
+    {
+        "headline": "Obrigado a negociar. ANC com apenas 40 por cento dos votos na África do Sul",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/obrigado-a-negociar-anc-com-apenas-40-por-cento-dos-votos-na-africa-do-sul_n1576090",
+        "content": [
+            {
+                "type": "text",
+                "data": "Longe vão os tempos em que o partido de Nelson Mandela aguardava descansadamente as tradicionais duas semanas após as eleições para declarar o nome do novo presidente. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/3a/3a718aaebb23f67b15844c77942d5908?w=350&amp;q=50&amp;rect=0,64,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 19:57:59",
+        "category": "mundo"
     }
 ]

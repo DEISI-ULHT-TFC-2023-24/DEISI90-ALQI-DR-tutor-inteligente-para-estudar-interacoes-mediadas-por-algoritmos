@@ -2293,5 +2293,855 @@
         ],
         "published": "2024-06-01 18:04:13",
         "category": "ultimas"
+    },
+    {
+        "headline": "Presidente de Israel encoraja governo a fechar acordo com Hamas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/presidente-de-israel-encoraja-governo-a-fechar-acordo-com-hamas_n1576192",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente israelita, Isaac Herzog, encorajou hoje o primeiro-ministro Benjamin Netanyahu a finalizar um acordo de cessar-fogo com o grupo islamita Hamas que permita libertar os reféns que estão na Faixa de Gaza."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 11:41:33",
+        "category": "ultimas"
+    },
+    {
+        "headline": "10H Montenegro já votou",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/10h-montenegro-ja-votou_a1_1576189",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 11:20:01",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Agência da ONU suspende operações em Rafah",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/agencia-da-onu-suspende-operacoes-em-rafah_n1576188",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Agência das Nações Unidas de Assistência aos Refugiados da Palestina no Próximo Oriente (UNRWA) suspendeu o trabalho em Rafah e mudou-se para a cidade de Khan Younis, também no sul da Faixa de Gaza."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/63/63724e172bed183fda43ade16ceb811d?w=350&amp;q=50&amp;rect=0,89,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 11:19:07",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Bancada que caiu em Lisboa foi vistoriada, Universidade promete investigar acidente",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/bancada-que-caiu-em-lisboa-foi-vistoriada-universidade-promete-investigar-acidente_n1576186",
+        "content": [
+            {
+                "type": "text",
+                "data": "A bancada que caiu no sábado e feriu dez pessoas no Estádio Universitário de Lisboa (EUL) foi sujeita a vistoria, segundo a Universidade, que promete investigar o acidente. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 11:12:09",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Zelensky acusa China de tentar boicotar cimeira da paz na Suíça",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/zelensky-acusa-china-de-tentar-boicotar-cimeira-da-paz-na-suica_n1576185",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente ucraniano, Volodymyr Zelensky, acusou hoje a China de tentar impedir países de participaram na cimeira de paz na Ucrânia, que se realiza em 15 e 16 de junho, na Suíça."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 10:54:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Missão do Vaticano em Timor-Leste para reuniões e inspeções a locais a visitar pelo Papa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/missao-do-vaticano-em-timor-leste-para-reunioes-e-inspecoes-a-locais-a-visitar-pelo-papa_n1576184",
+        "content": [
+            {
+                "type": "text",
+                "data": "Uma missão do Vaticano encontra-se em Díli, Timor-Leste, para reuniões com o Governo e inspeções aos locais envolvidos na visita do Papa Francisco ao país, em setembro, disse hoje o representante do Vaticano em Díli, Marco Sprizz."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 10:39:32",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Jejum intermitente mais eficaz para controlar saúde intestinal e peso",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/jejum-intermitente-mais-eficaz-para-controlar-saude-intestinal-e-peso_n1576183",
+        "content": [
+            {
+                "type": "text",
+                "data": "O jejum intermitente é mais eficaz a melhorar a saúde intestinal e o controlo do peso do que a simples restrição calórica, segundo um estudo realizado em vários centros de investigação norte-americanos. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 10:38:48",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Caso das gémeas luso-brasileiras. Processo está nas mãos da Polícia Judiciária",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/caso-das-gemeas-luso-brasileiras-processo-esta-nas-maos-da-policia-judiciaria_n1576181",
+        "content": [
+            {
+                "type": "text",
+                "data": "A investigação ao caso das gémeas luso-brasileiras tratadas em Portugal, já está nas mãos das Polícia Judiciária. A RTP apurou junto de fonte ligada ao processo que a documentação foi entregue à Unidade Nacional de Combate à Corrupção.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/3c/3c1cf01e9db1e5db827974ef54edd559?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 10:33:49",
+        "category": "ultimas"
+    },
+    {
+        "headline": "09h Começou voto antecipado",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/09h-comecou-voto-antecipado_a1_1576182",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 10:33:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Pedro Abrunhosa celebra 30 anos do álbum \"Viagens\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/pedro-abrunhosa-celebra-30-anos-do-album-viagens_v1576180",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os jardins da Torre de Belém foram, este sábado, palco para espetáculos de música portuguesa. 12 concertos, todos gratuitos, e com uma assistência de milhares de pessoas. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/e9/e9144daf8054bbbed805c3f9d660c4b1_N.jpg?"
+            }
+        ],
+        "published": "2024-06-02 10:24:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Euro2024. Portugal defronta Croácia no estádio do Jamor",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/euro2024-portugal-defronta-croacia-no-estadio-do-jamor_v1576179",
+        "content": [
+            {
+                "type": "text",
+                "data": "Humberto Coelho, antigo selecionador nacional, recorda as memórias mais marcantes da carreira, no Estádio Nacional. Portugal volta a jogar no Jamor, a 8 de junho, com a Croácia, em mais um encontro de preparação para o Europeu. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/c2/c2701d7a1997ef120ee9a6e65b6cc438_N.jpg?"
+            }
+        ],
+        "published": "2024-06-02 10:22:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Incêndio em Albergaria-a-Velha mobiliza mais de uma centena de bombeiros",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/incendio-em-albergaria-a-velha-mobiliza-mais-de-uma-centena-de-bombeiros_n1576178",
+        "content": [
+            {
+                "type": "text",
+                "data": "Um incêndio que deflagrou na madrugada de hoje em Palhal, concelho de Albergaria-a-Velha, está a mobilizar mais de uma centena de bombeiros, segundo a Autoridade Nacional de Emergência e Proteção Civil. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:54:36",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Irão. Ex-presidente da linha dura Ahmadinejad regista-se como candidato presidencial",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/irao-ex-presidente-da-linha-dura-ahmadinejad-regista-se-como-candidato-presidencial_n1576177",
+        "content": [
+            {
+                "type": "text",
+                "data": "O antigo presidente Mahmoud Ahmadinejad, da linha dura do Irão, inscreveu-se hoje como possível candidato às eleições presidenciais, convocadas devido à morte do chefe de Estado, Ebrahim Raisi, num acidente de helicóptero em maio."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:47:16",
+        "category": "ultimas"
+    },
+    {
+        "headline": "PR de Moçambique participa na primeira cimeira Coreia-África",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/pr-de-mocambique-participa-na-primeira-cimeira-coreia-africa_n1576175",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente moçambicano, Filipe Nyusi, visita a partir de hoje e até quarta-feira a Coreia do Sul para participar da primeira cimeira Coreia-África, a decorrer em Seul, anunciou hoje a Presidência em comunicado."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:46:34",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Huthis reivindicam novo ataque a porta-aviões dos EUA e outros navios",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/huthis-reivindicam-novo-ataque-a-porta-avioes-dos-eua-e-outros-navios_n1576143",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os rebeldes Huthis do Iémen assumiram hoje a responsabilidade por ataques a seis navios no Mar Vermelho, dois deles norte-americanos, um contratorpedeiro e o porta-aviões Dwight D. Eisenhower, que já tinham atacado na sexta-feira."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:43:31",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Fechou o único hospital que ainda funcionava em Rafah",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/fechou-o-unico-hospital-que-ainda-funcionava-em-rafah_n1576144",
+        "content": [
+            {
+                "type": "text",
+                "data": "O único hospital que restava em Rafah, no sul da Faixa de Gaza, deixou de funcionar, ficando hospitais de campanha com serviços reduzidos na cidade sob ataques israelitas, informou hoje a Organização Mundial da Saúde (OMS)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:42:59",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Açores sob alerta amarelo devido a fortes chuvas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/acores-sob-alerta-amarelo-devido-a-fortes-chuvas_n1576146",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Instituto Português do Mar e da Atmosfera (IPMA) lançou dois alertas amarelos para o arquipélago dos Açores devido às fortes chuvas previstas para os próximos dias."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:42:03",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Sonda espacial chinesa aterra no lado distante da Lua",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/sonda-espacial-chinesa-aterra-no-lado-distante-da-lua_n1576147",
+        "content": [
+            {
+                "type": "text",
+                "data": "Uma sonda espacial chinesa aterrou hoje no lado distante da Lua para recolher amostras de rochas, anunciou a Administração Espacial da China. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:41:24",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Insegurança no México leva a fecho de 222 locais de voto e afeta 120 mil eleitores",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/inseguranca-no-mexico-leva-a-fecho-de-222-locais-de-voto-e-afeta-120-mil-eleitores_n1576148",
+        "content": [
+            {
+                "type": "text",
+                "data": "Pelo menos 222 centros de voto vão permanecer encerrados nas eleições de hoje no México, devido a problemas de segurança ou conflitos sociais, afetando cerca de 120 mil eleitores, informou o Instituto Nacional Eleitoral (INE)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b1/b1623b7ffeb1c25403ffeda3cbdccd13?w=350&amp;q=50&amp;rect=0,155,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:35:27",
+        "category": "ultimas"
+    },
+    {
+        "headline": "PP espanhol já cruzou \"linhas vermelhas\" com Vox e admite aliança com Meloni",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/pp-espanhol-ja-cruzou-linhas-vermelhas-com-vox-e-admite-alianca-com-meloni_n1576173",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Partido Popular espanhol cruzou no último ano as &quot;linhas vermelhas&quot; em debate nas eleições europeias com acordos com a extrema-direita que o colocaram no poder em quatro regiões, mas também, segundo analistas, num &quot;jogo difícil&quot; de gerir."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:30:59",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Direita radical ambiciona mudar maiorias no Parlamento Europeu",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/direita-radical-ambiciona-mudar-maiorias-no-parlamento-europeu_n1576172",
+        "content": [
+            {
+                "type": "text",
+                "data": "A direita radical europeia, dividida por diferentes grupos no Parlamento Europeu, reuniu-se recentemente em Madrid com apelos à cooperação e a uma &quot;frente comum&quot; que acabe com a &quot;maioria antinatural&quot; formada por socialistas, populares (direita tradicional) e liberais."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:30:25",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Urgências de Ginecologia e Obstetrícia e bloco de partos em Aveiro encerrados",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/urgencias-de-ginecologia-e-obstetricia-e-bloco-de-partos-em-aveiro-encerrados_n1576174",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Urgência de Ginecologia e Obstetrícia e o bloco de partos do Hospital de Aveiro estão encerrados hoje desde as 08:30 por falta de médicos disponíveis, anunciou a instituição. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:29:58",
+        "category": "ultimas"
+    },
+    {
+        "headline": "China vai agir \"com determinação e força\" para impedir independência de Taiwan",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/china-vai-agir-com-determinacao-e-forca-para-impedir-independencia-de-taiwan_n1576157",
+        "content": [
+            {
+                "type": "text",
+                "data": "A China vai &quot;agir sempre com determinação e força&quot; para impedir a independência de Taiwan, afirmou hoje em Singapura o ministro da Defesa chinês, Dong Jun."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:29:12",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Conselho das Comunidades Portuguesas quer \"atuação mais forte\" de Portugal na Venezuela",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/conselho-das-comunidades-portuguesas-quer-atuacao-mais-forte-de-portugal-na-venezuela_n1576159",
+        "content": [
+            {
+                "type": "text",
+                "data": "O presidente do Conselho das Comunidades Portuguesas defendeu uma &quot;atuação mais forte&quot; de Portugal nos países da América Latina e em África, onde a diáspora tem uma &quot;força importantíssima&quot;."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:28:35",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Dúvidas, questões e respostas sobre o Parlamento Europeu. Moções de censura e perguntas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/eleicoes-europeias-2024/duvidas-questoes-e-respostas-sobre-o-parlamento-europeu-mocoes-de-censura-e-perguntas_es1573297",
+        "content": [
+            {
+                "type": "text",
+                "data": "José Luís Pacheco, ex-chefe do Secretariado da Comissão dos Assuntos Constitucionais do Parlamento Europeu, explica o alcance dos procedimentos neste órgão face à Comissão Europeia.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/f1/f1e066f7ffe7b6db10d053fa1ed32807?w=350&amp;q=50&amp;rect=0,155,1500,667&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:22:05",
+        "category": "ultimas"
+    },
+    {
+        "headline": "A imigração, a questão fraturante dos europeus em cinco números-chave",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/eleicoes-europeias-2024/a-imigracao-a-questao-fraturante-dos-europeus-em-cinco-numeros-chave_n1574345",
+        "content": [
+            {
+                "type": "text",
+                "data": "Um mês e meio depois de ter aprovado uma reforma histórica do sistema de asilo e migração e a uma semana das eleições europeias para o Parlamento Europeu, agendadas para o dia 9 de junho em Portugal, a RTP apresenta alguns factos sobre a questão que está a dominar o debate político em toda a Europa. Conheça a imigração na União Europeia e em Portugal em cinco números-chave.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d2/d2c8aa4f7ca1362e11030e5c29318446?w=350&amp;q=50&amp;rect=0,7,980,537&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:20:54",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Voto antecipado. Mais de 252 mil eleitores inscritos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/voto-antecipado-mais-de-252-mil-eleitores-inscritos_v1576171",
+        "content": [
+            {
+                "type": "text",
+                "data": "Mais de 252 mil eleitores portugueses votam hoje nas eleições europeias. Inscreveram-se no voto antecipado. Há registo de mais de 20 por cento de inscrições do que nas últimas eleições legislativas, em março.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/91/919a6511d26ffe5a50b24ce1ba7afda6?w=350&amp;q=50&amp;rect=0,129,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:19:43",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Coreia do Norte envia mais 600 balões com lixo para Coreia do Sul",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/coreia-do-norte-envia-mais-600-baloes-com-lixo-para-coreia-do-sul_n1576161",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Coreia do Norte enviou para o outro lado da fronteira cerca de 600 balões com lixo, incluindo beatas de cigarros e plásticos, declarou hoje o exército sul-coreano. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/7d/7d51544112a0045ec8d0c599543bee35?w=350&amp;q=50&amp;rect=0,226,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:17:07",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Timor-Leste participa na conferência de solidariedade internacional com Ucrânia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/timor-leste-participa-na-conferencia-de-solidariedade-internacional-com-ucrania_n1576162",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente timorense, José Ramos-Horta, confirmou hoje que Timor-Leste vai participar na conferência de solidariedade internacional com a Ucrânia, que vai decorrer em junho na Suíça, após um encontro, no sábado, em Singapura, com Volodymyr Zelensky."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:14:26",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Onda de calor na Índia causou morte de 33 funcionários eleitorais no sábado",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/onda-de-calor-na-india-causou-morte-de-33-funcionarios-eleitorais-no-sabado_n1576170",
+        "content": [
+            {
+                "type": "text",
+                "data": "Pelo menos 33 funcionários eleitorais indianos morreram devido ao calor no sábado, último dia das eleições nacionais, só no estado de Uttar Pradesh, no norte do país, informou um responsável eleitoral."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/bb/bb05dfe9cf8af31066042c4866f3c705?w=350&amp;q=50&amp;rect=0,129,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:11:24",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Zelensky convida líderes da Ásia-Pacífico para cimeira mundial para a paz",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/zelensky-convida-lideres-da-asia-pacifico-para-cimeira-mundial-para-a-paz_n1576165",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente da Ucrânia, Volodymyr Zelensky, convido, em Singapura, os líderes da região Ásia-Pacífico a participarem na cimeira mundial sobre a paz, que se realiza na Suíça a 15 e 16 de junho.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/77/77653d6403d9a18f3ac27cb731a0c073?w=350&amp;q=50&amp;rect=0,174,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 08:50:00",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Cotrim de Figueiredo lança críticas ao PS e à AD",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/cotrim-de-figueiredo-lanca-criticas-ao-ps-e-a-ad_v1576169",
+        "content": [
+            {
+                "type": "text",
+                "data": "O cabeça de lista da Iniciativa Liberal considera que Marta Temido é uma fonte de banalidades, que não consegue dizer duas frases seguidas com nexo sobre a Europa. João Cotrim de Figueiredo esteve em Quarteira, no Algarve, onde acusou também Sebastião Bugalho de se ter deixado dominar pela máquina do PSD e de fazer propostas tímidas e de &quot;meias-tintas&quot;."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/83/83a2c29eb1c99f8e0d9a0df0cdc0573b_N.jpg?"
+            }
+        ],
+        "published": "2024-06-02 08:44:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "PAN acusa Ventura de viver uma realidade paralela",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/pan-acusa-ventura-de-viver-uma-realidade-paralela_v1576168",
+        "content": [
+            {
+                "type": "text",
+                "data": "O cabeça de lista do PAN às europeias acusa André Ventura de viver numa realidade paralela. Em causa estão as declarações do presidente do Chega desta tarde, pedindo que se retirassem os apoios a associações que ajudam jovens com disforia de género."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/72/722e26c90b90cfa396072354ca4e83b7_N.jpg?"
+            }
+        ],
+        "published": "2024-06-02 08:40:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Ventura sublinha que falta ano e meio para o país \"se ver livre\" de Marcelo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/ventura-sublinha-que-falta-ano-e-meio-para-o-pais-se-ver-livre-de-marcelo_v1576167",
+        "content": [
+            {
+                "type": "text",
+                "data": "André Ventura diz que o país &quot;está cheio de imigrantes&quot; e que não quer &quot;nem mais um&quot;. O recado ouviu-se num jantar em Torres Novas, no qual o líder do Chega voltou a apelar ao Presidente da República para responder à comissão de inquérito ao caso das gémeas luso-brasileiras tratadas em Portugal."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/cc/cc89a92d55bc23d56fafda3f794b155e_N.jpg?"
+            }
+        ],
+        "published": "2024-06-02 08:38:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "7h Empresa privada ajudou governo a construir Plano para a Saúde",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/7h-empresa-privada-ajudou-governo-a-construir-plano-para-a-saude_a1_1576166",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 08:16:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "5h João Moreira Rato questiona queda da dívida pública",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/5h-joao-moreira-rato-questiona-queda-da-divida-publica_a1_1576160",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 06:18:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "4h Governo foi à \"bolsa\" buscar empresa para o Plano para a Saúde",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/4h-governo-foi-a-bolsa-buscar-empresa-para-o-plano-para-a-saude_a1_1576158",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 05:19:01",
+        "category": "ultimas"
+    },
+    {
+        "headline": "3h Governo promete divulgar contratos dos últimos oito anos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/3h-governo-promete-divulgar-contratos-dos-ultimos-oito-anos_a1_1576156",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 04:19:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "2h Governo contratou consultora para o Plano para a Saúde",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/2h-governo-contratou-consultora-para-o-plano-para-a-saude_a1_1576154",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 03:18:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "01H Consultora privada ajuda no Plano de Emergência de Saúde",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/01h-consultora-privada-ajuda-no-plano-de-emergencia-de-saude_a1_1576153",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 03:06:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "00H Governo confirma a contratação de uma consultora privada",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-governo-confirma-a-contratacao-de-uma-consultora-privada_a1_1576152",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 03:00:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "23H Governo confirma que contratou uma consultora privada",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-governo-confirma-que-contratou-uma-consultora-privada_a1_1576151",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 02:51:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "22H  Há ou  não conflito de interesses?",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-ha-ou-nao-conflito-de-interesses_a1_1576150",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 02:40:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "21H Há ou não conflito de interesses?",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/21h-ha-ou-nao-conflito-de-interesses_a1_1576149",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 02:32:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "20H Presidente da República pede resposta para os imigrantes",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/20h-presidente-da-republica-pede-resposta-para-os-imigrantes_a1_1576142",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 00:41:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "OMS adia tratado global sobre pandemias por falta de acordo entre países-membros",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/oms-adia-tratado-global-sobre-pandemias-por-falta-de-acordo-entre-paises-membros_n1576137",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os países-membros da Organização Mundial da Saúde (OMS) anunciaram hoje, último dia da assembleia anual do organismo, que precisam de mais um ano para tentar chegar a um tratado que prepare o mundo para futuras pandemias."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 00:05:43",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Partido alemão CDU de Ursula von der Leyen alvo de ciberataque \"grave\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/eleicoes-europeias-2024/partido-alemao-cdu-de-ursula-von-der-leyen-alvo-de-ciberataque-grave_n1576138",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Governo da Alemanha anunciou hoje que o partido conservador alemão CDU, de Ursula von der Leyen, foi alvo de um ciberataque &quot;grave&quot;, em vésperas das eleições para o Parlamento Europeu."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 00:05:12",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Israel reivindica eliminação de 4 combatentes do Hezbollah no Líbano",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/israel-reivindica-eliminacao-de-4-combatentes-do-hezbollah-no-libano_n1576136",
+        "content": [
+            {
+                "type": "text",
+                "data": "As Forças de Defesa de Israel (IDF) atacaram hoje alvos no sul do Líbano, reivindicando a eliminação de quatro combatentes do Hezbollah, enquanto serviços de saúde ligados a este movimento palestiniano indicaram que 16 crianças ficaram feridas nos ataques.  "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 23:48:12",
+        "category": "ultimas"
+    },
+    {
+        "headline": "José Mourinho confirmado como treinador do Fenerbahçe",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/jose-mourinho-confirmado-como-treinador-do-fenerbahce_d1576135",
+        "content": [
+            {
+                "type": "text",
+                "data": "O português José Mourinho, que estava sem clube desde janeiro, é o novo treinador do Fenerbahçe, anunciou hoje o segundo classificado da última edição da Liga turca de futebol nas redes sociais. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/a1/a13e65a3950d513b096cbe0ae192504a?w=350&amp;q=50&amp;rect=0,132,1259,690&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 23:29:18",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Hugo Soares acusa PS de dar \"colo ao Chega\" e Pedro Nuno de \"esconder\" Marta Temido",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/hugo-soares-acusa-ps-de-dar-colo-ao-chega-e-pedro-nuno-de-esconder-marta-temido_a1576129",
+        "content": [
+            {
+                "type": "text",
+                "data": "O secretário-geral do PSD foi à campanha da Aliança Democrática apelar ao voto dos eleitores que votaram no Chega nas últimas eleições legislativas.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/3b/3b3119b824fcbdb3581c85b9e9dd187d?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 23:20:25",
+        "category": "ultimas"
     }
 ]

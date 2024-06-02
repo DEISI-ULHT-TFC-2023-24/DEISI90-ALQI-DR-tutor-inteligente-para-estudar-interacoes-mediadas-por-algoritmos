@@ -1732,5 +1732,209 @@
         ],
         "published": "2024-06-01 18:04:13",
         "category": "pais"
+    },
+    {
+        "headline": "Bancada que caiu em Lisboa foi vistoriada, Universidade promete investigar acidente",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/bancada-que-caiu-em-lisboa-foi-vistoriada-universidade-promete-investigar-acidente_n1576186",
+        "content": [
+            {
+                "type": "text",
+                "data": "A bancada que caiu no sábado e feriu dez pessoas no Estádio Universitário de Lisboa (EUL) foi sujeita a vistoria, segundo a Universidade, que promete investigar o acidente. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 11:12:09",
+        "category": "pais"
+    },
+    {
+        "headline": "Caso das gémeas luso-brasileiras. Processo está nas mãos da Polícia Judiciária",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/caso-das-gemeas-luso-brasileiras-processo-esta-nas-maos-da-policia-judiciaria_n1576181",
+        "content": [
+            {
+                "type": "text",
+                "data": "A investigação ao caso das gémeas luso-brasileiras tratadas em Portugal, já está nas mãos das Polícia Judiciária. A RTP apurou junto de fonte ligada ao processo que a documentação foi entregue à Unidade Nacional de Combate à Corrupção.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/3c/3c1cf01e9db1e5db827974ef54edd559?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 10:33:49",
+        "category": "pais"
+    },
+    {
+        "headline": "Incêndio em Albergaria-a-Velha mobiliza mais de uma centena de bombeiros",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/incendio-em-albergaria-a-velha-mobiliza-mais-de-uma-centena-de-bombeiros_n1576178",
+        "content": [
+            {
+                "type": "text",
+                "data": "Um incêndio que deflagrou na madrugada de hoje em Palhal, concelho de Albergaria-a-Velha, está a mobilizar mais de uma centena de bombeiros, segundo a Autoridade Nacional de Emergência e Proteção Civil. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:54:36",
+        "category": "pais"
+    },
+    {
+        "headline": "Açores sob alerta amarelo devido a fortes chuvas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/acores-sob-alerta-amarelo-devido-a-fortes-chuvas_n1576146",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Instituto Português do Mar e da Atmosfera (IPMA) lançou dois alertas amarelos para o arquipélago dos Açores devido às fortes chuvas previstas para os próximos dias."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:42:03",
+        "category": "pais"
+    },
+    {
+        "headline": "Urgências de Ginecologia e Obstetrícia e bloco de partos em Aveiro encerrados",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/urgencias-de-ginecologia-e-obstetricia-e-bloco-de-partos-em-aveiro-encerrados_n1576174",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Urgência de Ginecologia e Obstetrícia e o bloco de partos do Hospital de Aveiro estão encerrados hoje desde as 08:30 por falta de médicos disponíveis, anunciou a instituição. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-02 09:29:58",
+        "category": "pais"
+    },
+    {
+        "headline": "Já cheira a sardinha assada em Lisboa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/ja-cheira-a-sardinha-assada-em-lisboa_v1576123",
+        "content": [
+            {
+                "type": "text",
+                "data": "As festas dos santos populares já agitam a capital, como comprovou a reportagem da Carla Diogo. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/0f/0f854d283602b11b538670860fc3bfc6_N.jpg?"
+            }
+        ],
+        "published": "2024-06-01 22:08:46",
+        "category": "pais"
+    },
+    {
+        "headline": "Linha SNS Grávida já está disponível",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/linha-sns-gravida-ja-esta-disponivel_v1576120",
+        "content": [
+            {
+                "type": "text",
+                "data": "O objetivo é encaminhar as mulheres para as urgências mais perto das respetivas residências. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/1d/1d13a12acd021dcd157b97546c393990_N.jpg?"
+            }
+        ],
+        "published": "2024-06-01 21:57:46",
+        "category": "pais"
+    },
+    {
+        "headline": "Cadernos eleitorais digitais. Nem tudo correu bem nos testes ao sistema",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/cadernos-eleitorais-digitais-nem-tudo-correu-bem-nos-testes-ao-sistema_v1576116",
+        "content": [
+            {
+                "type": "text",
+                "data": "Pela primeira vez nas eleições europeias em Portugal os cadernos eleitorais vão ser digitais. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/e4/e46f94cbe8623407fc449fb5d6605f52_N.jpg?"
+            }
+        ],
+        "published": "2024-06-01 21:44:46",
+        "category": "pais"
+    },
+    {
+        "headline": "6.ª marcha LGBTI+ em Aveiro junta perto de 100 pessoas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/6a-marcha-lgbti-em-aveiro-junta-perto-de-100-pessoas_n1576106",
+        "content": [
+            {
+                "type": "text",
+                "data": "Cerca de 100 pessoas desfilaram hoje na 6.ª Marcha LGBTI+ em Aveiro, uma &quot;grande mobilização&quot; que para a organização &quot;tem significado especial&quot; no ano em que se comemoram os 50 anos do 25 de Abril.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 21:29:10",
+        "category": "pais"
+    },
+    {
+        "headline": "Associação de vítimas de abuso sexual critica indemnizações da Igreja Católica",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/associacao-de-vitimas-de-abuso-sexual-critica-indemnizacoes-da-igreja-catolica_v1576104",
+        "content": [
+            {
+                "type": "text",
+                "data": "As vítimas de abuso sexual da igreja já podem pedir uma compensação financeira.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/14/14e6c0a5ea81de9b1b21760c72710846?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-01 21:13:45",
+        "category": "pais"
+    },
+    {
+        "headline": "Três feridos graves na queda de bancada no Estádio Universitário de Lisboa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/tres-feridos-graves-na-queda-de-bancada-no-estadio-universitario-de-lisboa_v1576103",
+        "content": [
+            {
+                "type": "text",
+                "data": "Entre os 10 feridos há três em estado considerado grave, três mulheres entre os 58 e os 81 anos, com fraturas."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/ae/ae1f996925a9535b4021a656d0b35b9c_N.jpg?"
+            }
+        ],
+        "published": "2024-06-01 21:11:46",
+        "category": "pais"
+    },
+    {
+        "headline": "Dez feridos em queda de bancada no Estádio Universitário",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/dez-feridos-em-queda-de-bancada-no-estadio-universitario_v1576102",
+        "content": [
+            {
+                "type": "text",
+                "data": "Dez pessoas ficaram feridas após a queda de uma bancada no Estádio Universitário de Lisboa. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/98/981b320b08df4069f477ac467a6483d2_N.jpg?"
+            }
+        ],
+        "published": "2024-06-01 21:06:47",
+        "category": "pais"
     }
 ]

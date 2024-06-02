@@ -8,6 +8,7 @@ from django.http import JsonResponse
 from django.shortcuts import render, redirect
 from django.urls import reverse
 from django.views.decorators.csrf import csrf_exempt
+from django.views.decorators.http import require_POST
 
 from news.static.dbController import importJson as ij
 from thread_handler.content_text_to_query import load_json_file as lj
@@ -121,6 +122,36 @@ def random_news(request):
     random_content = random.choice(all_content)
 
     return news_detail(request, random_content.content_id)
+
+
+@require_POST
+def save_emoji(request):
+    if request.method == 'POST':
+        snippet_id = request.POST.get('snippet_id')
+        emoji_text = request.POST.get('emoji_text')
+
+        # Find the news option record for the given snippet_id
+        try:
+            news_option = Option.objects.get(snippet_id=snippet_id)
+
+            # Get the current option_added array
+            option_added = news_option.option_added
+
+            # Append the new emoji to the option_added array
+            option_added.append(emoji_text)
+
+            # Update the Option object with the new option_added array
+            news_option.option_added = option_added
+
+            # Save the updated Option object
+            news_option.save()
+
+            return JsonResponse({'status': 'success'})
+
+        except Option.DoesNotExist:
+            return JsonResponse({'status': 'error', 'message': 'Snippet not found'}, status=404)
+
+    return JsonResponse({'status': 'error', 'message': 'Invalid request method'}, status=400)
 
 
 @csrf_exempt

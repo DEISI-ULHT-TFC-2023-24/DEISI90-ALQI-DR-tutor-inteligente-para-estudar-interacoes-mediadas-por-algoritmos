@@ -122,7 +122,7 @@ def import_news_options(snippet_id):
     options = {
         'snippet_id': snippet_id,
         'option_default': ["Mostrar Mais", "Outra Coisa", "Voltar"],
-        'option_added': []
+        'option_added': ["😀"]
     }
 
     # Create or update the Option instance

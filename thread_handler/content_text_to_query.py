@@ -8,6 +8,19 @@ from langchain_community.tools import DuckDuckGoSearchRun
 #pip install langchain
 #pip install duckduckgo-search
 #pip install -U langchain-community
+def test_connection(url):
+    try:
+        response = requests.get(url)
+        if response.status_code == 200:
+            print("Connection successful.")
+            return True
+        else:
+            print(f"Connection failed with status code: {response.status_code}")
+            return False
+    except requests.exceptions.RequestException as e:
+        print(f"Connection failed with exception: {e}")
+        return False
+
 
 # Function to extract the 'response' field and concatenate them to form the complete message
 def extract_response_parts(api_response_text):
@@ -33,6 +46,7 @@ def ai_api_response(text):
     # for docker - http://host.docker.internal:11434/api/generate
     # for localhost - http://localhost:11434/api/generate
     url = 'http://localhost:11434/api/generate'
+
     data = {
         "model": "llama3",
         "prompt": f"""
