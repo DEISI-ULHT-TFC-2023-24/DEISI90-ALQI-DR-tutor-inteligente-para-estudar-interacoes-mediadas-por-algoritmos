@@ -81,15 +81,7 @@ def news_detail(request, news_id):
     thread_news = thread_news.filter(content_id=obj[0].content_id)
     random_content = random.choice(Content.objects.all())
     random_content_id = random_content.content_id
-
-    if request.method == 'POST':
-        form = CommentForm(request.POST)
-        if form.is_valid():
-            comment_user = form.cleaned_data['comment_user']
-            comment_text = form.cleaned_data['comment_text']
-            #Comment.objects.create(content_id=news_id, comment_user=comment_user, comment_text=comment_text)
-    else:
-        form = CommentForm()
+    print(request.META.get('HTTP_COOKIE'))
 
     snippets = Snippet.objects.filter(thread_id=thread_news[0].thread_id)
     snippet_options = {snippet.snippet_id: Option.objects.filter(snippet_id=snippet.snippet_id) for snippet in snippets}
@@ -100,7 +92,6 @@ def news_detail(request, news_id):
         "snippet_options": snippet_options,
         "obj": obj,
         #"comments": comments,
-        "form": form
     }
 
     return render(request, "content.html", context)
@@ -126,6 +117,7 @@ def random_news(request):
 
 @require_POST
 def save_emoji(request):
+    print(request.META.get('HTTP_COOKIE'))
     if request.method == 'POST':
         snippet_id = request.POST.get('snippet_id')
         emoji_text = request.POST.get('emoji_text')

@@ -184,11 +184,11 @@
                                                 {% for option in options %}
                                                     <div style="margin-top: 10px;">
                                                         <strong>Reações Adicionadas:</strong>
-                                                        <ul>
+                                                        <div id="emoji_reactions" style="display: flex; flex-direction: row">
                                                             {% for added_option in option.option_added %}
-                                                                <ul>{{ added_option }}</ul>
+                                                                 <span>{{ added_option }} </span>
                                                             {% endfor %}
-                                                        </ul>
+                                                        </div>
                                                     </div>
                                                 {% endfor %}
                                             {% endif %}
@@ -296,16 +296,11 @@
                 // Replace with your actual backend endpoint
                 const endpoint = '/save_emoji/';
 
-                // Get CSRF token
-                const csrftoken = getCSRFToken();
-
-                // Send AJAX request to save emoji text to database
                 $.ajax({
-
                     url: endpoint,
                     method: 'POST',
                     headers: {
-                        'X-CSRFToken': csrftoken
+                        'X-CSRFToken': getCSRFToken()
                     },
                     data: {
                         snippet_id: snippetId,
@@ -313,6 +308,7 @@
                     },
                     success: function (response) {
                         console.log('Emoji text saved successfully:', response);
+                        addEmojiToList(emojiText)
                         // Optionally, update UI or perform additional actions
                     },
                     error: function (xhr, status, error) {
@@ -320,6 +316,16 @@
                         // Optionally, display an error message or perform recovery actions
                     }
                 });
+            }
+
+            function addEmojiToList(emojiText) {
+                // Find the container where emojis are listed
+                const emojiListContainer = document.querySelector('#emoji_reactions');
+                if (emojiListContainer) {
+                    const newEmojiSpan = document.createElement('span');
+                    newEmojiSpan.textContent = emojiText + ' ';
+                    emojiListContainer.appendChild(newEmojiSpan);
+                }
             }
 
             // Function to get CSRF token from cookie
