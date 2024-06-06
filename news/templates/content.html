@@ -155,104 +155,79 @@
 
                     <h3 style="display: flex; justify-content: center; align-items: center; margin: 5%">Comentários
                         feito com IA</h3>
-                {% endif %}
 
-                <div style="display: flex; justify-content: center; align-items: center;">
-                    <div id="utterances-container" class="utterances-container"
-                         style="flex-grow: 1; display: flex; flex-direction: column; align-items: center;">
-                        {% if snippets %}
-                            {% for snippet in snippets %}
 
-                                <div class="utterance" id="{{ snippet.snippet_id }}"
-                                     style="margin-bottom: 50px; display: flex; flex-direction: column; align-items: center; justify-content: space-between; width: 80%;">
-                                    <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; width: 100%;">
+                    <div style="display: flex; justify-content: center; align-items: center;">
+                        <div id="utterances-container" class="utterances-container"
+                             style="flex-grow: 1; display: flex; flex-direction: column; align-items: center;">
+                            {% if snippets %}
+                                {% for snippet in snippets %}
 
-                                        <a id="prev-utterance-{{ forloop.counter }}" href="javascript:void(0);"
-                                           class="navigation-arrow left-arrow" style="margin-right: 20px;">&#9664;</a>
-                                        <div style="display: flex; flex-direction: column;">
-                                            <div style="display: flex; flex-direction: row; align-items: center;">
-                                                {{ snippet.snippet_text }} {{ forloop.counter }} / {{ snippets|length }}
+                                    <div class="utterance" id="{{ snippet.snippet_id }}"
+                                         style="margin-bottom: 50px; display: flex; flex-direction: column; align-items: center; justify-content: space-between; width: 80%;">
+                                        <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; width: 100%;">
+
+                                            <a id="prev-utterance-{{ forloop.counter }}" href="javascript:void(0);"
+                                               class="navigation-arrow left-arrow"
+                                               style="margin-right: 20px;">&#9664;</a>
+                                            <div style="display: flex; flex-direction: column;">
+                                                <div style="display: flex; flex-direction: row; align-items: center;">
+                                                    {{ snippet.snippet_text }} {{ forloop.counter }}
+                                                    / {{ snippets|length }}
+                                                </div>
                                             </div>
+                                            <a id="next-utterance-{{ forloop.counter }}" href="javascript:void(0);"
+                                               class="navigation-arrow right-arrow"
+                                               style="margin-left: 20px;">&#9654;</a>
                                         </div>
-                                        <a id="next-utterance-{{ forloop.counter }}" href="javascript:void(0);"
-                                           class="navigation-arrow right-arrow" style="margin-left: 20px;">&#9654;</a>
-                                    </div>
 
-                                    <div class="options" style="margin-top: 10px;">
-                                        {% with options=snippet_options|get_options:snippet.snippet_id %}
-                                            {% if options %}
-                                                {% for option in options %}
-                                                    <div style="margin-top: 10px;">
-                                                        <strong>Reações Adicionadas:</strong>
-                                                        <div id="emoji_reactions"
-                                                             style="display: flex; flex-direction: row">
-                                                            {% for added_option in option.option_added %}
-                                                                <span>{{ added_option }} </span>
-                                                            {% endfor %}
+                                        <div class="options" style="margin-top: 10px;">
+                                            {% with options=snippet_options|get_options:snippet.snippet_id %}
+                                                {% if options %}
+                                                    {% for option in options %}
+                                                        <div style="margin-top: 10px;">
+                                                            <strong>Reações Adicionadas:</strong>
+                                                            <div id="emoji_reactions"
+                                                                 style="display: flex; flex-direction: row">
+                                                                {% for added_option in option.option_added %}
+                                                                    <span>{{ added_option }} </span>
+                                                                {% endfor %}
+                                                            </div>
                                                         </div>
-                                                    </div>
-                                                {% endfor %}
-                                            {% endif %}
-                                        {% endwith %}
+                                                    {% endfor %}
+                                                {% endif %}
+                                            {% endwith %}
+                                        </div>
                                     </div>
-                                </div>
 
-                            {% endfor %}
-                            <label for="text_for_emoji">
-                                <textarea style="display: none" name="reaction" id="text_for_emoji" rows="1"></textarea>
-                            </label>
+                                {% endfor %}
+                                <label for="text_for_emoji">
+                                    <textarea style="display: none" name="reaction" id="text_for_emoji"
+                                              rows="1"></textarea>
+                                </label>
 
-                            <div style="display: flex; flex-direction: row; justify-content: space-evenly; width: auto">
-                                <button class="grid-item" id="button_for_emoji"
-                                        style="display: none; margin-bottom: 2%">Submit
-                                </button>
-                                <button class="grid-item" id="reset_emoji_text"
-                                        style="display: none; margin-bottom: 2%">
-                                    Reset
-                                </button>
-                            </div>
-                            <button style="display: flex; flex-direction: row; justify-content: center; background: #3e3e3e; color: lightblue"
-                                    id="emoji_picker">Reagir
-                            </button>
-                        {% endif %}
-                    </div>
-
-                </div>
-            </div>
-
-
-            <div id="containerBLOP">
-                {% if snippets %}
-                    <div class="container" style="margin: 2%;">
-                        <div class="flex-container" style="flex-direction: column;">
-                            <div style="display: flex; flex-direction: column;">
-                                <div style="display: flex; justify-content: center; margin: 10%;">
-                                    <div id="visible-content"></div>
-                                    <button onclick="window.location.href='{% url 'news_detail' random_content_id %}'">
-                                        Outra coisa
+                                <div style="display: flex; flex-direction: row; justify-content: space-evenly; width: auto">
+                                    <button class="grid-item" id="button_for_emoji"
+                                            style="display: none; margin-bottom: 2%">Submit
                                     </button>
-                                    <button onclick="window.location.href='{% url 'index' %}'">Voltar</button>
+                                    <button class="grid-item" id="reset_emoji_text"
+                                            style="display: none; margin-bottom: 2%">
+                                        Reset
+                                    </button>
                                 </div>
-                                <div style="display: flex; justify-content: center; margin: 10%;">
-                                    <div class="grid-container">
-                                        <button class="grid-item" id="button_for_emoji"
-                                                style="display: none; margin-bottom: 2%">Submit
-                                        </button>
-                                        <button class="grid-item" id="reset_emoji_text" style="display: none">
-                                            Reset
-                                        </button>
-                                    </div>
-                                </div>
-                            </div>
+                                <button style="display: flex; flex-direction: row; justify-content: center; background: #3e3e3e; color: lightblue"
+                                        id="emoji_picker">Reagir
+                                </button>
+                            {% endif %}
                         </div>
+
+                    </div>
                     </div>
                 {% else %}
-                    <h2>Conteúdo ainda não gerado!</h2>
-                    <button onclick="window.location.href='{% url 'news_detail' random_content_id %}'">Outra coisa
-                    </button>
-                    <button onclick="window.location.href='{% url 'index' %}'">Voltar</button>
+                    <h1> Conteúdo ainda não gerado! </h1>
                 {% endif %}
-            </div>
+
+
         </div>
     </div>
 
@@ -294,18 +269,13 @@
             });
 
             function saveEmojiToDatabase(snippetId, emojiText) {
-                // Replace with your actual backend endpoint
-                const endpoint = '/save_emoji/';
-
                 $.ajax({
-                    url: endpoint,
+                    url: '/save_emoji/',
                     method: 'POST',
-                    headers: {
-                        'X-CSRFToken': getCSRFToken()
-                    },
                     data: {
                         snippet_id: snippetId,
-                        emoji_text: emojiText
+                        emoji_text: emojiText,
+                        'csrfmiddlewaretoken': '{{ csrf_token }}',
                     },
                     success: function (response) {
                         console.log('Emoji text saved successfully:', response);
@@ -332,22 +302,6 @@
                     }
                 }
 
-            }
-
-            // Function to get CSRF token from cookie
-            function getCSRFToken() {
-                let cookieValue = null;
-                if (document.cookie && document.cookie !== '') {
-                    const cookies = document.cookie.split(';');
-                    for (let i = 0; i < cookies.length; i++) {
-                        const cookie = jQuery.trim(cookies[i]);
-                        if (cookie.substring(0, 10) === ('csrftoken' + '=')) {
-                            cookieValue = decodeURIComponent(cookie.substring(10));
-                            break;
-                        }
-                    }
-                }
-                return cookieValue;
             }
         });
     </script>

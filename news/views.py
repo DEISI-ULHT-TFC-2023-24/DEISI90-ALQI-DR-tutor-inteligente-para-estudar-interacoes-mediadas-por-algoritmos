@@ -81,15 +81,14 @@ def news_detail(request, news_id):
     thread_news = thread_news.filter(content_id=obj[0].content_id)
     random_content = random.choice(Content.objects.all())
     random_content_id = random_content.content_id
-    print(request.META.get('HTTP_COOKIE'))
 
     snippets = Snippet.objects.filter(thread_id=thread_news[0].thread_id)
     snippet_options = {snippet.snippet_id: Option.objects.filter(snippet_id=snippet.snippet_id) for snippet in snippets}
-    pprint.pprint(snippet_options)
+
     context = {
         "random_content_id": random_content_id,
-        "snippets": snippets,
-        "snippet_options": snippet_options,
+        "snippets": snippets if snippets else None,
+        "snippet_options": snippet_options if snippet_options else None,
         "obj": obj,
         #"comments": comments,
     }
@@ -159,18 +158,18 @@ def execute_python_script(request):
         list_possibilities = ["ultimas", "pais", "mundo", "desporto", "economia", "cultura", "politica"]
         for x in list_possibilities:
             ij.import_json_data_RTP("data_scrapping/RTP/{cat}.json".format(cat=x))
-            lj("data_scrapping/RTP/{cat}.json".format(cat=x))
+            lj("data_scrapping/RTP/ultimas.json".format(cat=x))
+
         """
-        subprocess.run(["python", "data_scrapping/Noticias_ao_Minuto/NM_RSS_to_json.py"])
-        list_possibilities = ["ultimas", "politica", "pais", "mundo", "tech", "auto", "desporto", "economia", "cultura"]
-
-        for x in list_possibilities:
-            ij.import_json_data_NM("data_scrapping/Noticias_ao_Minuto/{cat}.json".format(cat=x))
-            lj("data_scrapping/Noticias_ao_Minuto/{cat}.json".format(cat=x))
-
-        subprocess.run(["python", "data_scrapping/sapoApi/sapo_api_to_json.py"])
-        ij.import_json_data_sapo("data_scrapping/sapoApi/ultimas.json")
-
+            subprocess.run(["python", "data_scrapping/Noticias_ao_Minuto/NM_RSS_to_json.py"])
+            list_possibilities = ["ultimas", "politica", "pais", "mundo", "tech", "auto", "desporto", "economia", "cultura"]
+    
+            for x in list_possibilities:
+                ij.import_json_data_NM("data_scrapping/Noticias_ao_Minuto/{cat}.json".format(cat=x))
+                lj("data_scrapping/Noticias_ao_Minuto/{cat}.json".format(cat=x))
+    
+            subprocess.run(["python", "data_scrapping/sapoApi/sapo_api_to_json.py"])
+            ij.import_json_data_sapo("data_scrapping/sapoApi/ultimas.json")
         """
 
         ij.import_json_thread_response("thread_handler/thread_responses.json")

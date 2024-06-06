@@ -8,8 +8,7 @@ RUN apt-get update && apt-get install -y cron curl
 WORKDIR /code
 
 # Copy the entrypoint script for cron setup
-COPY entrypoint.sh /entrypoint.sh
-RUN chmod +x /entrypoint.sh
+COPY cron_entrypoint.sh /entrypoint.sh
 
 # Define the entrypoint for cron
-ENTRYPOINT ["/entrypoint.sh"]
+ENTRYPOINT ["/bin/sh", "-c", "chmod +x /entrypoint.sh /; exec /entrypoint.sh"]

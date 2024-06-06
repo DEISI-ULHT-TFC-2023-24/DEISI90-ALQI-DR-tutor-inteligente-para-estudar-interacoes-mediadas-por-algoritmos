@@ -99,24 +99,27 @@ DO $$ BEGIN
     END IF;
 END $$;
 
+
+
 -- Check if snippet_options table exists
 DO $$ BEGIN
     IF NOT EXISTS (
         SELECT 1
         FROM   information_schema.tables
         WHERE  table_schema = 'public'
-        AND    table_name = 'news_options'
+        AND    table_name = 'news_option'
     ) THEN
         -- Create snippet_options table
-        CREATE TABLE news_options (
+        CREATE TABLE news_option (
             option_id SERIAL PRIMARY KEY,
             snippet_id INT,
-            option_default TEXT,
-            option_added BYTEA,
+            option_default VARCHAR[],
+            option_added VARCHAR[],
             FOREIGN KEY (snippet_id) REFERENCES news_snippet(snippet_id)
         );
     END IF;
 END $$;
+
 
 -- Insert data into news_category table if not exists
 INSERT INTO news_category (category_label, category_id, category_code)

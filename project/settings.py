@@ -16,7 +16,6 @@ from pathlib import Path
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/
 
@@ -26,10 +25,25 @@ SECRET_KEY = "django-insecure-bmrce(!fet7mb1&^m)^-yibencs_1l=85px^kdyr3_fvcgu8+)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0', 'localhost', '127.0.0.1', '85.240.79.148', 'edu-news-43e47.duckdns.org']
+ALLOWED_HOSTS = [
+    '0.0.0.0',
+    'localhost',
+    '127.0.0.1',
+    '85.240.79.148',
+    'edu-news-43e47.duckdns.org',
+    'https://edu-news-43e47.duckdns.org',
+]
 
+CORS_ORIGIN_WHITELIST = [
+    'https://edu-news-43e47.duckdns.org',
+]
+
+CSRF_TRUSTED_ORIGINS = [
+    'https://edu-news-43e47.duckdns.org',
+]
 
 # Application definition
+
 
 INSTALLED_APPS = [
     "django.contrib.admin",
@@ -52,7 +66,7 @@ MIDDLEWARE = [
     "django.contrib.messages.middleware.MessageMiddleware",
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
 ]
-#pipreqs /home/user/Documents/GitHub/projetoTFC
+# pipreqs /home/user/Documents/GitHub/projetoTFC
 
 ROOT_URLCONF = "project.urls"
 
@@ -74,7 +88,6 @@ TEMPLATES = [
 
 WSGI_APPLICATION = "project.wsgi.application"
 
-
 # Database
 # https://docs.djangoproject.com/en/5.0/ref/settings/#databases
 
@@ -84,11 +97,10 @@ DATABASES = {
         'NAME': 'test1',
         'USER': 'pigas',
         'PASSWORD': '1235',
-        #'HOST': 'db',
+        'HOST': 'db',
         'PORT': '5432',
     }
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators
@@ -108,7 +120,6 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-
 # Internationalization
 # https://docs.djangoproject.com/en/5.0/topics/i18n/
 
@@ -120,7 +131,6 @@ USE_I18N = True
 
 USE_TZ = True
 
-
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/5.0/howto/static-files/
 
@@ -131,4 +141,3 @@ STATIC_ROOT = "news/static"
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
-
