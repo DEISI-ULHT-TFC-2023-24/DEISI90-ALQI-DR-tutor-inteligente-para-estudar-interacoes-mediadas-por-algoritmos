@@ -44,6 +44,12 @@ CSRF_TRUSTED_ORIGINS = [
 
 # Application definition
 
+REST_FRAMEWORK = {
+    'DEFAULT_RENDERER_CLASSES': (
+        'rest_framework.renderers.JSONRenderer',
+    ),
+}
+
 
 INSTALLED_APPS = [
     "django.contrib.admin",
@@ -97,7 +103,7 @@ DATABASES = {
         'NAME': 'test1',
         'USER': 'pigas',
         'PASSWORD': '1235',
-        'HOST': 'db',
+        #'HOST': 'db',
         'PORT': '5432',
     }
 }

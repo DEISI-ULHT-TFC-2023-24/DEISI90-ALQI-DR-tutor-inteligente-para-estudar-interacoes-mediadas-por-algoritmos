@@ -1,1 +1,3045 @@
-[]
+[
+    {
+        "headline": "Suspeito de atacar primeira-ministra dinamarquesa presente a Tribunal",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/suspeito-de-atacar-primeira-ministra-dinamarquesa-presente-a-tribunal_n1577857",
+        "content": [
+            {
+                "type": "text",
+                "data": "Um homem que alegadamente atacou a primeira-ministra dinamarquesa, Mette Frederiksen, no centro de Copenhaga, vai ser presente hoje a Tribunal, numa audiência de prisão preventiva, indicaram as autoridades.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/e4/e4fbc17380678e4d07ea0ae80ca94b6b?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 12:40:29",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Bélgica abriu voto aos adolescentes mas extrema-direita pode capitalizar",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/belgica-abriu-voto-aos-adolescentes-mas-extrema-direita-pode-capitalizar_n1577855",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Bélgica decidiu em novembro do ano passado diminuir para os 16 anos a idade mínima para votar, a pensar nas eleições europeias de 2024, mas pode ser a extrema-direita a captar este aumento do universo eleitoral."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 12:29:58",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Torre do Tombo recebe espólio do Notícias da Amadora sobre Censura antes de Abril",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/torre-do-tombo-recebe-espolio-do-noticias-da-amadora-sobre-censura-antes-de-abril_n1577853",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Arquivo Nacional da Torre do Tombo vai receber um espólio do antigo semanário Notícias da Amadora, constituído pelos cortes efetuados pela Censura, entre 1958 e 1974, disse fonte da instituição à agência Lusa."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 12:29:30",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Associação Zero apela ao Governo para avançar com moratória à mineração em mar",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/associacao-zero-apela-ao-governo-para-avancar-com-moratoria-a-mineracao-em-mar_n1577849",
+        "content": [
+            {
+                "type": "text",
+                "data": "A associação Zero apelou ao Governo para retomar o processo legislativo e avançar com a moratória à mineração em mar profundo nas águas portuguesas até 2050."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 12:29:10",
+        "category": "ultimas"
+    },
+    {
+        "headline": "11h. Portugueses apurados nos Europeus de Atletismo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/11h-portugueses-apurados-nos-europeus-de-atletismo_a1_1577856",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 12:29:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Polícias ameaçam com protestos se Governo não mostrar \"boa-fé\" sobre subsidio de risco",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/policias-ameacam-com-protestos-se-governo-nao-mostrar-boa-fe-sobre-subsidio-de-risco_n1577850",
+        "content": [
+            {
+                "type": "text",
+                "data": "A plataforma dos sindicatos da PSP e associações da GNR ameaçou avançar de &quot;forma expressiva e dinâmica&quot; para protestos se o Governo &quot;não mostrar um sinal claro e de boa-fé&quot; nas negociações do subsídio de risco."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/92/9291dea953579bf1058418047595704a?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 12:24:38",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Descida dos juros. Lagarde admite \"manter o pé no travão\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/descida-dos-juros-lagarde-admite-manter-o-pe-no-travao_v1577854",
+        "content": [
+            {
+                "type": "text",
+                "data": "A presidente do Banco Central Europeu avisa que ainda há um longo caminho até a inflação estar controlada. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/bc/bc9f519ed55114d1c13b2023bdf799e8_N.jpg?"
+            }
+        ],
+        "published": "2024-06-08 12:18:45",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Polémica indemnização CP. Secretária de Estado da Mobilidade aceitar ser ouvida no Parlamento",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/polemica-indemnizacao-cp-secretaria-de-estado-da-mobilidade-aceitar-ser-ouvida-no-parlamento_v1577852",
+        "content": [
+            {
+                "type": "text",
+                "data": "A secretária de Estado da Mobilidade mostra toda a disponibilidade para ir ao Parlamento explicar a indemnização que recebeu da CP, antes de ser administradora da entidade reguladora do setor. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/ec/ecf304af888bed9998de70c6b97fc2cb_N.jpg?"
+            }
+        ],
+        "published": "2024-06-08 12:17:45",
+        "category": "ultimas"
+    },
+    {
+        "headline": "ASAE apreende mais de 130 mil artigos contrafeitos e instaura 60 processos-crime",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/asae-apreende-mais-de-130-mil-artigos-contrafeitos-e-instaura-60-processos-crime_n1577847",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Autoridade de Segurança Alimentar e Económica (ASAE) anunciou hoje a apreensão de mais de 130 mil artigos contrafeitos, com um valor superior a 500 mil euros, no âmbito de uma operação que resultou em 60 processos-crime."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 12:06:48",
+        "category": "ultimas"
+    },
+    {
+        "headline": "10h. Europeus de atletismo. Portugal com maior grupo de sempre",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/10h-europeus-de-atletismo-portugal-com-maior-grupo-de-sempre_a1_1577848",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 11:51:01",
+        "category": "ultimas"
+    },
+    {
+        "headline": "09h. Dinamarca. Atacante da primeira-ministra presente a tribunal",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/09h-dinamarca-atacante-da-primeira-ministra-presente-a-tribunal_a1_1577846",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 11:29:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Macron condena ataque \"inaceitável\" contra primeira-ministra dinamarquesa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/macron-condena-ataque-inaceitavel-contra-primeira-ministra-dinamarquesa_n1577845",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente francês Emmanuel Macron condenou hoje a agressão &quot;inaceitável&quot; de que foi vítima a primeira-ministra dinamarquesa Mette Frederiksen, atacada por um homem, na sexta-feira à noite, numa praça de Copenhaga.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/2d/2d42b9a6a3467ff768e206016cf73a88?w=350&amp;q=50&amp;rect=0,280,4724,2590&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 11:16:52",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Hezbollah ataca Israel com `drone` a partir do seu território",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/hezbollah-ataca-israel-com-drone-a-partir-do-seu-territorio_n1577844",
+        "content": [
+            {
+                "type": "text",
+                "data": "O exército israelita confirmou hoje a explosão de um projétil lançado a partir do Líbano, provavelmente uma aeronave não tripulada (`drone`) com carga explosiva, que atingiu os arredores da cidade de Nazaré."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 10:58:32",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Luso-americana cria Semana dos Vinhos Portugueses em Los Angeles",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/luso-americana-cria-semana-dos-vinhos-portugueses-em-los-angeles_n1577843",
+        "content": [
+            {
+                "type": "text",
+                "data": "A luso-americana Sandra Gomes Rocha, dona da importadora Diniz Cellars, criou a primeira Semana dos Vinhos Portugueses em Los Angeles, que decorre até domingo, numa altura em que há enorme crescimento da procura por clientes americanos. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 10:55:53",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Charlize Theron critica ataques a drag queens em cerimónia do cinema e TV LGBTQ+",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/charlize-theron-critica-ataques-a-drag-queens-em-cerimonia-do-cinema-e-tv-lgbtq_n1577841",
+        "content": [
+            {
+                "type": "text",
+                "data": "A atriz Charlize Theron criticou esta madrugada os ataques que têm sido dirigidos à comunidade de drag queens nos Estados Unidos, durante a primeira Celebração do Cinema e Televisão LGBTQ+ da Critics Choice Association em Los Angeles. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 10:09:37",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Xanana Gusmão pede a timorenses para manterem mar limpo e sem plástico",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/xanana-gusmao-pede-a-timorenses-para-manterem-mar-limpo-e-sem-plastico_n1577842",
+        "content": [
+            {
+                "type": "text",
+                "data": "O primeiro-ministro timorense, Xanana Gusmão, deu hoje início à campanha nacional &quot;O meu mar, o meu Timor&quot;, no âmbito da celebração do Dia Mundial dos Oceanos, pedindo à população para o manter limpo e sem plástico."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 10:09:13",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Campeonato norte-americano. Piloto Filipe Albuquerque venceu em Detroit",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/campeonato-norte-americano-piloto-filipe-albuquerque-venceu-em-detroit_v1577840",
+        "content": [
+            {
+                "type": "text",
+                "data": "O piloto Filipe Albuquerque venceu em Detroit para o campeonato norte-americano de resistência. Está em sexto lugar na classificação."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/1c/1cf3dd46163eb929c29dca04837607b5_N.jpg?"
+            }
+        ],
+        "published": "2024-06-08 09:54:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "China pede aos EUA que revoguem plano de venda de armas a Taiwan",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/china-pede-aos-eua-que-revoguem-plano-de-venda-de-armas-a-taiwan_n1577828",
+        "content": [
+            {
+                "type": "text",
+                "data": "A China pediu aos Estados Unidos que revoguem o plano de vender armas a Taiwan, depois de Washington ter autorizado a possível venda de peças de reposição, componentes e acessórios para caças F-16 da ilha."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/3e/3ea136b62619f0e2ffb84407edc61943?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 09:54:03",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Conselheiro na Suíça lamenta baixa participação cívica dos emigrantes",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/conselheiro-na-suica-lamenta-baixa-participacao-civica-dos-emigrantes_n1577836",
+        "content": [
+            {
+                "type": "text",
+                "data": "mais antigo conselheiro da comunidade portuguesa na Suíça, Domingos Pereira, lamenta que esta continue a revelar falta de interessa na participação cívica, sendo muito poucos os emigrantes que se envolvem na vida política do seu país de acolhimento."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 09:45:38",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Muitos emigrantes na Suíça com regresso `forçado` a Portugal após reforma",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/muitos-emigrantes-na-suica-com-regresso-forcado-a-portugal-apos-reforma_n1577837",
+        "content": [
+            {
+                "type": "text",
+                "data": "Muitos dos portugueses que rumaram à Suíça no `pico` da emigração na década de 1980 e atingiram entretanto a idade de reforma regressam a Portugal, e nem sempre pelo simples desejo de voltar a `casa`, mas por constrangimentos económicos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 09:45:17",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Suíça acolhe segunda maior comunidade emigrante portuguesa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/suica-acolhe-segunda-maior-comunidade-emigrante-portuguesa_n1577835",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Suíça, país escolhido para a dupla comemoração do 10 de Junho este ano, com a participação do Presidente da República e do primeiro-ministro, alberga a segunda maior comunidade de emigrantes portugueses na Europa e no mundo. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 09:44:55",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Extrema-direita alemã pode ganhar votos de novos eleitores de 16 anos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/eleicoes-europeias-2024/extrema-direita-alema-pode-ganhar-votos-de-novos-eleitores-de-16-anos_n1577833",
+        "content": [
+            {
+                "type": "text",
+                "data": "A extrema-direita poderá beneficiar da estreia na Alemanha de mais de cinco milhões de jovens que votam pela primeira vez nas eleições europeias de domingo, depois da idade permitida ter baixado para os 16 anos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 09:44:24",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Datas chave no processo de formação da próxima liderança da UE",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/eleicoes-europeias-2024/datas-chave-no-processo-de-formacao-da-proxima-lideranca-da-ue_n1577832",
+        "content": [
+            {
+                "type": "text",
+                "data": "A noite eleitoral europeia vai ser longa, mas os partidos não podem perder tempo: logo na segunda-feira, começam as negociações para formar grupos europeus e escolher os próximos líderes da União Europeia (UE)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 09:43:26",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Lancha da GNR participa em operação da Frontex entre junho e agosto",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/lancha-da-gnr-participa-em-operacao-da-frontex-entre-junho-e-agosto_n1577831",
+        "content": [
+            {
+                "type": "text",
+                "data": "Uma lancha da GNR vai participar, a partir de quarta-feira, numa operação da Frontex &quot;para controlar os fluxos de migração e impedir a criminalidade transfronteiriça&quot; em Almeria, Espanha, foi hoje anunciado. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 09:42:51",
+        "category": "ultimas"
+    },
+    {
+        "headline": "08h Dia de reflexão em Portugal mas na Eslováquia já se vota nas eleições europeias",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/08h-dia-de-reflexao-em-portugal-mas-na-eslovaquia-ja-se-vota-nas-eleicoes-europeias_a1_1577839",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 09:39:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Morreu antigo astronauta William Anders que tirou primeira foto da Terra em 1968",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/morreu-antigo-astronauta-william-anders-que-tirou-primeira-foto-da-terra-em-1968_n1577826",
+        "content": [
+            {
+                "type": "text",
+                "data": "O antigo astronauta da missão Apollo 8, em 1968, William Anders morreu na sexta-feira quando o avião que pilotava sozinho caiu nas águas ao largo das Ilhas San Juan, no estado de Washington, disse o filho.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/56/56282eeb2d2409f99b3d91743e31dbc8?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 09:36:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "07h Ministro do Gabinete de Guerra de Israel pode vir a renunciar ao cargo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/07h-ministro-do-gabinete-de-guerra-de-israel-pode-vir-a-renunciar-ao-cargo_a1_1577838",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 09:30:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "06h Ministro do Gabinete de Guerra de Israel pode vir a renunciar ao cargo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/06h-ministro-do-gabinete-de-guerra-de-israel-pode-vir-a-renunciar-ao-cargo_a1_1577830",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 07:17:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "05h Lagarde avisa: \"pé no travão\" é para continuar depois da descida dos juros",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/05h-lagarde-avisa-pe-no-travao-e-para-continuar-depois-da-descida-dos-juros_a1_1577829",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 06:18:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "04h Lagarde avisa que \"pé no travão\" é para manter depois das descidas dos juros",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/04h-lagarde-avisa-que-pe-no-travao-e-para-manter-depois-das-descidas-dos-juros_a1_1577827",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 05:20:03",
+        "category": "ultimas"
+    },
+    {
+        "headline": "03h Depois da descida dos juros Lagarde admite \"manter o pé no travão\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/03h-depois-da-descida-dos-juros-lagarde-admite-manter-o-pe-no-travao_a1_1577825",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 04:26:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "02h Vigília em Viseu pela reabertura da Urgência Pediátrica do Hospital",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/02h-vigilia-em-viseu-pela-reabertura-da-urgencia-pediatrica-do-hospital_a1_1577824",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 04:25:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Zelensky e Macron assinaram acordos de ajuda à Ucrânia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/zelensky-e-macron-assinaram-acordos-de-ajuda-a-ucrania_v1577823",
+        "content": [
+            {
+                "type": "text",
+                "data": "Emmanuel Macron assinou com Volodymyr Zelensky novos acordos de 650 milhões de euros, envio de aviões de combate e formação de pilotos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/61/61e94f3c3711064b8b4b357ac029bd48_N.jpg?"
+            }
+        ],
+        "published": "2024-06-08 01:27:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "00h Montenegro condena ataque a PM da Dinamarca",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/00h-montenegro-condena-ataque-a-pm-da-dinamarca_a1_1577822",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 01:23:01",
+        "category": "ultimas"
+    },
+    {
+        "headline": "23h Estado de Saúde da Ministra não inspira cuidados",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-estado-de-saude-da-ministra-nao-inspira-cuidados_a1_1577819",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 00:28:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Edição Especial: Eleições Europeias (22h10-23h)",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/edicao-especial-eleicoes-europeias-22h10-23h_a1_1577818",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 00:21:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Macron anuncia criação nos próximos dias de coligação de instrutores militares",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/guerra-na-ucrania/macron-anuncia-criacao-nos-proximos-dias-de-coligacao-de-instrutores-militares_n1577796",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente francês, Emmanuel Macron, indicou hoje, ao lado do homólogo ucraniano, Volodymyr Zelensky, que pretende concluir nos próximos dias uma coligação internacional para enviar instrutores militares para a Ucrânia, tal como o início de formação em caças Mirage."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-07 23:34:09",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Direitos das crianças. Hamas e Jihad Islâmica adicionados a \"lista da vergonha\" da ONU",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/direitos-das-criancas-hamas-e-jihad-islamica-adicionados-a-lista-da-vergonha-da-onu_n1577805",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os movimentos armados palestinianos Hamas e Jihad Islâmica vão ser adicionados à &quot;lista da vergonha&quot; da ONU sobre os direitos das crianças nos conflitos, que será divulgada a 18 de junho, indicou hoje uma fonte diplomática.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ea/ea08922bc15dce5baa68b4750c4052e4?w=350&amp;q=50&amp;rect=2,0,5757,3156&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-07 23:32:48",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Temido pede voto no PS contra AD da direita dos \"muros\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/temido-pede-voto-no-ps-contra-ad-da-direita-dos-muros_n1577806",
+        "content": [
+            {
+                "type": "text",
+                "data": "A cabeça de lista o PS às europeias apelou hoje ao voto no PS, alertando que já na próxima semana a AD &quot;vai sentar-se à mesa com quem quer construir muros nas fronteiras externas da União Europeia&quot;."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-07 23:32:21",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Luso-francesa do partido de Macron na rua pelo voto \"pró-UE\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/eleicoes-europeias-2024/luso-francesa-do-partido-de-macron-na-rua-pelo-voto-pro-ue_n1577807",
+        "content": [
+            {
+                "type": "text",
+                "data": "Faltam poucas horas para o fim da campanha das eleições europeias em França, e a luso-francesa Rosa André, candidata pelo partido do Presidente Emmanuel Macron, ainda se desdobra em contactos a favor da &quot;democracia&quot; e União Europeia."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-07 23:31:50",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Cotrim de Figueiredo pede que ninguém fique no sofá no domingo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/cotrim-de-figueiredo-pede-que-ninguem-fique-no-sofa-no-domingo_n1577812",
+        "content": [
+            {
+                "type": "text",
+                "data": "O candidato da Iniciativa Liberal (IL) às eleições europeias pediu hoje &quot;para ninguém ficar no sofá&quot; no domingo e ir votar porque &quot;a voz pertence ao povo&quot;. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-07 23:29:11",
+        "category": "ultimas"
+    },
+    {
+        "headline": "22h Ministra da Saúde sofre acidente de viação",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-ministra-da-saude-sofre-acidente-de-viacao_a1_1577813",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-07 23:17:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Ministra da Saúde sofreu acidente de carro em viagem de regresso a Lisboa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/ministra-da-saude-sofreu-acidente-de-carro-em-viagem-de-regresso-a-lisboa_n1577811",
+        "content": [
+            {
+                "type": "text",
+                "data": "A ministra da Saúde, Ana Paula Martins, sofreu um acidente de viação na A8, perto de Torres Vedras. A ministra está estável e vai continuar em observação no Hospital São Francisco Xavier.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/63/63a8c248be83d8119d152410a65e81e5?w=350&amp;q=50&amp;rect=0,123,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-07 23:03:01",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Inês Sousa Real acusa restantes partidos de falta de coerência",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/ines-sousa-real-acusa-restantes-partidos-de-falta-de-coerencia_a1577810",
+        "content": [
+            {
+                "type": "text",
+                "data": "A porta-voz do PAN, Inês Sousa Real, acusou os outros partidos de falta de coerência com &quot;aquilo que propagandeiam&quot;, afirmando que Livre, BE, PCP, PS, PSD, IL e Chega &quot;não servem os direitos das próximas gerações&quot;."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/c3/c3ad9f5ba6901f0d6e4ba96008ee0dd6?w=350&amp;q=50&amp;rect=0,110,1096,601&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-07 22:56:49",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Paramiloidose. Utentes do norte dizem ser alvo de discriminação",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/paramiloidose-utentes-do-norte-dizem-ser-alvo-de-discriminacao_v1577809",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os doentes com paramiloidose, popularmente conhecida como doença dos pezinhos, são tratados de forma diferente caso estejam no Sul ou no Norte do país. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/b9/b95ec3c233f2c915415858f281da5fad_N.jpg?"
+            }
+        ],
+        "published": "2024-06-07 22:52:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Entrevista RTP. Mãe das gémeas pretende comparecer à comissão de inquérito",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/entrevista-rtp-mae-das-gemeas-pretende-comparecer-a-comissao-de-inquerito_v1577808",
+        "content": [
+            {
+                "type": "text",
+                "data": "Entrevistada esta sexta-feira na RTP, Daniela Martins, a mãe das gémeas luso-brasileiras, disse que deverá ser ouvida na comissão de inquérito no dia 21 de junho. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/6c/6c2d8277adf1097a62d0f3efd4d82297?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-07 22:46:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Jessica Inchude nona no lançamento do peso",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/jessica-inchude-nona-no-lancamento-do-peso_d1577801",
+        "content": [
+            {
+                "type": "text",
+                "data": "A portuguesa Jessica Inchude terminou hoje no nono lugar a competição de lançamento do peso dos Campeonatos da Europa de atletismo Roma2024, com um arremesso a 17,81 metros."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/26/26ba1000201d34c481e192cd0da93013?w=350&amp;q=50&amp;rect=0,144,1237,678&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-07 22:29:51",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Alexander Zverev vence Casper Ruud e marca final com Carlos Alcaraz",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/tenis/alexander-zverev-vence-casper-ruud-e-marca-final-com-carlos-alcaraz_d1577804",
+        "content": [
+            {
+                "type": "text",
+                "data": "O tenista alemão Alexander Zverev apurou-se hoje pela primeira vez para a final de Roland Garros, segundo torneio do Grand Slam, ao derrotar nas meias-finais o norueguês Casper Ruud em quatro sets."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/99/999af199b040239cd9d40075f72540b3?w=350&amp;q=50&amp;rect=0,69,1143,627&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-07 22:28:06",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Benfica volta a vencer no Dragão e fica a um triunfo do título de basquetebol",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/basquetebol/benfica-volta-a-vencer-no-dragao-e-fica-a-um-triunfo-do-titulo-de-basquetebol_d1577799",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Benfica repetiu o triunfo de quarta-feira no Dragão e venceu o FC Porto no segundo jogo da final do campeonato nacional de basquetebol por 73-62, ficando a uma vitória da conquista do tricampeonato."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_desporto.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-07 22:25:15",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Primeira-ministra dinamarquesa atacada em Copenhaga",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/primeira-ministra-dinamarquesa-atacada-em-copenhaga_n1577803",
+        "content": [
+            {
+                "type": "text",
+                "data": "A primeira-ministra dinamarquesa, Mette Frederiksen, foi alvo de uma agressão esta sexta-feira no centro de Copenhaga. De acordo com o seu gabinete, a chefe de Governo ficou em estado de choque após ter sido atacada por um homem, que foi entretanto detido. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/23/23c1615774316b823173db86bfe05326?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-07 22:24:17",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Ataques nas regiões ucranianas ocupadas pela Rússia fazem 27 mortos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/ataques-nas-regioes-ucranianas-ocupadas-pela-russia-fazem-27-mortos_n1577860",
+        "content": [
+            {
+                "type": "text",
+                "data": "Autoridades instaladas pela Rússia nas regiões ucranianas parcialmente ocupadas de Kherson e Luhansk afirmam que ataques ucranianos fizeram pelo menos 27 mortos, enquanto Rússia e Ucrânia continuaram a trocar ataques com drones durante a noite de sexta para sábado."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 13:54:38",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Presidente francês recebeu Joe Biden no Arco do Triunfo no iníco de visita de Estado",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/presidente-frances-recebeu-joe-biden-no-arco-do-triunfo-no-inico-de-visita-de-estado_n1577861",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente francês, Emmanuel Macron, acompanhado pela sua esposa Brigitte, recebeu hoje Joe Biden e a sua esposa Jill no Arco do Triunfo, em Paris, no início da visita de Estado do Presidente dos Estados Unidos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 13:54:21",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Presidente moçambicano felicita primeiro-ministro indiano pela reeleição",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/presidente-mocambicano-felicita-primeiro-ministro-indiano-pela-reeleicao_n1577864",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente de Moçambique, Filipe Nyusi, felicitou o primeiro-ministro da Índia, Narendra Modi, pela reeleição no cargo, manifestando disponibilidade para o reforço das relações de cooperação bilateral e a parceria estratégica.  "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 13:53:57",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Índia. Rahul Gandhi é indicado para liderar a oposição no parlamento",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/india-rahul-gandhi-e-indicado-para-liderar-a-oposicao-no-parlamento_n1577859",
+        "content": [
+            {
+                "type": "text",
+                "data": "O principal rival do primeiro-ministro indiano, Narendra Modi, Rahul Gandhi foi indicado hoje para liderar a oposição na próxima legislatura, anunciou o secretário-geral do Partido do Congress, K.C. Venugopal."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/57/576cba14b20b547c620d182ccdf9c4bc?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 13:51:43",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Exército israelita anuncia libertação de quatro reféns em Gaza",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/exercito-israelita-anuncia-libertacao-de-quatro-refens-em-gaza_n1577858",
+        "content": [
+            {
+                "type": "text",
+                "data": "O exército israelita anunciou este sábado que resgatou com vida quatro reféns mantidos pelos Hamas durante uma “difícil” operação militar em Nusseirat, no centro da Faixa de Gaza.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/be/bec6d71c0070db1096c3f511553fce26?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-08 13:00:25",
+        "category": "ultimas"
+    },
+    {
+        "headline": "PSD acredita no bom-senso sobre audição de Nuno Rebelo de Sousa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/psd-acredita-no-bom-senso-sobre-audicao-de-nuno-rebelo-de-sousa_a1580624",
+        "content": [
+            {
+                "type": "text",
+                "data": "Em causa está a resistência de Nuno Rebelo de Sousa em depor na Comissão Parlamentar de Inquérito ao caso das gémeas luso-brasileiras.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/93/9306997b01a5afaa809fa3727cbd00f8?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 17:49:14",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Euro2024. Dinamarca - Inglaterra",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/euro2024-dinamarca-inglaterra_e1580619",
+        "content": [
+            {
+                "type": "text",
+                "data": "Em Frankfurt, Inglaterra, líder do Grupo C, com três pontos, vai procurar selar os oitavos, mas terá de ultrapassar a Dinamarca, segunda posicionada, com um ponto.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/5d/5de00073f8c7021d5b61a79cf913e1ce?w=350&amp;q=50&amp;rect=0,112,1264,693&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 17:45:59",
+        "category": "ultimas"
+    },
+    {
+        "headline": "16h Ministra da Justiça apresenta plano anticorrupção",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/16h-ministra-da-justica-apresenta-plano-anticorrupcao_a1_1580625",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 17:42:03",
+        "category": "ultimas"
+    },
+    {
+        "headline": "PS/Madeira \"não entra em encenações\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/psmadeira-nao-entra-em-encenacoes_a1580618",
+        "content": [
+            {
+                "type": "text",
+                "data": "É a resposta do líder do maior partido da oposição na Madeira, depois do governo regional anunciar que vai reunir-se, na próxima segunda-feira, com os vários partidos representados na Assembleia Legislativa.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/f0/f09281e41066176f0429069a37250066?w=350&amp;q=50&amp;rect=0,228,1080,592&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 17:32:10",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Roménia vai enviar sistema de defesa aérea Patriot a Kiev",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/romenia-vai-enviar-sistema-de-defesa-aerea-patriot-a-kiev_n1580605",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Roménia anunciou hoje o envio de um sistema de defesa aérea Patriot para a Ucrânia para ajudar o país vizinho a proteger-se dos ataques russos, uma decisão imediatamente saudada pelo Presidente ucraniano, Volodymyr Zelensky.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/c6/c65951d8811446153723effa708d1d50?w=350&amp;q=50&amp;rect=0,7,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 16:54:18",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Euro2024: Sérvia ameaça abandonar se UEFA não castigar Albânia e Croácia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/euro2024-servia-ameaca-abandonar-se-uefa-nao-castigar-albania-e-croacia_d1580611",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Federação Sérvia de Futebol ameaçou hoje abandonar o Euro2024, após cânticos ofensivos contra o país proferidos por adeptos da Albânia e Croácia no encontro entre as duas seleções, que terminou empatado (2-2), em Hamburgo."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ec/ecb393a1c7447f63d680bf13fcde3402?w=350&amp;q=50&amp;rect=0,68,1174,644&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 16:50:05",
+        "category": "ultimas"
+    },
+    {
+        "headline": "PR promulga lei que dá benefícios fiscais a investimentos no mercado de capitais",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/pr-promulga-lei-que-da-beneficios-fiscais-a-investimentos-no-mercado-de-capitais_n1580596",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente da República promulgou hoje a lei que atribui benefícios fiscais a investimentos no mercado de capitais, como deduções em IRC para empresas portuguesas que passem a estar cotadas na bolsa."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/73/73e445ce17c880e013a577b0d3555efa?w=350&amp;q=50&amp;rect=0,0,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 16:41:40",
+        "category": "ultimas"
+    },
+    {
+        "headline": "15h Conselho de Ministros aprova medidas contra corrupção",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/15h-conselho-de-ministros-aprova-medidas-contra-corrupcao_a1_1580600",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 16:31:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "\"Combate sem tréguas\". Governo aprova pacote de 32 medidas contra a corrupção",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/combate-sem-treguas-governo-aprova-pacote-de-32-medidas-contra-a-corrupcao_n1580513",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Governo aprovou esta quinta-feira um pacote de mais de 30 medidas contra a corrupção, que incluem a regularização do lobbying e o confisco alargado de bens, mesmo sem haver condenação judicial. O anúncio coube ao primeiro-ministro, Luís Montenegro, e à ministra da Justiça, Rita Júdice, após o Conselho de Ministros, no Palácio de São Bento. De fora ficam medidas como o aumento das penas dos crimes de corrupção e aumento do prazo de prescrição.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d6/d605b2d893aaf8dbc9f5612ae3570ff1?w=350&amp;q=50&amp;rect=20,0,1459,800&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 16:15:32",
+        "category": "ultimas"
+    },
+    {
+        "headline": "14h Madeira: Executivo reúne-se na segunda-feira com partidos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/14h-madeira-executivo-reune-se-na-segunda-feira-com-partidos_a1_1580589",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 15:37:03",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Novas construções têm de estar preparadas para grande amplitudes térmicas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/novas-construcoes-tem-de-estar-preparadas-para-grande-amplitudes-termicas_a1580586",
+        "content": [
+            {
+                "type": "text",
+                "data": "Com fenómenos climáticos cada vez maiores, a Ordem dos Engenheiros alerta para a necessidade de as novas construções estarem cada vez mais preparadas para grandes amplitudes térmicas."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/49/49fd34da5c93e7ee9cd68d28377944e2?w=350&amp;q=50&amp;rect=0,0,1560,855&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 15:26:14",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Desempregados aumentam 8,5% em maio em termos homólogos mas descem 2,5% face a abril",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/desempregados-aumentam-85-em-maio-em-termos-homologos-mas-descem-25-face-a-abril_n1580584",
+        "content": [
+            {
+                "type": "text",
+                "data": "O número de desempregados inscritos nos centros de emprego diminuiu 2,5% em maio face ao mês anterior, mas aumentou 8,5% na comparação com o mesmo mês do ano passado, para 310.263 pessoas, divulgou hoje o IEFP."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 15:24:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Rui Massena vai atuar na Casa da Música e no CCB",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/rui-massena-vai-atuar-na-casa-da-musica-e-no-ccb_v1580588",
+        "content": [
+            {
+                "type": "text",
+                "data": "O maestro Rui Massena estreia esta quinta-feira um novo ciclo de composições ao piano. Sobe ao palco da Casa da Música, no Porto. No próximo dia 25 atua no Centro Cultural de Belém, em Lisboa."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/f2/f23b0e9f33c5b0e2e7a199c2ab324ae3_N.jpg?"
+            }
+        ],
+        "published": "2024-06-20 15:21:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Constrangimentos nas urgências de vários hospitais de Lisboa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/constrangimentos-nas-urgencias-de-varios-hospitais-de-lisboa_v1580585",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os constrangimentos nos serviços de urgência afetam esta semana particularmente a região de Lisboa e Vale do Tejo. Em Setúbal a urgência de obstetrícia e ginecologia está encerrada desde terça-feira.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/73/73309e9ba05e860d50e43133e7624212_N.jpg?"
+            }
+        ],
+        "published": "2024-06-20 15:15:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Ministro das Finanças congratula-se por Portugal ter saído de lista de desequilíbrio",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/ministro-das-financas-congratula-se-por-portugal-ter-saido-de-lista-de-desequilibrio_a1580579",
+        "content": [
+            {
+                "type": "text",
+                "data": "O ministro das Finanças considera que o facto de Portugal ter deixado de fazer parte da lista dos países europeus com desequilíbrios macroeconómicos é um bom sinal. Este novo cenário, do ponto de vista do governante, consolida o otimismo para o futuro da economia do país."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/4b/4b1ab56f485c38450cbee23154c61f57?w=350&amp;q=50&amp;rect=0,27,1299,712&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 15:15:42",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Rui Tavares não acredita que escutas prejudiquem Costa: \"Seria mais uma vítima colateral\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/rui-tavares-nao-acredita-que-escutas-prejudiquem-costa-seria-mais-uma-vitima-colateral_a1580558",
+        "content": [
+            {
+                "type": "text",
+                "data": "O deputado e co-porta-voz do Livre, Rui Tavares, considera que, do ponto de vista &quot;teórico&quot;, as fugas de informação, a divulgação de escutas e as notícias sobre a Operação Influencer podem &quot;prejudicar&quot; o antigo primeiro-ministro, mas, em declarações na Antena 1, o ex-eurodeputado diz-se convicto de que a candidatura de António Costa não será afetada.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ae/ae2ba3768e0a7a4f26034b9c8cb2842b?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 15:12:51",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Dia Mundial do Refugiado. Serviço Jesuíta inaugura espaço de acolhimento",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/dia-mundial-do-refugiado-servico-jesuita-inaugura-espaco-de-acolhimento_v1580583",
+        "content": [
+            {
+                "type": "text",
+                "data": "No Dia Mundial do Refugiado, o presidente da República pede uma mudança na forma como se olha para quem foge das guerras e das alterações climáticas.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/67/6732a6d95a9028cce6a1f024f46c2419?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 15:11:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Ativistas climáticos vandalizam Stonehenge",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/ativistas-climaticos-vandalizam-stonehenge_v1580582",
+        "content": [
+            {
+                "type": "text",
+                "data": "Dois ativistas climáticos vandalizaram o famoso Stonehenge no Reino Unido. Foram detidos depois de pintarem o monumento pré-histórico com tinta em pó cor de laranja.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b0/b0fda78e45b30c032054cb7e0206c2d9?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 15:09:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Governo vai regulamentar o lóbi e o registo da \"pegada legislativa\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/governo-vai-regulamentar-o-lobi-e-o-registo-da-pegada-legislativa_n1580573",
+        "content": [
+            {
+                "type": "text",
+                "data": "A regulamentação do lóbi, o registo das interações com entidades externas ao longo do processo legislativo e o reforço do controlo interno do Estado estão entre as medidas preventivas na agenda anticorrupção que o Governo aprova hoje."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 15:08:17",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Áustria acolhe conferência anual sobre o clima",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/austria-acolhe-conferencia-anual-sobre-o-clima_v1580581",
+        "content": [
+            {
+                "type": "text",
+                "data": "António Guterres diz que é urgente evitar o pior caos climático e que os próximos 18 meses são cruciais para limitar o aumento da temperatura. Declarações proferidas na conferência anual sobre o clima, organizada pela Iniciativa Climática Schwarzenegger, a decorrer na Áustria.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/40/4003311167101dc5f8db475ff4db33e6?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 15:07:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Calor extremo em Meca provocou a morte a mais de mil peregrinos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/calor-extremo-em-meca-provocou-a-morte-a-mais-de-mil-peregrinos_v1580580",
+        "content": [
+            {
+                "type": "text",
+                "data": "Mais de mil pessoas morreram por causa do calor extremo na grande peregrinação anual a Meca. As temperaturas acima dos 50 graus Celsius e a dureza dos rituais levaram centenas de peregrinos a receber assistência.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/43/4392349a5d7da5409d4d7be2ed103237?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 15:06:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Milei regressa a Espanha mas volta a não reunir-se com Sánchez ou com Felipe VI",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/milei-regressa-a-espanha-mas-volta-a-nao-reunir-se-com-sanchez-ou-com-felipe-vi_n1580571",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente argentino, Javier Milei, regressa a Espanha na sexta-feira para uma visita que está a gerar nova polémica por não incluir encontros com o Governo ou o Rei, mas prever uma condecoração do executivo regional de Madrid."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 15:05:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Forças israelitas voltam a atacar o centro da Faixa de Gaza",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/forcas-israelitas-voltam-a-atacar-o-centro-da-faixa-de-gaza_v1580577",
+        "content": [
+            {
+                "type": "text",
+                "data": "Durante a madrugada, a Força Aérea do Estado hebraico atingiu três campos de refugiados no enclave palestiniano. As autoridades de saúde de Gaza dizem que a ofensiva israelita já provocou, desde 7 de outubro, mais de 37.400 mortos.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/29/29c8ba42dfb8ed06831d05d53ff48fe2?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 15:01:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Chega Madeira não fecha portas à negociação sem Miguel Albuquerque",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/chega-madeira-nao-fecha-portas-a-negociacao-sem-miguel-albuquerque_a1580570",
+        "content": [
+            {
+                "type": "text",
+                "data": "Um dos partidos que pode ser decisivo para uma eventual aprovação do Programa do Governo Regional da Madeira é o Chega, mas com condições. O líder parlamentar, Miguel Castro, volta a recusar um Executivo liderado por Miguel Albuquerque mas não fecha todas as portas."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/f9/f9be0536f43153d2d6f9d67e907ba74a?w=350&amp;q=50&amp;rect=0,11,1560,855&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 15:01:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Ensino superior. Aumentou o número de trabalhadores-estudantes",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/ensino-superior-aumentou-o-numero-de-trabalhadores-estudantes_v1580575",
+        "content": [
+            {
+                "type": "text",
+                "data": "Há cada vez mais jovens que trabalham e estudam no Ensino Superior. Nos últimos anos a subida foi expressiva e pode ser explicada pelo aumento do custo de vida. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/91/916798122b41196096c7f45f1e11b603_N.jpg?"
+            }
+        ],
+        "published": "2024-06-20 15:00:49",
+        "category": "ultimas"
+    },
+    {
+        "headline": "NATO. Presidente da Roménia retira candidatura à liderança e apoia Rutte",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/nato-presidente-da-romenia-retira-candidatura-a-lideranca-e-apoia-rutte_n1580551",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Roménia anunciou hoje o seu apoio à candidatura do primeiro-ministro dos Países Baixos, Mark Rutte, como próximo secretário-geral da NATO, retirando a candidatura do Presidente romeno, Klaus Iohannis.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 14:58:52",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Gestão Financeira da Educação. Regressa valor envolvido em fraude",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/gestao-financeira-da-educacao-regressa-valor-envolvido-em-fraude_v1580574",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Instituto de Gestão Financeira da Educação recuperou esta quinta-feira os 2,5 milhões de euros transferidos na sequência de um esquema fraudulento. O anúncio foi feito em comunicado pelo Ministério da Educação.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/16/165789f7072b9ce97ec4ced8304e10c5?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 14:58:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Famílias portuguesas colocam menos poupanças em certificados",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/familias-portuguesas-colocam-menos-poupancas-em-certificados_v1580569",
+        "content": [
+            {
+                "type": "text",
+                "data": "O valor está em queda há nove meses. Em maio, o investimento nestes produtos de poupança do Estado recuou mais de 100 milhões de euros. Os dados são revelados pelo Banco de Portugal.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/0b/0babb5ce722e009c450f7dc168417cdd?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 14:55:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Abandono escolar no ensino superior aumentou",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/abandono-escolar-no-ensino-superior-aumentou_v1580568",
+        "content": [
+            {
+                "type": "text",
+                "data": "Voltou a aumentar o abandono escolar após o primeiro ano no ensino superior público. Os dados, divulgados hoje, mostram que em 2022/2023, 11,73 por cento dos &#039;caloiros&#039; do ano anterior já não estava matriculado em nenhuma instituição."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/66/66d0fe18205064972a0bcdcfacd7dc5e_N.jpg?"
+            }
+        ],
+        "published": "2024-06-20 14:54:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "\"Temos que continuar a ter equilíbrio orçamental e reduzir a dívida pública\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/temos-que-continuar-a-ter-equilibrio-orcamental-e-reduzir-a-divida-publica_v1580565",
+        "content": [
+            {
+                "type": "text",
+                "data": "Portugal saiu do radar de alerta da Comissão Europeia por causa do desequilíbrio das contas públicas. O ministro das Finanças diz que o Governo está focado em continuar a reduzir a dívida pública e em conseguir excedentes orçamentais.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/98/98164486e2ff14bf72e49e51b92e57e1?w=350&amp;q=50&amp;rect=0,50,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 14:49:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Número de desempregados inscritos aumentou em maio",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/numero-de-desempregados-inscritos-aumentou-em-maio_v1580560",
+        "content": [
+            {
+                "type": "text",
+                "data": "No mês passado, estavam inscritas nos centros de emprego cerca de 310 mil pessoas sem trabalho. Uma subida de mais de 24 mil face ao mesmo mês do ano passado.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/84/8409fd09b51473bca4d93110367e5f23?w=350&amp;q=50&amp;rect=0,164,1391,763&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 14:47:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Deputados escolhem representantes para o Conselho de Estado",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/deputados-escolhem-representantes-para-o-conselho-de-estado_v1580559",
+        "content": [
+            {
+                "type": "text",
+                "data": "Luís Pais Antunes falhou a eleição para presidente do Conselho Económico e Social por apenas um voto. Mas o PSD anunciou que vai reapresentar o mesmo nome para o Conselho. Já a lista conjunta de PS, PSD e Chega para o Conselho de Estado foi eleita. Obteve 168 votos a favor, 40 brancos e 13 nulos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/38/388504b117648cc7ff9a6eb9b3688363?w=350&amp;q=50&amp;rect=122,0,1317,722&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 14:46:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "\"Lucília Gago não tem condições\". Rio condena divulgação de escutas telefónicas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/lucilia-gago-nao-tem-condicoes-rio-condena-divulgacao-de-escutas-telefonicas_v1580556",
+        "content": [
+            {
+                "type": "text",
+                "data": "Rui Rio é um dos subscritores do manifesto pela reforma da justiça. No Jornal da Tarde, o ex-presidente do PSD defendeu que é contra a divulgação das escutas telefónicas, que devem ser destruídas se não tiverem &quot;relevância&quot;."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/b9/b9bb11a0c8dbbdbc5e9648290b5b23e5_N.jpg?"
+            }
+        ],
+        "published": "2024-06-20 14:40:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Presidente do Gil Vicente demite-se",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/presidente-do-gil-vicente-demite-se_d1580548",
+        "content": [
+            {
+                "type": "text",
+                "data": "O presidente do Gil Vicente, Avelino Dias da Silva, anunciou a demissão de cargo, para o qual foi eleito há quase cinco meses, explicando que as razões que o levaram assumir a liderança do clube &quot;estão ultrapassadas&quot;."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/20/204307fdb56ffd6da91c9dfd77824013?w=350&amp;q=50&amp;rect=0,0,960,526&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 14:40:10",
+        "category": "ultimas"
+    },
+    {
+        "headline": "PSD vai insistir na candidatura de Pais Antunes para presidente do CES",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/psd-vai-insistir-na-candidatura-de-pais-antunes-para-presidente-do-ces_n1580539",
+        "content": [
+            {
+                "type": "text",
+                "data": "O PSD vai reapresentar a candidatura do ex-secretário de Estado Pais Antunes ao lugar de presidente do Conselho Económico e Social (CES), disse hoje à agência Lusa fonte da bancada social-democrata."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 14:37:54",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Portugal alinhado com políticas integradas para as migrações defendeu secretário de Estado",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/portugal-alinhado-com-politicas-integradas-para-as-migracoes-defendeu-secretario-de-estado_n1580538",
+        "content": [
+            {
+                "type": "text",
+                "data": "O secretário de Estado dos Negócios Estrangeiros e Cooperação defendeu hoje, em Cabo Verde, políticas integradas para as migrações, num diálogo entre países de origem, trânsito e chegada."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 14:36:48",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Faltou um bocadinho `assim` à Eslovénia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/faltou-um-bocadinho-assim-a-eslovenia_e1580555",
+        "content": [
+            {
+                "type": "text",
+                "data": "Um golo de Jovic na última jogada do encontro com a Eslovénia salvou a Sérvia de uma eliminação quase certa do Euro2024. O &lt;i&gt;duelo balcânico&lt;/i&gt; terminou empatado a uma bola, já que Karnicnik havia inaugurado o marcador aos 69 minutos. O Grupo C, que hoje completa a segunda jornada com o Inglaterra-Dinamarca, está ao rubro. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/0f/0f2e4c49022fe4242e4b0c44c639b6b0?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 14:35:22",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Apenas 50 reféns permanecem vivos dizem autoridades dos EUA",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/apenas-50-refens-permanecem-vivos-dizem-autoridades-dos-eua_n1580535",
+        "content": [
+            {
+                "type": "text",
+                "data": "Apenas cerca de 50 dos perto de 250 reféns que o grupo islamita palestiniano Hamas raptou em Israel em 7 de outubro ainda estão vivos, disseram hoje autoridades norte-americanas."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 14:34:55",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Banco de Inglaterra mantém taxas diretoras na última decisão antes das eleições",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/banco-de-inglaterra-mantem-taxas-diretoras-na-ultima-decisao-antes-das-eleicoes_n1580533",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Banco de Inglaterra decidiu hoje manter as taxas de juro diretoras no Reino Unido em 5,25%, o nível mais alto em 16 anos, apesar de ter atingido em maio o objetivo de reduzir a inflação para 2%."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 14:33:36",
+        "category": "ultimas"
+    },
+    {
+        "headline": "13h Isaltino Morais: Almoços investigados são atividade normal",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/13h-isaltino-morais-almocos-investigados-sao-atividade-normal_a1_1580554",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 14:30:03",
+        "category": "ultimas"
+    },
+    {
+        "headline": "PS insiste na presença de Nuno Rebelo de Sousa no Parlamento",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/ps-insiste-na-presenca-de-nuno-rebelo-de-sousa-no-parlamento_a1580544",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os socialistas garantem que não vão desistir da presença de Nuno Rebelo de Sousa na comissão parlamentar de inquérito ao caso das gémeas luso-brasileiras.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/bf/bf621f43f93795c29da5c187eb1fea07?w=350&amp;q=50&amp;rect=78,15,704,386&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 14:26:21",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Diretor nacional da PJ defende que serviços de investigação têm de se libertar da burocracia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/diretor-nacional-da-pj-defende-que-servicos-de-investigacao-tem-de-se-libertar-da-burocracia_v1580553",
+        "content": [
+            {
+                "type": "text",
+                "data": "O diretor nacional da PJ diz que a Polícia Judiciária só deve satisfações aos juízes e ao Ministério Público. Esta quinta-feira, na apresentação do &quot;Relatório Modernização da Justiça&quot;, Luís Neves afirmou ainda que os serviços de investigação têm de se libertar da burocracia.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/01/0131aa6bd234c0b2f5d0e8d9dbf2df47_N.jpg?"
+            }
+        ],
+        "published": "2024-06-20 14:25:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Em silêncio sobre escutas. Marcelo vê consenso em torno de Costa na UE",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/em-silencio-sobre-escutas-marcelo-ve-consenso-em-torno-de-costa-na-ue_v1580549",
+        "content": [
+            {
+                "type": "text",
+                "data": "O presidente da República diz que há um &quot;fortíssimo consenso&quot; em torno de António Costa para a presidência do Conselho Europeu."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/69/69570cfac96f6cd88e5c81d4167664f5_N.jpg?"
+            }
+        ],
+        "published": "2024-06-20 14:22:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "PS promete levar recusa de Nuno Rebelo de Sousa ao Ministério Público",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/ps-promete-levar-recusa-de-nuno-rebelo-de-sousa-ao-ministerio-publico_v1580547",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Partido Socialista garante que vai mesmo apresentar ao Ministério Público uma queixa por alegada desobediência, caso Nuno Rebelo de Sousa continuar a recusar-se a depor na comissão de inquérito parlamentar ao caso das gémeas luso-brasileiras.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/c6/c615e50f7eff6ecf5d9e88e5cfe12a8b?w=350&amp;q=50&amp;rect=3,0,726,398&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 14:20:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Steve Cooper é o novo treinador do Leicester",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/steve-cooper-e-o-novo-treinador-do-leicester_d1580545",
+        "content": [
+            {
+                "type": "text",
+                "data": "O galês Steve Cooper é o novo treinador do Leicester, assinando por três temporadas com o emblema que regressa na próxima época à Premier League de futebol, anunciou o clube."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b6/b6ca9d7975ebf7ae793d66c0de4d258c?w=350&amp;q=50&amp;rect=0,0,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 14:18:21",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Crimes de prevaricação e abuso de poder imputados a filho de Marcelo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/crimes-de-prevaricacao-e-abuso-de-poder-imputados-a-filho-de-marcelo_v1580542",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Ministério Público imputa os crimes de prevaricação e de abuso de poder ao filho do presidente da República. Nuno Rebelo de Sousa já foi ouvido no Brasil e constituído arguido. Mas nega ter cometido qualquer crime.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/1e/1e620c2afc720721182b536827f117e9?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 14:15:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Morreu antigo árbitro Carlos Valente",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/morreu-antigo-arbitro-carlos-valente_d1580540",
+        "content": [
+            {
+                "type": "text",
+                "data": "O antigo árbitro português de futebol Carlos Valente morreu esta quinta-feira, aos 77 anos, vítima de doença, informou o seu antigo árbitro assistente Jorge Garcia, na rede social Facebook."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/91/91eddaa517af2669e0a0b71dd3d22d5f?w=350&amp;q=50&amp;rect=0,133,540,296&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 14:08:59",
+        "category": "ultimas"
+    },
+    {
+        "headline": "CDS da Madeira apela a entendimento mínimo entre forças políticas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/cds-da-madeira-apela-a-entendimento-minimo-entre-forcas-politicas_a1580537",
+        "content": [
+            {
+                "type": "text",
+                "data": "O líder do CDS madeirense apela a um entendimento - por mínimo que seja - entre as várias forças políticas. Ouvido pela Antena 1 Madeira, José Manuel Rodrigues lembra que, em primeiro lugar, deve estar a vida dos madeirenses.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/5d/5d580b5c9c4ed431c0bda931e5ab10f5?w=350&amp;q=50&amp;rect=0,11,1560,855&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 14:06:23",
+        "category": "ultimas"
+    },
+    {
+        "headline": "12h30 Edição de José Pedro Pinto",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-desporto/12h30-edicao-de-jose-pedro-pinto_a1_1580536",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 14:01:01",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Rui Tavares considera que fuga de escutas não deverá prejudicar Costa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/rui-tavares-considera-que-fuga-de-escutas-nao-devera-prejudicar-costa_a1580534",
+        "content": [
+            {
+                "type": "text",
+                "data": "O deputado e co-porta-voz do Livre Rui Tavares não acredita que as fugas de informação e as notícias que têm vindo a público venham a prejudicar as ambições de António Costa na corrida à presidência do Conselho Europeu.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/5b/5b3393339389b7eed9dd54dd78ddd72f?w=350&amp;q=50&amp;rect=0,0,860,471&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 14:00:33",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Tour. Chris Froome excluído da equipa Israel-Premier Tech",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/tour-chris-froome-excluido-da-equipa-israel-premier-tech_d1580774",
+        "content": [
+            {
+                "type": "text",
+                "data": "O britânico Chris Froome, quatro vezes vencedor da Volta a França em bicicleta, foi, tal como em 2023, excluído pela sua equipa Israel-Premier Tech dos oito corredores que vão partir na sexta-feira para a 111.ª edição da corrida."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/9e/9eb2b657be2d2c03a4ae810dac1be97f?w=350&amp;q=50&amp;rect=0,0,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 11:33:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Euro2024. Portugal treinou em Marienfeld e viaja para Dortmund",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/selecao-nacional/euro2024-portugal-treinou-em-marienfeld-e-viaja-para-dortmund_d1580773",
+        "content": [
+            {
+                "type": "text",
+                "data": "A seleção portuguesa de futebol realizou esta sexta-feira, em Marienfeld, o último treino antes do jogo com a Turquia, da segunda jornada do Grupo F do Euro2024, viajando durante a tarde para Dortmund, local da partida."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/7e/7eab7ea687b7f92898def4d334003e5a?w=350&amp;q=50&amp;rect=0,0,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 11:26:47",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Natação Europeus. Ana Rodrigues falha \"meias\" dos 50m livres",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/natacao-europeus-ana-rodrigues-falha-meias-dos-50m-livres_d1580771",
+        "content": [
+            {
+                "type": "text",
+                "data": "A nadadora portuguesa Ana Pinho Rodrigues falhou por uma décima de segundo o apuramento para as meias-finais dos 50 metros livres dos Europeus de natação, numas eliminatórias muito rápidas."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b0/b0cff8ef5e25fcec163d1a5630fb5772?w=350&amp;q=50&amp;rect=0,0,859,471&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 11:19:19",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Morreu o jornalista Barry May autor do primeiro artigo sobre os Rolling Stones",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/morreu-o-jornalista-barry-may-autor-do-primeiro-artigo-sobre-os-rolling-stones_n1580768",
+        "content": [
+            {
+                "type": "text",
+                "data": "O jornalista britânico Barry May, autor do primeiro artigo sobre os Rolling Stones quando a recém-formada banda atuava num pequeno clube de Richmond-Upon-Thames, morreu no passado dia 01, aos 80 anos, anunciou hoje a família."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 10:59:28",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Entrevista à Antena 1. Ministra da Justiça defende reflexão sobre recurso a escutas telefónicas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/entrevista-a-antena-1-ministra-da-justica-defende-reflexao-sobre-recurso-a-escutas-telefonicas_n1580766",
+        "content": [
+            {
+                "type": "text",
+                "data": "A ministra da Justiça considera necessária uma reflexão alargada sobre o recurso aos chamados meios ocultos de investigação, como as escutas telefónicas. Em entrevista à Antena 1, um dia depois de ser apresentada a agenda do Governo contra a corrupção e na semana em que foram divulgadas escutas relativas à Operação Influencer, Rita Júdice admite que olha com preocupação para tudo o que possa constituir violações do segredo de justiça e reconhece que é preciso agir nessa matéria.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/23/23927dd7222ef6dc4e3d44f4d6950caf?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 10:56:53",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Baggio e família sequestrados durante 40 minutos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/baggio-e-familia-sequestrados-durante-40-minutos_d1580769",
+        "content": [
+            {
+                "type": "text",
+                "data": "O antigo futebolista Roberto Baggio e a sua família estiveram na quinta-feira sequestrados durante 40 minutos, em sua casa, durante o jogo Itália-Espanha, do Euro2024, quando vários indivíduos invadiram a sua residência, noticia a imprensa italiana.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/74/7438a22aee143fb9c298c1fca2888215?w=350&amp;q=50&amp;rect=0,15,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 10:56:05",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Euro2024. Países Baixos-França jogo grande do dia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/euro2024-paises-baixos-franca-jogo-grande-do-dia_d1580767",
+        "content": [
+            {
+                "type": "text",
+                "data": "As seleções dos Países Baixos e da França defrontam-se esta sexta-feira em luta pela liderança do Grupo D do Euro2024 de futebol, pelas 20h00, em Leipzig, na Alemanha, em partida que apura o eventual vencedor para os oitavos de final."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/3f/3fcb3c021381e93103c16c629200ac8d?w=350&amp;q=50&amp;rect=0,122,1024,561&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 10:47:45",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Linha de Sintra com atrasos após atropelamento ferroviário na estação da Damaia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/linha-de-sintra-com-atrasos-apos-atropelamento-ferroviario-na-estacao-da-damaia_n1580763",
+        "content": [
+            {
+                "type": "text",
+                "data": "A circulação ferroviária na estação da Damaia, na Linha de Sintra, no distrito de Lisboa, estava às 08:50 a fazer-se com algumas perturbações devido a um atropelamento, disse à agência Lusa fonte da CP - Comboios de Portugal."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 10:34:53",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Governo de Moçambique prevê 246 mil ME para desenvolver o país até 2044",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/governo-de-mocambique-preve-246-mil-me-para-desenvolver-o-pais-ate-2044_n1580760",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Governo moçambicano identificou necessidades de financiamento de 246 mil milhões de euros para implementar os cinco pilares prioritários da Estratégia Nacional de Desenvolvimento (ENDE) 2025-2044, segundo documento a que a Lusa teve hoje acesso."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 10:34:27",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Copa América. Argentina triunfa sobre o Canadá",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/copa-america-argentina-triunfa-sobre-o-canada_d1580765",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Argentina iniciou a defesa do título com um triunfo por 2-0 sobre o estreante Canadá, no encontro inaugural da edição 2024 da Copa América em futebol, para o Grupo A, disputado em Atlanta."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/47/473acfb89f0473c647416e95db44f527?w=350&amp;q=50&amp;rect=48,0,985,540&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 10:29:57",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Gustavo e Gabriel Ribeiro eliminados em Budapeste",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/gustavo-e-gabriel-ribeiro-eliminados-em-budapeste_d1580764",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os portugueses Gustavo Ribeiro e Gabriel Ribeiro ficaram em 23.º e 38.º na segunda etapa das séries de qualificação de skate para Paris2024, falhando o apuramento para a meia-final da prova, que decorre em Budapeste.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/81/81123ce4c4aa23bd03ba152ac11ff860?w=350&amp;q=50&amp;rect=0,14,920,504&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 10:17:42",
+        "category": "ultimas"
+    },
+    {
+        "headline": "EUA \"preocupados\" com cenário de fornecimento de armas russas a Pyongyang",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/eua-preocupados-com-cenario-de-fornecimento-de-armas-russas-a-pyongyang_n1580757",
+        "content": [
+            {
+                "type": "text",
+                "data": "A sugestão, por parte de Vladimir Putin, de que a Rússia poderia fornecer armas à Coreia do Norte é &quot;incrivelmente preocupante&quot;, afirmou Matthew Miller, porta-voz do Departamento de Estado norte-americano, dias depois de Vladimir Putin e o líder do Norte, Kim Jong-un, terem assinado um pacto de defesa. Este acordo estabelece que os dois países forneçam assistência militar imediata em caso de ataque.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/78/78ce31e4c18e90f304fd81b2c15d37bf?w=350&amp;q=50&amp;rect=0,138,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 10:11:26",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Francisco Cabral nas \"meias\" de pares em Ilkley",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/francisco-cabral-nas-meias-de-pares-em-ilkley_d1580762",
+        "content": [
+            {
+                "type": "text",
+                "data": "O tenista português Francisco Cabral, em equipa com o colombiano Niclas Barrientos, apurou-se para as meias-finais da variante de pares do challenger de Ilkley, em Inglaterra, ao afastar a dupla australiana John Patrick Smith/Tristan Schoolkate."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/f0/f0c8f4f08fe867384c5f1d1ea8da7a4d?w=350&amp;q=50&amp;rect=0,0,800,439&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 10:11:18",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Gastão Elias eliminado do challenger de Poznan",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/gastao-elias-eliminado-do-challenger-de-poznan_d1580759",
+        "content": [
+            {
+                "type": "text",
+                "data": "O português Gastão Elias, 359.º do ranking mundial de ténis, foi eliminado nos quartos de final do challenger de Poznan, ao perder frente ao argentino Camilo Ugo Carabelli em três sets.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/7d/7d92d20a4a25c54b0336d4132a1063ca?w=350&amp;q=50&amp;rect=0,3,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 10:03:13",
+        "category": "ultimas"
+    },
+    {
+        "headline": "José Morais leva Sepahan à conquista da Taça do Irão",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/jose-morais-leva-sepahan-a-conquista-da-taca-do-irao_d1580758",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Sepahan, comandado pelo português José Morais, venceu, 11 anos depois, a Taça do Irão de futebol, batendo na final o Rafsanjan, por 2-0, com ambos os golos marcados na primeira parte pelo avançado Shahriyar Moghanlou."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b6/b6b2a8ebfa3e5c4bd763da0ae1dd36e6?w=350&amp;q=50&amp;rect=0,3,900,493&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 09:58:59",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Rui Silva indigitado novo presidente do Gil Vicente",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/rui-silva-indigitado-novo-presidente-do-gil-vicente_d1580756",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Gil Vicente, da I Liga portuguesa de futebol, anunciou que Rui Silva foi indigitado como novo presidente do clube, na sequência da demissão de Avelino Dias da Silva."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/3a/3a64bc2a5572acd5d06a1a704dcb4511?w=350&amp;q=50&amp;rect=0,0,1080,592&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 09:53:36",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Jack Draper afasta Alcaraz do torneio de Queen`s",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/jack-draper-afasta-alcaraz-do-torneio-de-queens_d1580755",
+        "content": [
+            {
+                "type": "text",
+                "data": "O tenista espanhol Carlos Alcaraz, segundo do ranking, foi afastado do torneio de Queen’s, no qual defendia o título, ao perder na segunda ronda com o britânico Jack Draper, pelos parciais de 7-6 (7-3) e 6-3."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/36/3664dbeadecaa9c5d5b99561f6f73a42?w=350&amp;q=50&amp;rect=0,0,920,504&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 09:47:07",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Jody Brown reforça futebol feminino do Benfica",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/benfica/jody-brown-reforca-futebol-feminino-do-benfica_d1580754",
+        "content": [
+            {
+                "type": "text",
+                "data": "A internacional jamaicana Jody Brown vai reforçar a equipa feminina de futebol do Benfica até 2027, informou na sua página oficial o tetracampeão nacional e vencedor da Supertaça, Taça da Liga e Taça de Portugal."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/e0/e0fe7436ce8a4600cdf60112dd3a758b?w=350&amp;q=50&amp;rect=0,0,926,508&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 09:40:39",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Observatório moçambicano aponta falta de medicamentos essenciais nos hospitais",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/observatorio-mocambicano-aponta-falta-de-medicamentos-essenciais-nos-hospitais_n1580753",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Observatório Cidadão para Saúde (OCS) pediu hoje esclarecimentos do Governo moçambicano sobre a alegada falta de medicamentos &quot;essenciais&quot; nos hospitais públicos, apesar de apontar que existe &quot;stock suficiente&quot; para os administrar aos pacientes."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 09:00:30",
+        "category": "ultimas"
+    },
+    {
+        "headline": "PM moçambicano passa a tutelar assistência aos antigos presidentes da República",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/pm-mocambicano-passa-a-tutelar-assistencia-aos-antigos-presidentes-da-republica_n1580752",
+        "content": [
+            {
+                "type": "text",
+                "data": "O primeiro-ministro moçambicano passa a tutelar o Gabinete de Assistência aos Antigos Presidentes da República e Atendimento dos Dirigentes Superiores do Estado (GADE), segundo decreto consultado hoje pela Lusa."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 08:59:57",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Subsídios atribuídos pela China a fabricantes de elétricos ascendem a 215.000 ME",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/subsidios-atribuidos-pela-china-a-fabricantes-de-eletricos-ascendem-a-215000-me_n1580750",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os fabricantes chineses de veículos elétricos receberam pelo menos 230,8 mil milhões de dólares (215,3 mil milhões de euros) em subsídios governamentais, entre 2009 e 2023, indicou um estudo do Centro de Estudos Estratégicos e Internacionais (CSIS)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 08:59:37",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Parlamento taiwanês ratifica pacote de reformas polémicas apesar da rejeição do Governo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/parlamento-taiwanes-ratifica-pacote-de-reformas-polemicas-apesar-da-rejeicao-do-governo_n1580748",
+        "content": [
+            {
+                "type": "text",
+                "data": "O parlamento de Taiwan, com uma maioria da oposição, aprovou hoje um controverso pacote de reformas que confere à legislatura maior controlo sobre o governo, depois deste ter devolvido as emendas ao órgão para reconsideração."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 08:59:14",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Caso das gémeas. Marcelo frisa que Parlamento deve exercer poderes \"em relação a todos os cidadãos\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/caso-das-gemeas-marcelo-frisa-que-parlamento-deve-exercer-poderes-em-relacao-a-todos-os-cidadaos_n1580751",
+        "content": [
+            {
+                "type": "text",
+                "data": "O presidente da República sublinha que “os cidadãos são todos cidadãos” e que a Assembleia da República deve exercer os seus poderes tendo em conta este facto. É esta a reação de Marcelo Rebelo de Sousa à notícia de que o filho se recusará a comparecer na comissão parlamentar de inquérito ao caso das gémeas luso-brasileiras tratadas no Hospital de Santa Maria. Os deputados ouvem esta sexta-feira a mãe das menores.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/7f/7fa22268e8c7c8e2ae58d5cea3964e01?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 08:10:58",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Grupo chinês vai construir primeira autoestrada de Angola",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/grupo-chines-vai-construir-primeira-autoestrada-de-angola_n1580746",
+        "content": [
+            {
+                "type": "text",
+                "data": "Um grupo chinês vai construir a primeira autoestrada de Angola, com cerca de 1.400 quilómetros, a ligar o sul ao norte do país, disse hoje à Lusa o ministro das Obras Públicas, Urbanismo e Habitação angolano.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/52/5299217379b71a8e9cdf8eb428932582?w=350&amp;q=50&amp;rect=0,54,768,421&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 07:13:41",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Japão aplica sanções a quem facilite a vida à Rússia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/japao-aplica-sancoes-a-quem-facilite-a-vida-a-russia_n1580745",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Japão anunciou esta sexta-feira novas sanções contra 11 entidades de seis países por ajudarem a Rússia a contornar medidas punitivas impostas pela comunidade internacional pela invasão da Ucrânia.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/27/27dbd299353e770d62a65ce0a1d0bf10?w=350&amp;q=50&amp;rect=0,3,1220,669&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 06:45:12",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Pany Varela não se cansa de ganhar",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/sporting/pany-varela-nao-se-cansa-de-ganhar_d1580744",
+        "content": [
+            {
+                "type": "text",
+                "data": "O internacional português Pany Varela considera que &quot;falta fazer tudo de novo e trepar a montanha&quot; a cada época que começa, &quot;porque só assim faz sentido&quot; representar a equipa de futsal do Sporting e ambicionar por mais títulos. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/cd/cdd2ea19b24fe40bde23753e6dca9022?w=350&amp;q=50&amp;rect=1,0,1198,657&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 06:28:50",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Álvaro Pacheco demitido do Vasco da Gama",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/alvaro-pacheco-demitido-do-vasco-da-gama_d1580727",
+        "content": [
+            {
+                "type": "text",
+                "data": "O treinador português Álvaro Pacheco foi demitido do comando técnico do Vasco da Gama, anunciou o atual 17.º classificado do campeonato brasileiro de futebol nas suas redes sociais."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/7d/7d6eb765fe45c2ac66300098b8a05476?w=350&amp;q=50&amp;rect=0,0,920,504&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 05:46:18",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Chuchu Ramírez reforça ataque do Vitória",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-nacional/chuchu-ramirez-reforca-ataque-do-vitoria_d1580714",
+        "content": [
+            {
+                "type": "text",
+                "data": "O ponta de lança Chuchu Ramírez assinou um contrato válido com o Vitória de Guimarães até junho de 2027, depois de uma época na II Liga ao serviço do recém-promovido Nacional, informaram os vimaranenses no sítio oficial."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/45/452edfd4c5a1063a677ab47d76bba0c6?w=350&amp;q=50&amp;rect=3,4,677,371&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 05:40:52",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Coreia do sul dispara tiros depois de soldados norte-coreanos atravessarem fronteira",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/lusa/coreia-do-sul-dispara-tiros-depois-de-soldados-norte-coreanos-atravessarem-fronteira_n1580743",
+        "content": [
+            {
+                "type": "text",
+                "data": "O exército sul-coreano revelou ter disparado tiros de aviso depois de soldados norte-coreanos terem atravessado, por momentos, a fronteira entre os dois países na quinta-feira, na terceira incursão do tipo este mês."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/e4/e4d57bbd27017ce612b67976dc7dd2e9?w=350&amp;q=50&amp;rect=0,3,1220,669&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 05:34:05",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Autarcas venezuelanos punidos por se manifestarem",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/autarcas-venezuelanos-punidos-por-se-manifestarem_n1580741",
+        "content": [
+            {
+                "type": "text",
+                "data": "Opositores venezuelanos revelaram que dez autarcas em funções foram desqualificados e proibidos de exercerem cargos públicos durante os próximos 15 anos depois de terem participado em marchas de apoio à oposição."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ec/ec3a7645828d9a2410a63313014ec5ca?w=350&amp;q=50&amp;rect=0,0,1170,641&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 05:28:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Paulo Rangel inicia visita de trabalho a Angola",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/paulo-rangel-inicia-visita-de-trabalho-a-angola_n1580742",
+        "content": [
+            {
+                "type": "text",
+                "data": "O chefe da diplomacia portuguesa, Paulo Rangel, chega a Luanda, esta sexta-feira, para uma visita de trabalho, sendo recebido, após a chegada, pelo presidente de Angola, João Lourenço."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/2e/2e39543df29eaa3196a505bf302e7d9d?w=350&amp;q=50&amp;rect=0,0,859,471&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 04:54:21",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Javier Milei faz visita polémica a Espanha",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/javier-milei-faz-visita-polemica-a-espanha_n1580740",
+        "content": [
+            {
+                "type": "text",
+                "data": "O presidente da Argentina visita Espanha, esta sexta-feira, pela segunda vez desde que assumiu funções, numa viagem que volta a estar marcada pela polémica por, mais uma vez, não ter na agenda encontros com o governo ou com o Rei."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/e8/e801f0714ebe87444b05a00020f96110?w=350&amp;q=50&amp;rect=0,0,1200,658&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 04:40:57",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Inglaterra reforça liderança do Grupo C após empate com Dinamarca",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/inglaterra-reforca-lideranca-do-grupo-c-apos-empate-com-dinamarca_v1580737",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Inglaterra reforçou o primeiro lugar do grupo C depois do empate com a Dinamarca. Cada equipa marcou um golo.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/37/3792bfdfd838f6a13399c44949772dfd?w=350&amp;q=50&amp;rect=0,119,1270,696&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 01:50:45",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Espanha vence Itália e está nos oitavos de final do Europeu",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/espanha-vence-italia-e-esta-nos-oitavos-de-final-do-europeu_v1580736",
+        "content": [
+            {
+                "type": "text",
+                "data": "Espanha está nos oitavos de final do Campeonato da Europa. A seleção orientada por Luis De La Fuente venceu a Itália por 1-0 graças a um autogolo de Calafiori.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/e0/e029e0194e45e622ae5acc4aa8d01435?w=350&amp;q=50&amp;rect=0,99,1295,710&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 01:47:45",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Lince ibérico deixou de ser considerada uma espécie ameaçada",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/lince-iberico-deixou-de-ser-considerada-uma-especie-ameacada_v1580735",
+        "content": [
+            {
+                "type": "text",
+                "data": "O lince ibérico deixou de ser considerada uma espécie ameaçada e passou a ter o estatuto de espécie vulnerável. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/41/418403c9e72e5df74301d19e5ec1c93f?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 01:34:45",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Casa Branca \"ofendida\". Israel acusa Estados Unidos de atrasarem envio de armas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/casa-branca-ofendida-israel-acusa-estados-unidos-de-atrasarem-envio-de-armas_v1580734",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Casa Branca está &quot;dececionada e ofendida&quot; com as palavras do primeiro-ministro israelita, que lamentou os atrasos na ajuda militar dos Estados Unidos.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/1b/1b4572cfa1c05d20f589a6fec3023d40?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 01:30:45",
+        "category": "ultimas"
+    },
+    {
+        "headline": "TNSJ. Pedro Sobrado diz não sentir-se vítima de saneamento político",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/tnsj-pedro-sobrado-diz-nao-sentir-se-vitima-de-saneamento-politico_v1580732",
+        "content": [
+            {
+                "type": "text",
+                "data": "O presidente do Conselho de Administração do Teatro Nacional de São João, no Porto, Pedro Sobrado, diz que não se sente vítima de um saneamento político. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/a8/a8b3ab216921159659414fe0593bb446_N.jpg?"
+            }
+        ],
+        "published": "2024-06-21 01:24:46",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Belém convoca Conselho de Estado para analisar situação na Ucrânia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/belem-convoca-conselho-de-estado-para-analisar-situacao-na-ucrania_n1580730",
+        "content": [
+            {
+                "type": "text",
+                "data": "O presidente da República convocou o Conselho de Estado para o próximo dia 15 de julho para analisar a situação na Ucrânia, na sequência da conferência de paz na Suíça e dias depois da Cimeira da NATO em Washington.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/12/124c3dbc060458c3aae5e7f8c3aa4146?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 00:59:59",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Entrevista. Ministro das Finanças garante excedente orçamental em 2024 e 2025",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/entrevista-ministro-das-financas-garante-excedente-orcamental-em-2024-e-2025_v1580729",
+        "content": [
+            {
+                "type": "text",
+                "data": "O ministro das Finanças garante que Portugal vai manter o excedente orçamental este ano e no próximo. Em entrevista à RTP, Joaquim Miranda Sarmento avisa, no entanto, que o Governo não vai abdicar de medidas do seu programa para acomodar as da oposição.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/8a/8ada67ecff54b6a8e90d68de56a4c2e2?w=350&amp;q=50&amp;rect=0,55,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 00:51:45",
+        "category": "ultimas"
+    },
+    {
+        "headline": "23h Língua Portuguesa está a ser maltratada diz João Barrento",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/23h-lingua-portuguesa-esta-a-ser-maltratada-diz-joao-barrento_a1_1580728",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 00:51:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Olho por olho. Putin admite entregar armas à Coreia do Norte",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/olho-por-olho-putin-admite-entregar-armas-a-coreia-do-norte_a1580723",
+        "content": [
+            {
+                "type": "text",
+                "data": "Vladimir Putin não descarta a possibilidade de fornecer armas à Coreia do Norte ao abrigo dos recentes acordos bilaterais.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/db/db4f383024e6c9bf4dc936f8bc6cd8b0?w=350&amp;q=50&amp;rect=0,65,1080,592&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 00:20:13",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Sondagens dão vantagem à extrema-direita nas eleições em França",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/sondagens-dao-vantagem-a-extrema-direita-nas-eleicoes-em-franca_n1580716",
+        "content": [
+            {
+                "type": "text",
+                "data": "A pouco mais de uma semana da primeira volta das votações para as Eleições Legislativas em França, as sondagens apontam para uma larga vantagem do partido União Nacional. O partido de extrema direita, liderado por Marine Le Pen será o mais votado, com um terço dos votos, seguida da Nova Frente Popular, cinco pontos atrás, e do partido presidencial Renascimento, que está abaixo dos 20 por cento.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/51/51c5b11f631efd95701df79f762640ce?w=350&amp;q=50&amp;rect=0,143,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 00:14:27",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Alojamento local. Governo quer cancelar taxa extraordinária",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/alojamento-local-governo-quer-cancelar-taxa-extraordinaria_a1580720",
+        "content": [
+            {
+                "type": "text",
+                "data": "O tema da habitação voltou a aquecer o plenário na Assembleia da República. Direita e esquerda dividiram-se sobre a justiça da contribuição extraordinária do alojamento local.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/2e/2ed9624e437185b0d34a9560ec4ba325?w=350&amp;q=50&amp;rect=0,119,2000,1096&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 00:08:27",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Pedido Único de 2024 soma 174.877 candidaturas submetidas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/pedido-unico-de-2024-soma-174877-candidaturas-submetidas_n1580713",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Pedido Único (PU) de 2024 soma 174.877 candidaturas, com uma média de 4.000 por dia na última semana, segundo os últimos dados do Ministério da Agricultura. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 23:57:49",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Espanha vs Itália. Os melhores lances do jogo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/espanha-vs-italia-os-melhores-lances-do-jogo_v1580718",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/a0/a0dbaa8fd83b55998c66dd82bdca61b8_N.jpg?"
+            }
+        ],
+        "published": "2024-06-20 23:55:05",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Morreu o ator que foi o presidente Snow em \"Jogos da Fome\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/morreu-o-ator-que-foi-o-presidente-snow-em-jogos-da-fome_a1580708",
+        "content": [
+            {
+                "type": "text",
+                "data": "O ator canadiano, Donald Sutherland, foi um dos nomes maiores do cinema, tinha 88 anos, eternizado em filmes como &quot;Jogos da Fome&quot; ou &quot;Citizen X&quot; que lhe valeu um Emmy como melhor ator secundário.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/03/0353fb079e2cf6746961ecbc8bb5fafa?w=350&amp;q=50&amp;rect=0,62,1080,592&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 23:53:58",
+        "category": "ultimas"
+    },
+    {
+        "headline": "\"Mamonas assassinas - O Filme\" nas salas de cinema nacionais",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/mamonas-assassinas-o-filme-nas-salas-de-cinema-nacionais_a1580709",
+        "content": [
+            {
+                "type": "text",
+                "data": "&quot;Mamonas assassinas - O Filme&quot; é uma longa - metragem que acompanha o percurso da banda brasileira de rock cómico dos anos 1990 cujo sucesso continua para além da trágica morte do grupo num acidente de avião.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/0c/0c57f89b9131f4a1fea35ab18d7960c4?w=350&amp;q=50&amp;rect=0,108,1080,592&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 23:49:10",
+        "category": "ultimas"
+    },
+    {
+        "headline": "22h Língua Portuguesa está a ser maltratada diz o Prémio Camões",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/22h-lingua-portuguesa-esta-a-ser-maltratada-diz-o-premio-camoes_a1_1580717",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 23:47:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "21h A Casa Branca ofendida com as palavras de Benjamin",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/21h-a-casa-branca-ofendida-com-as-palavras-de-benjamin_a1_1580715",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-20 23:32:03",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Espanha vs Itália. Auto-golo de Itália",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/espanha-vs-italia-auto-golo-de-italia_v1580710",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/5f/5fc823bcc2f5c6971f3c35669d35f7d1_N.jpg?"
+            }
+        ],
+        "published": "2024-06-20 22:51:45",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Rob Page deixa seleção do País de Gales",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/rob-page-deixa-selecao-do-pais-de-gales_d1580808",
+        "content": [
+            {
+                "type": "text",
+                "data": "O selecionador Rob Page foi demitido da seleção galesa de futebol, após três anos e meio no cargo e com contrato até 2026, comunicou a federação (FAW)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/8c/8c5e25d55c0257ac01726bfc190ed233?w=350&amp;q=50&amp;rect=0,0,920,504&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 13:48:42",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Unanimidade sobre reconhecimento da Palestina mas sem saber como",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/unanimidade-sobre-reconhecimento-da-palestina-mas-sem-saber-como_a1580807",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Governo português defende que o reconhecimento imediato do Estado da Palestina seria uma decisão inconsequente e por isso aponta à solução de mediação do conflito.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/9b/9b30a7c2e3c117b5b39063f8da4578e1?w=350&amp;q=50&amp;rect=0,14,1319,723&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 13:48:23",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Sindicato dos Magistrados saúda redução da amplitude da fase de instrução",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/sindicato-dos-magistrados-sauda-reducao-da-amplitude-da-fase-de-instrucao_a1580803",
+        "content": [
+            {
+                "type": "text",
+                "data": "O presidente do Sindicato dos Magistrados do Ministério Público, Paulo Lona, aplaude a medida da agenda contra a corrupção, aprovada em Conselho de Ministros, que passa por reduzir a amplitude e a função da fase de instrução. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/cb/cb8aca66bf1141b7e31f35201e8dd5e5?w=350&amp;q=50&amp;rect=0,22,1470,806&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 13:38:58",
+        "category": "ultimas"
+    },
+    {
+        "headline": "12h Nuno Rebelo de Sousa não recusou ida à CPI garante advogado",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/12h-nuno-rebelo-de-sousa-nao-recusou-ida-a-cpi-garante-advogado_a1_1580805",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 13:37:01",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Tour. João Almeida confirmado na UAE Emirates",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/tour-joao-almeida-confirmado-na-uae-emirates_d1580804",
+        "content": [
+            {
+                "type": "text",
+                "data": "Tadej Pogacar, vencedor da Volta a França em bicicleta em 2020 e 2021, vai contar com o português João Almeida no apoio à candidatura ao terceiro triunfo do esloveno na 111.ª edição do Tour, anunciou a UAE Emirates."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/2d/2d08d1358c86d4ff3b307b0b86512304?w=350&amp;q=50&amp;rect=0,0,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 13:36:45",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Números e Curiosidades - Portugal-Turquia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/selecao-nacional/numeros-e-curiosidades-portugal-turquia_d1580802",
+        "content": [
+            {
+                "type": "text",
+                "data": "Portugal e Turquia disputam este sábado o 10.º confronto entre si. A equipa lusa venceu por sete vezes."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/bf/bff6e68a0cb4be70d6170acfcf7282f0?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 13:29:32",
+        "category": "ultimas"
+    },
+    {
+        "headline": "São João nas Fontainhas está a ser preparado com alma e sardinhas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/sao-joao-nas-fontainhas-esta-a-ser-preparado-com-alma-e-sardinhas_a1580801",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os comerciantes sazonais que montam restaurantes nas Fontainhas, o bairro onde a celebração do São João tem uma longa história, queixam-se de falta de clientes. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b9/b91163f9724fafc6f5484bf6600034a9?w=350&amp;q=50&amp;rect=0,308,5200,2851&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 13:24:01",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Fórum em Macau termina com acordos para infraestruturas em Angola e Brasil",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/forum-em-macau-termina-com-acordos-para-infraestruturas-em-angola-e-brasil_n1580798",
+        "content": [
+            {
+                "type": "text",
+                "data": "O 15.º Fórum Internacional sobre o Investimento e Construção de Infraestruturas terminou hoje em Macau com a assinatura de 38 acordos, os maiores dos quais envolveram projetos em Angola e Brasil, anunciou um dos organizadores."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 13:19:56",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Países da UE decidem abrir negociações formais de adesão com Ucrânia e Moldova",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/paises-da-ue-decidem-abrir-negociacoes-formais-de-adesao-com-ucrania-e-moldova_n1580797",
+        "content": [
+            {
+                "type": "text",
+                "data": "A convocatória da Conferência Intergovernamental (CIG) foi hoje marcada pelos Estados-membros da União Europeia (UE) para dia 25, marcando a abertura formal da adesão da Ucrânia e Moldova ao bloco, anunciou hoje a presidência semestral belga. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 13:07:11",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Liberais perdem sete lugares no Parlamento Europeu com saída do partido checo ANO",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/liberais-perdem-sete-lugares-no-parlamento-europeu-com-saida-do-partido-checo-ano_n1580796",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os liberais do Renovar a Europa perderam sete eurodeputados no hemiciclo, com o anúncio feito hoje de que os eleitos pelo ANO, partido da República Checa, vão abandonar aquele grupo político no Parlamento Europeu (PE)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 13:06:45",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Governo defende diplomacia na guerra no Médio Oriente e num cessar-fogo em Gaza",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/governo-defende-diplomacia-na-guerra-no-medio-oriente-e-num-cessar-fogo-em-gaza_a1580793",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Governo defende uma posição diplomática, útil, sobre a guerra no Médio Oriente. Insiste também num cessar-fogo na Faixa de Gaza.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/3a/3af484ad0f971d04441d079f3bf29064?w=350&amp;q=50&amp;rect=0,0,1024,561&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 13:06:24",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Negócio nas festas do São João já foi melhor",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/negocio-nas-festas-do-sao-joao-ja-foi-melhor_a1580790",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os comerciantes do bairro das Fontainhas, no Porto, que montaram restaurantes para a noite de São João, não estão muito satisfeitos com a procura por parte dos clientes neste período de festas populares.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/3e/3e8f5a3f9be1021ab8efbc8f2c5b22ea?w=350&amp;q=50&amp;rect=0,1335,3024,1658&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 12:51:31",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Pausa israelita na operação sem efeito na ajuda humanitária",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/pausa-israelita-na-operacao-sem-efeito-na-ajuda-humanitaria_n1580788",
+        "content": [
+            {
+                "type": "text",
+                "data": "A pausa diária anunciada pelo exército israelita nas operações no sul da Faixa de Gaza não teve qualquer impacto na chegada da ajuda humanitária, afirmou hoje a Organização Mundial de Saúde (OMS)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 12:50:51",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Nyusi diz que há condições para reforçar cooperação entre Moçambique e Guiné-Bissau",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/nyusi-diz-que-ha-condicoes-para-reforcar-cooperacao-entre-mocambique-e-guine-bissau_n1580787",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente de Moçambique afirmou hoje que estão criadas as condições para o reforço da cooperação com a Guiné-Bissau, ao despedir-se do homólogo guineense, que terminou uma visita ao país marcada pelas críticas da oposição."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 12:50:26",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Subida dos preços da habitação abranda para 7% no 1.º trimestre",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/subida-dos-precos-da-habitacao-abranda-para-7-no-1o-trimestre_n1580786",
+        "content": [
+            {
+                "type": "text",
+                "data": "O índice de preços da habitação subiu 7% no primeiro trimestre, em termos homólogos, e transacionaram-se 33.077 habitações, o que representa uma redução de 4,1%, divulgou hoje o Instituto Nacional de Estatística (INE)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 12:50:01",
+        "category": "ultimas"
+    },
+    {
+        "headline": "CPLP e televisão de Timor-Leste assinam acordo para difundir língua portuguesa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/cplp-e-televisao-de-timor-leste-assinam-acordo-para-difundir-lingua-portuguesa_n1580783",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Comunidade dos Países de Língua Portuguesa (CPLP) e a Rádio e Televisão de Timor-Leste (RTTL) assinaram hoje um acordo para difusão da língua portuguesa, divulgação de atividades institucionais da comunidade no território timorense e formação de quadros. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 12:48:58",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Operação Influencer. Proibição do TIC reduz lista de suspeitos de fuga de informação",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/operacao-influencer-proibicao-do-tic-reduz-lista-de-suspeitos-de-fuga-de-informacao_a1580791",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os arguidos da Operação Influencer estiveram cinco meses sem poder aceder ao processo. Só no final de maio é que o Tribunal Central de Instrução Criminal decidiu que os advogados podiam consultar o material recolhido nas buscas.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/6a/6a617886bdfe6a1c5dc38da86859386f?w=350&amp;q=50&amp;rect=0,338,5700,3125&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 12:47:40",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Advogado afirma que Nuno Rebelo de Sousa \"nunca disse que não ia ao Parlamento\" mas silêncio mantém-se",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/advogado-afirma-que-nuno-rebelo-de-sousa-nunca-disse-que-nao-ia-ao-parlamento-mas-silencio-mantem-se_n1580784",
+        "content": [
+            {
+                "type": "text",
+                "data": "Nuno Rebelo de Sousa “nunca disse que não ia à audição parlamentar” sobre o caso das gémeas luso-brasileiras tratadas no Hospital de Santa Maria e “está também disponível” para “ser ouvido por outros meios”. Quem o afirma, em resposta enviada esta sexta-feira à RTP, é o advogado Rui Patrício. Ainda assim, afiança o representante do filho do presidente da República, será exercido o “básico direito constitucional ao silêncio”.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/f9/f9d887ae50de620cd5fc527a7fc18a24?w=350&amp;q=50&amp;rect=0,25,1024,561&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 12:32:58",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Euro2024. Tiago Martins será VAR no Escócia-Hungria",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/euro2024-tiago-martins-sera-var-no-escocia-hungria_d1580785",
+        "content": [
+            {
+                "type": "text",
+                "data": "O árbitro português Tiago Martins vai estar, no domingo, no videoárbitro (VAR) do jogo entre a Escócia e a Hungria, do Grupo A do Euro2024 de futebol, que será dirigido pelo argentino Facundo Tello, anunciou a UEFA."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b8/b82c56cb3e11ee6cd6861c7c1b756bb0?w=350&amp;q=50&amp;rect=0,41,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 12:32:50",
+        "category": "ultimas"
+    },
+    {
+        "headline": "11h Ministra da Justiça preocupada com divulgação de escutas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/11h-ministra-da-justica-preocupada-com-divulgacao-de-escutas_a1_1580782",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 12:23:02",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Sudão. União Africana deve trabalhar com ONU no envio de missão para proteger civis",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/sudao-uniao-africana-deve-trabalhar-com-onu-no-envio-de-missao-para-proteger-civis_n1580781",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Human Rights Watch (HRW) defendeu hoje que a União Africana (UA) deve trabalhar com a ONU para enviar &quot;uma missão de proteção civil&quot; ao Sudão."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 12:19:52",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Moçambique espera forte queda no acesso a recursos externos a partir de 2025",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/mocambique-espera-forte-queda-no-acesso-a-recursos-externos-a-partir-de-2025_n1580777",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Governo moçambicano prevê uma forte queda no acesso a recursos externos no período de 2025 a 2027, equivalente a apenas 4,9% do Produto Interno Bruto (PIB) no próximo ano, contra os 9% esperados para 2024."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 12:00:31",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Corpo a corpo. Forças israelitas intensificam combates na Faixa de Gaza",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/corpo-a-corpo-forcas-israelitas-intensificam-combates-na-faixa-de-gaza_n1580772",
+        "content": [
+            {
+                "type": "text",
+                "data": "As forças israelitas bombardearam Rafah e outras áreas da Faixa de Gaza e envolveram-se em combates corpo a corpo com homens do movimento radical palestiniano Hamas. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/93/931fe305f6890f393c1d78d34b299a72?w=350&amp;q=50&amp;rect=0,110,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 11:57:45",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Natação Europeus. Luísa Arco falha final de prancha a três metros",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/natacao-europeus-luisa-arco-falha-final-de-prancha-a-tres-metros_d1580775",
+        "content": [
+            {
+                "type": "text",
+                "data": "A portuguesa Luísa Fragoeiro Arco falhou o apuramento para a final de prancha a três metros dos Europeus aquáticos, repetindo o 14.º lugar que tinha alcançado na plataforma a 10 metros."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/33/33e454ef54a5bb2eeee868b9bb30582c?w=350&amp;q=50&amp;rect=0,0,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 11:39:59",
+        "category": "ultimas"
+    }
+]

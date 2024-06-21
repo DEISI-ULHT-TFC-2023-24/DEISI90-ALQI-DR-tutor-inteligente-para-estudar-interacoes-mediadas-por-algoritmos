@@ -84,6 +84,10 @@ def import_json_thread_response(json_data):
             content_data4 = {
                 'content_id': content_id,
                 'content_title': news_item['content_title'],
+                'sentiment_valence': news_item['thread_details']['sentiment_valence'],
+                'style': news_item['thread_details']['style'],
+                'tone': news_item['thread_details']['tone'],
+                'keyword': news_item['thread_details']['keyword']
             }
 
             thread_instance, created = Thread.objects.update_or_create(
@@ -122,7 +126,7 @@ def import_news_options(snippet_id):
     options = {
         'snippet_id': snippet_id,
         'option_default': ["Mostrar Mais", "Outra Coisa", "Voltar"],
-        'option_added': ["😀"]
+        'option_added': [""]
     }
 
     # Create or update the Option instance

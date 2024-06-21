@@ -1,4 +1,3 @@
-import pprint
 import random
 import subprocess
 from time import sleep
@@ -9,6 +8,10 @@ from django.shortcuts import render, redirect
 from django.urls import reverse
 from django.views.decorators.csrf import csrf_exempt
 from django.views.decorators.http import require_POST
+from rest_framework.views import APIView
+from rest_framework.response import Response
+from rest_framework import status
+from .serializers import SourceSerializer
 
 from news.static.dbController import importJson as ij
 from thread_handler.content_text_to_query import load_json_file as lj
@@ -82,16 +85,23 @@ def news_detail(request, news_id):
     random_content = random.choice(Content.objects.all())
     random_content_id = random_content.content_id
 
-    snippets = Snippet.objects.filter(thread_id=thread_news[0].thread_id)
-    snippet_options = {snippet.snippet_id: Option.objects.filter(snippet_id=snippet.snippet_id) for snippet in snippets}
-
-    context = {
-        "random_content_id": random_content_id,
-        "snippets": snippets if snippets else None,
-        "snippet_options": snippet_options if snippet_options else None,
-        "obj": obj,
-        #"comments": comments,
-    }
+    if thread_news:
+        snippets = Snippet.objects.filter(thread_id=thread_news[0].thread_id)
+        snippet_options = {snippet.snippet_id: Option.objects.filter(snippet_id=snippet.snippet_id) for snippet in
+                           snippets}
+        context = {
+            "random_content_id": random_content_id,
+            "snippets": snippets if snippets else None,
+            "snippet_options": snippet_options if snippet_options else None,
+            "obj": obj,
+        }
+    else:
+        context = {
+            "random_content_id": random_content_id,
+            "snippets": None,
+            "snippet_options": None,
+            "obj": obj,
+        }
 
     return render(request, "content.html", context)
 
@@ -161,15 +171,15 @@ def execute_python_script(request):
             lj("data_scrapping/RTP/ultimas.json".format(cat=x))
 
         """
-            subprocess.run(["python", "data_scrapping/Noticias_ao_Minuto/NM_RSS_to_json.py"])
-            list_possibilities = ["ultimas", "politica", "pais", "mundo", "tech", "auto", "desporto", "economia", "cultura"]
-    
-            for x in list_possibilities:
-                ij.import_json_data_NM("data_scrapping/Noticias_ao_Minuto/{cat}.json".format(cat=x))
-                lj("data_scrapping/Noticias_ao_Minuto/{cat}.json".format(cat=x))
-    
-            subprocess.run(["python", "data_scrapping/sapoApi/sapo_api_to_json.py"])
-            ij.import_json_data_sapo("data_scrapping/sapoApi/ultimas.json")
+        subprocess.run(["python", "data_scrapping/Noticias_ao_Minuto/NM_RSS_to_json.py"])
+        list_possibilities = ["ultimas", "politica", "pais", "mundo", "tech", "auto", "desporto", "economia", "cultura"]
+
+        for x in list_possibilities:
+            ij.import_json_data_NM("data_scrapping/Noticias_ao_Minuto/{cat}.json".format(cat=x))
+            lj("data_scrapping/Noticias_ao_Minuto/{cat}.json".format(cat=x))
+
+        subprocess.run(["python", "data_scrapping/sapoApi/sapo_api_to_json.py"])
+        ij.import_json_data_sapo("data_scrapping/sapoApi/ultimas.json")
         """
 
         ij.import_json_thread_response("thread_handler/thread_responses.json")
@@ -183,3 +193,10 @@ def get_content_id(content_headline):
     obj = Content.objects.all()
     x = obj.filter(content_headline=content_headline).first()
     return x
+
+
+class Export_news(APIView):
+    def get(self, request):
+        news_sources = Source.objects.all()
+        serializer = SourceSerializer(news_sources, many=True)
+        return Response(serializer.data, status=status.HTTP_200_OK)

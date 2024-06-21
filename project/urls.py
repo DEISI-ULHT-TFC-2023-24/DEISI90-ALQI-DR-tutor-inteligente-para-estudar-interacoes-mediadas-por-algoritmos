@@ -16,7 +16,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from news.views import index, news_detail, execute_python_script, random_news, save_emoji
+from news.views import index, news_detail, execute_python_script, random_news, save_emoji, Export_news
 import news
 
 urlpatterns = [
@@ -26,4 +26,5 @@ urlpatterns = [
     path("<int:news_id>/", news_detail, name="news_detail"),
     path("random_news/", random_news, name="random_news"),
     path("save_emoji/", save_emoji, name="save_emoji"),
+    path("export_news/", Export_news.as_view(), name="export_news"),
 ]

@@ -246,6 +246,14 @@
                     </ul>
                 </div>
                 <div class="filter-block" style="margin-left: 7%; margin-top: 20%">
+                    <button onclick="window.location.href='{% url 'export_news' %}'"
+                            style="color: #e7e8e9; background-color: transparent; font-size: 1.5em">
+                        <img src="{% static 'images/shuffle.png' %}" alt="Random"
+                             style="height: 30px; width: 30px; margin-right: 8px; vertical-align: middle;">
+                        Exportar dados
+                    </button>
+                </div>
+                <div class="filter-block" style="margin-left: 7%">
                     <button onclick="window.location.href='{% url 'news_detail' random_content_id %}'"
                             style="color: #e7e8e9; background-color: transparent; font-size: 1.5em">
                         <img src="{% static 'images/shuffle.png' %}" alt="Random"

@@ -7,4 +7,6 @@ langchain
 langchain-community
 duckduckgo-search
 django-macros
-django-emoji
+django-emoji~=2.2.2
+djangorestframework~=3.14.0
+bs4~=0.0.2
