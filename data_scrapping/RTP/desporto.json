@@ -3976,5 +3976,73 @@
         ],
         "published": "2024-06-21 11:39:59",
         "category": "desporto"
+    },
+    {
+        "headline": "Ciclismo. Tiago Ferreira bateu recorde mundial em BTT",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/ciclismo-tiago-ferreira-bateu-recorde-mundial-em-btt_v1580835",
+        "content": [
+            {
+                "type": "text",
+                "data": "Há um português com um recorde mundial no ciclismo. Tiago Ferreira cumpriu a maior distância percorrida numa bicicleta de BTT em 24 horas."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/1a/1a9e2a414403aac2550278043211fcfb_N.jpg?"
+            }
+        ],
+        "published": "2024-06-21 14:54:46",
+        "category": "desporto"
+    },
+    {
+        "headline": "Euro2024. Eslováquia - Ucrânia, acompanhe em direto",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/euro2024-eslovaquia-ucrania-acompanhe-em-direto_e1580825",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Eslováquia surpreendeu na primeira ronda vencendo a Bélgica, e agora está a um passo do apuramento, caso vença hoje a Ucrânia, que perdeu frente à Roménia. No Arena de Dusseldorf pode haver decisões neste Grupo E.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/52/528c5f17f04085dd8bcbb7d1be0a1890?w=350&amp;q=50&amp;rect=0,86,1181,647&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 14:45:01",
+        "category": "desporto"
+    },
+    {
+        "headline": "Diogo Jota destaca a importância da primeira reviravolta na era de Roberto Martinez",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/diogo-jota-destaca-a-importancia-da-primeira-reviravolta-na-era-de-roberto-martinez_v1580816",
+        "content": [
+            {
+                "type": "text",
+                "data": "Diogo Jota quer fechar já o apuramento para os oitavos de final do Campeonato da Europa para a seleção não andar depois de calculadora na mão."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/2c/2c1ca798b20f0eff771aed64beb4b2ba_N.jpg?"
+            }
+        ],
+        "published": "2024-06-21 14:22:46",
+        "category": "desporto"
+    },
+    {
+        "headline": "Vitória estreia-se fora na Liga Conferência Europa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/vitoria-estreia-se-fora-na-liga-conferencia-europa_d1580813",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Vitória de Guimarães vai-se estrear na edição 2024/25 da Liga Conferência Europa de futebol a jogar fora e não em casa, face a um dos regulamentos da UEFA em vigor, informou o clube vimaranense, no sítio oficial."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/66/6659d9651a96309c7c1dbd062e86fe34?w=350&amp;q=50&amp;rect=0,46,775,425&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 14:11:47",
+        "category": "desporto"
     }
 ]

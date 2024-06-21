@@ -25,8 +25,8 @@ class ThreadSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Thread
-        fields = ['thread_id', 'content_title', 'type', 'sentiment_valence', 'sentiment_arousal', 'style', 'tone',
-                  'news_snippet']
+        fields = ['thread_id', 'content_title', 'sentiment_valence', 'sentiment_arousal', 'style', 'tone',
+                  'keyword', 'news_snippet']
 
     def get_news_snippet(self, obj):
         snippets = Snippet.objects.filter(thread_id=obj.thread_id)

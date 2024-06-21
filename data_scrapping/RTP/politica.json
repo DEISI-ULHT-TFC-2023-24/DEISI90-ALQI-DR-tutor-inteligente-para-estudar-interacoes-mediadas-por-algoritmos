@@ -4316,5 +4316,73 @@
         ],
         "published": "2024-06-21 12:32:58",
         "category": "politica"
+    },
+    {
+        "headline": "Montenegro não comenta medidas anticorrupção",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/montenegro-nao-comenta-medidas-anticorrupcao_v1580837",
+        "content": [
+            {
+                "type": "text",
+                "data": "O primeiro-ministro recusou-se a falar sobre as medidas de combate à corrupção apresentadas ontem e sobre as escutas divulgadas da Operação Influencer. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/52/524582d56acf114531e2084cb688da89_N.jpg?"
+            }
+        ],
+        "published": "2024-06-21 15:01:46",
+        "category": "politica"
+    },
+    {
+        "headline": "Governo defende reflexão sobre recurso às escutas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/governo-defende-reflexao-sobre-recurso-as-escutas_v1580820",
+        "content": [
+            {
+                "type": "text",
+                "data": "A ministra da Justiça defende uma reflexão sobre o recurso às escutas telefónicas. Numa entrevista à Antena 1, Rita Júdice admite estar preocupada com a violação do segredo de justiça e reconhece que é preciso agir. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/5e/5e43ded3d7dfca931269a41d7d613fe7_N.jpg?"
+            }
+        ],
+        "published": "2024-06-21 14:30:47",
+        "category": "politica"
+    },
+    {
+        "headline": "Filho de Marcelo disponível para o Parlamento sem quebrar silêncio",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/filho-de-marcelo-disponivel-para-o-parlamento-sem-quebrar-silencio_v1580814",
+        "content": [
+            {
+                "type": "text",
+                "data": "O filho do presidente da República está disponível para ser ouvido pela comissão de inquérito parlamentar ao caso das gémeas. Esta disponibilidade foi manifestada pelo advogado de Nuno Rebelo de Sousa. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/46/46536d7af6349542a9479d2b0e9249a0_N.jpg?"
+            }
+        ],
+        "published": "2024-06-21 14:14:46",
+        "category": "politica"
+    },
+    {
+        "headline": "Caso das gémeas. Aprovada proposta do Chega para ouvir António Costa",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/politica/caso-das-gemeas-aprovada-proposta-do-chega-para-ouvir-antonio-costa_n1580849",
+        "content": [
+            {
+                "type": "text",
+                "data": "PSD, IL e CDS-PP aprovaram esta sexta-feira um requerimento do Chega tendo em vista a audição do ex-primeiro-ministro António Costa em sede de comissão parlamentar de inquérito ao caso das gémeas luso-brasileiras tratadas com o medicamento Zolgensma em Santa Maria.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/07/07be2188a185d97cd7d227e7a266adf6?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 15:55:59",
+        "category": "politica"
     }
 ]

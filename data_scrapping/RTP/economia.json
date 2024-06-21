@@ -3687,5 +3687,175 @@
         ],
         "published": "2024-06-21 12:00:31",
         "category": "economia"
+    },
+    {
+        "headline": "Centro de produção do Norte da RTP vai ter central fotovoltaica",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/centro-de-producao-do-norte-da-rtp-vai-ter-central-fotovoltaica_v1580841",
+        "content": [
+            {
+                "type": "text",
+                "data": "A RTP e a EDP assinaram um contrato para a construção de uma central fotovoltaica no centro de produção do Norte, em Vila Nova de Gaia. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/b4/b4fc47b4739423fb84f9a7ea95f49cd8_N.jpg?"
+            }
+        ],
+        "published": "2024-06-21 15:18:46",
+        "category": "economia"
+    },
+    {
+        "headline": "Viticultores do Douro tentam arranjar compradores para a uva antes da vindima",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/viticultores-do-douro-tentam-arranjar-compradores-para-a-uva-antes-da-vindima_n1580839",
+        "content": [
+            {
+                "type": "text",
+                "data": "A viticultora Teresa Barbosa ficou &quot;sem chão&quot; em 2023 quando confrontada com uma dificuldade inesperada de escoar a produção e, por isso, idealizou realizar a primeira Mostra da Uva do Douro para agilizar a comercialização. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 15:17:26",
+        "category": "economia"
+    },
+    {
+        "headline": "Banco de Portugal espera menos fraude com transferências usando n.º de telemóvel",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/banco-de-portugal-espera-menos-fraude-com-transferencias-usando-no-de-telemovel_n1580836",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Banco de Portugal considera que a fraude deverá diminuir com a funcionalidade que, a partir de segunda-feira, vai permitir fazer transferências colocando apenas o número de telemóvel do beneficiário. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 15:17:06",
+        "category": "economia"
+    },
+    {
+        "headline": "Estudo prevê escalada do preço da água no mundo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/estudo-preve-escalada-do-preco-da-agua-no-mundo_v1580834",
+        "content": [
+            {
+                "type": "text",
+                "data": "Um estudo revela que o preço da água no mundo vai mesmo ficar mais caro. O relatório concluiu que, para as cidades continuarem a consumir a mesma quantidade de água, o preço terá de aumentar quase 26 por cento em seis anos.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/84/84112ff505eaf9d1ca86c0ad6b52c747?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 14:50:46",
+        "category": "economia"
+    },
+    {
+        "headline": "Portugal quer agilizar vistos e destaca que mobilidade com Angola é prioritária",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/portugal-quer-agilizar-vistos-e-destaca-que-mobilidade-com-angola-e-prioritaria_n1580832",
+        "content": [
+            {
+                "type": "text",
+                "data": "O ministro dos Negócios Estrangeiros disse hoje que a mobilidade entre cidadãos angolanos e portugueses é prioritária e que Portugal quer agilizar o processamento dos vistos, enviando 45 especialistas para postos consulares identificados como prioritários."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 14:49:25",
+        "category": "economia"
+    },
+    {
+        "headline": "Liga de clubes apresenta orçamento recorde de 31,5 milhões de euros para 2024/25",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/liga-de-clubes-apresenta-orcamento-recorde-de-315-milhoes-de-euros-para-202425_n1580830",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Liga Portuguesa de Futebol Profissional (LPFP) apresentou hoje o Plano de Atividades e Orçamento para época 2024/25 com um valor recorde de 31,5 milhões de euros (ME) de receitas, prevendo um resultado positivo de 1,1 ME."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 14:48:04",
+        "category": "economia"
+    },
+    {
+        "headline": "SPIN facilita e torna transferências mais seguras",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/spin-facilita-e-torna-transferencias-mais-seguras_v1580828",
+        "content": [
+            {
+                "type": "text",
+                "data": "Vai ser mais fácil e mais seguro transferir dinheiro, a partir da próxima segunda-feira, com o SPIN, a nova ferramenta de transferências através do número de telemóvel. Foi criada pelo Banco de Portugal."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/b4/b4ce9989cc395012d7ec0340a3688481?w=350&amp;q=50&amp;rect=0,164,1391,763&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 14:43:46",
+        "category": "economia"
+    },
+    {
+        "headline": "Preços das casas não param de aumentar",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/precos-das-casas-nao-param-de-aumentar_v1580824",
+        "content": [
+            {
+                "type": "text",
+                "data": "Estão a vender-se menos casas, mas os preços não param de aumentar. No primeiro trimestre deste ano, subiram sete por cento, em relação aos primeiros três meses do ano passado.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/c3/c3d9835fddabc2b85a47d99ed9bb6f33?w=350&amp;q=50&amp;rect=0,88,1389,762&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 14:39:46",
+        "category": "economia"
+    },
+    {
+        "headline": "Preço dos combustíveis volta a aumentar na próxima semana",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/preco-dos-combustiveis-volta-a-aumentar-na-proxima-semana_v1580823",
+        "content": [
+            {
+                "type": "text",
+                "data": "O preço médio do gasóleo deverá aumentar três cêntimos. O da gasolina poderá subir menos - um cêntimo e meio por litro -, avançou à RTP fonte do setor.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/52/52e21bcfe4870aa758e907e4612bdb4a?w=350&amp;q=50&amp;rect=0,36,1236,678&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 14:38:46",
+        "category": "economia"
+    },
+    {
+        "headline": "Julgamento deve arrancar no dia 15 de outubro",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/julgamento-deve-arrancar-no-dia-15-de-outubro_n1580852",
+        "content": [
+            {
+                "type": "text",
+                "data": "O julgamento do caso BES/GES deve começar no dia 15 de outubro, assumiu hoje a juíza do processo, que avisou os advogados para libertarem a agenda nessa data."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 16:23:04",
+        "category": "economia"
     }
 ]

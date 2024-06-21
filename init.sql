@@ -70,11 +70,11 @@ DO $$ BEGIN
             thread_id SERIAL PRIMARY KEY,
             content_id INT,
             content_title TEXT,
-            "type" TEXT,
             sentiment_valence TEXT,
             sentiment_arousal TEXT,
             "style" TEXT,
             tone TEXT,
+            keyword text,
             FOREIGN KEY (content_id) REFERENCES news_content(content_id)
         );
     END IF;

@@ -81,13 +81,14 @@ def import_json_thread_response(json_data):
         content_id_obj = views.get_content_id(news_item['content_title'])
         if content_id_obj is not None:
             content_id = (views.get_content_id(news_item['content_title'])).content_id
+            thread_details = {detail['type']: detail['data'] for detail in news_item['thread_details']}
             content_data4 = {
                 'content_id': content_id,
                 'content_title': news_item['content_title'],
-                'sentiment_valence': news_item['thread_details']['sentiment_valence'],
-                'style': news_item['thread_details']['style'],
-                'tone': news_item['thread_details']['tone'],
-                'keyword': news_item['thread_details']['keyword']
+                'sentiment_valence': thread_details.get('sentiment_valence'),
+                'style': thread_details.get('style'),
+                'tone': thread_details.get('tone'),
+                'keyword': thread_details.get('keyword')
             }
 
             thread_instance, created = Thread.objects.update_or_create(

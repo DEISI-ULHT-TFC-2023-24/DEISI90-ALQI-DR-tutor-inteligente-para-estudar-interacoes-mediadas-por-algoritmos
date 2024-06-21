@@ -77,23 +77,24 @@ def ai_api_response(text):
     attribute_data = {
         "model": "llama3",
         "prompt": f"""
-        Assume the role of an expert NLP engineer. Your goal will be to process an input text and output only a list seperated by '\\n'. 
-        The first element of the list is the sentiment valence between zero and one, the second element is the sentiment arousal, the next 
-        element is a string that corresponds to the text style (the values can be formal or informal), the next value is an adjective that 
-        best describes the tone of the input text, the final value is a string that contains the main topic of the input text. Ensure that 
-        the output is only what I asked for, no comments are needed.
+                Assume the role of an expert NLP engineer. Your goal is to process the input text and output a list separated by '\\n'.
+                The first element of the list is the sentiment valence between zero and one, the second element is the sentiment arousal, the third
+                element is a string that corresponds to the text style (the values can be formal or informal), the fourth value is an adjective that 
+                best describes the tone of the input text, and the final value is a string that contains the main topic of the input text, so basically a keyword. Ensure that
+                the output is only what I asked for, with no additional comments.
 
-        IMPORTANT RULES:
-        1. The response text MUST BE written in European Portuguese.
-        2. Each element shall be named has such: $sentiment_valance\n$sentiment_arousal\n$style\n$tone\n$keyword
-        3. each element shall be seperated by a '\\n'
+                IMPORTANT RULES:
+                1. The response text MUST be written in European Portuguese.
+                2. Each element should be in the following order: sentiment_valence\nsentiment_arousal\nstyle\ntone\nkeyword
+                3. Each element should be separated by a '\\n'
+                4. Do not include a dollar sign ($) in the output.
+                5. Do not spell keyword in the output, but the output should be a keyword.
 
-        Example of response type ($ = variable, ex: $sentiment_valence=0.6, so don't output $sentiment_valence, outuput instead 0.6 don't put the '$0.6' just put '0.6'):
-        $sentiment_valance\n$sentiment_arousal\n$style\n$tone\n$keyword
+                Example of response format (this example can not influence your output, it is a mere example, your output should be souly based on the input text, marked has Input Text:):
+                0.6\n0.4\nformal\nhappy\ntechnology
 
-
-        Input Text: {text}
-        """,
+                Input Text: {text}
+                """,
         "options": {
             "temperature": 0,
             "tfs_z": 2.0,

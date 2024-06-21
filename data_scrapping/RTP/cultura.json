@@ -2582,5 +2582,73 @@
         ],
         "published": "2024-06-21 12:48:58",
         "category": "cultura"
+    },
+    {
+        "headline": "Concerto junta 120 artistas em Arcos de Valdevez",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/concerto-junta-120-artistas-em-arcos-de-valdevez_v1580847",
+        "content": [
+            {
+                "type": "text",
+                "data": "Tim, o vocalista dos Xutos e Pontapés está a ensaiar com mais 120 artistas de Arcos de Valdevez para um concerto que se realiza esta noite. O palco está montado junto ao rio Vez e vai receber artistas dos cinco aos oitenta anos. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/72/72c3edb8ec753fc2fb2ca70edfb23c25_N.jpg?"
+            }
+        ],
+        "published": "2024-06-21 15:32:46",
+        "category": "cultura"
+    },
+    {
+        "headline": "Portugal em destaque no Conecta Fiction em Toledo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/portugal-em-destaque-no-conecta-fiction-em-toledo_v1580840",
+        "content": [
+            {
+                "type": "text",
+                "data": "Portugal é um dos países em destaque na edição deste ano da feira de produção audiovisual que está a decorrer em Toledo.  Há cinco produções nacionais seleccionadas para as sessões de lançamento. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/47/4761fd1aa2cae821a3cef0e9facdaf15_N.jpg?"
+            }
+        ],
+        "published": "2024-06-21 15:15:46",
+        "category": "cultura"
+    },
+    {
+        "headline": "Endividamento da economia portuguesa aumentou em abril",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/endividamento-da-economia-portuguesa-aumentou-em-abril_v1580826",
+        "content": [
+            {
+                "type": "text",
+                "data": "O endividamento da economia portuguesa aumentou 700 milhões de euros em abril. A dívida acumulada pelo Estado, empresas e particulares ultrapassa os 800 mil milhões. Os números são do Banco de Portugal.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/2a/2a6ec580ec12b8e7cf0f580a69b543b8?w=350&amp;q=50&amp;rect=0,10,830,455&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 14:40:46",
+        "category": "cultura"
+    },
+    {
+        "headline": "Rock in Rio. Linhas Vermelha e Verde do metro de Lisboa abertas até às 02h30 no fim de semana",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/rock-in-rio-linhas-vermelha-e-verde-do-metro-de-lisboa-abertas-ate-as-02h30-no-fim-de-semana_n1580848",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Metropolitano de Lisboa vai prolongar a circulação nas Linhas Vermelha e Verde nas noites de sábado e domingo, até às 02:30, devido ao festival Rock in Rio 2024, anunciou a empresa.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 15:52:35",
+        "category": "cultura"
     }
 ]

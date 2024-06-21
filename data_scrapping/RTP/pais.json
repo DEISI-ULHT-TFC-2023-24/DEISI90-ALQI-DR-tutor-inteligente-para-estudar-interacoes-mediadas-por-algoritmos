@@ -3959,5 +3959,124 @@
         ],
         "published": "2024-06-21 01:24:46",
         "category": "pais"
+    },
+    {
+        "headline": "Reportagem da RTP sobre saúde oral premiada",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/reportagem-da-rtp-sobre-saude-oral-premiada_v1580842",
+        "content": [
+            {
+                "type": "text",
+                "data": "A RTP foi a vencedora do Prémio APOMED, atribuído pela Associação de Médicos Dentistas dos Serviços Públicos. Elegeu o trabalho jornalístico que mais contribuiu para a promoção, qualidade e divulgação na área da Saúde Oral.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/44/44234396b3a57ae178e7f60cfa224e51?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 15:21:46",
+        "category": "pais"
+    },
+    {
+        "headline": "Colapso no IC2. Três meses depois, as obras ainda não começaram",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/colapso-no-ic2-tres-meses-depois-as-obras-ainda-nao-comecaram_v1580838",
+        "content": [
+            {
+                "type": "text",
+                "data": "O IC2, em Águeda, está há mais de três meses à espera de obras. Um deslizamento de terras provocou o abatimento de um troço da estrada.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/f5/f589d33df2b85f1718b9d48efeb492e1?w=350&amp;q=50&amp;rect=1,0,1498,821&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 15:11:46",
+        "category": "pais"
+    },
+    {
+        "headline": "A Prova dos Factos. Segurança Social deixa documentos confidenciais expostos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/a-prova-dos-factos-seguranca-social-deixa-documentos-confidenciais-expostos_v1580821",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Segurança Social deixou milhares de documentos expostos na via pública com dados pessoais de cidadãos. Aconteceu em Barcelos. É uma contraordenação grave e pode configurar um crime de violação do dever de sigilo.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/77/7761ad72d7b15bafc2e0629af1edfc36?w=350&amp;q=50&amp;rect=0,12,1391,763&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 14:34:46",
+        "category": "pais"
+    },
+    {
+        "headline": "Ex-dirigentes afirmam que há falta de transparência na CGTP",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/ex-dirigentes-afirmam-que-ha-falta-de-transparencia-na-cgtp_v1580818",
+        "content": [
+            {
+                "type": "text",
+                "data": "Mais de 30 antigos dirigentes da CGTP garantem que há falta de democracia e transparência na Intersindical. Num manifesto, agora revelado, acusam também a estrutura de &quot;ausência de respostas&quot; a questões como &quot;a precariedade, os novos empregos e tipos de contrato ou plataformas&quot;.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/13/133088ed2125473ce9fb037731cb66e8?w=350&amp;q=50&amp;rect=0,164,1391,763&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 14:29:46",
+        "category": "pais"
+    },
+    {
+        "headline": "Transferir dinheiro vai ser mais seguro com sistema antifraude do BdP",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/transferir-dinheiro-vai-ser-mais-seguro-com-sistema-antifraude-do-bdp_a1580811",
+        "content": [
+            {
+                "type": "text",
+                "data": "Fraudes como a do “Olá pai, olá mãe”, tem os dias contados, com o sistema criado pelo Banco de Portugal para transferir dinheiro."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ad/ad8493e223aff8aba0da1b894bc25999?w=350&amp;q=50&amp;rect=0,11,1470,806&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 14:13:25",
+        "category": "pais"
+    },
+    {
+        "headline": "Chegou o SPIN para acabar com fraudes nas transferências bancárias",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/chegou-o-spin-para-acabar-com-fraudes-nas-transferencias-bancarias_a1580845",
+        "content": [
+            {
+                "type": "text",
+                "data": "A partir de segunda-feira, entra em vigor uma nova funcionalidade desenvolvida pelo Banco de Portugal que permite fazer transferências colocando apenas o número de telemóvel do beneficiário. Para além da simplificação de processos, o objetivo do SPIN é diminuir o número de fraudes do tipo &quot;Olá, mãe&quot; ou &quot;Olá, pai&quot;.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/1f/1f435761e4037cd851c403b417217167?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 15:39:02",
+        "category": "pais"
+    },
+    {
+        "headline": "Pastoral dos Ciganos alerta para marginalização no acesso à educação, saúde e habitação",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/pastoral-dos-ciganos-alerta-para-marginalizacao-no-acesso-a-educacao-saude-e-habitacao_n1580851",
+        "content": [
+            {
+                "type": "text",
+                "data": "O diretor da Pastoral Nacional dos Ciganos, Hélder Afonso, alertou hoje para a marginalização que a população cigana enfrenta &quot;em alguns locais&quot; de Portugal, especialmente no acesso à educação, saúde e habitação."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 16:22:45",
+        "category": "pais"
     }
 ]

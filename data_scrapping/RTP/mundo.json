@@ -5013,5 +5013,175 @@
         ],
         "published": "2024-06-21 11:57:45",
         "category": "mundo"
+    },
+    {
+        "headline": "Novo balanço de 11 mortos e dezenas de feridos em incêndio na Turquia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/novo-balanco-de-11-mortos-e-dezenas-de-feridos-em-incendio-na-turquia_n1580843",
+        "content": [
+            {
+                "type": "text",
+                "data": "Onze pessoas morreram e dezenas ficaram feridas num incêndio em vegetação que se propagou a várias aldeias do sudeste da Turquia na quinta-feira à noite, segundo um novo balanço divulgado hoje pelas autoridades turcas."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 15:36:39",
+        "category": "mundo"
+    },
+    {
+        "headline": "Austrália. Solstício de inverno reúne três mil nadadores nus",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/australia-solsticio-de-inverno-reune-tres-mil-nadadores-nus_n1580779",
+        "content": [
+            {
+                "type": "text",
+                "data": "Para assinalar o solstício de inverno no hemisfério sul, um número histórico de três mil nadadores, todos eles nus, mergulharam esta sexta-feira no rio Derwent, em Hobart, na Austrália. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/54/54874f12c3e5ff4ac07c4f55ba36eec2?w=350&amp;q=50&amp;rect=0,5,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 15:22:06",
+        "category": "mundo"
+    },
+    {
+        "headline": "Pelo menos 11 mortos em incêndio florestal na Turquia",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/pelo-menos-11-mortos-em-incendio-florestal-na-turquia_v1580833",
+        "content": [
+            {
+                "type": "text",
+                "data": "As chamas espalharam-se por várias aldeias no sudeste da Turquia. Além das vítimas mortais, há pelo menos 50 feridos, alguns em estado grave.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ec/ecd0f99dccba3572796ba52199a18c30?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 14:48:46",
+        "category": "mundo"
+    },
+    {
+        "headline": "Temporal no México provocou quatro mortos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/temporal-no-mexico-provocou-quatro-mortos_v1580831",
+        "content": [
+            {
+                "type": "text",
+                "data": "Uma das vítimas foi uma adolescente e duas eram crianças. A força da água de um rio fez ruir uma estrada. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/84/84940fb9e7116a29caaa89d056ba3e7a?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 14:47:47",
+        "category": "mundo"
+    },
+    {
+        "headline": "Ucrânia e Moldova saúdam início das negociações de adesão à UE",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/ucrania-e-moldova-saudam-inicio-das-negociacoes-de-adesao-a-ue_n1580827",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente ucraniano e a sua homóloga da Moldova saudaram hoje a abertura das negociações de adesão à União Europeia (UE), previstas para a próxima semana, e que iniciarão oficialmente o processo de integração dos dois países do leste europeu. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 14:47:39",
+        "category": "mundo"
+    },
+    {
+        "headline": "Hamas pede investigação sobre alegados casos de tortura de presos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/hamas-pede-investigacao-sobre-alegados-casos-de-tortura-de-presos_n1580819",
+        "content": [
+            {
+                "type": "text",
+                "data": "O grupo islamita palestiniano Hamas apelou na quinta-feira à noite à comunidade internacional para que investigue alegados casos de abuso e tortura de pessoas detidas em Gaza em prisões israelitas."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 14:46:58",
+        "category": "mundo"
+    },
+    {
+        "headline": "Ucrânia lança ataque em grande escala contra alvos russos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/ucrania-lanca-ataque-em-grande-escala-contra-alvos-russos_v1580829",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Ucrânia lançou um ataque em larga escala contra alvos militares no Mar Negro, na Crimeia e no sul da Rússia. Os drones atingiram quatro refinarias de petróleo, um aeródromo militar e vários locais de armazenamento e construção de drones.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/be/beedf855ea329edd1f5d6172f36b13f4?w=350&amp;q=50&amp;rect=0,164,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 14:45:46",
+        "category": "mundo"
+    },
+    {
+        "headline": "Gregos em alerta face a altas temperaturas e risco de incêndio",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/gregos-em-alerta-face-a-altas-temperaturas-e-risco-de-incendio_a1580810",
+        "content": [
+            {
+                "type": "text",
+                "data": "Na Grécia, as temperaturas elevadas fazem aumentar os receios de incêndios. Em Atenas, as autoridades declararam o estado de alerta.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/55/55ae29404ff03924d52d32ba3a956b2f?w=350&amp;q=50&amp;rect=0,61,1024,561&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 14:02:10",
+        "category": "mundo"
+    },
+    {
+        "headline": "China ameaça instaurar pena de morte para separatistas \"obstinados\" de Taiwan",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/china-ameaca-instaurar-pena-de-morte-para-separatistas-obstinados-de-taiwan_n1580795",
+        "content": [
+            {
+                "type": "text",
+                "data": "A China ameaçou esta sexta-feira impor a pena de morte em casos extremos para separatistas &quot;obstinados&quot; da independência de Taiwan. É um aumento da pressão, apesar de os tribunais chineses não terem jurisdição sobre a ilha democraticamente governada."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/51/5120396c3079d6faa54c1d72b8b731eb?w=350&amp;q=50&amp;rect=0,68,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 14:00:48",
+        "category": "mundo"
+    },
+    {
+        "headline": "Bruxelas quer reduzir o número de cancros evitáveis através da vacinação",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/mundo/bruxelas-quer-reduzir-o-numero-de-cancros-evitaveis-atraves-da-vacinacao_a1580846",
+        "content": [
+            {
+                "type": "text",
+                "data": "Reunidos no Luxemburgo, os ministros da Saúde da União Europeia aprovaram uma recomendação para que os Estados-membros aumentem a cobertura de vacinação contra o papilomavírus humano e o vírus da hepatite B.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/55/557e0f113fe6f8d3fc0a545d0c6670e6?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 15:43:58",
+        "category": "mundo"
     }
 ]
