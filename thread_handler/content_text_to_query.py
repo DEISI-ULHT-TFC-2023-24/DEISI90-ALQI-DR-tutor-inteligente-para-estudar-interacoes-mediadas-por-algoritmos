@@ -106,6 +106,7 @@ def ai_api_response(text):
     headers = {'Content-Type': 'application/json'}
     conversational_response = requests.post(url, data=json.dumps(conversational_data), headers=headers)
     attribute_response = requests.post(url, data=json.dumps(attribute_data), headers=headers)
+    print("1")
 
     return {
         "conversational_response": extract_response_parts(conversational_response.text),

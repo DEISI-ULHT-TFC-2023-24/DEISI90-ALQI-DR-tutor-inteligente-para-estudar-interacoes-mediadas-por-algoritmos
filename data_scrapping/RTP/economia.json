@@ -3857,5 +3857,889 @@
         ],
         "published": "2024-06-21 16:23:04",
         "category": "economia"
+    },
+    {
+        "headline": "Presidente da CIM Douro preocupado com a próxima vindima na região",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/presidente-da-cim-douro-preocupado-com-a-proxima-vindima-na-regiao_n1582163",
+        "content": [
+            {
+                "type": "text",
+                "data": "O presidente da Comunidade Intermunicipal do Douro (CIM Douro) revelou hoje estar preocupado com a próxima vindima na região e defendeu uma planificação mais antecipada do negócio, nomeadamente do volume de vinho do Porto a produzir."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-27 15:22:02",
+        "category": "economia"
+    },
+    {
+        "headline": "Crescimento do PIB dos EUA no 1º trimestre revisto em alta para 1,4%",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/crescimento-do-pib-dos-eua-no-1o-trimestre-revisto-em-alta-para-14_n1582157",
+        "content": [
+            {
+                "type": "text",
+                "data": "A economia norte-americana cresceu 1,4%, a uma taxa anualizada, no primeiro trimestre deste ano, confirmou hoje o executivo dos EUA. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-27 14:55:30",
+        "category": "economia"
+    },
+    {
+        "headline": "Energias renováveis foram a principal fonte de eletricidade na UE em 2023",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/energias-renovaveis-foram-a-principal-fonte-de-eletricidade-na-ue-em-2023_n1582145",
+        "content": [
+            {
+                "type": "text",
+                "data": "As energias renováveis foram a principal fonte de eletricidade na União Europeia (UE) em 2023, ao gerarem 1,21 milhões de Gigawatt-hora (GWh), mais 12,4% que em 2022 e representando 44,7% de toda a produção de eletricidade, foi hoje anunciado. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-27 14:36:20",
+        "category": "economia"
+    },
+    {
+        "headline": "Depósitos de particulares crescem em maio para valor mais alto desde dezembro de 2022",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/depositos-de-particulares-crescem-em-maio-para-valor-mais-alto-desde-dezembro-de-2022_n1582124",
+        "content": [
+            {
+                "type": "text",
+                "data": "O `stock` de depósitos de particulares subiu 6,1% em maio, em termos homólogos, para 184.299 milhões de euros, atingindo o valor e a variação mais altos desde dezembro e outubro de 2022, respetivamente, anunciou hoje o BdP."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-27 13:59:01",
+        "category": "economia"
+    },
+    {
+        "headline": "Indicador `flash` de Confiança dos Consumidores sobe na UE e na zona euro em junho",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/indicador-flash-de-confianca-dos-consumidores-sobe-na-ue-e-na-zona-euro-em-junho_n1582111",
+        "content": [
+            {
+                "type": "text",
+                "data": "A estimativa provisória do indicador de confiança dos consumidores voltou a subir, em 0,3 pontos percentuais, tanto na União Europeia (UE) como na zona euro, anunciou hoje o Eurostat. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-27 12:37:49",
+        "category": "economia"
+    },
+    {
+        "headline": "Renda mediana de novos contratos com aumento homólogo de 10,5% no 1.º trimestre",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/renda-mediana-de-novos-contratos-com-aumento-homologo-de-105-no-1o-trimestre_n1582107",
+        "content": [
+            {
+                "type": "text",
+                "data": "A renda mediana dos novos contratos de arrendamento de habitação registou um aumento homólogo de 10,5% no primeiro trimestre, para 7,46 euros por metro quadrado, desacelerando face à subida de 11,6% do trimestre anterior, divulgou hoje o INE. \r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-27 12:36:58",
+        "category": "economia"
+    },
+    {
+        "headline": "CP espera perturbações na circulação com greve a partir de hoje",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/cp-espera-perturbacoes-na-circulacao-com-greve-a-partir-de-hoje_n1582101",
+        "content": [
+            {
+                "type": "text",
+                "data": "A CP - Comboios de Portugal alertou hoje que são esperadas perturbações na circulação, em especial até sábado, devido à greve convocada por vários sindicatos, mas para a qual foram definidos serviços mínimos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/c9/c9efbd43cc0d9979c72e7a1eb03d2d8c?w=350&amp;q=50&amp;rect=0,27,1920,1053&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-27 11:44:47",
+        "category": "economia"
+    },
+    {
+        "headline": "EDP vende desvio tarifário em Portugal por 100 ME",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/edp-vende-desvio-tarifario-em-portugal-por-100-me_n1582094",
+        "content": [
+            {
+                "type": "text",
+                "data": "A SU Eletricidade, comercializadora de último recurso (CUR) do sistema elétrico português e integralmente detida pela EDP, acordou a venda por 100 milhões de euros do desvio tarifário."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d2/d2a59fc250cd96a5b6303ba5b2250ad2?w=350&amp;q=50&amp;rect=79,0,821,450&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-27 11:33:43",
+        "category": "economia"
+    },
+    {
+        "headline": "Literacia financeira dos alunos portugueses está em linha com a OCDE",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/literacia-financeira-dos-alunos-portugueses-esta-em-linha-com-a-ocde_n1582089",
+        "content": [
+            {
+                "type": "text",
+                "data": "A literacia financeira dos alunos em Portugal está em linha com a média da OCDE, mas os jovens portugueses, apesar de terem menos contacto com produtos e atividades financeiras digitais, destacam-se quando toca a comparar preços."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-27 11:14:09",
+        "category": "economia"
+    },
+    {
+        "headline": "Confiança dos consumidores sobe e clima económico recua em junho",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/confianca-dos-consumidores-sobe-e-clima-economico-recua-em-junho_n1582087",
+        "content": [
+            {
+                "type": "text",
+                "data": "O indicador de confiança dos consumidores aumentou em junho para o valor mais alto desde fevereiro de 2022, enquanto o indicador de clima económico diminuiu, anunciou hoje o Instituto Nacional de Estatística (INE).                  "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-27 11:00:06",
+        "category": "economia"
+    },
+    {
+        "headline": "PC Chinês realiza sessão plenária sobre política económica em meados de julho",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/pc-chines-realiza-sessao-plenaria-sobre-politica-economica-em-meados-de-julho_n1582060",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Partido Comunista Chinês (PCC) anunciou hoje que a terceira sessão plenária do 20.º Comité Central, reunião que tradicionalmente define a orientação da política económica da China, vai decorrer em meados de julho."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-27 09:40:20",
+        "category": "economia"
+    },
+    {
+        "headline": "Bolsa de Lisboa abre a subir 0,04%",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/bolsa-de-lisboa-abre-a-subir-004_n1582058",
+        "content": [
+            {
+                "type": "text",
+                "data": "A bolsa de Lisboa abriu hoje em alta, com o principal índice(PSI) a subir 0,04% para 6.548,32 pontos, depois de ter encerrado a última sessão em terreno negativo."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-27 09:08:44",
+        "category": "economia"
+    },
+    {
+        "headline": "IGAI aponta irregularidades ao espaço do aeroporto de Lisboa para estrangeiros",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/igai-aponta-irregularidades-ao-espaco-do-aeroporto-de-lisboa-para-estrangeiros_n1582048",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Inspeção-geral da Administração Interna apontou irregularidades ao espaço de acolhimento de estrangeiros no aeroporto de Lisboa e recomendou à PSP que avalie o sistema de videovigilância e encontre uma solução para os cidadãos alojados por períodos longos.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/3e/3ea737589be3c3b2cdc37df574d45684?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-27 07:59:12",
+        "category": "economia"
+    },
+    {
+        "headline": "Amazon atinge 2 biliões em valor de mercado de ações",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/amazon-atinge-2-bilioes-em-valor-de-mercado-de-acoes_n1582027",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Amazon juntou-se ao clube exclusivo dos 2 biliões (milhão de milhões) de dólares, depois dos investidores de Wall Street terem &quot;empurrado&quot; o valor das ações da gigante do comércio eletrónico para lá desse limite pela primeira vez."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/8f/8f9e4344d965842212c56353a3919b4f?w=350&amp;q=50&amp;rect=19,0,675,370&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-27 04:13:43",
+        "category": "economia"
+    },
+    {
+        "headline": "Huthis e milícias iraquianas reivindicam novo ataque conjunto em Israel",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/huthis-e-milicias-iraquianas-reivindicam-novo-ataque-conjunto-em-israel_n1582013",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os rebeldes Huthis do Iémen reivindicaram hoje o lançamento de `drones` contra um navio no porto da cidade mediterrânica de Haifa, no norte de Israel, em novo ataque coordenado com a coligação de milícias pró-iranianas no Iraque, Resistência Islâmica. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-27 01:16:45",
+        "category": "economia"
+    },
+    {
+        "headline": "Movimento Ibérico satisfeito com anúncio do encerramento da central nuclear",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/movimento-iberico-satisfeito-com-anuncio-do-encerramento-da-central-nuclear_n1582011",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Movimento Antinuclear Ibérico (MIA) manifestou hoje a sua satisfação com o anúncio do encerramento da central nuclear espanhola de Almaraz anunciada pela empresa pública espanhola ENRESA, responsável pela gestão de resíduos radioativos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-27 01:16:18",
+        "category": "economia"
+    },
+    {
+        "headline": "Espanha anuncia início de processo de desmantelamento da central nuclear de Almaraz",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/espanha-anuncia-inicio-de-processo-de-desmantelamento-da-central-nuclear-de-almaraz_n1582009",
+        "content": [
+            {
+                "type": "text",
+                "data": "A empresa pública espanhola Enresa, responsável pela gestão dos resíduos radioativos anunciou o início do processo de concurso para serviços de engenharia destinados ao desmantelamento da central nuclear de Almaraz, situada na província de Cáceres."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-27 01:15:07",
+        "category": "economia"
+    },
+    {
+        "headline": "Dívida do Estado agrava-se 1,4% para 290.847 milhões de euros em maio",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/divida-do-estado-agrava-se-14-para-290847-milhoes-de-euros-em-maio_n1581944",
+        "content": [
+            {
+                "type": "text",
+                "data": "A dívida do Estado atingiu 290.847 milhões de euros no final de maio, um acréscimo de 1,4% em relação ao mês anterior, sobretudo, devido ao aumento do saldo de obrigações de tesouro, indicou hoje o IGCP. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 22:24:50",
+        "category": "economia"
+    },
+    {
+        "headline": "Ministro da Presidência fala de migrantes à espera de decisões há sete anos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/ministro-da-presidencia-fala-de-migrantes-a-espera-de-decisoes-ha-sete-anos_v1581985",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os vistos e autorizações de residência em Portugal vão ser prorrogados mais um ano, como aconteceu na pandemia. O ministro da Presidência  revelou que há migrantes à espera de decisões dos serviços há mais de sete anos. será por isso criada uma estrutura com 300 pessoas para tentar resolver o problema. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/e6/e63f87af8de4f047bc28392e9a31623e_N.jpg?"
+            }
+        ],
+        "published": "2024-06-26 21:51:46",
+        "category": "economia"
+    },
+    {
+        "headline": "Montenegro responsabiliza PS e Chega por eventual derrapagem das contas públicas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/montenegro-responsabiliza-ps-e-chega-por-eventual-derrapagem-das-contas-publicas_a1581963",
+        "content": [
+            {
+                "type": "text",
+                "data": "PSD e Partido Socialista dizem-se disponíveis para avançarem para uma reforma da Justiça. O primeiro-ministro esteve esta tarde na Assembleia da República a responder às perguntas dos deputados."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/e0/e0258f94900ce70502a815986a41a797?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 20:24:17",
+        "category": "economia"
+    },
+    {
+        "headline": "Direções de Informação reagem a bloqueio russo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/direcoes-de-informacao-reagem-a-bloqueio-russo_n1581965",
+        "content": [
+            {
+                "type": "text",
+                "data": "As direções de Informação de RTP, Expresso, Público e Observador reagiram esta tarde em comunicado conjunto à decisão de Moscovo de bloquear os quatro órgãos de comunicação como retaliação à proibição na Europa de alguns media russos, considerando que se trata de uma manobra contra a liberdade de informação.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/98/98f002cbbfdab502cdf1ec136ddc65f2?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 20:19:30",
+        "category": "economia"
+    },
+    {
+        "headline": "Governo angolano aprova novos valores para salário mínimo e pensões",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/governo-angolano-aprova-novos-valores-para-salario-minimo-e-pensoes_n1581949",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Conselho de Ministros de Angola aprovou hoje o decreto presidencial que fixa o salário mínimo angolano em 70 mil kwanzas (77 euros), o mesmo valor definido para os montantes mínimos das pensões."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 19:19:32",
+        "category": "economia"
+    },
+    {
+        "headline": "Presidente queniano retira projeto de lei orçamental que motivou protestos",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/presidente-queniano-retira-projeto-de-lei-orcamental-que-motivou-protestos_n1581935",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente do Quénia, William Ruto, anunciou hoje a retirada do projeto de lei orçamental que continha aumentos e a aplicação de novos impostos, desencadeando fortes protestos com consequências mortais no país."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 18:22:15",
+        "category": "economia"
+    },
+    {
+        "headline": "PR promulga diploma do Governo que isenta de IMT e IS compra de 1.ª casa por jovens",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/pr-promulga-diploma-do-governo-que-isenta-de-imt-e-is-compra-de-1a-casa-por-jovens_n1581909",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Presidente da República (PR), Marcelo Rebelo de Sousa, promulgou hoje o decreto-lei que isenta de IMT e de Imposto de Selo a compra da primeira habitação própria e permanente por pessoas até aos 35 anos.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d8/d830ae6c2bbb18c2d99eadd0b6e5fe68?w=350&amp;q=50&amp;rect=0,178,1500,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 18:11:29",
+        "category": "economia"
+    },
+    {
+        "headline": "Petrolífera angolana Sonangol avança para exploração de minério de quartzo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/petrolifera-angolana-sonangol-avanca-para-exploracao-de-minerio-de-quartzo_n1581907",
+        "content": [
+            {
+                "type": "text",
+                "data": "A petrolífera estatal angolana Sonangol vai incluir a exploração e produção de quartzo nas suas prioridades de investimento, anunciou o ministro dos Recursos Minerais, Petróleo e Gás, Diamantino Azevedo."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 18:09:54",
+        "category": "economia"
+    },
+    {
+        "headline": "IMI, IMT, IRS e fim das SCUTs, o que disse ministro das Finanças no Parlamento",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/imi-imt-irs-e-fim-das-scuts-o-que-disse-ministro-das-financas-no-parlamento_a1581929",
+        "content": [
+            {
+                "type": "text",
+                "data": "São avisos do ministro das Finanças. Miranda Sarmento diz que o fim das portagens nas SCUTs, aprovado pelo PS e pelo Chega, tem um custo direto de 180 milhões de euros.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/f5/f57e4eb131535bff5879a30b8ae6ad8a?w=350&amp;q=50&amp;rect=0,146,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 17:26:02",
+        "category": "economia"
+    },
+    {
+        "headline": "Tribunal Arbitral decreta serviços mínimos em greve na CP na sexta-feira",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/tribunal-arbitral-decreta-servicos-minimos-em-greve-na-cp-na-sexta-feira_n1581884",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Tribunal Arbitral decidiu decretar serviços mínimos, de cerca de 25%, na greve que irá decorrer na CP - Comboios de Portugal, e que na sexta-feira contará com a adesão de vários sindicatos, segundo o acórdão hoje divulgado."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 15:25:54",
+        "category": "economia"
+    },
+    {
+        "headline": "Detidos sete suspeitos de associação criminosa na compra de casas no Algarve",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/detidos-sete-suspeitos-de-associacao-criminosa-na-compra-de-casas-no-algarve_n1581879",
+        "content": [
+            {
+                "type": "text",
+                "data": "As autoridades detiveram hoje no Algarve sete pessoas suspeitas de associação criminosa e burla na obtenção de créditos bancários para obtenção de segunda habitação naquela região, informou o Ministério Público."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 15:25:22",
+        "category": "economia"
+    },
+    {
+        "headline": "Português na frente da inovação da Inteligência Artificial em França",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/portugues-na-frente-da-inovacao-da-inteligencia-artificial-em-franca_v1581881",
+        "content": [
+            {
+                "type": "text",
+                "data": "Em Paris, no laboratório Leonard, há um português a abrir caminho na área da Inteligência Artificial. Marco Vicente é um dos mentores neste laboratório que colabora com empresas e universidades portuguesas. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/bc/bc959ebacc7739f0fb876c21fc8f4db6_N.jpg?"
+            }
+        ],
+        "published": "2024-06-26 14:56:46",
+        "category": "economia"
+    },
+    {
+        "headline": "Contas públicas. Ministro das Finanças mantém acusações ao anterior Governo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/contas-publicas-ministro-das-financas-mantem-acusacoes-ao-anterior-governo_v1581871",
+        "content": [
+            {
+                "type": "text",
+                "data": "O ministro das Finanças não recua nas acusações ao anterior Executivo sobre o cenário orçamental que herdou em março."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/8a/8ac3fadf7f8c2a52aa8b74642ed1f1c8?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 14:16:46",
+        "category": "economia"
+    },
+    {
+        "headline": "Secretária de Estado diz que caducou IMI de 2019 de barragens não inscritas atempadamente",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/secretaria-de-estado-diz-que-caducou-imi-de-2019-de-barragens-nao-inscritas-atempadamente_n1581857",
+        "content": [
+            {
+                "type": "text",
+                "data": "A secretária de Estado dos Assuntos Fiscais disse hoje, no parlamento, que caducou a cobrança de IMI de 2019 de barragens que não foram avaliadas e inscritas na matriz atempadamente, pelo que este imposto já não pode ser cobrado."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 13:26:53",
+        "category": "economia"
+    },
+    {
+        "headline": "SNS pagou mais 12,7% por horas extraordinárias em 2023",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/sns-pagou-mais-127-por-horas-extraordinarias-em-2023_n1581855",
+        "content": [
+            {
+                "type": "text",
+                "data": "As unidades do Serviço Nacional de Saúde (SNS) gastaram quase 475 milhões de euros com o pagamento de 18,2 milhões de horas extraordinárias em 2023, um valor que aumentou 12,7% em relação a 2022."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 13:25:24",
+        "category": "economia"
+    },
+    {
+        "headline": "SNS regista défice de 435 milhões de euros em 2023",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/sns-regista-defice-de-435-milhoes-de-euros-em-2023_n1581853",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Serviço Nacional de Saúde (SNS) registou um défice de 435 milhões de euros em 2023, com a despesa total a aumentar 6,8%, ultrapassando os 14 mil milhões de euros, indica o Conselho das Finanças Públicas (CFP)."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 13:20:22",
+        "category": "economia"
+    },
+    {
+        "headline": "Bulgária falha adesão à zona euro devido a inflação demasiado elevada",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/bulgaria-falha-adesao-a-zona-euro-devido-a-inflacao-demasiado-elevada_n1581847",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Bulgária ainda não validou o seu `bilhete` para aderir à zona euro, porque a inflação ainda é demasiado elevada, segundo dois relatórios publicados conjuntamente hoje pelo Banco Central Europeu (BCE) e pela Comissão Europeia.     "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 12:40:14",
+        "category": "economia"
+    },
+    {
+        "headline": "Avaliação bancária das casas sobe 6,6% em maio para 1.610 euros/m2",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/avaliacao-bancaria-das-casas-sobe-66-em-maio-para-1610-eurosm2_n1581843",
+        "content": [
+            {
+                "type": "text",
+                "data": "O valor mediano de avaliação bancária na habitação aumentou 14 euros (0,9%) em maio face a abril e 100 euros (6,6%) em termos homólogos, para 1.610 euros por metro quadrado (m2), informou hoje o Instituto Nacional de Estatística (INE). "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 12:38:46",
+        "category": "economia"
+    },
+    {
+        "headline": "Governo quer alterar código do IMI para resolver problema com cobrança nas barragens",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/governo-quer-alterar-codigo-do-imi-para-resolver-problema-com-cobranca-nas-barragens_n1581830",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Governo pretende alterar o código do IMI até ao final do ano, criando para tal um grupo de trabalho. A intenção foi anunciada pelo ministro das Finanças esta quarta-feira no Parlamento, onde foi chamado para uma audição sobre a cobrança de impostos relativos às barragens.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/19/1961846ef3c4e63516d0f44e9c1c5a5f?w=350&amp;q=50&amp;rect=2,0,4961,2720&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 11:41:09",
+        "category": "economia"
+    },
+    {
+        "headline": "Governo vai criar grupo de trabalho para resolver problema dos impostos das barragens",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/governo-vai-criar-grupo-de-trabalho-para-resolver-problema-dos-impostos-das-barragens_a1581836",
+        "content": [
+            {
+                "type": "text",
+                "data": "A questão arrasta-se há anos na tentativa de resolver o problema da cobrança de impostos relativos às barragens. Por isso o Governo vai criar um grupo de trabalho. As autarquias exigem o pagamento de IMI, e as empresas concessionárias, como a EDP, a contestarem a matéria nos tribunais."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/7f/7f13be68d74945916ae59104def05e2d?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 11:40:46",
+        "category": "economia"
+    },
+    {
+        "headline": "Governo aprovou Grandes Opções em Conselho de Ministros",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/governo-aprovou-grandes-opcoes-em-conselho-de-ministros_n1581821",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Governo aprovou na terça-feira em Conselho de Ministros a proposta de lei que aprova as Grandes Opções para 2024-2028, documento que será enviado ao Conselho Económico e Social e à Assembleia da República, revelou hoje o executivo."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 11:14:28",
+        "category": "economia"
+    },
+    {
+        "headline": "Bolsa de Lisboa abre a subir 0,25%",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/bolsa-de-lisboa-abre-a-subir-025_n1581794",
+        "content": [
+            {
+                "type": "text",
+                "data": "A bolsa de Lisboa abriu hoje em alta, com o principal índice (PSI) a subir 0,25% para 6.583,71 pontos, depois de ter encerrado a perder na última sessão."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 09:23:40",
+        "category": "economia"
+    },
+    {
+        "headline": "Moçambique precisa de 4.287 ME para financiar défice até 2027",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/mocambique-precisa-de-4287-me-para-financiar-defice-ate-2027_n1581788",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Governo moçambicano estima necessidades de financiamento de 293.611 milhões de meticais (4.287 milhões de euros) para cobrir os défices das contas públicas nos próximos quatro anos, segundo o Cenário Fiscal de Médio Prazo (CFMP) até 2027."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 08:41:56",
+        "category": "economia"
+    },
+    {
+        "headline": "Construtora chinesa Shimao consegue adiar pedido de liquidação em Hong Kong",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/construtora-chinesa-shimao-consegue-adiar-pedido-de-liquidacao-em-hong-kong_n1581785",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Shimao, uma das maiores construtoras imobiliárias da China, conseguiu hoje adiar a primeira audiência num tribunal de Hong Kong sobre um pedido de liquidação apresentado em abril, após ter entrado em incumprimento."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 08:29:49",
+        "category": "economia"
+    },
+    {
+        "headline": "Associação de Olivicultores desafia Governo a seguir Espanha e cortar IVA no azeite",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/associacao-de-olivicultores-desafia-governo-a-seguir-espanha-e-cortar-iva-no-azeite_a1581786",
+        "content": [
+            {
+                "type": "text",
+                "data": "O Governo português deveria seguir o exemplo de Espanha e aplicar o IVA Zero no preço do azeite. É o desafio lançado pela Associação de Olivicultores e Lagares de Portugal. A diretora executiva, Susana Sassetti, diz à Antena 1 que esta seria uma forma de aliviar o elevado custo deste produto para os consumidores.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/5c/5c649f00b9709eed2695e001cdf167b7?w=350&amp;q=50&amp;rect=0,105,1024,561&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 08:17:20",
+        "category": "economia"
+    },
+    {
+        "headline": "Reserva financeira de Macau perde 272 milhões de euros em abril",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/reserva-financeira-de-macau-perde-272-milhoes-de-euros-em-abril_n1581782",
+        "content": [
+            {
+                "type": "text",
+                "data": "A reserva financeira de Macau perdeu 2,34 mil milhões de patacas (272 mil milhões de euros) em abril, mas continua em terreno positivo no que toca aos quatro primeiros meses de 2024, indicam dados hoje divulgados."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 07:55:05",
+        "category": "economia"
+    },
+    {
+        "headline": "Chinesa Changan quer abrir fábrica na Europa e vender 300 mil carros até 2030",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/chinesa-changan-quer-abrir-fabrica-na-europa-e-vender-300-mil-carros-ate-2030_n1581781",
+        "content": [
+            {
+                "type": "text",
+                "data": "O construtor automóvel chinês Changan vai abrir este ano uma subsidiária na Europa para estudar a abertura de uma fábrica no continente, onde espera vender 300 mil veículos até 2030, informou hoje a imprensa chinesa."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ae/aec3db4387e1218dd73583007e6d4f37?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 07:53:40",
+        "category": "economia"
+    },
+    {
+        "headline": "Turismo. Confederação confia em recorde em 2024",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/turismo-confederacao-confia-em-recorde-em-2024_v1581751",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Confederação do Turismo de Portugal acredita que o setor conseguirá alcançar, este ano, os recordes do ano passado. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/images/bb/bb8b7bb9fcbca12248af8a8da73abb53_N.jpg?"
+            }
+        ],
+        "published": "2024-06-26 01:33:45",
+        "category": "economia"
+    },
+    {
+        "headline": "Grupo de 16 Nobel da Economia advertem para perigos das propostas de Trump",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/grupo-de-16-nobel-da-economia-advertem-para-perigos-das-propostas-de-trump_n1581750",
+        "content": [
+            {
+                "type": "text",
+                "data": "Um grupo de 16 galardoados com o prémio Nobel da Economia advertiam hoje que as propostas do candidato republicano à presidência dos EUA, Donald Trump, reativarão a inflação e provocarão danos prolongados à economia do país."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 01:25:02",
+        "category": "economia"
+    },
+    {
+        "headline": "Aprovado decreto-lei que isenta IMT e Imposto de Selo para jovens",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/aprovado-decreto-lei-que-isenta-imt-e-imposto-de-selo-para-jovens_n1581748",
+        "content": [
+            {
+                "type": "text",
+                "data": "O governo anunciou terça-feira à noite a aprovação do decreto-lei que isenta de IMT (Imposto Municipal sobre as Transmissões Onerosas de Imóveis) e de IS (Imposto de Selo) a compra da primeira habitação própria e permanente por jovens até aos 35 anos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 01:11:44",
+        "category": "economia"
+    },
+    {
+        "headline": "Milhares de indianos manifestam-se em Itália por justiça e fim da \"escravatura\"",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/milhares-de-indianos-manifestam-se-em-italia-por-justica-e-fim-da-escravatura_n1581744",
+        "content": [
+            {
+                "type": "text",
+                "data": "Milhares de trabalhadores agrícolas indianos manifestaram-se hoje para exigir justiçar e o fim da &quot;escravatura&quot; em Itália, após a trágica morte de um trabalhador que expôs a brutal exploração aos imigrantes ilegais.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-26 01:05:45",
+        "category": "economia"
+    },
+    {
+        "headline": "Metro do Porto reduz prejuízos em 1,6% para 45,5 ME em 2023",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/metro-do-porto-reduz-prejuizos-em-16-para-455-me-em-2023_n1582173",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Metro do Porto reduziu os prejuízos em 2023 para 45,45 milhões de euros, menos 1,6% do que no ano passado, divulgou hoje a empresa à Lusa, num ano em que aumentaram as receitas e o investimento."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-27 19:00:32",
+        "category": "economia"
+    },
+    {
+        "headline": "Direção de Informação da Lusa repudia bloqueio russo a quatro `media` portugueses",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/direcao-de-informacao-da-lusa-repudia-bloqueio-russo-a-quatro-media-portugueses_n1582175",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Direção de Informação da agência Lusa repudiou hoje a decisão da Rússia de bloquear o acesso por Internet no país à RTP, Público, Observador e Expresso, entre 81 meios de comunicação social europeus, apelando ao levantamento das restrições."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-27 19:00:08",
+        "category": "economia"
+    },
+    {
+        "headline": "Plataforma cívica contesta duas centrais fotovoltaicas no concelho de Évora",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/plataforma-civica-contesta-duas-centrais-fotovoltaicas-no-concelho-de-evora_n1582183",
+        "content": [
+            {
+                "type": "text",
+                "data": "Os projetos de duas centrais solares fotovoltaicas no concelho de Évora estão a ser contestados por uma plataforma cívica, que alega que vão provocar &quot;danos irreversíveis&quot; na paisagem e na vida dos moradores e agentes turísticos."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-27 18:58:54",
+        "category": "economia"
+    },
+    {
+        "headline": "CCDR-N e Xunta da Galiza tomam posição conjunta pela alta velocidade Porto-Vigo",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/economia/ccdr-n-e-xunta-da-galiza-tomam-posicao-conjunta-pela-alta-velocidade-porto-vigo_n1582198",
+        "content": [
+            {
+                "type": "text",
+                "data": "A Comissão de Coordenação e Desenvolvimento Regional (CCDR) do Norte e a Xunta da Galiza assinam na terça-feira, em Valença, uma declaração conjunta onde defendem como &quot;uma prioridade óbvia&quot; a ligação de alta velocidade entre Lisboa e Vigo (Espanha). "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-27 18:57:18",
+        "category": "economia"
     }
 ]

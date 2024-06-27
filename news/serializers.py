@@ -66,5 +66,5 @@ class SourceSerializer(serializers.ModelSerializer):
         fields = ['source_id', 'source_url', 'source_trust_rating', 'source_name', 'news_content']
 
     def get_news_content(self, obj):
-        contents = Content.objects.filter(content_source_id=obj.source_id)
+        contents = Content.objects.filter(content_source_id=obj.source_name)
         return ContentSerializer(contents, many=True).data

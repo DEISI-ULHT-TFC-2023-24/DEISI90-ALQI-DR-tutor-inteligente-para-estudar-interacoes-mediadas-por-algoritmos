@@ -141,16 +141,13 @@ WHERE NOT EXISTS (
     WHERE nc.category_label = data.category_label
 );
 
--- Insert data into news_source table if not exists
-INSERT INTO news_source (source_url, source_trust_rating, source_name)
-SELECT *
-FROM (VALUES
-    ('https://www.rtp.pt/', 8, 'RTP'),
-    ('https://www.noticiasaominuto.com/', 6, 'Noticias ao Minuto'),
-    ('https://eco.sapo.pt/', 8, 'Sapo')
-) AS data (source_url, source_trust_rating, source_name)
-WHERE NOT EXISTS (
-    SELECT 1
-    FROM news_source ns
-    WHERE ns.source_url = data.source_url
-);
+ALTER TABLE news_source ALTER COLUMN source_id DROP DEFAULT;
+
+INSERT INTO news_source (source_id, source_url, source_trust_rating, source_name)
+VALUES
+    (1, 'https://www.rtp.pt/', 8, 'RTP'),
+    (2, 'https://www.noticiasaominuto.com/', 6, 'Noticias ao Minuto'),
+    (3, 'https://eco.sapo.pt/', 8, 'Sapo');
+
+SELECT setval('news_source_source_id_seq', (SELECT MAX(source_id) FROM news_source));
+ALTER TABLE news_source ALTER COLUMN source_id SET DEFAULT nextval('news_source_source_id_seq');

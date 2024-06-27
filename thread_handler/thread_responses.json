@@ -5926,5 +5926,1773 @@
                 "data": "futebol"
             }
         ]
+    },
+    {
+        "content_title": "Montenegro considera que nomeação de Costa está bem encaminhada",
+        "thread_response": "'Primeiro-ministro está otimista com processo de nomeação de António Costa como presidente do Conselho Europeu.'\n'A decisão pode ser tomada já esta quinta-feira, acredita o primeiro-ministro.'\n'Pedro Nuno Santos considera que António Costa será \"o primeiro presidente do Conselho Europeu com peso\".'\n'O primeiro-ministro está otimista com o processo de nomeação de António Costa como presidente do Conselho Europeu.'\n'Montenegro manifestou-se convicto de que a decisão dos líderes da União Europeia sobre a nomeação de António Costa está \"bem encaminhada\".'\n'Desvalorizou as críticas de Itália, considerando que a responsável pela nomeação está bem encaminhada.'\n'Luís Montenegro manifestou-se convicto de que a decisão sobre a nomeação de António Costa está bem encaminhada.'\n'A responsável pela nomeação está bem encaminhada, desvalorizou as críticas feitas pela homóloga italiana.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serene"
+            },
+            {
+                "type": "keyword",
+                "data": "nomeação"
+            }
+        ]
+    },
+    {
+        "content_title": "Ataque do exército israelita a campo de refugiados faz 18 mortos",
+        "thread_response": "'Pelo menos 18 mortos no bombardeamento de um campo de refugiados na Faixa de Gaza.'\n'O ataque foi muito próximo do acampamento de Jabalya e fez mais 14 pessoas morrerem.'\n'O número de mortos provavelmente vai aumentar à medida que as operações de busca e resgate avançam em Rafah.'\n'Israel afirma que o ataque matou dois líderes do Hamas na região.'\n'Netanyahu chamou o ataque que deixou 45 mortos no campo de refugiados de \"erro trágico\".'\n'O Ministério da Saúde controlado pelo Hamas diz que pelo menos 45 pessoas foram mortas num ataque aéreo israelense ao campo de refugiados.'\n'Pelo menos 101 palestinianos foram mortos e 169 feridos nos bombardeamentos israelitas nas últimas 24 horas.'\n'O número mais elevado num só dia desde o ataque aéreo israelita em Nuseirat, que matou cerca de 280 pessoas.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.2"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.8"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "grave"
+            },
+            {
+                "type": "keyword",
+                "data": "ataque"
+            }
+        ]
+    },
+    {
+        "content_title": "Ciclistas Telmo Pinão e Luís Costa representam Portugal nos Paralímpicos Paris2024",
+        "thread_response": "'Os ciclistas Telmo Pinão e Luís Costa vão ser os representantes portugueses nas provas de pista e estrada dos Jogos Paralímpicos Paris2024.'\n'A federação nacional da modalidade anunciou essa escolha hoje.'\n'Eles repetirão as presenças no Rio2016 e Tóquio2020.'\n'Luís Costa, do Algarve, é um dos três paraciclistas portugueses que competirá entre amanhã e quarta-feira em Adelaide (Austrália).'\n'O objetivo é obter bons resultados e ganhar pontos para a qualificação Paralímpica.'\n'Três paraciclistas representarão Portugal com ambigência de bons resultados e ganho de pontos para a qualificação Paralímpica.'\n'Entre amanhã e quarta-feira, corre-se em Adelaide a primeira manga da Taça do Mundo de 2024.'\n'O selecionador nacional, José Marques, convocou o C2 Telmo Pinão, o H4 Flávio Pacheco e o H5 Luís Costa.'\n'Portugal aumentou para 19 as presenças garantidas nos Jogos Paralímpicos Paris2024.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "objective"
+            },
+            {
+                "type": "keyword",
+                "data": "Paralímpicos"
+            }
+        ]
+    },
+    {
+        "content_title": "Vasco Seabra deixa o comando do Estoril Praia",
+        "thread_response": "'Vasco Seabra deixou o comando do Estoril Praia.'\n'O treinador confirmou à Lusa fonte oficial do emblema que milita na I Liga portuguesa de futebol.'\n'A informação começou a circular na imprensa nacional ao início desta tarde de quinta-feira.'\n'Vasco Seabra conseguiu o principal objetivo para 2023/24, a manutenção da equipa na Liga portuguesa.'\n'O treinador estava no comando do Estoril Praia há praticamente nove meses.'\n'A saída do treinador deve ser oficializada nas próximas horas pelas páginas oficiais do clube.'\n'Vasco Seabra assume o comando técnico da equipa principal da Estoril Praia, SAD.'\n'O treinador tem experiência na primeira liga e liderou a equipa Sub23 do Mágico em 2018/2019.'\n'A sua passagem pela Estoril Praia foi curta, menos de um ano desde que foi contratado para suceder Álvaro.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "futebol"
+            }
+        ]
+    },
+    {
+        "content_title": "Morreu Maria José Nápoles, primeira esgrimista portuguesa em Jogos Olímpicos",
+        "thread_response": "'Faleceu Maria José Nápoles, a atiradora portuguesa que competiu nos Jogos Olímpicos em Roma, em 1960.'\n'Maria José Nápoles morreu aos 87 anos, informou o Comité Olímpico de Portugal (COP).'\n'Ela foi a primeira portuguesa a competir em esgrima nos Jogos Olímpicos.'\n'Nascida em Maputo, Maria José Nápoles disputou o torneio de florete nos Jogos Olímpicos Roma1960 e foi eliminada na primeira ronda.'\n'O Comité Olímpico de Portugal (COP) celebrou o Dia Internacional da Mulher com uma homenagem às atletas portuguesas que foram pioneiras em cada modalidade na participação em Jogos Olímpicos.'\n'Yolanda Hopkins Sequeira, que já tem a presença garantida em Paris 2024, mostrou-se feliz por ter sido distinguida.'\n'A esgrima está presente em Jogos Olímpicos modernos desde sua primeira edição, em Atenas-1896.'\n'Três eventos fizeram parte do torneio naquela edição: o Florete individual e Sabre individual.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "respectful"
+            },
+            {
+                "type": "keyword",
+                "data": "olímpicos"
+            }
+        ]
+    },
+    {
+        "content_title": "Mais de 45 mil espécies em risco de extinção",
+        "thread_response": "'Mais de 45 mil espécies estão em risco de extinção atualmente.'\n'Mais de 1.000 espécies foram adicionadas ao número anterior, anunciou a UICN.'\n'A União Internacional para a Conservação da Natureza (UICN) fez o anúncio hoje.'\n'O lince ibérico é uma boa notícia em meio à situação crítica.'\n'Isso significa que mais de 45 mil espécies estão ameaçadas de desaparecer.'\n'A UICN trabalha para proteger a biodiversidade e prevenir a extinção.'\n'Infelizmente, o número de espécies em risco aumentou significativamente.'\n'O SALVE é uma plataforma que ajuda a avaliar o risco de extinção das espécies.'\n'Ela reúne mais de 14,7 mil espécies e facilita a gestão do processo de avaliação.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.3"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "informal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "conservação"
+            }
+        ]
+    },
+    {
+        "content_title": "16h Montenegro otimista na aprovação do nome de António Costa",
+        "thread_response": "'É uma pesquisa no DuckDuckGo para teres mais contexto.'\n'O nome de António Costa para o Conselho Europeu é otimista, diz Montenegro.'\n'Reúne todas as condições para ser aceite', afirma o primeiro-ministro sobre a escolha do líder.\n'Luís Montenegro está otimista em relação a um eventual acordo para a presidência de António Costa no Conselho Europeu.'\n'O nome de António Costa não ficou fora do segundo debate desta quarta-feira, pois se tratava do debate preparatório do Conselho Europeu.'\n'O ex-primeiro-ministro está ainda mais perto de ser o próximo líder da instituição europeia.'\n'Luís Montenegro acredita que se os socialistas europeus apontarem António Costa como candidato à presidência do Conselho Europeu, o seu antecessor terá todas as condições para ser confirmado.'\n'O nome de António Costa pode ser confirmado já na reunião do Conselho Europeu da próxima semana, admite a ex- governante.'\n'Já estava previsto que a decisão seria tomada no Conselho Europeu da próxima semana', afirma Luís Montenegro.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.7"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.6"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "optimistic"
+            },
+            {
+                "type": "keyword",
+                "data": "nome_de_antónio_costa"
+            }
+        ]
+    },
+    {
+        "content_title": "16h Montenegro otimisma na aprovação do nome de António Costa",
+        "thread_response": "'António Costa pode suceder ao belga Charles Michel na liderança do Conselho Europeu.'\n'O ex-primeiro-ministro português está otimista em relação a um eventual acordo para a presidência de António Costa no Conselho Europeu.'\n'Luis Montenegro reiterou o apoio inequívoco à candidatura de António Costa ao Conselho Europeu.'\n'Luís Montenegro acredita que se os socialistas europeus apontarem António Costa como candidato, o seu antecessor terá todas as condições para ser aceite.'\n'O primeiro-ministro está otimista em relação a um eventual acordo para a presidência de António Costa no Conselho Europeu.'\n'Luís Montenegro garantiu que já revelou esta sua posição junto do Partido Popular Europeu (PPE).'\n'António Costa defendeu que \"a presidente da Comissão tem todas as condições para ser aceite\".'\n'O antigo primeiro-ministro rejeitou dizer se é ou não candidato à presidência do Conselho Europeu.'\n'Luis Montenegro vinha a evitar tocar no tema, nunca revelando a sua posição.'\n'António Costa pode ter todas as condições para ser aceito como presidente do Conselho Europeu.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.7"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.6"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "instituição"
+            }
+        ]
+    },
+    {
+        "content_title": "15h PM diz que está tudo encaminhado para acordo no Conselho Europeu",
+        "thread_response": "'Acaba de sair uma pesquisa no DuckDuckGo para teres mais contexto.'\n'O RTP Europa está a transmitir as eleições na Madeira, EM DIRETO.'\n'RTP3 diz que tudo está encaminhado para acordo no Conselho Europeu às 15h PM.'\n'Disponível gratuitamente para IOS e Android, segue-nos!'\n'Viktor Orbán, primeiro-ministro húngaro, reagiu negativamente ao acordo sobre os nomes para desempenhar cargos de topo da União Europeia.'\n'O acordo entre o PPE e a esquerda e liberais vai contra tudo que se baseou na UE.'\n'António Costa continua favorito para presidente do Conselho Europeu, mas é preciso esperar por líderes.'\n'Ursula von der Leyen está a ser considerada para presidente da Comissão Europeia e António Costa para presidir ao Conselho.'\n'O jantar informal de segunda-feira foi o início oficial de um debate sobre os cargos de topo da União Europeia.'\n'Discutir-se-á o nome de António Costa para a liderança do Conselho Europeu, Ursula von der Leyen e Roberta Metsola para segundos mandatos na Comissão e no Parlamento.'\n'Começa a ser mais provável haver um português no Conselho Europeu no próximo outono em Bruxelas', disse Marcelo Rebelo de Sousa.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "política"
+            }
+        ]
+    },
+    {
+        "content_title": "Governo aumenta apoios para estudantes do Ensino Superior",
+        "thread_response": "'Alterações nas regras de atribuição de bolsas para estudantes do Ensino Superior público!'\n'O Ministério da Educação pretende promover o sucesso e reduzir o abandono.'\n'Estudantes deslocados não bolseiros com rendimentos per capita entre 23 e 28 vezes o IAS passam a receber complemento de alojamento até 50% dos limites fixados para cada área geográfica.'\n'Rendimentos até 14 vezes do valor do salário mínimo de trabalhadores-estudantes ficam fora do cálculo para efeitos da atribuição.'\n'O Governo aumenta apoios para estudantes do Ensino Superior!'\n'Os programas de bolsas de estudo e apoios financeiros são adequados e reforçados.'\n'Atribuição automática de bolsa de estudo é alargada aos estudantes dos Cursos Técnicos Superiores Profissionais (TEsP).'\n'Cumprir com os critérios exigidos é necessário para obter a atribuição automática de bolsa de estudo.'\n'Valores limites dos complementos de alojamento são atualizados em linha com a evolução do Indexante de Apoios.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serene"
+            },
+            {
+                "type": "keyword",
+                "data": "educação"
+            }
+        ]
+    },
+    {
+        "content_title": "\"Cinema\" revisitado. Rodrigo Leão assinala 20 anos do disco",
+        "thread_response": "'É agora que nascia o álbum \"Cinema\", de Rodrigo Leão.'\n'Há 20 anos, um disco revisitado!'\n'O músico português vai subir a palco em dois concertos únicos.'\n'A primeira apresentação é no Coliseu do Porto, amanhã, dia 27 de junho.'\n'Segue-se uma apresentação no Coliseu de Lisboa, no próximo dia.'\n'Rodrigo Leão revisita o álbum \"Cinema\" em dois espetáculos ao vivo.'\n'\"Foi com nesse disco que o meu lado mais cinematográfico se juntou às canções pop\".'\n'A celebração dos 20 anos de Cinema inclui uma nova edição do álbum.'\n'Rodrigo Leão é cofundador da banda Sétima Legião e criou os Madredeus.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "objective"
+            },
+            {
+                "type": "keyword",
+                "data": "concertos"
+            }
+        ]
+    },
+    {
+        "content_title": "Metro do Porto. Extensão da linha Amarela inaugura sexta-feira",
+        "thread_response": "'Inauguração da extensão da Linha Amarela do Metro do Porto esta sexta-feira!'\n'A ligação Santo Ovídeo a Vila d'Este é uma das mais importantes do metro.'\n'Vila Nova de Gaia é o distrito do Porto que vai beneficiar com essa extensão.'\n'O Metro do Porto tem seis linhas funcionais e agora espera pela inauguração da extensão da Linha Amarela.'\n'A cerimónia de inauguração decorrerá esta sexta-feira, pelas 10 horas, na estação de Santo Ovídio.'\n'Verás a inauguração da extensão da Linha Amarela do Metro do Porto na próxima sexta-feira!'\n'O troço entre Santo Ovídio e Vila d'Este é a prática a extensão da Linha Amarela do Metro do Porto.'\n'A partir de quinta-feira, os novos horários estarão disponíveis para consulta no site do metro.'\n'A Linha Amarela liga o Hospital de São João ao centro do Porto.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "objective"
+            },
+            {
+                "type": "keyword",
+                "data": "transportation"
+            }
+        ]
+    },
+    {
+        "content_title": "Presidente da CIM Douro preocupado com a próxima vindima na região",
+        "thread_response": "'Está preocupado com a próxima vindima no Douro.'\n'O presidente da CIM Douro defendeu uma planificação mais antecipada do negócio.'\n'Defendeu especialmente o volume de vinho do Porto a produzir.'\n'Explicou que os stocks estão cheios e não querem ter tanto.'\n'É um contrassenso termos excelentes perspetivas de produção e não querermos ter tanto.'\n'O presidente da CIM Douro está atento, preocupado e disponível para ajudar os produtores.'\n'Mostrou-se preocupado com a próxima vindima na região e apontou medidas pensadas para o setor.'\n'Convenceu que todos devem trabalhar juntos para resolver o problema.'\n'Necessita de uma planificação mais antecipada para evitar problemas futuros.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "cautious"
+            },
+            {
+                "type": "keyword",
+                "data": "vindima"
+            }
+        ]
+    },
+    {
+        "content_title": "14h PM diz que está tudo encaminhado para acordo no Conselho Europeu",
+        "thread_response": "'Está a decorrer uma pesquisa no Duckduckgo para teres mais contexto.'\n'A RTP Europa está a transmitir as eleições na Madeira em direto.'\n'O Conselho Europeu está tudo encaminhado para acordo, diz a RTP3.'\n'Disponível gratuitamente para IOS e Android, segue-nos.'\n'Com a tua permissão, utilizaremos cookies da AT Internet e da Hotjar.'\n'Eles serão usados para melhorar a experiência no nosso sítio Web.'\n'O jantar informal de segunda-feira foi o início oficial do debate sobre os cargos de topo da UE.'\n'Discutir-se-á o nome de António Costa para liderança do Conselho Europeu e Ursula von der Leyen e Roberta Metsola para segundos mandatos na Comissão e no Parlamento.'\n'O Parlamento europeu e o Conselho Europeu chegaram a acordo sobre as novas regras orçamentais europeias.'\n'O Conselho Europeu começa um debate sobre os cargos de topo da UE, que deve culminar com uma decisão na cimeira europeia no final do mês.'\n'A posição do partido de centro-direita sobre o apoio a António Costa depende do pacote.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "política"
+            }
+        ]
+    },
+    {
+        "content_title": "Chuva forte, trovoada, granizo e muito vento para o centro e norte do país",
+        "thread_response": "'Vai haver chuva forte e trovoada no norte e centro do país a partir da quinta-feira.'\n'Avisos amarelos estão em vigor para essas regiões até domingo.'\n'O resto do país também vai ser afetado, exceto Faro.'\n'Chuva, granizo e trovoadas previstas no Norte e Centro do país até domingo.'\n'O estado do tempo em Portugal continental vai agravar-se até domingo.'\n'A Proteção Civil emitiu um aviso à população devido às previsões de precipitação forte, vento e trovoada nas regiões Norte e Centro.'\n'É importante ter cuidado com as condições meteorológicas nos próximos dias.'\n'O modelo de referência prevê que a situação se mantenha até quinta-feira 27.'\n'A chuva e as trovoadas vão distribuir-se localmente fortes em diferentes áreas.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.3"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "meteorologia"
+            }
+        ]
+    },
+    {
+        "content_title": "Derrota justa. Jogadores portugueses admitem mau jogo",
+        "thread_response": "'Os jogadores portugueses assumem o mau jogo frente à Geórgia.'\n'Mas também garantem que a derrota de quarta-feira não vai afetar a equipa daqui para a frente.'\n'A seleção portuguesa fechou a fase de grupos do Euro 2024 com um resultado inesperado: uma derrota por 2-0 frente à Geórgia.'\n'Portugal, que já tinha garantido o apuramento para os oitavos de final, não conseguiu fazer o pleno de vitórias na fase de grupos da competição.'\n'Eles tiveram a oportunidade de testar jogadores e mudanças no onze, mas não foi suficiente.'\n'Ninguém gosta de perder, no entanto, se é para isso acontecer, que seja agora, durante a preparação para o Euro 2024, e não nos jogos a sério.'\n'A perder, que seja agora. Foi um bom teste', destaca Diogo Jota, após a derrota com a Croácia.'\n'O Francisco Conceição e o Pedro Neto deram-nos isso. Muito contentes por ganhar.'\n'Nem tudo estava bem quando ganhámos os dois jogos, nem tudo está mal quando perdemos com a Geórgia.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.3"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serene"
+            },
+            {
+                "type": "keyword",
+                "data": "futebol"
+            }
+        ]
+    },
+    {
+        "content_title": "Festa de apuramento da Geórgia. Milhares saíram à rua em Tiblissi",
+        "thread_response": "'Quarta-feira, milhares de adeptos da Geórgia saíram à rua em Tiblissi.'\n'A festa também aconteceu em Gelsenkirchen por causa do apuramento para os oitavos de final do europeu.'\n'Dezenas de milhares de manifestantes saíram às ruas da Georgia para protestar o controverso projeto de lei sobre a \"influência estrangeira\".'\n'As pesquisas mostram que cerca de 80% da população apoia a adesão à União Europeia, em vez de se deixarem levar pela órbita do Kremlin.'\n'Muitos dos que são a favor do aprofundamento dos laços com o Ocidente saíram às ruas.'\n'As manifestações em massa contra o projeto de lei em Tbilisi acontecem todas as noites há um mês.'\n'Centenas de jovens marcharam esta sexta-feira na capital da Geórgia, Tbilissi, numa manifestação em que pediram a integração na União Europeia (UE) da antiga república soviética.'\n'Milhares de pessoas saíram às ruas da capital da Geórgia, Tiblisi, em protesto contra um projeto de lei de \"agentes estrangeiros\", já conhecida como \"lei russa\".'\n'A nova legislação exige que os meios de comunicação social e as organizações sem fins lucrativos sejam registados publicamente como \"defendendo os interesses de uma potência estrangeira\" se receberem mais de 20% dos...'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "política"
+            }
+        ]
+    },
+    {
+        "content_title": "Negociações continuam na Madeira mas saída de Albuquerque não está em discussão",
+        "thread_response": "'Negociações entre o PSD, Chega e IL vão prosseguir para viabilizar um Programa de Governo.'\n'O afastamento do social-democrata Miguel Albuquerque não está em discussão, anunciou o Governo Regional.'\n'Nesta quarta-feira, Miguel Albuquerque reiterou que \"não há problema\" com o seu afastamento.'\n'O problema dos madeirenses deixou de ser Miguel Albuquerque, disse o líder social-democrata.'\n'O PSD foi o partido com mais votos e o representante da República na Madeira.'\n'Albuquerque não se demitiu e abriu negociações na noite em que Montenegro recusou o Chega \"na Madeira e no país\".' \n'Eleições regionais na Madeira: Albuquerque promete governo estável nos próximos dias.'\n'PAN e IL estão disponíveis para conversar sobre as negociações.'\n'O Governo Regional vai continuar a trabalhar para viabilizar um Programa de Governo.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serene"
+            },
+            {
+                "type": "keyword",
+                "data": "governo"
+            }
+        ]
+    },
+    {
+        "content_title": "Crescimento do PIB dos EUA no 1º trimestre revisto em alta para 1,4%",
+        "thread_response": "'Confirmou-se que a economia norte-americana cresceu 1,4% no primeiro trimestre deste ano.'\n'A taxa anualizada foi confirmada pelo executivo dos EUA.'\n'O crescimento é uma melhoria em relação ao esperado, segundo o Gabinete de Análise Económica.'\n'As importações tiveram uma revisão em baixa, que influenciou positivamente no cálculo do PIB.'\n'O investimento fixo não residencial e as despesas do governo também tiveram revisões em alta.'\n'O resultado é maior do que a estimativa oficial anterior e do que o esperado pelo consenso LSEG de analistas.'\n'A economia americana teve uma leve alta em relação ao trimestre anterior, informou o Departamento do Comércio.'\n'As projeções para baixo das importações também contribuíram para o crescimento do PIB.'\n'O resultado final é um crescimento anualizado de 1,4% no primeiro trimestre de 2024.'\n'A terceira e última estimativa do Departamento de Comércio confirmou este resultado.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "objective"
+            },
+            {
+                "type": "keyword",
+                "data": "economia"
+            }
+        ]
+    },
+    {
+        "content_title": "Guerra Israel-Hamas. Ataque a campo de refugiados faz 18 mortos",
+        "thread_response": "'Pelo menos 18 pessoas morreram num bombardeamento em campo de refugiados na Faixa de Gaza.'\n'O ataque ocorreu muito próximo do acampamento de Jabalya, onde mais 14 pessoas perderam a vida.'\n'O Ministério da Saúde de Gaza afirma que 45 pessoas foram mortas, incluindo mulheres e crianças, em ataque aéreo israelense.'\n'Israel rejeitou apelos para uma interrupção temporária no conflito com o Hamas.'\n'O primeiro-ministro de Israel, Benjamin Netanyahu, chamou o ataque que matou 45 pessoas um \"erro trágico\".'\n'O campo de refugiados de Rafah foi um dos primeiros atacados por Israel ao iniciar a guerra.'\n'Israel disse que o ataque matou dois líderes do Hamas na região.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.2"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.8"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "conflito"
+            }
+        ]
+    },
+    {
+        "content_title": "Biden e Trump preparam-se para primeiro frente-a-frente destas presidenciais",
+        "thread_response": "'Este é o primeiro debate televisivo da campanha para as eleições presidenciais dos EUA.'\n'O presidente Joe Biden e seu antecessor Donald Trump estão preparados para se enfrentar.'\n'Eles passaram o fim de semana se preparando para o debate, de maneiras muito diferentes.'\n'Veremos Política externa, imigração, economia e o aborto entre os temas abordados.'\n'O presidente Joe Biden e o candidato Donald Trump estarão frente a frente no debate.'\n'O debate será transmitido em direto pela SIC Notícias.'\n'Regras inovadoras marcarão este debate.'\n'Nem Trump nem Biden foram declarados oficialmente como candidatos.'\n'Eles estão praticamente empatados nas pesquisas.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "eleição"
+            }
+        ]
+    },
+    {
+        "content_title": "Impasse político na Madeira. \"Braço de ferro\" entre Chega e Governo",
+        "thread_response": "'Não houve acordo entre o governo da Madeira e o Chega.'\n'O partido mantém-se irredutível e exige que Miguel Albuquerque saia para avançar.'\n'Só a demissão de Albuquerque resolve o impasse, afirma o Chega.'\n'O executivo insular terá mais uma reunião com a IL na sexta-feira.'\n'Vai voltar à mesa das negociações na segunda-feira às 16h30, disse Miguel Castro.'\n'Deixou em aberto a possibilidade de novas discussões, evidenciando que sugeriu.'\n'O presidente do executivo, Miguel Albuquerque, retirou o Programa do Governo da discussão parlamentar.'\n'Vai esgotar as negociações com o Governo Regional \"até ao último minuto\", admitindo um \"braço de ferro\".'\n'Não viabiliza o Programa do Governo sem a saída de Albuquerque, reiterou o líder do Chega/Madeira.'\n'O Chega não cede e mantém-se firme na sua posição.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.3"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "informal"
+            },
+            {
+                "type": "tone",
+                "data": "critical"
+            },
+            {
+                "type": "keyword",
+                "data": "política"
+            }
+        ]
+    },
+    {
+        "content_title": "Bolívia. Nove pessoas ficaram feridas durante tentativa de golpe de Estado",
+        "thread_response": "'Fracassou a tentativa de golpe de Estado na Bolívia.'\n'Aqui está uma pesquisa no duckduckgo para teres mais contexto:'\n'As forças armadas retiraram-se do palácio presidencial de La Paz, ontem à noite.'\n'O general Juan José Zuñiga, até agora chefe do Estado-maior do exército e líder do golpe, foi detido.'\n'Nove pessoas ficaram feridas neste episódio, que está a merecer condenação de vários líderes internacionais.'\n'Hoje o país enfrenta uma tentativa de golpe de Estado.'\n'A Bolívia estremeceu após o ex-comandante do Exército, general Juan José Zúñiga, anunciar um golpe de Estado no país.'\n'O militar anunciou a mobilização das tropas contra o governo em 26 de junho.'\n'A tentativa de golpe na Bolívia realizada por uma facção do exército contra o presidente do país, Luis Arce, repercutiu na imprensa internacional.'\n'No dia seguinte à intentona, os jornais de todo o mundo destacaram a prisão do general Juan José Zuñiga.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.3"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "golpe"
+            }
+        ]
+    },
+    {
+        "content_title": "\"Julgamento público\", \"ingerência\" e \"condicionamento\". Chega, IL e PCP criticam declarações da Ministra da Justiça sobre PGR",
+        "thread_response": "'Governo não dialoga com Lucília Gago?'\n'Há motivos para bloquear audição?'\n'Declarações da Ministra da Justiça são inapropriadas?'\n'O debate no Entre Políticos é importante para entender melhor a situação.'\n'Aqui está uma pesquisa no duckduckgo para teres mais contexto: \"Julgamento público\", \"ingerência\" e \"condicionamento\".'\n'Chega, IL e PCP criticam declarações da Ministra da Justiça sobre PGR.'\n'O que você pensa sobre as críticas feitas pela IL e PCP?'\n'Eles acreditam que as declarações da Ministra da Justiça são inapropriadas.'\n'É importante lembrar que o debate é amplo e envolve várias partes interessadas.'\n'Vamos continuar a discutir sobre isso.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.3"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "informal"
+            },
+            {
+                "type": "tone",
+                "data": "critical"
+            },
+            {
+                "type": "keyword",
+                "data": "justiça"
+            }
+        ]
+    },
+    {
+        "content_title": "Três urgências hospitalares com constragimentos na área de Lisboa",
+        "thread_response": "'Nesta quinta-feira, há três urgências de ginecologia e obstetrícia encerradas.'\n'Há urgências na região de Lisboa e Vale do Tejo.'\n'Veja uma pesquisa no duckduckgo para teres mais contexto.'\n'Confira os constrangimentos nas unidades de saúde do SNS de 26 de novembro a 2 de dezembro de 2023.'\n'Situação de 26 de novembro a 2 de dezembro de 2023: prioridade para os doentes transportados em ambulâncias com indicação do CODU do INEM.'\n'Os demais não devem dirigir-se à Urgência sem a indicação do CODU.'\n'Urgências hospitalares de Lisboa, Centro e Norte com constrangimentos nos próximos dias.'\n'O Ministério da Saúde divulgou o mapa de escalas de urgências do Serviço Nacional de Saúde.'\n'A ministra da Saúde, Ana Paula Martins, admitiu que podem existir constrangimentos nos mapas das urgências do país.'\n'Os planos são actualizados para minimizar os problemas.'\n'Admissões de doentes vindos de fora da área de influência já superaram as do ano passado.'\n'O Centro Hospitalar Universitário Lisboa Central (CHULC) alertou para o aumento de pressão em várias unidades hospitalares.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serio"
+            },
+            {
+                "type": "keyword",
+                "data": "saúde"
+            }
+        ]
+    },
+    {
+        "content_title": "Protótipo vacina cancro. IPO Porto faz descoberta para tumores sólidos",
+        "thread_response": "'Investigadores do IPO Porto criaram um protótipo de vacina para tratamento de tumores sólidos.'\n'Aqui está uma pesquisa no duckduckgo para teres mais contexto:'\n'Vacina inovadora, não previne a doença e não é administrada no braço como usual.'\n'O projeto aguarda autorização do Infarmed.'\n'É uma solução que se injeta diretamente nas células do corpo.'\n'A vacina baseou-se na alteração dos açucares nas células e nas proteínas.'\n'Especialistas preveem a primeira aprovação de uma dose terapêutica para um tumor ainda nesta década.'\n'Uma nova vacina contra o cancro poderá ser produzida em Portugal.'\n'O estudo dos padrões de glicosilação foi o ponto de partida do trabalho.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.7"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.6"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "optimistic"
+            },
+            {
+                "type": "keyword",
+                "data": "câncer"
+            }
+        ]
+    },
+    {
+        "content_title": "Energias renováveis foram a principal fonte de eletricidade na UE em 2023",
+        "thread_response": "'Em 2023, as energias renováveis foram a principal fonte de eletricidade na União Europeia (UE).'\n'A produção foi de 1,21 milhões de Gigawatt-horas (GWh), o que representa um aumento de 12,4% em relação a 2022.'\n'Isso significa que as energias renováveis representaram 44,7% de toda a produção de eletricidade na UE.'\n'O Eurostat confirmou esses dados preliminares.'\n'A energia renovável foi a principal fonte de eletricidade na UE em 2023.'\n'Este aumento é um sinal da importância crescente das energias renováveis para a produção de eletricidade.'\n'As energias renováveis estão cada vez mais importantes para a União Europeia.'\n'O mundo também está seguindo este caminho, com a energia solar sendo o principal fornecedor de eletricidade em 2023.'\n'Mais de 30% da energia produzida no mundo em 2023 foi de origem renovável.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.7"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.6"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "objective"
+            },
+            {
+                "type": "keyword",
+                "data": "energia_renovavel"
+            }
+        ]
+    },
+    {
+        "content_title": "Direção Executiva do SNS já tem equipa completa",
+        "thread_response": "'Foi aprovada a estrutura por três anos no Conselho de Ministros.'\n'Aqui está uma pesquisa para teres mais contexto sobre o assunto.'\n'O Governo anunciou que a Direção Executiva do SNS tem equipa completa.'\n'O novo diretor executivo, António Gandra D´Almeida, nomeou os cinco elementos do conselho de gestão.'\n'A constituição da nova equipa será anunciada em breve com os nomes a serem submetidos à CReSAP.'\n'O Ministério da Saúde agradeceu o trabalho de Fernando Araújo e sua equipa no SNS.'\n'Gandra D´Almeida nomeou os cinco elementos do conselho de gestão da Direção Executiva do SNS.'\n'A resolução foi aprovada na terça-feira e designa o conselho de gestão da Direção Executiva do Serviço Nacional.'\n'O Governo divulgou um comunicado sobre a nomeação dos cinco elementos do conselho de gestão.'\n'Leitura: 3 min. - A notícia é do dia 26 de junho de 2024 às 15:28.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "professional"
+            },
+            {
+                "type": "keyword",
+                "data": "nomeações"
+            }
+        ]
+    },
+    {
+        "content_title": "Governo reforça apoios a estudantes do Ensino Superior",
+        "thread_response": "'Governo anuncia alteração de regras para bolsas de estudo.'\n'O objetivo é abranger mais alunos e reduzir o abandono.'\n'Aqui está uma pesquisa no duckduckgo para teres mais contexto:'\n'Estudantes deslocados não bolseiros com rendimentos per capita entre 23 e 28 vezes o IAS passam a receber complemento de alojamento até 50% dos limites fixados para cada área geográfica.'\n'O Governo reforça apoios para estudantes do Ensino Superior, sejam ou não bolseiros.'\n'As novas regras visam promover o sucesso e reduzir o abandono.'\n'O Ministério da Educação alterou as regras de atribuição de bolsas para abranger mais estudantes do Ensino Superior público já no próximo ano letivo.'\n'O objetivo é \"promover o sucesso\" e reduzir o abandono.'\n'As mudanças são uma resposta ao aumento do abandono escolar.'\n'O Ministério da Educação, Ciência e Inovação anunciou reforçamento de apoios aos estudantes do Ensino Superior.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "neutral"
+            },
+            {
+                "type": "keyword",
+                "data": "política"
+            }
+        ]
+    },
+    {
+        "content_title": "Ministério Público. Menezes Leitão fala em interferência política",
+        "thread_response": "'É preciso que o futuro Procurador Geral da República saiba defender o ministério público.'\n'O sindicato dos Magistrados do Ministério Público defende essa ideia.'\n'Menezes Leitão fala sobre a atuação do Ministério Público em direto na RTP1.'\n'Ele considera má prática discutir a atuação do Ministério Público com base num caso político.'\n'O Lava-jato completa 10 anos e as investigações estão em declínio.'\n'A acusação de interferência política é uma das razões.'\n'Deltan Dallagnol deixou o Ministério Público para se candidatar a deputado federal.'\n'Ele foi o mais votado do Paraná para a legislatura de 2022.'\n'Moro afirmou que a ação ocorre após a parlamentar se envolver em uma polêmica com a delegada Joyce Coelho.'\n'A investigação do MP é sobre interferência política de Débora Menezes em ações da PCAM.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serene"
+            },
+            {
+                "type": "keyword",
+                "data": "instituição"
+            }
+        ]
+    },
+    {
+        "content_title": "Euro2024. Cristiano Ronaldo em \"branco\" pela primeira vez numa fase final",
+        "thread_response": "'É pela primeira vez que Cristiano Ronaldo conclui a fase de grupos sem marcar gol.'\n'O futebolista português sempre marcou na etapa inicial, desde a estreia no Euro'2004.'\n'Ronaldo tem 39 anos e soma 11 fases finais sempre a marcar na etapa inicial.'\n'Pela primeira vez na carreira, Cristiano Ronaldo finalizou uma participação na fase de grupos de uma Eurocopa sem marcar gols.'\n'O avançado português ficou em \"branco\" nos três primeiros jogos lusos no Euro2024.'\n'Cristiano Ronaldo não marcou numa fase de grupos do Europeu pela primeira vez.'\n'Portugal venceu a Turquia por 3 a 0 e garantiu sua classificação para as oitavas de final da Eurocopa 2024.'\n'A seleção de Cristiano Ronaldo lidera o Grupo F da competição.'\n'Cristiano Ronaldo tem uma nova experiência na fase de grupos do Europeu.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.2"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "neutral"
+            },
+            {
+                "type": "keyword",
+                "data": "futebol"
+            }
+        ]
+    },
+    {
+        "content_title": "Relatório IGAI. PSP e GNR com falta de viaturas e recursos humanos",
+        "thread_response": "'PSP e GNR estão com falta de viaturas e efetivos, o que afeta a sua capacidade de agir.'\n'Há problemas na formação e nos equipamentos dos agentes.'\n'A Inspeção-Geral da Administração Interna fez uma inspeção sem aviso prévio em 2023 às 63 instalações.'\n'Foi detectada falta de meios humanos e materiais que põe em causa a segurança da população.'\n'O relatório mostra que alguns postos territoriais da GNR funcionam apenas durante oito horas por dia.'\n'Muitos militares da GNR não são suficientes para garantir o funcionamento dos postos.'\n'As instalações precisam ser adaptadas para as funções do efetivo feminino.'\n'O público precisa de acesso a casas de banho exclusivas e adaptadas para pessoas com mobilidade reduzida.'\n'E há falta de salas de atendimento à vítima.'\n'A IGAI recomenda um reforço e formação do efetivo, dos carros, equipamento e fardamento.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.3"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "informal"
+            },
+            {
+                "type": "tone",
+                "data": "critical"
+            },
+            {
+                "type": "keyword",
+                "data": "reform"
+            }
+        ]
+    },
+    {
+        "content_title": "Ministério Público. Ministra quer novo PGR que ponha \"ordem na casa\"",
+        "thread_response": "'Quer-se um novo Procurador ou Procuradora-geral da República.'\n'A capacidade de restituir confiança é fundamental.'\n'E \"pôr ordem na casa\" é o objetivo.'\n'Rita Alarcão Júdice admite que há descredibilização do Ministério Público.'\n'Precisa-se de alguém com perfil de liderança e comunicação.'\n'O próximo Procurador-geral da República tem de pôr fim à descredibilização.'\n'A falta de controlo interno é um problema grave.'\n'Precisamos de um novo procurador-geral que ponha ordem na casa.'\n'Rita Alarcão Júdice está espantada com a situação do Ministério Público.'\n'O próximo Procurador-geral da República tem de ser alguém com boa liderança.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "justiça"
+            }
+        ]
+    },
+    {
+        "content_title": "Pedro Nuno Santos não esconde orgulho de ter socialista na presidência do Conselho Europeu",
+        "thread_response": "'As famílias sociais-democratas, socialistas e liberais reuniram-se durante a manhã desta quinta-feira para preparar a cimeira europeia que começa esta tarde.'\n'O líder do PS e cabeça de lista socialista ao Parlamento Europeu, Marta Temido, sintonizados a encostar direita do PSD à extrema-direita do Chega e a uma \"agenda de retrocessos\".'\n'Pedro Nuno Santos acusou esta quinta-feira o Governo de Luís Montenegro de estar a ser um executivo de \"combate\" à oposição'. \n'O líder do PS, Pedro Nuno Santos, teceu rasgados elogios a António Costa (e críticas implícitas aos últimos líderes do Conselho Europeu).'\n'Na Justiça, defendeu que \"á mudanças que têm de ser feitas para que o país possa progredir\".'\n'Com um legado da conquista da maioria absoluta e após oito anos de governação do ainda primeiro-ministro, Pedro Nuno Santos tem agora o desafio de levar os socialistas a eleições antecipadas de 10 de março.'\n'Pedro Nuno Santos registou o \"facto de um país com a nossa dimensão poder ter, a poucos dias, dois portugueses em altos cargos na cena política mundial: o secretário-geral da ONU e o presidente do Conselho Europeu\".'\n'Ora, trata-se de \"dois militantes do PS, dois ex-Secretários-Gerais do Partido Socialista, dois antigos primeiros-ministros\".'\n'Pedro Nuno Santos não esconde orgulho de ter socialista na presidência do Conselho Europeu.'\n'Aqui está uma pesquisa no duckduckgo para teres mais contexto:'\n'Líder do PS e cabeça de lista socialista ao Parlamento Europeu, Marta Temido, sintonizados a encostar direita do PSD à extrema-direita do Chega e a uma \"agenda de retrocessos\".'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "política"
+            }
+        ]
+    },
+    {
+        "content_title": "Chega/Madeira fala em \"braço de ferro\" e insiste no afastamento de Albuquerque",
+        "thread_response": "'Vai esgotar as negociações com o Governo Regional até ao último minuto.'\n'Admitiu um braço de ferro e reiterou que não viabiliza o Programa do Governo sem o afastamento do presidente do executivo.'\n'O líder do Chega/Madeira insiste no afastamento de Miguel Albuquerque.'\n'Miguel Albuquerque deve se afastar e essa é a nossa bandeira e não vamos abdicar dela.'\n'Chega manterá o braço de ferro até onde for possível.'\n'No fim, um ganha e outro perde, ironizou o líder do Chega/Madeira.'\n'O partido não viabiliza o Programa do Governo sem o afastamento do presidente do executivo.'\n'Mantém voto contra Programa e reitera apoio a Executivo sem Albuquerque.'\n'Chega não viabiliza o Programa do Governo sem o afastamento do presidente do executivo.'\n'O líder do Chega/Madeira não viabiliza o Programa do Governo sem o afastamento do presidente do executivo.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.3"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "assertive"
+            },
+            {
+                "type": "keyword",
+                "data": "política"
+            }
+        ]
+    },
+    {
+        "content_title": "13h PM confiante nas escolhas líderes europeus",
+        "thread_response": "'Eu preciso de mais contexto sobre a situação política na Europa.'\n'RTP Notícias está a seguir as principais notícias do país e do mundo.'\n'Líderes europeus estão decidindo quem assume os altos cargos no bloco.'\n'A Cúpula informal dos líderes europeus vai ocorrer esta segunda-feira.'\n'Tursk elogiou vários líderes europeus e destacou a cooperação em segurança entre Polônia, França e Alemanha.'\n'Essa aliança é conhecida como Triângulo de Weimar.'\n'O jantar dos líderes europeus em Bruxelas vai discutir os cargos de topo da UE.'\n'A próxima semana, logo na segunda-feira, o encontro vai ocorrer.'\n'Vou ter mais informações sobre isso na próxima semana.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "politics"
+            }
+        ]
+    },
+    {
+        "content_title": "Conselho Europeu. Luís Montenegro vai partir na reunião decisiva",
+        "thread_response": "'Já sabe que será pela hora do jantar desta quinta-feira que os líderes da UE vão discutir a questão dos lugares de topo.'\n'A reunião vai ocorrer à entrada para a discussão sobre o nome de António Costa para liderar o Conselho Europeu.'\n'O primeiro-ministro português Luís Montenegro participa na reunião e frisou que é melhor reunir um consenso alargado.'\n'Ele apontou que a aprovação do nome de António Costa está \"bem encaminhada\" e há convergência entre as famílias políticas europeias.'\n'Devemos aguardar com serenidade o processo de decisão', disse Montenegro, em Bruxelas.'\n'Portugal estará representado pelo primeiro-ministro Luís Montenegro na reunião de líderes que se prolonga até sexta-feira.'\n'Montenegro defendeu António Costa como o \"melhor socialista dos que estão em condições de ser candidatos a presidentes do Conselho Europeu\".'\n'Ele elogiou o percurso de António Costa, reconhecendo a sua experiência política e liderança.'\n'O Conselho Europeu começa um debate sobre os cargos de topo da UE que deve culminar com uma decisão na cimeira europeia no final do mês.'\n'A discussão inclui o nome de António Costa para liderar a instituição, Ursula von der Leyen e Roberta Metsola para segundos mandatos na Comissão e no Parlamento, respetivamente.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "política"
+            }
+        ]
+    },
+    {
+        "content_title": "Cimeira em Bruxelas. Líderes dos 27 decidem altos cargos da UE",
+        "thread_response": "'Pode ser nomeado António Costa presidente do Conselho Europeu esta quinta-feira.'\n'O líderes dos 27 estão reunidos em Bruxelas para decidir os cargos de topo da União Europeia.'\n'A cimeira pode ter drama por causa das críticas de Giorgia Meloni, primeira-ministra de Itália.'\n'Meloni não quis falar à imprensa e coube ao homólogo polaco.'\n'Os líderes dos 27 vão discutir os altos cargos das instituições da União Europeia no próximo ciclo institucional (2024-2029).'\n'Há um aval político preliminar entre o centro-direita, socialistas e liberais ao nome de António Costa para a liderança do Conselho Europeu.'\n'Os chefes de Estado e de Governo da União Europeia decidem se aprovam os nomes já acordados para os cargos de topo europeus até 2029.'\n'Reunidos em Bruxelas, os líderes dos 27 vão discutir os altos cargos das instituições da União Europeia no próximo ciclo institucional (2024-2029).'\n'Os líderes dos 27 estão reunidos para decidir os cargos de topo da União Europeia.'\n'Aprovam-se os nomes já acordados para os cargos de topo europeus até 2029.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "instituições_europeias"
+            }
+        ]
+    },
+    {
+        "content_title": "Abel Ruiz troca o Braga pelo Girona",
+        "thread_response": "'Abel Ruiz vai deixar o Sporting de Braga para reforçar o Girona.'\n'O internacional espanhol tem contrato até 2025 e chegou a Braga em janeiro de 2020 por empréstimo do FC Barcelona.'\n'Ele assina contrato com o Girona até 2029 e é transferido definitivamente, mediante contrapartida de nove milhões de euros.'\n'O SC Braga mantém a titularidade de 10% da mais-valia de uma futura transferência do jogador.'\n'A venda de Abel Ruiz rende imediatamente nove milhões de euros aos cofres do Sporting de Braga.'\n'O clube minhoto mantém 10% da mais-valia de uma futura transferência do internacional espanhol.'\n'Abel Ruiz é um jogador de 24 anos que chegou a Braga em janeiro de 2020 por empréstimo do FC Barcelona.'\n'O Girona, terceiro classificado da última edição da Liga espanhola de futebol, reforça sua equipe com o internacional espanhol.'\n'Nove milhões de euros são a contrapartida pela transferência definitiva do jogador para o Girona.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "objective"
+            },
+            {
+                "type": "keyword",
+                "data": "futebol"
+            }
+        ]
+    },
+    {
+        "content_title": "Sudão. Número de crianças com grave escassez de alimentos duplicou em seis meses",
+        "thread_response": "'Escassez de alimentos no Sudão é grave. Número de crianças afetadas quase duplicou em seis meses.'\n'A guerra agravou a situação, com 75% das crianças sofrendo diariamente falta de alimentos.'\n'Save the Children informou sobre a crise alimentar no país.'\n'Fome e subnutrição afetam pelo menos 25 milhões de pessoas no Sudão.'\n'Milhares de famílias são forçadas a fugir semanalmente para o Chade e o Sudão do Sul.'\n'Crianças deslocadas em pontos de distribuição de alimentos em Porto Sudão.'\n'Escassez de recursos, fome aguda e riscos à saúde afetam sudaneses.'\n'Deslocamento em massa é um dos principais problemas no país.'\n'ONU alerta para a situação crítica no Sudão.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.3"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "crise-humanitária"
+            }
+        ]
+    },
+    {
+        "content_title": "Depósitos de particulares crescem em maio para valor mais alto desde dezembro de 2022",
+        "thread_response": "'Em maio, o stock de depósitos de particulares subiu 6,1% em termos homólogos.'\n'O valor total alcançado foi de 184.299 milhões de euros, atingindo o valor e a variação mais altos desde dezembro e outubro de 2022, respetivamente.'\n'Isso significa que as famílias continuam a confiar nas suas poupanças nos bancos residentes em Portugal.'\n'O valor total de depósitos dos particulares totalizou 184,3 mil milhões de euros em maio, o maior valor desde que há registos contabilizados pelo Banco de Portugal (BdP).'\n'Em comparação com maio de 2023, o stock de depósitos de particulares nos bancos cresceu 6,1% para a maior taxa de variação anual desde outubro de 2022.'\n'A taxa de juro dos novos depósitos a prazo de particulares subiu em maio para 1,26%, sendo este o valor mais alto em oito anos.'\n'Em maio, o montante de novas operações de depósitos a prazo de particulares ascendeu a 7.490 milhões de euros, mais 1.276 milhões do que em abril.'\n'A evolução contrasta com a de abril quando havia uma queda do valor dos novos depósitos.'\n'Os depósitos das empresas nos bancos totalizam, em maio, 65,7 mil milhões de euros, mais 0,7 mil milhões do que...'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "objective"
+            },
+            {
+                "type": "keyword",
+                "data": "economia"
+            }
+        ]
+    },
+    {
+        "content_title": "Conselho Europeu. Montenegro convencido da nomeação de António Costa",
+        "thread_response": "'Já está em Bruxelas para a reunião de líderes da UE.'\n'O primeiro-ministro vai escolher os nomes dos altos cargos da União Europeia.'\n'Luís Montenegro está convencido que a decisão está bem encaminhada para corresponder às pretensões do Governo de Portugal.'\n'Acredita que a decisão sobre a nomeação de António Costa para presidente do Conselho Europeu pode ser tomada já esta quinta-feira.'\n'Sob o ponto de vista daquilo que são as expectativas, a nomeação de António Costa é uma possibilidade real.'\n'Apesar da sua demissão, António Costa poderá suceder ao belga Charles Michel na liderança do Conselho Europeu.'\n'O primeiro-ministro indica que a aprovação do nome de António Costa está \"bem encaminhada\" e há convergência por parte das famílias políticas europeias.'\n'Devemos aguardar com serenidade o processo de decisão', disse Luís Montenegro, em Bruxelas.'\n'O Conselho Europeu começa um debate sobre os cargos de topo da UE que deve culminar com uma decisão na cimeira europeia no final do mês.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serene"
+            },
+            {
+                "type": "keyword",
+                "data": "instituições"
+            }
+        ]
+    },
+    {
+        "content_title": "F1. Pierre Gasly renova com a equipa Alpine",
+        "thread_response": "'Pierre Gasly vai continuar a correr na Alpine no Mundial de Fórmula 1.'\n'A escuderia gaulesa não revelou a duração do contrato, apenas que será de mais de uma temporada.'\n'O piloto francês Pierre Gasly assinou um contrato de extensão com a Alpine.'\n'Ele juntou-se à equipe no início de 2023 num acordo de dois anos.'\n'A Alpine antecipou a permanência de Pierre Gasly pelo menos até o fim de 2026, com um contrato plurianual.'\n'O francês disputa neste ano a sua segunda temporada com o time.'\n'Ele conquistou como primeiro pódio pela montadora francesa um terceiro lugar no GP da Holanda passado.'\n'Pierre Gasly renova com a equipa de Fórmula 1 Alpine.'\n'Em uma temporada e meia ao serviço da Alpine, Gasly conquistou 67 pontos.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "objective"
+            },
+            {
+                "type": "keyword",
+                "data": "Fórmula1"
+            }
+        ]
+    },
+    {
+        "content_title": "PR guineense exonera ministro da Saúde Pública que pediu demissão do Governo",
+        "thread_response": "'Presidente da Guiné-Bissau exonerou o ministro da Saúde Pública, Domingos Malú.'\n'O ministro pediu demissão do Governo há uma semana e foi anunciado pela presidência guineense.'\n'Domingos Malú era membro da direcção do PRS e chefe de Estado da Guiné-Bissau exonerou-o nesta quinta-feira.'\n'Ele pediu a demissão do Governo, que lidera o primeiro-ministro Nuno Gomes Nabiam.'\n'O Governo cessante da Guiné-Bissau pediu demissão e apresentou ao chefe de Estado a sua demissão.'\n'A demissão ocorreu na terça-feira, 18, e três membros do Governo guineense pertencentes ao partido APU- PDGB estão a ter leituras diferentes em Bissau.'\n'Para alguns analistas, a demissão é um sinal de instabilidade política na Guiné-Bissau.'\n'O Presidente da Guiné-Bissau tem que tomar uma decisão sobre o futuro do Governo e do país.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.3"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "política"
+            }
+        ]
+    },
+    {
+        "content_title": "Moçambique. Constitucional rejeita mais uma queixa contra Venâncio Mondlane",
+        "thread_response": "'Conselho Constitucional moçambicano considerou ilegítimo pedido do Congresso dos Democratas Unidos.'\n'O pedido exigia que Venâncio Mondlane fosse impedido de usar símbolos da Coligação Aliança Democrática.'\n'Mondlane apoia a sua candidatura à Presidência da República com o apoio da CAD.'\n'Venâncio Mondlane submeteu a sua candidatura ao Conselho Constitucional a 6 de Junho deste ano.'\n'O Conselho Constitucional rejeitou queixa do presidente da Resistência Nacional Moçambicana contra Venâncio Mondlane.'\n'O líder da Renamo pretendia impedir a utilização do símbolo da Coligação Aliança Democrática.'\n'Conselho Constitucional rejeitou liminarmente pedido de Ossufo Momade para impedir o uso da pomba como símbolo.'\n'Mondlane obteve vitória: Conselho Constitucional rejeitou impugnar o uso da pomba como símbolo da CAD.'\n'Este é um passo importante para a candidatura de Venâncio Mondlane à Presidência da República.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.3"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "política"
+            }
+        ]
+    },
+    {
+        "content_title": "Polícia queniana dispara balas de borracha e gás lacrimogéneo contra manifestantes",
+        "thread_response": "'Polícia queniana usou balas de borracha e gás lacrimogéneo contra manifestantes em Nairóbi.'\n'A polícia estava presente em grande número nas ruas do centro da capital.'\n'Manifestantes protestaram contra políticas do Governo em Nairobi.'\n'Gás lacrimogéneo e balas de borracha foram usados para dispersar os grupos.'\n'Protestos ocorreram um dia após o que?'\n'A agência France-Presse (AFP) avançou essa informação.'\n'Manifestantes reprimidos pela polícia com granadas de gás lacrimogéneo e canhões de água.'\n'Há informações sobre um manifestante morto durante os protestos.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.3"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "informal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "protestos"
+            }
+        ]
+    },
+    {
+        "content_title": "12h Chefes de Estado e de Governo chegam ao Conselho Europeu",
+        "thread_response": "'É uma reunião informal do Conselho Europeu. Chefes de Estado e Governo se comprometeram a manter esforços em áreas como preparação para crises.'\n'O objetivo é concentrar-se em transições ecológica e digital, eficiência energética e recursos, adaptação às alterações climáticas e medicamentos críticos.'\n'Os líderes discutiram sobre mercado único e declarações de Charles Michel à chegada.'\n'O Presidente do Conselho Europeu falou sobre a importância da cooperação e assistência ao Conselho da UE.'\n'A nomeação do ex-primeiro-ministro português António Costa para a presidência do Conselho Europeu está em discussão.'\n'PS e PSD estão de acordo para avançar com o nome de António Costa para o cargo europeu.'\n'Apesar da demissão, António Costa poderá suceder ao belga Charles Michel na liderança do Conselho Europeu.'\n'A nomeação é feita pelos líderes que decidem por maioria qualificada (55% dos 27 Estados-membros).'\n'O processo de nomeação é importante para a UE e o futuro da Europa.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "política"
+            }
+        ]
+    },
+    {
+        "content_title": "Conselho Europeu. Zelensky em Bruxelas para assinar acordo de segurança com a UE",
+        "thread_response": "'Está em Bruxelas para participar na reunião do Conselho Europeu e assinar um acordo de segurança com a União Europeia.'\n'O presidente ucraniano pretende aderir à UE e dar os próximos passos relativamente à integração do seu país.'\n'Chegou à cimeira e disse que é preciso dar os próximos passos para a integração da Ucrânia na UE.'\n'Aqui está uma pesquisa no duckduckgo para teres mais contexto sobre o acordo de segurança.'\n'O presidente do Conselho Europeu, Charles Michel, recebeu hoje em Bruxelas o Presidente ucraniano, Volodymyr Zelensky, para a assinatura do acordo.'\n'Garantiu ser \"realmente importante\" a deslocação de Zelensky a Bruxelas e gostaria de lhe dar as boas-vindas.'\n'Tem trabalhado arduamente em conjunto para apoiar a Ucrânia e é sempre um prazer recebê-lo aqui em Bruxelas.'\n'Além da UE, também Estónia e Lituânia assumiram compromissos de longo prazo para a defesa e segurança do país.'\n'O presidente ucraniano considerou que o acordo significa um passo em direção à paz e segurança na região.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "política"
+            }
+        ]
+    },
+    {
+        "content_title": "Rafa Silva assina com o Besiktas por três épocas",
+        "thread_response": "'Já sabemos que Rafa deixou o Benfica em fim de contrato.'\n'O Besiktas anunciou que assinou um contrato com o futebolista português por três temporadas.'\n'Rafa vai receber seis milhões de euros líquidos por temporada, segundo o clube turco.'\n'Ele assinou como jogador livre e não há nenhuma condição para a sua saída do clube.'\n'O contrato é válido até ao final de 2026/27, com efeito a partir de 1 de julho de 2024.'\n'Rafa falou ao canal oficial do Besiktas sobre a transferência e disse que não se arrependeria da escolha.'\n'Com 31 anos, Rafa sentiu que era hora de mudar de ares e aceitou o desafio do Besiktas.'\n'O clube turco espera que o avançado português contribua para os seus objetivos esportivos.'\n'Rafa é um jogador experiente e tem tudo para se adaptar bem ao novo time.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "objective"
+            },
+            {
+                "type": "keyword",
+                "data": "contrato"
+            }
+        ]
+    },
+    {
+        "content_title": "União Europeia e Ucrânia assinam acordo de segurança em Bruxelas",
+        "thread_response": "'Os líderes da UE assinaram um acordo de segurança com a Ucrânia.'\n'O acordo foi firmado durante a cimeira dos líderes da União Europeia em Bruxelas.'\n'A União Europeia comprometeu-se a fornecer apoio militar, financeiro, diplomático e humanitário à Ucrânia a longo prazo.'\n'Gostaria de vos agradecer pelo acordo de segurança', disse o Presidente da UE.'\n'O presidente ucraniano assinou o acordo ao lado de Charles Michel em Bruxelas.'\n'A assinatura ocorreu no início de uma cimeira de dois dias em Bruxelas, após o arranque oficial das negociações formais de adesão à UE.'\n'Volodymyr Zelensky considerou que o acordo significa um passo importante para a segurança da Ucrânia.'\n'O presidente ucraniano está em Bruxelas para assinar o acordo de segurança com a União Europeia.'\n'Ele anunciou isso em sua conta na rede social, cerca de duas horas atrás.'\n'Zelensky irá se reunir com os líderes da UE e dos Estados-membros em conversas bilaterais.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "política"
+            }
+        ]
+    },
+    {
+        "content_title": "Portugal com 21 vagas em seis modalidades a dois meses dos Paralímpicos Paris2024",
+        "thread_response": "'Portugal aumentou para 21 as presenças garantidas nos Jogos Paralímpicos Paris2024.'\n'Atribuição de duas vagas ao atletismo, modalidade que agora tem seis representantes.'\n'O Comité Paralímpico de Portugal anunciou essa informação hoje.'\n'Isso significa que Portugal tem asseguradas 21 vagas em seis modalidades.'\n'Dois meses antes do início dos Jogos Paralímpicos Paris2024, que decorrerão entre 28 de agosto e 08 de setembro.'\n'Ainda há tempo para mais qualificações e garantir mais vagas.'\n'Portugal tem asseguradas 19 presenças em seis modalidades, à exceção das vagas atribuídas via ranking individual.'\n'Todas as outras vagas foram conquistadas através de qualificações.'\n'Já são 18 atletas a representar Portugal em boccia.'\n'Ainda há mais modalidades para serem confirmadas.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.7"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.6"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "positive"
+            },
+            {
+                "type": "keyword",
+                "data": "desporto"
+            }
+        ]
+    },
+    {
+        "content_title": "NATO. Stoltenberg vê Rússia incapaz de avanços significativos na Ucrânia",
+        "thread_response": "'NATO não vê Rússia como capaz de avanços significativos na Ucrânia.'\n'A declaração foi feita pelo secretário-geral da NATO, Jens Stoltenberg.'\n'Rússia está a exercer pressão e atacar por via aérea, apesar disso.'\n'As forças militares russas não estão em condições de realizar avanços significativos na Ucrânia.'\n'A Rússia tem sido capaz de avançar ao longo da linha de frente.'\n'Uma ajuda adicional está a caminho para ajudar a Ucrânia.'\n'O Presidente da Ucrânia fez um apelo claro aos ministros da Defesa dos Aliados na Câmara do Conselho NATO-Ucrânia que eu presidi há alguns dias.'\n'Eles concordaram em aumentar o apoio.'\n'A Ucrânia está mais perto de aderir à NATO do que nunca antes.'\n'Isso é porque fizemos importantes decisões no nosso cume em Vilnius no ano passado.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.3"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "Ucrânia"
+            }
+        ]
+    },
+    {
+        "content_title": "17h PM: pretensões portuguesas \"bem encaminhadas\"",
+        "thread_response": "'É uma pesquisa no Duckduckgo para teres mais contexto.'\n'RTP Notícias - Descrição. 17h PM: pretensões portuguesas \"bem encaminhadas\" por Miguel Soares'\n'Luso-chinesas começam vitoriosas na qualificação para os Jogos'\n'Shao Jieni, segunda cabeça de série, e Fu Yu, sexta, Grávidas vão ter canal de atendimento direto'\n'para garantir que são bem encaminhadas Por Executive Digest com Lusa 14:48, 29 Mai 2024'\n'As grávidas vão ter um canal de atendimento direto, disponível através do SNS24'\n'para garantir que são encaminhadas devidamente para os hospitais mais perto da sua casa'\n'A ministra da Saúde anunciou hoje esse canal de atendimento direto'\n'O conteúdo completo está disponível apenas para Subscritores. Entrar.'\n'MAIS LIDAS. 1. Manu Chao, Eskorzo, Marcelo D2 e Eu. Clides no Festival do Maio em julho no Seixal.'\n'2. Sobre se existe um prazo para negociar a venda da Lusa'\n'tendo em conta que a Assembleia da República será dissolvida dentro de pouco tempo'\n'o empresário remata: \"Eu diria que não vai haver...\"",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "objective"
+            },
+            {
+                "type": "keyword",
+                "data": "qualificação"
+            }
+        ]
+    },
+    {
+        "content_title": "Metro do Porto reduz prejuízos em 1,6% para 45,5 ME em 2023",
+        "thread_response": "'Os prejuízos da Metro do Porto reduziram para 45,45 milhões de euros em 2023.'\n'A redução foi de 1,6% em relação ao ano passado.'\n'Divulgação feita hoje à Lusa.'\n'O investimento aumentou num ano com receitas mais elevadas.'\n'Veja aqui uma pesquisa no duckduckgo para teres mais contexto: Ouvir.'\n'Os prejuízos da Metro do Porto reduziram para 45,45 milhões de euros em 2023, menos 1,6% do que no ano passado.'\n'A empresa divulgou as contas hoje à Lusa.'\n'O investimento aumentou e as receitas também cresceram.'\n'As contas foram aprovadas no dia 27 de Junho de 2024 às 16h45.'\n'A Metro do Porto registrou prejuízos de 46,1 milhões de euros em 2022.'\n'O resultado foi o melhor antes de juros, impostos e amortizações.'\n'Em 2023, a empresa bateu o recorde absoluto de passageiros transportados, atingindo os 79 milhões.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serene"
+            },
+            {
+                "type": "keyword",
+                "data": "transportation"
+            }
+        ]
+    },
+    {
+        "content_title": "Direção de Informação da Lusa repudia bloqueio russo a quatro `media` portugueses",
+        "thread_response": "'Não podemos aceitar que a liberdade de informação seja atacada.'\n'A Lusa repudia a decisão russa de bloquear o acesso à RTP e outros meios de comunicação social.'\n'Ela solidariza-se com os órgãos de comunicação social visados e considera que tal decisão é um ataque à liberdade de informação.'\n'O primeiro-ministro português, Luís Montenegro, também repudiou fortemente a decisão russa.'\n'Portugal não pode aceitar que a Federação Russa impeça o acesso a meios de comunicação social europeus.'\n'A Lusa é a maior agência de notícias de língua portuguesa no mundo e defende a liberdade de informação.'\n'O Exército ucraniano recua face às ofensivas russas em particular na região de Kharkiv.'\n'Portugal goleia Irlanda do Norte na corrida para o Europeu feminino de 2025.'\n'A seleção portuguesa feminina de futebol continua 100% vitoriosa no Grupo B3 de qualificação para o Campeonato da Europa de 2025.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.2"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "bloqueio"
+            }
+        ]
+    },
+    {
+        "content_title": "Presidente angolano anuncia \"para breve\" encontro entre Tshisekedi e Kagame",
+        "thread_response": "'Pode estar para breve um encontro entre os chefes de Estado da RDCongo e do Ruanda, para falarem sobre a paz.'\n'O Presidente angolano anunciou isso em Abidjan, Costa do Marfim.'\n'Eles estão a negociar a nível ministerial, na perspetiva de muito em breve conseguirmos colocar os dois chefes de Estado a conversarem diretamente.'\n'João Lourenço manifestou-se otimista \"em como, tarde ou cedo\", se encontrará a solução definitiva que vai levar a paz à RDCongo.'\n'A guerra não é boa para ninguém, ambos os países perdem com a situação que se vive atualmente.'\n'Nós precisamos encontrar uma solução para essa região, não apenas para a RDCongo, mas também para toda aquela área.'\n'O Presidente angolano está comprometido em ajudar a encontrar a paz na região.'\n'Aqui está uma oportunidade para os líderes da RDCongo e do Ruanda se sentarem e discutirem sobre a necessidade de paz definitiva.'\n'Esperamos que isso leve a um resultado positivo e ajude a resolver o conflito na região.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "diplomacia"
+            }
+        ]
+    },
+    {
+        "content_title": "Bolsas mais acessíveis para estudantes-trabalhadores",
+        "thread_response": "'Vai ser avaliado o impacto das medidas de apoio social aos estudantes do ensino superior.'\n'O Governo quer melhorar as condições de acesso às bolsas para os trabalhadores estudantes.'\n'Bolsas mais acessíveis para estudantes-trabalhadores, isso é o que o novo diploma promete.'\n'Fernando Alexandre, ministro da Educação, revelou que a tutela pediu um estudo para avaliar o impacto das medidas de apoio social.'\n'O Governo alargou o acesso às bolsas de estudo para os trabalhadores estudantes.'\n'Agora, os rendimentos até 14 vezes da retribuição mínima mensal garantida são isentos para se candidatarem a uma bolsa.'\n'Isso significa que o sucesso é mais próximo para os estudantes-trabalhadores.'\n'O Ministério da Educação alterou as regras de atribuição de bolsas para abranger mais estudantes do Ensino Superior público.'\n'Agora, é possível promover o sucesso dos estudantes do ensino superior público.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.7"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.6"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serene"
+            },
+            {
+                "type": "keyword",
+                "data": "política"
+            }
+        ]
+    },
+    {
+        "content_title": "Governo garante continuidade de psicólogos nas escolas",
+        "thread_response": "'Garantiu-se que os psicólogos que trabalham nas escolas terão os seus contratos renovados.'\n'O ministro da Educação também salientou a importância destes profissionais no acompanhamento dos alunos.'\n'Muitos psicólogos serão integrados nos quadros, o que é uma boa notícia para a educação pública.'\n'A OPP pediu ao Governo para garantir até julho a continuidade de cerca de 500 psicólogos nas escolas públicas.'\n'Isso permitirá que os profissionais se preparem para o próximo ano letivo.'\n'A presença de psicólogos em escolas públicas é uma obrigação legal, prevista na Lei 13.935/2019.'\n'Segundo a lei, todas as escolas da rede básica de ensino público devem ter psicólogos e assistentes sociais em seus quadros.'\n'No entanto, apenas 85 escolas cumpriram a norma até setembro de 2023.'\n'A mobilização para implementar a lei está em curso no Senado.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serene"
+            },
+            {
+                "type": "keyword",
+                "data": "educação"
+            }
+        ]
+    },
+    {
+        "content_title": "Plataforma cívica contesta duas centrais fotovoltaicas no concelho de Évora",
+        "thread_response": "'Os projetos de duas centrais solares fotovoltaicas no concelho de Évora estão a ser contestados.'\n'A plataforma cívica alega que vão provocar danos irreversíveis na paisagem e na vida dos moradores e agentes turísticos.'\n'Ela afirma que as centrais ocuparão uma área total de cerca de 650 hectares na freguesia de Graça do Divor, concelho de Évora.'\n'Isso envolverá a instalação de 394.500 painéis, no caso de uma central, e 362.076 painéis, no caso da outra.'\n'A plataforma cívica está a contestar os projetos das centrais solares fotovoltaicas em Évora.'\n'Ela alega que os danos irreversíveis serão causados na paisagem e na vida dos moradores e agentes turísticos.'\n'O antigo Palácio dos Condes de Sortelha, onde atualmente se situam os Paços do Concelho, já tem instaladas telhas solares fotovoltaicas.'\n'Este é o primeiro dos edifícios que no Centro Histórico de Évora irão estar equipados com sistemas de captação de energia solar.'\n'O Município eborense informou que as novas telhas estão adaptadas às caraterísticas específicas de um património histórico protegido.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.3"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "informal"
+            },
+            {
+                "type": "tone",
+                "data": "critical"
+            },
+            {
+                "type": "keyword",
+                "data": "energia"
+            }
+        ]
+    },
+    {
+        "content_title": "Supremo dos EUA volta a autorizar aborto em caso de emergência médica no Idaho",
+        "thread_response": "'É hoje que o Supremo Tribunal norte-americano autorizou o aborto em caso de emergência médica no Estado do Idaho.'\n'O estado do Idaho é quase totalmente proibido ao aborto, então essa decisão é um passo importante.'\n'Autoridades republicanas do estado apresentaram um recurso que foi rejeitado pelo tribunal.'\n'Isso abre caminho para que os médicos do Idaho possam fazer abortos de emergência.'\n'A questão constitucional sobre o aborto em caso de emergência médica volta a ser discutida.'\n'O Supremo Tribunal norte-americano admitiu ter divulgado por engano um documento sobre o caso.'\n'Isso causou confusão e levantou dúvidas sobre a legalidade dos abortos de emergência no Estado do Idaho.'\n'A Suprema Corte dos EUA está dividida sobre a possibilidade de uma lei federal obrigar a realização de abortos emergências em Idaho.'\n'O procedimento de aborto é praticamente proibido no Estado do Idaho, então essa decisão é importante para os médicos e pacientes.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.3"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "jurisprudencia"
+            }
+        ]
+    },
+    {
+        "content_title": "Taiwan recomenda a cidadãos que não viajem para China após ameaças de \"execução\"",
+        "thread_response": "'As autoridades de Taiwan elevaram hoje o nível de alerta de viagem para a China.'\n'Aconselhando a população a evitar o país-vizinho, após ameaças de Pequim sobre a possibilidade de \"executar\" pessoas consideradas \"acérrimas defensoras\" da independência taiwanesa.'\n'O governo de Taiwan aumentou seu alerta de viagem para a China na quinta-feira.'\n'Dizendo a seus cidadãos para não irem a menos que seja absolutamente necessário, após uma ameaça de Pequim.'\n'Liang Wen-chieh, porta-voz do Conselho de Assuntos da China Continental, disse que o governo de Taiwan aumentou seu alerta de viagem.'\n'O alerta foi aumentado após uma ameaça de Pequim na semana passada de executar aqueles considerados apoiadores \"obstinados\" da independência de Taiwan.'\n'Pequim ameaçou executar pessoas que apoiam a independência de Taiwan.'\n'O governo de Taiwan está aconselhando os cidadãos a evitar viagens não essenciais à China.'\n'A situação é tensa e o governo de Taiwan está tomando medidas para proteger seus cidadãos.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "China"
+            }
+        ]
+    },
+    {
+        "content_title": "CCDR-N e Xunta da Galiza tomam posição conjunta pela alta velocidade Porto-Vigo",
+        "thread_response": "'É uma prioridade óbvia ligar Lisboa a Vigo com alta velocidade.'\n'A CCDR do Norte e a Xunta da Galiza assinaram uma declaração conjunta para defender essa ideia.'\n'Ela é fundamental para o desenvolvimento regional e económico.'\n'A primeira fase da linha de alta velocidade em Portugal estará pronta em 2030.'\n'A segunda fase se completa em 2032, com ligação a Lisboa assegurada via Linha do Norte.'\n'Vou pesquisar mais sobre isso no duckduckgo para te dar mais contexto.'\n'A ligação do Porto a Vigo terá estações no Aeroporto Francisco Sá Carneiro, Braga e Ponte.'\n'O presidente da Xunta da Galiza revelou que estão a preparar um manifesto conjunto para defender essa ideia.'\n'Eurorregião Galiza e Norte de Portugal está a trabalhar juntos para fazer isso acontecer.'\n'Espero que isso seja uma boa notícia para o futuro do Norte de Portugal.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "objective"
+            },
+            {
+                "type": "keyword",
+                "data": "ligação"
+            }
+        ]
+    },
+    {
+        "content_title": "Hungria diz que escolha de von der Leyen trava mudança necessária",
+        "thread_response": "'Presidente húngaro é contra Ursula von der Leyen para as instituições europeias.'\n'O diretor político do Presidente húngaro reiterou essa oposição hoje.'\n'Especificamente, a Hungria está contra os nomes de Ursula von der Leyen e Roberta Metsola.'\n'Não há um sinal da Hungria na escolha desses nomes.'\n'Hungria diz que escolha de von der Leyen trava mudança necessária.'\n'O diretor político do Presidente húngaro reiterou a oposição aos nomes propostos para as instituições europeias.'\n'Balázs Orbán disse especificamente que a Hungria está contra os nomes de Ursula von der Leyen e Roberta Metsola, mas não referiu o de António Costa.'\n'A presidente da Comissão Europeia, Ursula von der Leyen, é alvo de uma nova campanha lançada pelo primeiro-ministro da Hungria, Viktor Orbán.'\n'Viktor Orbán usou o seu direito de veto na cimeira da UE para travar a revisão do orçamento plurianual.'\n'A UE aprovará verba para Ucrânia com ou sem Hungria, diz von der Leyen.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.3"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "critical"
+            },
+            {
+                "type": "keyword",
+                "data": "política"
+            }
+        ]
+    },
+    {
+        "content_title": "\"Ordem na casa\". Partidos reagem a declarações da ministra da Justiça sobre PGR",
+        "thread_response": "'É preciso um novo procurador-geral da República que restabeleça a confiança no Ministério Público.'\n'Ministra da Justiça admite que o atual MP sofre de descredibilização.'\n'O Chega quer ouvir Rita Júdice no Parlamento sobre as declarações da ministra.'\n'Lucília Gago é alvo de pedidos de esclarecimentos do Bloco de Esquerda e PAN.'\n'Ministro da Justiça quer um PGR que \"pôr ordem na casa\" no Ministério Público.'\n'Sindicatos reagem às declarações da ministra, exigindo mais comunicação do MP.'\n'Funcionários judiciais e magistrados pedem um novo PGR \"independente\" do poder político.'\n'O Presidente da República deve intervir para pôr ordem na casa e dissolver o Parlamento.'\n'Rita Júdice admite que o sucessor de Lucília Gago precisa ter mais capacidade de comunicação.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "justiça"
+            }
+        ]
+    },
+    {
+        "content_title": "Parlamento fará na 6ª feira teste ao semáforo para disciplinar tempo das intervenções",
+        "thread_response": "'Vai haver um teste ao semáforo na sexta-feira para disciplinar o tempo das intervenções.'\n'O objetivo é estabelecer um sistema que esteja em funcionamento pleno após as férias parlamentares.'\n'A ideia surgiu durante a Conferência de Líderes, no início de abril, para garantir o cumprimento da grelha dos tempos estipulada.'\n'O novo sistema prevê que uma luz amarela acenderá 30 segundos antes do tempo limite, passando a vermelha quando terminar o tempo.'\n'Isso ajudará a evitar problemas e a manter a ordem no plenário.'\n'O teste será feito durante o debate do Programa do Governo, começando a partir desta quinta-feira.'\n'O painel dos tempos disponíveis para cada bancada e para o Governo também mostrará uma luz 30 segundos antes de se esgotar o tempo limite.'\n'Quando a luz amarela acender, é sinal que o tempo está prestes a terminar.'\n'A luz vermelha significa que o tempo já terminou e os deputados devem cessar suas intervenções.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serene"
+            },
+            {
+                "type": "keyword",
+                "data": "controle_de_tempos"
+            }
+        ]
+    },
+    {
+        "content_title": "Canadá sanciona colonos israelitas por ataques na Cisjordânia ocupada",
+        "thread_response": "'Governo do Canadá anunciou novas sanções contra sete cidadãos israelitas e cinco organizações.'\n'O Governo do Canadá acusa esses indivíduos de participação em atos de violência contra civis palestinianos na Cisjordânia ocupada.'\n'Esses ataques também provocaram o desplazamento forçado de comunidades palestinas, contribuindo para a insegurança em Cisjordânia.'\n'O Canadá proporciona cobertura diplomática aos colonos israelitas em territórios ocupados.'\n'Segundo a política exterior oficial do Governo do Canadá, todos os assentamentos são considerados ilegais.'\n'A OCHA informou que pelo menos 536 palestinianos foram mortos por militares ou colonos israelitas na Cisjordânia.'\n'O Governo do Canadá impôs sancções a quatro colonos israelíes, acusando-os de ser radicais e perpetrar atos violentos contra palestinos em Cisjordânia.'\n'Os quatro israelitas são David Chai Chasdai, Yinon Levi, Zvi Bar Yosef e Moshe Sharvit.'\n'Segundo a ONU, os colonos israelíes protagonizaram ao menos 800 ataques contra palestinos em Cisjordânia desde outubro de 2023.'\n'Esses ataques provocaram decenas de mortos e feridos entre os palestinianos.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.2"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "informal"
+            },
+            {
+                "type": "tone",
+                "data": "critical"
+            },
+            {
+                "type": "keyword",
+                "data": "ocupação"
+            }
+        ]
+    },
+    {
+        "content_title": "18h Assinado o Acordo de Segurança entre a UE e a Ucrânia",
+        "thread_response": "'É importante ter contexto sobre a situação entre UE e Ucrânia.'\n'O presidente ucraniano saudou o acordo como um passo para paz e prosperidade na Europa.'\n'A Ucrânia já assinou 17 acordos bilaterais, incluindo este de segurança.'\n'EUA se comprometem a treinar os militares ucranianos e estabelecer bases para eventual adesão à Otan.'\n'O acordo é um passo importante para a paz na Europa.'\n'Os EUA anunciam acordo de segurança de dez anos com a Ucrânia.'\n'O presidente ucraniano considera o documento como um passo em direção à paz.'\n'Ele visita Bruxelas para assinar um acordo de segurança com a União Europeia.'\n'A cúpula do G7 é realizada na Itália, onde foi anunciado o acordo.'\n'EUA e Ucrânia assinam acordo de segurança de 10 anos.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "segurança"
+            }
+        ]
+    },
+    {
+        "content_title": "General turco implicado em tráfico humano a partir da Síria",
+        "thread_response": "'Um oficial general do exército da Turquia foi detido sob suspeita de facilitar a passagem em postos de controlo a migrantes ilegais.'\n'Aparentemente, isso aconteceu a troco de milhares de dólares.'\n'O caso é grave e pode ter consequências importantes para a política migratória na região.'\n'Além disso, há rumores de que o oficial general esteja envolvido em tráfico humano.'\n'Isso é uma acusação muito séria e precisa ser investigada imediatamente.'\n'A Turquia tem sido criticada por não fazer o suficiente para ajudar os refugiados sírios.'\n'Ela também tem sido acusada de apoiar grupos armados que atacam áreas controladas pelos curdos.'\n'Isso é um problema grave e precisa ser resolvido.'\n'O presidente turco, Recep Tayyip Erdogan, anunciou que a Turquia vai continuar a intensificar as operações contra os combatentes curdos do PKK na Síria e no Iraque.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.2"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "tráfico_humano"
+            }
+        ]
     }
 ]
