@@ -4044,5 +4044,56 @@
         ],
         "published": "2024-06-21 14:11:47",
         "category": "desporto"
+    },
+    {
+        "headline": "Paulo Duarte deixa comando da seleção togolesa de futebol",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/paulo-duarte-deixa-comando-da-selecao-togolesa-de-futebol_d1580864",
+        "content": [
+            {
+                "type": "text",
+                "data": "O português Paulo Duarte demitiu-se do cargo de selecionador do Togo de futebol, na quinta-feira, anunciou hoje a federação togolesa, em comunicado."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ce/cea17ecba9be483071045b168d8a3869?w=350&amp;q=50&amp;rect=0,67,1254,688&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 17:26:21",
+        "category": "desporto"
+    },
+    {
+        "headline": "FC Porto viu negado convite para a Liga dos Campeões de andebol",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/fc-porto-viu-negado-convite-para-a-liga-dos-campeoes-de-andebol_d1580865",
+        "content": [
+            {
+                "type": "text",
+                "data": "O FC Porto viu negado a atribuição de um &quot;wild card&quot; (convite) para a Liga dos Campeões de andebol de 2024/25, que contará com a presença do Sporting, de acordo com a lista oficial de participantes hoje divulgada.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d0/d0ff6d4f8285fdb5fff49d95d235182a?w=350&amp;q=50&amp;rect=0,134,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 17:22:33",
+        "category": "desporto"
+    },
+    {
+        "headline": "Euro2024. Ucrânia vence Eslováquia com reviravolta",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/euro2024-ucrania-vence-eslovaquia-com-reviravolta_e1580825",
+        "content": [
+            {
+                "type": "text",
+                "data": "Uma vitória ucraniana que deixa tudo em aberto neste Grupo E. Na Arena de Dusseldorf, Ivan Schranz (Eslováquia) fez de cabeça o golo inaugural deixando o seu país com um pé dentro dos oitavos de final do Euro2024. Logo após o descanso, Shaparenko repôs a igualdade dando novo alento aos ucranianos. A 10 minutos do final, Roman Yaremchuk fez a reviravolta (1-2) colocando de novo a Ucrânia na corrida do apuramento. As contas podem ainda ficar mais complicadas, pois se Bélgica vencer a Roménia, no sábado, todas as 4 equipas ficam com 3 pontos cada. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/9f/9fc09cd3292a70df31061c60c5ca8d6a?w=350&amp;q=50&amp;rect=0,75,1226,672&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 14:45:01",
+        "category": "desporto"
     }
 ]

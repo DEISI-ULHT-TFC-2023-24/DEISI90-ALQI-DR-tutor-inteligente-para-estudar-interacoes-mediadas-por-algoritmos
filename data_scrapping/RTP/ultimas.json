@@ -3755,5 +3755,124 @@
         ],
         "published": "2024-06-21 16:28:02",
         "category": "ultimas"
+    },
+    {
+        "headline": "16h Caso gémeas: Mãe pede desculpa por afirmações falsas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/noticiario-antena1/16h-caso-gemeas-mae-pede-desculpa-por-afirmacoes-falsas_a1_1580871",
+        "content": [
+            {
+                "type": "text",
+                "data": "No content"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/img_article_a1.jpg?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 17:31:03",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Paulo Duarte deixa comando da seleção togolesa de futebol",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/futebol-internacional/paulo-duarte-deixa-comando-da-selecao-togolesa-de-futebol_d1580864",
+        "content": [
+            {
+                "type": "text",
+                "data": "O português Paulo Duarte demitiu-se do cargo de selecionador do Togo de futebol, na quinta-feira, anunciou hoje a federação togolesa, em comunicado."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/ce/cea17ecba9be483071045b168d8a3869?w=350&amp;q=50&amp;rect=0,67,1254,688&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 17:26:21",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Dentistas desafiam criação de carreira no SNS",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/dentistas-desafiam-criacao-de-carreira-no-sns_a1580861",
+        "content": [
+            {
+                "type": "text",
+                "data": "É um desafio deixado pelos médicos dentistas ao novo diretor-executivo do SNS.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/8a/8afa0cc02e0d5ab5dac49a9dc0bd5c6e?w=350&amp;q=50&amp;rect=0,289,1080,592&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 17:23:40",
+        "category": "ultimas"
+    },
+    {
+        "headline": "FC Porto viu negado convite para a Liga dos Campeões de andebol",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/outras-modalidades/fc-porto-viu-negado-convite-para-a-liga-dos-campeoes-de-andebol_d1580865",
+        "content": [
+            {
+                "type": "text",
+                "data": "O FC Porto viu negado a atribuição de um &quot;wild card&quot; (convite) para a Liga dos Campeões de andebol de 2024/25, que contará com a presença do Sporting, de acordo com a lista oficial de participantes hoje divulgada.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/d0/d0ff6d4f8285fdb5fff49d95d235182a?w=350&amp;q=50&amp;rect=0,134,1233,676&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 17:22:33",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Comissão volta a chamar Nuno Rebelo de Sousa para depor no caso das gémeas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/comissao-volta-a-chamar-nuno-rebelo-de-sousa-para-depor-no-caso-das-gemeas_n1580859",
+        "content": [
+            {
+                "type": "text",
+                "data": "A comissão parlamentar de inquérito ao caso das gémeas tratadas no Hospital de Santa Maria voltou a requerer hoje a presença do filho do Presidente da República, alegando que que a sua recusa em comparecer &quot;consubstancia um crime de desobediência&quot;."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 17:02:26",
+        "category": "ultimas"
+    },
+    {
+        "headline": "500 fardos de palha dão forma ao Teatro de Palha",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/500-fardos-de-palha-dao-forma-ao-teatro-de-palha_a1580854",
+        "content": [
+            {
+                "type": "text",
+                "data": "Está de regresso O Teatro de Palha, da Lavrar o Mar, em Aljezur. Um teatro que copia as formas das ondas do mar.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/06/062355cdfd72d71b4db36a5a4aaf75ec?w=350&amp;q=50&amp;rect=0,169,1080,592&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 16:44:43",
+        "category": "ultimas"
+    },
+    {
+        "headline": "Euro2024. Ucrânia vence Eslováquia com reviravolta",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/desporto/euro2024-ucrania-vence-eslovaquia-com-reviravolta_e1580825",
+        "content": [
+            {
+                "type": "text",
+                "data": "Uma vitória ucraniana que deixa tudo em aberto neste Grupo E. Na Arena de Dusseldorf, Ivan Schranz (Eslováquia) fez de cabeça o golo inaugural deixando o seu país com um pé dentro dos oitavos de final do Euro2024. Logo após o descanso, Shaparenko repôs a igualdade dando novo alento aos ucranianos. A 10 minutos do final, Roman Yaremchuk fez a reviravolta (1-2) colocando de novo a Ucrânia na corrida do apuramento. As contas podem ainda ficar mais complicadas, pois se Bélgica vencer a Roménia, no sábado, todas as 4 equipas ficam com 3 pontos cada. "
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/9f/9fc09cd3292a70df31061c60c5ca8d6a?w=350&amp;q=50&amp;rect=0,75,1226,672&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 14:45:01",
+        "category": "ultimas"
     }
 ]

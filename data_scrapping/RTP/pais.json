@@ -4078,5 +4078,39 @@
         ],
         "published": "2024-06-21 16:22:45",
         "category": "pais"
+    },
+    {
+        "headline": "Dentistas desafiam criação de carreira no SNS",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/dentistas-desafiam-criacao-de-carreira-no-sns_a1580861",
+        "content": [
+            {
+                "type": "text",
+                "data": "É um desafio deixado pelos médicos dentistas ao novo diretor-executivo do SNS.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/8a/8afa0cc02e0d5ab5dac49a9dc0bd5c6e?w=350&amp;q=50&amp;rect=0,289,1080,592&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 17:23:40",
+        "category": "pais"
+    },
+    {
+        "headline": "Comissão volta a chamar Nuno Rebelo de Sousa para depor no caso das gémeas",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/pais/comissao-volta-a-chamar-nuno-rebelo-de-sousa-para-depor-no-caso-das-gemeas_n1580859",
+        "content": [
+            {
+                "type": "text",
+                "data": "A comissão parlamentar de inquérito ao caso das gémeas tratadas no Hospital de Santa Maria voltou a requerer hoje a presença do filho do Presidente da República, alegando que que a sua recusa em comparecer &quot;consubstancia um crime de desobediência&quot;."
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/noticias/images/default_noticias.png?w=350&amp;q=50&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 17:02:26",
+        "category": "pais"
     }
 ]

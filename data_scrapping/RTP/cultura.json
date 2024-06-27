@@ -2650,5 +2650,22 @@
         ],
         "published": "2024-06-21 15:52:35",
         "category": "cultura"
+    },
+    {
+        "headline": "500 fardos de palha dão forma ao Teatro de Palha",
+        "source": "RTP",
+        "url": "https://www.rtp.pt/noticias/cultura/500-fardos-de-palha-dao-forma-ao-teatro-de-palha_a1580854",
+        "content": [
+            {
+                "type": "text",
+                "data": "Está de regresso O Teatro de Palha, da Lavrar o Mar, em Aljezur. Um teatro que copia as formas das ondas do mar.\r"
+            },
+            {
+                "type": "image",
+                "data": "https://cdn-images.rtp.pt/icm/noticias/images/06/062355cdfd72d71b4db36a5a4aaf75ec?w=350&amp;q=50&amp;rect=0,169,1080,592&amp;auto=format"
+            }
+        ],
+        "published": "2024-06-21 16:44:43",
+        "category": "cultura"
     }
 ]

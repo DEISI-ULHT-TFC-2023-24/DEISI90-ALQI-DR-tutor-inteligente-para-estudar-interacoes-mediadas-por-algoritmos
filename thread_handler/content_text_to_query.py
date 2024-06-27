@@ -69,7 +69,7 @@ def ai_api_response(text):
         "options": {
             "temperature": 0,
             "tfs_z": 2.0,
-            "top_k": 10,
+            "top_k": 1,
             "top_p": 0.5
         }
     }
@@ -98,7 +98,7 @@ def ai_api_response(text):
         "options": {
             "temperature": 0,
             "tfs_z": 2.0,
-            "top_k": 10,
+            "top_k": 1,
             "top_p": 0.5
         }
     }

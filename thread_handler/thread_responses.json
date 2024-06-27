@@ -5744,5 +5744,187 @@
                 "data": "parlamentary_investigation"
             }
         ]
+    },
+    {
+        "content_title": "16h Caso gémeas: Mãe pede desculpa por afirmações falsas",
+        "thread_response": "'Já há data para depoimento de Lacerda Sales na comissão de inquérito.'\n'A mãe das gémeas admite vir a Portugal testemunhar presencialmente na comissão de inquérito e, se for chamada, na Polícia Judiciária.'\n'Marta Temido nega qualquer envolvimento no caso e está disponível para prestar declarações à PJ.'\n'A mãe das gémeas vai depor na sexta-feira na comissão parlamentar de inquérito através de videoconferência por ser a única cuidadora das duas filhas.'\n'O advogado da família confirmou que a mãe é a única cuidadora e teria que se ausentar de casa quatro a cinco dias.'\n'A audição à mãe das crianças está agendada para sexta-feira às 14h.'\n'As gémeas foram tratadas com o medicamento Zolgensma no Hospital de Santa Maria, em Lisboa.'\n'O antigo secretário de Estado Adjunto e da Saúde será o primeiro a prestar depoimento na comissão de inquérito.'\n'A mãe das gémeas admite que virá a Portugal para prestar declarações na comissão parlamentar de inquérito (CPI).'\n'O caso das gémeas está sendo investigado pela comissão de inquérito.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.3"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "investigação"
+            }
+        ]
+    },
+    {
+        "content_title": "Paulo Duarte deixa comando da seleção togolesa de futebol",
+        "thread_response": "'Paulo Duarte demitiu-se do cargo de selecionador do Togo de futebol.'\n'A federação togolesa anunciou a notícia hoje em comunicado.'\n'Ele chegou à seleção togolesa em 2021, após ter orientado os angolanos do 1.º de Agosto.'\n'Duarte comandou as seleções nacionais de Burkina Faso em três momentos.'\n'O português Paulo Duarte está de saída do cargo, informou a Federação Togolesa de Futebol.'\n'A Comissão Executiva da Federação Togolesa de Futebol lamentou a decisão do treinador português.'\n'Duarte orientará a seleção africana até 2026.'\n'Ele vai continuar no comando da Seleção da República do Togo por mais três anos.'\n'A seleção de futebol do Togo perdeu hoje diante da República Democrática do Congo, por 1-0.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.3"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serene"
+            },
+            {
+                "type": "keyword",
+                "data": "futebol"
+            }
+        ]
+    },
+    {
+        "content_title": "Dentistas desafiam criação de carreira no SNS",
+        "thread_response": "'É um desafio deixado pelos médicos dentistas ao novo diretor-executivo do SNS.'\n'O desafio passa por criar a carreira de médico dentista no Serviço Nacional de Saúde.'\n'Em Arouca, na Associação de Médicos Dentistas de Serviços Públicos, o tema foi discutido.'\n'O PS propõe criar a carreira de medicina dentária no SNS, enquanto o AD propõe um novo programa de Saúde Oral.'\n'Médicos-dentistas do SNS reclamam que trabalham em condições precárias e com falsos recibos verdes.'\n'Os médicos dentistas no SNS sentem que mais uma vez foram surpreendidos pela inesperada interrupção da legislatura.'\n'A Direção Executiva do SNS nomeou um Grupo Operacional para relançar o projeto de carreira especial de Medicina Dentária.'\n'O GO concluiu em dezembro de 2023 que a criação da carreira é necessária para valorizar e incentivar a fixação de médicos dentistas nas unidades de saúde.'\n'Manuel Pizarro referiu que a criação da carreira de medicina dentária no SNS iria avançar nesse ano.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serio"
+            },
+            {
+                "type": "keyword",
+                "data": "reforma_saudavel"
+            }
+        ]
+    },
+    {
+        "content_title": "FC Porto viu negado convite para a Liga dos Campeões de andebol",
+        "thread_response": "'FC Porto não recebeu convite para a Liga dos Campeões de andebol de 2024/25.'\n'A lista oficial de participantes foi divulgada e Sporting está presente.'\n'O FC Porto terminou a última edição do campeonato nacional na segunda posição, atrás do Sporting.'\n'Eles não conseguiram o desejado convite apesar da boa performance.'\n'Os dragões venceram o RK Celje por 32-30 na 13.ª jornada da Liga dos Campeões de andebol.'\n'Depois de quatro derrotas consecutivas, os azuis e brancos regressaram aos triunfos no Dragão Arenax.'\n'O FC Porto venceu a estreia da Liga dos Campeões de andebol ao vencer o Wisla Plock por 24-23.'\n'Eles perderam em casa do Barcelona por 40-33 na 12.ª jornada do Grupo B da Liga dos Campeões de andebol.'\n'A equipa treinada por Carlos Resende está em zona complicada para o apuramento para os oitavos de final.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.3"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "neutral"
+            },
+            {
+                "type": "keyword",
+                "data": "andebol"
+            }
+        ]
+    },
+    {
+        "content_title": "Comissão volta a chamar Nuno Rebelo de Sousa para depor no caso das gémeas",
+        "thread_response": "'Comissão parlamentar de inquérito ao caso das gémeas voltou a requerer a presença do filho do Presidente da República.'\n'Alegam que a sua recusa em comparecer \"consubstancia um crime de desobediência\".'\n'O objetivo é ouvir Nuno Rebelo de Sousa nos dias 03 ou 12 de julho, presencialmente ou por videoconferência.'\n'Isso antes da audição à mãe das gémeas que estão no centro do caso.'\n'A comissão aprovou por unanimidade a convocação de Nuno Rebelo de Sousa para ser ouvido.'\n'O caso envolve o tratamento hospitalar das duas crianças luso-brasileiras que receberam o medicamento Zolgensma.'\n'Este fármaco tem um custo de dois milhões de euros por pessoa e visa controlar a propagação da atrofia muscular espinal.'\n'A comissão está investigando o processo, que inclui Lacerda Sales e Nuno Rebelo de Sousa como arguidos.'\n'O caso é muito sensível e tem sido acompanhado de perto pela imprensa.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.3"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serious"
+            },
+            {
+                "type": "keyword",
+                "data": "investigação"
+            }
+        ]
+    },
+    {
+        "content_title": "500 fardos de palha dão forma ao Teatro de Palha",
+        "thread_response": "'Está de regresso O Teatro de Palha, da Lavrar o Mar, em Aljezur.'\n'O teatro copia as formas das ondas do mar.'\n'Aqui está uma pesquisa no duckduckgo para teres mais contexto:'\n'Notícias; 500 fardos de palha dão forma ao Teatro de Palha'\n'Domingo, 23 de junho, a partir das 18h00, a banda de Aljezur, Yemadas Quarteto, toma conta do Teatro de Palha.'\n'Às 21h30, arranca o ciclo de cinema, com curadoria de Candela Varas, diretora do Cineclube de Tavira.'\n'O filme é \"O mal não está aqui\", do realizador japonês Ryûsuke Hamaguchi, uma alegoria sobre o...'\n'15h Caso gémeas: CPI aprova proposta do Chega para ouvir Costa Julgamento deve arrancar no dia 15 de outubro'\n'Pastoral dos Ciganos alerta para... Ver no Google Maps.'\n'Data e hora. 24 Jun 2023-16 Jul 2023. 00:00h. Adicionar ao Calendário Google.'\n'TEATRO DE PALHA é, como o nome indica, um anfiteatro ao ar livre construído com várias toneladas de fardos de palha.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "serene"
+            },
+            {
+                "type": "keyword",
+                "data": "teatro"
+            }
+        ]
+    },
+    {
+        "content_title": "Euro2024. Ucrânia vence Eslováquia com reviravolta",
+        "thread_response": "'Uma vitória ucraniana que deixa tudo em aberto neste Grupo E.'\n'Arena de Dusseldorf foi o local da partida.'\n'Ivan Schranz (Eslováquia) fez de cabeça o golo inaugural.'\n'O seu país ficou com um pé dentro dos oitavos de final do Euro2024.'\n'Logo após o descanso, Shaparenko repôs a igualdade.'\n'Dando novo alento aos ucranianos e complicando as contas.'\n'A 10 minutos do final, Roman Yaremchuk fez a reviravolta (1-2).'\n'Colocando de novo a Ucrânia na corrida do apuramento.'\n'As contas podem ainda ficar mais complicadas.'\n'Se Bélgica vencer a Roménia, no sábado, todas as 4 equipas ficam com 3 pontos cada.'",
+        "thread_details": [
+            {
+                "type": "sentiment_valence",
+                "data": "0.5"
+            },
+            {
+                "type": "sentiment_arousal",
+                "data": "0.7"
+            },
+            {
+                "type": "style",
+                "data": "formal"
+            },
+            {
+                "type": "tone",
+                "data": "objective"
+            },
+            {
+                "type": "keyword",
+                "data": "futebol"
+            }
+        ]
     }
 ]
