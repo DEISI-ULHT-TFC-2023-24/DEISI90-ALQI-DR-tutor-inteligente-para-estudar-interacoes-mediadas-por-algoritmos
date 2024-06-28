@@ -43,3 +43,9 @@ https://youtu.be/KBxVKNbWeVo
       Em Windows normalmente não funciona o 0.0.0.0:8000, logo poderá usar o localhost:8000 ou 127.0.0.1:8000
   <img src="https://github.com/rodrigoamaro22004525/projetoTFC/assets/79323898/10ed26d5-70f5-4b29-b3ce-b8595bc01210">
 
+
+## Imagem e texto para entrega final:
+![entrega final](https://github.com/rodrigoamaro22004525/DEISI90-ALQI-DR-tutor-inteligente-para-estudar-interacoes-mediadas-por-algoritmos/assets/79323898/6b15d1fe-095e-4d7b-87b9-18974c40346f)
+
+Este relatório detalha o desenvolvimento e implementação de um sistema inovador de busca de notícias utilizando modelos de LLM(large language models). Utilizamos tecnologias avançadas como Django para desenvolvimento web, Docker para consistência de ambiente e Nginx para gestão segura de tráfego web. Implementamos programas personalizados de datascrapping para arranjar notícias de várias fontes automaticamente, garantindo sempre conteúdo atualizado. Analisamos e visualizamos os dados coletados, proporcionando insights valiosos sobre a distribuição de notícias, temas abordados, e valência de sentimentos. Além disso, reforçamos a segurança com certificação SSL/TLS e facilitamos a acessibilidade através de subdomínios DuckDNS. A arquitetura escalável do AIDiAL KB foi projetada para suportar volumes crescentes de dados e demandas de usuários.
+
