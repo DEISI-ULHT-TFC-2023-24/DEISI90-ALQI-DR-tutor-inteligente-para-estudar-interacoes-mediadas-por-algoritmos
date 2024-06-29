@@ -45,7 +45,7 @@ def insert_threaded_responses(content):
 def ai_api_response(text):
     # for docker - http://host.docker.internal:11434/api/generate
     # for localhost - http://localhost:11434/api/generate
-    url = 'http://localhost:11434/api/generate'
+    url = 'http://host.docker.internal:11434/api/generate'
 
     conversational_data = {
         "model": "llama3",
